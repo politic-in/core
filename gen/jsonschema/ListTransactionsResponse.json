@@ -1,0 +1,107 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "$ref": "#/definitions/ListTransactionsResponse",
+    "definitions": {
+        "ListTransactionsResponse": {
+            "properties": {
+                "transactions": {
+                    "items": {
+                        "$ref": "#/definitions/politic.core.v1.Transaction"
+                    },
+                    "type": "array"
+                },
+                "total": {
+                    "type": "integer"
+                }
+            },
+            "additionalProperties": true,
+            "type": "object",
+            "title": "List Transactions Response"
+        },
+        "politic.core.v1.Transaction": {
+            "properties": {
+                "id": {
+                    "type": "string"
+                },
+                "user_id": {
+                    "type": "string"
+                },
+                "type": {
+                    "enum": [
+                        "TRANSACTION_TYPE_UNSPECIFIED",
+                        0,
+                        "TRANSACTION_TYPE_POLL_EARNING",
+                        1,
+                        "TRANSACTION_TYPE_VERIFICATION_EARNING",
+                        2,
+                        "TRANSACTION_TYPE_REFERRAL_EARNING",
+                        3,
+                        "TRANSACTION_TYPE_WITHDRAWAL",
+                        4,
+                        "TRANSACTION_TYPE_SUBSCRIPTION_PAYMENT",
+                        5,
+                        "TRANSACTION_TYPE_POLL_PURCHASE",
+                        6,
+                        "TRANSACTION_TYPE_REFUND",
+                        7
+                    ],
+                    "oneOf": [
+                        {
+                            "type": "string"
+                        },
+                        {
+                            "type": "integer"
+                        }
+                    ],
+                    "title": "=============================================================================\n FINANCIAL TYPES\n =============================================================================",
+                    "description": "============================================================================= FINANCIAL TYPES ============================================================================="
+                },
+                "amount_inr": {
+                    "type": "number"
+                },
+                "description": {
+                    "type": "string"
+                },
+                "poll_id": {
+                    "type": "string"
+                },
+                "issue_id": {
+                    "type": "string"
+                },
+                "payout_method": {
+                    "enum": [
+                        "PAYOUT_METHOD_UNSPECIFIED",
+                        0,
+                        "PAYOUT_METHOD_UPI",
+                        1,
+                        "PAYOUT_METHOD_AMAZON_VOUCHER",
+                        2,
+                        "PAYOUT_METHOD_FLIPKART_VOUCHER",
+                        3,
+                        "PAYOUT_METHOD_ERUPI",
+                        4
+                    ],
+                    "oneOf": [
+                        {
+                            "type": "string"
+                        },
+                        {
+                            "type": "integer"
+                        }
+                    ],
+                    "title": "Payout Method"
+                },
+                "status": {
+                    "type": "string"
+                },
+                "created_at": {
+                    "type": "string",
+                    "format": "date-time"
+                }
+            },
+            "additionalProperties": true,
+            "type": "object",
+            "title": "Transaction"
+        }
+    }
+}

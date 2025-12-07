@@ -1,0 +1,46 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "$ref": "#/definitions/PollResultsResponse",
+    "definitions": {
+        "PollResultsResponse": {
+            "properties": {
+                "poll_id": {
+                    "type": "string"
+                },
+                "response_count": {
+                    "type": "integer"
+                },
+                "meets_k_anonymity": {
+                    "type": "boolean"
+                },
+                "results": {
+                    "additionalProperties": {
+                        "$ref": "#/definitions/politic.core.v1.QuestionResult",
+                        "additionalProperties": true
+                    },
+                    "type": "object"
+                }
+            },
+            "additionalProperties": true,
+            "type": "object",
+            "title": "Poll Results Response"
+        },
+        "politic.core.v1.QuestionResult": {
+            "properties": {
+                "option_counts": {
+                    "additionalProperties": {
+                        "type": "integer"
+                    },
+                    "type": "object"
+                },
+                "average": {
+                    "type": "number",
+                    "description": "For rating questions"
+                }
+            },
+            "additionalProperties": true,
+            "type": "object",
+            "title": "Question Result"
+        }
+    }
+}

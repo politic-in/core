@@ -1,0 +1,178 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "$ref": "#/definitions/ListPollsResponse",
+    "definitions": {
+        "ListPollsResponse": {
+            "properties": {
+                "polls": {
+                    "items": {
+                        "$ref": "#/definitions/politic.core.v1.Poll"
+                    },
+                    "type": "array"
+                },
+                "total": {
+                    "type": "integer"
+                }
+            },
+            "additionalProperties": true,
+            "type": "object",
+            "title": "List Polls Response"
+        },
+        "politic.core.v1.Poll": {
+            "properties": {
+                "id": {
+                    "type": "string"
+                },
+                "customer_id": {
+                    "type": "string"
+                },
+                "type": {
+                    "enum": [
+                        "POLL_TYPE_UNSPECIFIED",
+                        0,
+                        "POLL_TYPE_MICRO",
+                        1,
+                        "POLL_TYPE_DETAILED",
+                        2
+                    ],
+                    "oneOf": [
+                        {
+                            "type": "string"
+                        },
+                        {
+                            "type": "integer"
+                        }
+                    ],
+                    "title": "=============================================================================\n POLL TYPES\n =============================================================================",
+                    "description": "============================================================================= POLL TYPES ============================================================================="
+                },
+                "title": {
+                    "type": "string"
+                },
+                "description": {
+                    "type": "string"
+                },
+                "target_hexagon_ids": {
+                    "items": {
+                        "type": "string"
+                    },
+                    "type": "array"
+                },
+                "target_ac_ids": {
+                    "items": {
+                        "type": "integer"
+                    },
+                    "type": "array"
+                },
+                "target_min_civic_score": {
+                    "type": "integer"
+                },
+                "require_top_responder": {
+                    "type": "boolean"
+                },
+                "max_responses": {
+                    "type": "integer"
+                },
+                "status": {
+                    "enum": [
+                        "POLL_STATUS_UNSPECIFIED",
+                        0,
+                        "POLL_STATUS_DRAFT",
+                        1,
+                        "POLL_STATUS_ACTIVE",
+                        2,
+                        "POLL_STATUS_PAUSED",
+                        3,
+                        "POLL_STATUS_COMPLETED",
+                        4,
+                        "POLL_STATUS_CANCELLED",
+                        5
+                    ],
+                    "oneOf": [
+                        {
+                            "type": "string"
+                        },
+                        {
+                            "type": "integer"
+                        }
+                    ],
+                    "title": "Poll Status"
+                },
+                "starts_at": {
+                    "type": "string",
+                    "format": "date-time"
+                },
+                "ends_at": {
+                    "type": "string",
+                    "format": "date-time"
+                },
+                "created_at": {
+                    "type": "string",
+                    "format": "date-time"
+                },
+                "questions": {
+                    "items": {
+                        "$ref": "#/definitions/politic.core.v1.PollQuestion"
+                    },
+                    "type": "array"
+                }
+            },
+            "additionalProperties": true,
+            "type": "object",
+            "title": "Poll"
+        },
+        "politic.core.v1.PollQuestion": {
+            "properties": {
+                "id": {
+                    "type": "string"
+                },
+                "poll_id": {
+                    "type": "string"
+                },
+                "question_type": {
+                    "enum": [
+                        "QUESTION_TYPE_UNSPECIFIED",
+                        0,
+                        "QUESTION_TYPE_SINGLE_CHOICE",
+                        1,
+                        "QUESTION_TYPE_MULTI_CHOICE",
+                        2,
+                        "QUESTION_TYPE_RATING",
+                        3,
+                        "QUESTION_TYPE_TEXT",
+                        4,
+                        "QUESTION_TYPE_AUDIO",
+                        5
+                    ],
+                    "oneOf": [
+                        {
+                            "type": "string"
+                        },
+                        {
+                            "type": "integer"
+                        }
+                    ],
+                    "title": "Question Type"
+                },
+                "question_text": {
+                    "type": "string"
+                },
+                "question_order": {
+                    "type": "integer"
+                },
+                "options": {
+                    "items": {
+                        "type": "string"
+                    },
+                    "type": "array"
+                },
+                "required": {
+                    "type": "boolean"
+                }
+            },
+            "additionalProperties": true,
+            "type": "object",
+            "title": "Poll Question"
+        }
+    }
+}

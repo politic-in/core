@@ -1,0 +1,20 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "$ref": "#/definitions/GetPollResultsRequest",
+    "definitions": {
+        "GetPollResultsRequest": {
+            "properties": {
+                "poll_id": {
+                    "type": "string"
+                },
+                "group_by": {
+                    "type": "string",
+                    "description": "\"overall\", \"hexagon\", \"ac\""
+                }
+            },
+            "additionalProperties": true,
+            "type": "object",
+            "title": "Get Poll Results Request"
+        }
+    }
+}

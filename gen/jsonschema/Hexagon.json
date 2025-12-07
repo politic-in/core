@@ -1,0 +1,26 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "$ref": "#/definitions/Hexagon",
+    "definitions": {
+        "Hexagon": {
+            "properties": {
+                "id": {
+                    "type": "string",
+                    "description": "H3 index: \"89283082837ffff\""
+                },
+                "ac_id": {
+                    "type": "integer"
+                },
+                "center_lat": {
+                    "type": "number"
+                },
+                "center_lng": {
+                    "type": "number"
+                }
+            },
+            "additionalProperties": true,
+            "type": "object",
+            "title": "Hexagon"
+        }
+    }
+}

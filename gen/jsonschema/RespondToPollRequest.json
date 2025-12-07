@@ -1,0 +1,22 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "$ref": "#/definitions/RespondToPollRequest",
+    "definitions": {
+        "RespondToPollRequest": {
+            "properties": {
+                "poll_id": {
+                    "type": "string"
+                },
+                "answers": {
+                    "additionalProperties": {
+                        "type": "string"
+                    },
+                    "type": "object"
+                }
+            },
+            "additionalProperties": true,
+            "type": "object",
+            "title": "Respond To Poll Request"
+        }
+    }
+}

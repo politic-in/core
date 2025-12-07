@@ -1,0 +1,78 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "$ref": "#/definitions/ListIssuesRequest",
+    "definitions": {
+        "ListIssuesRequest": {
+            "properties": {
+                "hexagon_id": {
+                    "type": "string"
+                },
+                "ac_id": {
+                    "type": "integer"
+                },
+                "status": {
+                    "enum": [
+                        "ISSUE_STATUS_UNSPECIFIED",
+                        0,
+                        "ISSUE_STATUS_OPEN",
+                        1,
+                        "ISSUE_STATUS_VERIFIED",
+                        2,
+                        "ISSUE_STATUS_REJECTED",
+                        3,
+                        "ISSUE_STATUS_IN_PROGRESS",
+                        4,
+                        "ISSUE_STATUS_FIXED",
+                        5
+                    ],
+                    "oneOf": [
+                        {
+                            "type": "string"
+                        },
+                        {
+                            "type": "integer"
+                        }
+                    ],
+                    "title": "=============================================================================\n ISSUE TYPES\n =============================================================================",
+                    "description": "============================================================================= ISSUE TYPES ============================================================================="
+                },
+                "category": {
+                    "enum": [
+                        "ISSUE_CATEGORY_UNSPECIFIED",
+                        0,
+                        "ISSUE_CATEGORY_ROADS_TRANSPORT",
+                        1,
+                        "ISSUE_CATEGORY_WATER_SANITATION",
+                        2,
+                        "ISSUE_CATEGORY_ELECTRICITY",
+                        3,
+                        "ISSUE_CATEGORY_PUBLIC_SPACES",
+                        4,
+                        "ISSUE_CATEGORY_SAFETY",
+                        5,
+                        "ISSUE_CATEGORY_OTHER",
+                        6
+                    ],
+                    "oneOf": [
+                        {
+                            "type": "string"
+                        },
+                        {
+                            "type": "integer"
+                        }
+                    ],
+                    "title": "Issue Category"
+                },
+                "limit": {
+                    "type": "integer"
+                },
+                "offset": {
+                    "type": "integer"
+                }
+            },
+            "additionalProperties": true,
+            "type": "object",
+            "title": "List Issues Request"
+        }
+    }
+}

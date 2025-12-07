@@ -1,0 +1,119 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "$ref": "#/definitions/CreatePollRequest",
+    "definitions": {
+        "CreatePollRequest": {
+            "properties": {
+                "type": {
+                    "enum": [
+                        "POLL_TYPE_UNSPECIFIED",
+                        0,
+                        "POLL_TYPE_MICRO",
+                        1,
+                        "POLL_TYPE_DETAILED",
+                        2
+                    ],
+                    "oneOf": [
+                        {
+                            "type": "string"
+                        },
+                        {
+                            "type": "integer"
+                        }
+                    ],
+                    "title": "=============================================================================\n POLL TYPES\n =============================================================================",
+                    "description": "============================================================================= POLL TYPES ============================================================================="
+                },
+                "title": {
+                    "type": "string"
+                },
+                "description": {
+                    "type": "string"
+                },
+                "questions": {
+                    "items": {
+                        "$ref": "#/definitions/politic.core.v1.PollQuestionInput"
+                    },
+                    "type": "array"
+                },
+                "target": {
+                    "$ref": "#/definitions/politic.core.v1.PollTarget",
+                    "additionalProperties": true
+                }
+            },
+            "additionalProperties": true,
+            "type": "object",
+            "title": "Create Poll Request",
+            "description": "Polls"
+        },
+        "politic.core.v1.PollQuestionInput": {
+            "properties": {
+                "question_type": {
+                    "enum": [
+                        "QUESTION_TYPE_UNSPECIFIED",
+                        0,
+                        "QUESTION_TYPE_SINGLE_CHOICE",
+                        1,
+                        "QUESTION_TYPE_MULTI_CHOICE",
+                        2,
+                        "QUESTION_TYPE_RATING",
+                        3,
+                        "QUESTION_TYPE_TEXT",
+                        4,
+                        "QUESTION_TYPE_AUDIO",
+                        5
+                    ],
+                    "oneOf": [
+                        {
+                            "type": "string"
+                        },
+                        {
+                            "type": "integer"
+                        }
+                    ],
+                    "title": "Question Type"
+                },
+                "question_text": {
+                    "type": "string"
+                },
+                "options": {
+                    "items": {
+                        "type": "string"
+                    },
+                    "type": "array"
+                },
+                "required": {
+                    "type": "boolean"
+                }
+            },
+            "additionalProperties": true,
+            "type": "object",
+            "title": "Poll Question Input"
+        },
+        "politic.core.v1.PollTarget": {
+            "properties": {
+                "hexagon_ids": {
+                    "items": {
+                        "type": "string"
+                    },
+                    "type": "array"
+                },
+                "ac_ids": {
+                    "items": {
+                        "type": "integer"
+                    },
+                    "type": "array"
+                },
+                "min_civic_score": {
+                    "type": "integer"
+                },
+                "max_responses": {
+                    "type": "integer"
+                }
+            },
+            "additionalProperties": true,
+            "type": "object",
+            "title": "Poll Target"
+        }
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "$ref": "#/definitions/ListPollsRequest",
+    "definitions": {
+        "ListPollsRequest": {
+            "properties": {
+                "status": {
+                    "enum": [
+                        "POLL_STATUS_UNSPECIFIED",
+                        0,
+                        "POLL_STATUS_DRAFT",
+                        1,
+                        "POLL_STATUS_ACTIVE",
+                        2,
+                        "POLL_STATUS_PAUSED",
+                        3,
+                        "POLL_STATUS_COMPLETED",
+                        4,
+                        "POLL_STATUS_CANCELLED",
+                        5
+                    ],
+                    "oneOf": [
+                        {
+                            "type": "string"
+                        },
+                        {
+                            "type": "integer"
+                        }
+                    ],
+                    "title": "Poll Status"
+                },
+                "limit": {
+                    "type": "integer"
+                },
+                "offset": {
+                    "type": "integer"
+                }
+            },
+            "additionalProperties": true,
+            "type": "object",
+            "title": "List Polls Request"
+        }
+    }
+}

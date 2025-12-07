@@ -1,0 +1,675 @@
+syntax = "proto3";
+
+package politic.core.v1;
+
+option go_package = "github.com/politic-in/core/gen/go/politic/core/v1;corev1";
+
+import "google/protobuf/timestamp.proto";
+import "google/protobuf/empty.proto";
+
+// =============================================================================
+// GEOGRAPHIC TYPES
+// =============================================================================
+
+message State {
+  int32 id = 1;
+  string code = 2;           // "KA", "TN", "MH"
+  string name = 3;
+  optional string name_local = 4;
+}
+
+message District {
+  int32 id = 1;
+  int32 state_id = 2;
+  string code = 3;           // "KA-BLR-U"
+  string name = 4;
+  optional string name_local = 5;
+}
+
+message AssemblyConstituency {
+  int32 id = 1;
+  int32 district_id = 2;
+  string code = 3;           // "KA-176"
+  string name = 4;
+  optional string name_local = 5;
+  optional int32 total_voters = 6;
+  optional string reserved_category = 7;  // "GEN", "SC", "ST"
+}
+
+message Hexagon {
+  string id = 1;             // H3 index: "89283082837ffff"
+  optional int32 ac_id = 2;
+  double center_lat = 3;
+  double center_lng = 4;
+}
+
+message PollingBooth {
+  int32 id = 1;
+  int32 ac_id = 2;
+  string booth_number = 3;
+  string name = 4;
+  optional string district_name = 5;
+  optional string ac_name = 6;
+}
+
+message LatLng {
+  double lat = 1;
+  double lng = 2;
+}
+
+message ACBoundary {
+  int32 ac_id = 1;
+  string ac_name = 2;
+  string state_name = 3;
+  repeated LatLng polygon = 4;           // Simplified exterior ring
+  repeated double bounding_box = 5;      // [minLng, minLat, maxLng, maxLat]
+  double center_lat = 6;
+  double center_lng = 7;
+}
+
+message Party {
+  int32 id = 1;
+  string name = 2;
+  string short_name = 3;
+  optional string symbol = 4;
+  optional int32 founded = 5;
+  optional string headquarters = 6;
+  repeated string ideology = 7;
+  optional string alliance = 8;
+  optional string website = 9;
+}
+
+// =============================================================================
+// USER TYPES
+// =============================================================================
+
+enum UserType {
+  USER_TYPE_UNSPECIFIED = 0;
+  USER_TYPE_PARTICIPANT = 1;
+  USER_TYPE_CUSTOMER = 2;
+  USER_TYPE_FIXER = 3;
+}
+
+enum KYCStatus {
+  KYC_STATUS_UNSPECIFIED = 0;
+  KYC_STATUS_NONE = 1;
+  KYC_STATUS_PENDING = 2;
+  KYC_STATUS_VERIFIED = 3;
+  KYC_STATUS_REJECTED = 4;
+}
+
+enum FixerType {
+  FIXER_TYPE_UNSPECIFIED = 0;
+  FIXER_TYPE_ELECTED_REP = 1;
+  FIXER_TYPE_GOVT_DEPT = 2;
+  FIXER_TYPE_NGO = 3;
+  FIXER_TYPE_RWA = 4;
+  FIXER_TYPE_BUSINESS = 5;
+  FIXER_TYPE_VOLUNTEER = 6;
+}
+
+message User {
+  string id = 1;
+  UserType type = 2;
+  google.protobuf.Timestamp created_at = 3;
+}
+
+message Participant {
+  string user_id = 1;
+  KYCStatus kyc_status = 2;
+  bool booth_challenge_passed = 3;
+  optional string primary_hexagon_id = 4;
+  int32 civic_score = 5;
+  int32 issues_reported = 6;
+  int32 issues_verified = 7;
+  int32 polls_completed = 8;
+}
+
+message Customer {
+  string user_id = 1;
+  string org_name = 2;
+  string org_type = 3;
+  string subscription_tier = 4;
+  optional google.protobuf.Timestamp subscription_expires_at = 5;
+  int32 polls_remaining_micro = 6;
+  int32 polls_remaining_detailed = 7;
+}
+
+message Fixer {
+  string user_id = 1;
+  FixerType fixer_type = 2;
+  string org_name = 3;
+  bool verified = 4;
+  repeated int32 ac_ids = 5;
+  int32 fixes_claimed = 6;
+  int32 fixes_verified = 7;
+}
+
+// =============================================================================
+// ISSUE TYPES
+// =============================================================================
+
+enum IssueStatus {
+  ISSUE_STATUS_UNSPECIFIED = 0;
+  ISSUE_STATUS_OPEN = 1;
+  ISSUE_STATUS_VERIFIED = 2;
+  ISSUE_STATUS_REJECTED = 3;
+  ISSUE_STATUS_IN_PROGRESS = 4;
+  ISSUE_STATUS_FIXED = 5;
+}
+
+enum IssueCategory {
+  ISSUE_CATEGORY_UNSPECIFIED = 0;
+  ISSUE_CATEGORY_ROADS_TRANSPORT = 1;
+  ISSUE_CATEGORY_WATER_SANITATION = 2;
+  ISSUE_CATEGORY_ELECTRICITY = 3;
+  ISSUE_CATEGORY_PUBLIC_SPACES = 4;
+  ISSUE_CATEGORY_SAFETY = 5;
+  ISSUE_CATEGORY_OTHER = 6;
+}
+
+message Issue {
+  string id = 1;
+  string hexagon_id = 2;
+  int32 ac_id = 3;
+  double lat = 4;
+  double lng = 5;
+  optional string address_text = 6;
+  IssueCategory category = 7;
+  string title = 8;
+  optional string description = 9;
+  optional string suggested_solution = 10;
+  repeated string photo_urls = 11;
+  bool photo_verified = 12;
+  IssueStatus status = 13;
+  int32 verify_count = 14;
+  int32 reject_count = 15;
+  optional google.protobuf.Timestamp fixed_at = 16;
+  optional string fixed_by = 17;
+  optional string fix_photo_url = 18;
+  google.protobuf.Timestamp created_at = 19;
+  optional google.protobuf.Timestamp verified_at = 20;
+}
+
+message IssueVerification {
+  string id = 1;
+  string issue_id = 2;
+  bool is_valid = 3;
+  optional string comment = 4;
+  optional double verifier_lat = 5;
+  optional double verifier_lng = 6;
+  optional int32 distance_to_issue_m = 7;
+  google.protobuf.Timestamp created_at = 8;
+}
+
+message FixClaim {
+  string id = 1;
+  string issue_id = 2;
+  string fixer_id = 3;
+  string after_photo_url = 4;
+  optional string description = 5;
+  int32 verify_count = 6;
+  bool verified = 7;
+  google.protobuf.Timestamp created_at = 8;
+}
+
+// =============================================================================
+// POLL TYPES
+// =============================================================================
+
+enum PollType {
+  POLL_TYPE_UNSPECIFIED = 0;
+  POLL_TYPE_MICRO = 1;
+  POLL_TYPE_DETAILED = 2;
+}
+
+enum PollStatus {
+  POLL_STATUS_UNSPECIFIED = 0;
+  POLL_STATUS_DRAFT = 1;
+  POLL_STATUS_ACTIVE = 2;
+  POLL_STATUS_PAUSED = 3;
+  POLL_STATUS_COMPLETED = 4;
+  POLL_STATUS_CANCELLED = 5;
+}
+
+enum QuestionType {
+  QUESTION_TYPE_UNSPECIFIED = 0;
+  QUESTION_TYPE_SINGLE_CHOICE = 1;
+  QUESTION_TYPE_MULTI_CHOICE = 2;
+  QUESTION_TYPE_RATING = 3;
+  QUESTION_TYPE_TEXT = 4;
+  QUESTION_TYPE_AUDIO = 5;
+}
+
+message Poll {
+  string id = 1;
+  string customer_id = 2;
+  PollType type = 3;
+  string title = 4;
+  optional string description = 5;
+  repeated string target_hexagon_ids = 6;
+  repeated int32 target_ac_ids = 7;
+  int32 target_min_civic_score = 8;
+  bool require_top_responder = 9;
+  optional int32 max_responses = 10;
+  PollStatus status = 11;
+  optional google.protobuf.Timestamp starts_at = 12;
+  optional google.protobuf.Timestamp ends_at = 13;
+  google.protobuf.Timestamp created_at = 14;
+  repeated PollQuestion questions = 15;
+}
+
+message PollQuestion {
+  string id = 1;
+  string poll_id = 2;
+  QuestionType question_type = 3;
+  string question_text = 4;
+  int32 question_order = 5;
+  repeated string options = 6;
+  bool required = 7;
+}
+
+// Poll response - NO user_id for anonymity
+message PollResponse {
+  string id = 1;
+  string poll_id = 2;
+  string hexagon_id = 3;
+  map<string, string> answers = 4;
+  optional int32 response_time_seconds = 5;
+  google.protobuf.Timestamp created_at = 6;
+}
+
+// =============================================================================
+// CIVIC SCORE TYPES
+// =============================================================================
+
+enum CivicAction {
+  CIVIC_ACTION_UNSPECIFIED = 0;
+  CIVIC_ACTION_KYC_COMPLETED = 1;
+  CIVIC_ACTION_BOOTH_CHALLENGE_PASSED = 2;
+  CIVIC_ACTION_ISSUE_VERIFIED = 3;
+  CIVIC_ACTION_VERIFICATION_GIVEN = 4;
+  CIVIC_ACTION_POLL_COMPLETED = 5;
+  CIVIC_ACTION_ISSUE_FIXED = 6;
+  CIVIC_ACTION_ACCOUNT_AGE_30 = 7;
+  CIVIC_ACTION_ACCOUNT_AGE_90 = 8;
+  CIVIC_ACTION_ACCOUNT_AGE_180 = 9;
+  CIVIC_ACTION_FAKE_VERIFICATION = 10;
+  CIVIC_ACTION_FAKE_ISSUE_REPORTED = 11;
+  CIVIC_ACTION_LOW_QUALITY_RESPONSE = 12;
+  CIVIC_ACTION_INACTIVE_60_DAYS = 13;
+}
+
+message CivicScoreLog {
+  string id = 1;
+  string user_id = 2;
+  CivicAction action = 3;
+  int32 points = 4;
+  int32 score_before = 5;
+  int32 score_after = 6;
+  optional string reference_type = 7;
+  optional string reference_id = 8;
+  google.protobuf.Timestamp created_at = 9;
+}
+
+// =============================================================================
+// ELECTION BLACKOUT TYPES
+// =============================================================================
+
+enum ElectionType {
+  ELECTION_TYPE_UNSPECIFIED = 0;
+  ELECTION_TYPE_GENERAL = 1;
+  ELECTION_TYPE_ASSEMBLY = 2;
+  ELECTION_TYPE_BY_ELECTION = 3;
+  ELECTION_TYPE_LOCAL_BODY = 4;
+}
+
+message Election {
+  string id = 1;
+  ElectionType type = 2;
+  string name = 3;
+  optional int32 state_id = 4;
+  repeated int32 ac_ids = 5;
+  google.protobuf.Timestamp polling_date = 6;
+  google.protobuf.Timestamp blackout_starts_at = 7;
+  google.protobuf.Timestamp blackout_ends_at = 8;
+}
+
+message BlackoutStatus {
+  bool is_active = 1;
+  optional google.protobuf.Timestamp ends_at = 2;
+  optional string election_name = 3;
+}
+
+// =============================================================================
+// FINANCIAL TYPES
+// =============================================================================
+
+enum TransactionType {
+  TRANSACTION_TYPE_UNSPECIFIED = 0;
+  TRANSACTION_TYPE_POLL_EARNING = 1;
+  TRANSACTION_TYPE_VERIFICATION_EARNING = 2;
+  TRANSACTION_TYPE_REFERRAL_EARNING = 3;
+  TRANSACTION_TYPE_WITHDRAWAL = 4;
+  TRANSACTION_TYPE_SUBSCRIPTION_PAYMENT = 5;
+  TRANSACTION_TYPE_POLL_PURCHASE = 6;
+  TRANSACTION_TYPE_REFUND = 7;
+}
+
+enum PayoutMethod {
+  PAYOUT_METHOD_UNSPECIFIED = 0;
+  PAYOUT_METHOD_UPI = 1;
+  PAYOUT_METHOD_AMAZON_VOUCHER = 2;
+  PAYOUT_METHOD_FLIPKART_VOUCHER = 3;
+  PAYOUT_METHOD_ERUPI = 4;
+}
+
+message Wallet {
+  string user_id = 1;
+  double balance_inr = 2;
+  double lifetime_earnings_inr = 3;
+  double pending_withdrawal_inr = 4;
+}
+
+message Transaction {
+  string id = 1;
+  string user_id = 2;
+  TransactionType type = 3;
+  double amount_inr = 4;
+  optional string description = 5;
+  optional string poll_id = 6;
+  optional string issue_id = 7;
+  optional PayoutMethod payout_method = 8;
+  string status = 9;
+  google.protobuf.Timestamp created_at = 10;
+}
+
+// =============================================================================
+// LEADERBOARD TYPES
+// =============================================================================
+
+message IssueLeaderboard {
+  int32 ac_id = 1;
+  string ac_name = 2;
+  int32 open_issues = 3;
+  int32 fixed_issues = 4;
+  double avg_fix_time_days = 5;
+  repeated TopFixer top_fixers = 6;
+}
+
+message TopFixer {
+  string fixer_name = 1;
+  FixerType fixer_type = 2;
+  int32 fixes_count = 3;
+  double avg_fix_days = 4;
+}
+
+// =============================================================================
+// PUBLIC API SERVICE
+// =============================================================================
+
+service PoliticService {
+  // Geography
+  rpc GetHexagon(GetHexagonRequest) returns (Hexagon);
+  rpc GetHexagonFromLatLng(GetHexagonFromLatLngRequest) returns (Hexagon);
+  rpc GetAssemblyConstituency(GetAssemblyConstituencyRequest) returns (AssemblyConstituency);
+  rpc GetACFromCoordinates(GetACFromCoordinatesRequest) returns (AssemblyConstituency);
+  rpc GetACBoundary(GetACBoundaryRequest) returns (ACBoundary);
+  rpc ListStates(google.protobuf.Empty) returns (ListStatesResponse);
+  rpc ListDistricts(ListDistrictsRequest) returns (ListDistrictsResponse);
+  rpc ListAssemblyConstituencies(ListAssemblyConstituenciesRequest) returns (ListAssemblyConstituenciesResponse);
+  rpc ListPollingBooths(ListPollingBoothsRequest) returns (ListPollingBoothsResponse);
+  rpc ListParties(google.protobuf.Empty) returns (ListPartiesResponse);
+
+  // Issues
+  rpc CreateIssue(CreateIssueRequest) returns (Issue);
+  rpc GetIssue(GetIssueRequest) returns (Issue);
+  rpc ListIssues(ListIssuesRequest) returns (ListIssuesResponse);
+  rpc VerifyIssue(VerifyIssueRequest) returns (IssueVerification);
+  rpc ClaimFix(ClaimFixRequest) returns (FixClaim);
+  rpc VerifyFix(VerifyFixRequest) returns (FixClaim);
+
+  // Polls
+  rpc CreatePoll(CreatePollRequest) returns (Poll);
+  rpc GetPoll(GetPollRequest) returns (Poll);
+  rpc ListPolls(ListPollsRequest) returns (ListPollsResponse);
+  rpc RespondToPoll(RespondToPollRequest) returns (PollResponse);
+  rpc GetPollResults(GetPollResultsRequest) returns (PollResultsResponse);
+
+  // User
+  rpc GetCurrentUser(google.protobuf.Empty) returns (GetCurrentUserResponse);
+  rpc GetWallet(google.protobuf.Empty) returns (Wallet);
+  rpc RequestWithdrawal(RequestWithdrawalRequest) returns (Transaction);
+  rpc ListTransactions(ListTransactionsRequest) returns (ListTransactionsResponse);
+
+  // Public
+  rpc GetIssueLeaderboard(GetIssueLeaderboardRequest) returns (IssueLeaderboard);
+  rpc CheckBlackout(CheckBlackoutRequest) returns (BlackoutStatus);
+
+  // Booth Challenge
+  rpc SubmitBoothChallenge(SubmitBoothChallengeRequest) returns (SubmitBoothChallengeResponse);
+}
+
+// =============================================================================
+// REQUEST/RESPONSE MESSAGES
+// =============================================================================
+
+// Geography
+message GetHexagonRequest {
+  string hexagon_id = 1;
+}
+
+message GetHexagonFromLatLngRequest {
+  double lat = 1;
+  double lng = 2;
+}
+
+message GetAssemblyConstituencyRequest {
+  int32 ac_id = 1;
+}
+
+message ListStatesResponse {
+  repeated State states = 1;
+}
+
+message ListDistrictsRequest {
+  int32 state_id = 1;
+}
+
+message ListDistrictsResponse {
+  repeated District districts = 1;
+}
+
+message ListAssemblyConstituenciesRequest {
+  optional int32 district_id = 1;
+  optional int32 state_id = 2;
+}
+
+message ListAssemblyConstituenciesResponse {
+  repeated AssemblyConstituency constituencies = 1;
+}
+
+message GetACFromCoordinatesRequest {
+  double lat = 1;
+  double lng = 2;
+}
+
+message GetACBoundaryRequest {
+  int32 ac_id = 1;
+  optional string state_slug = 2;  // Required if ac_id is AC number within state
+}
+
+message ListPollingBoothsRequest {
+  optional int32 ac_id = 1;
+  optional int32 state_id = 2;
+  optional string district_slug = 3;
+  int32 limit = 4;
+  int32 offset = 5;
+}
+
+message ListPollingBoothsResponse {
+  repeated PollingBooth booths = 1;
+  int32 total = 2;
+}
+
+message ListPartiesResponse {
+  repeated Party parties = 1;
+}
+
+// Issues
+message CreateIssueRequest {
+  IssueCategory category = 1;
+  string title = 2;
+  optional string description = 3;
+  optional string suggested_solution = 4;
+  double lat = 5;
+  double lng = 6;
+  repeated bytes photos = 7;  // Photo binary data
+}
+
+message GetIssueRequest {
+  string issue_id = 1;
+}
+
+message ListIssuesRequest {
+  optional string hexagon_id = 1;
+  optional int32 ac_id = 2;
+  optional IssueStatus status = 3;
+  optional IssueCategory category = 4;
+  int32 limit = 5;
+  int32 offset = 6;
+}
+
+message ListIssuesResponse {
+  repeated Issue issues = 1;
+  int32 total = 2;
+}
+
+message VerifyIssueRequest {
+  string issue_id = 1;
+  bool is_valid = 2;
+  optional string comment = 3;
+  double lat = 4;
+  double lng = 5;
+}
+
+message ClaimFixRequest {
+  string issue_id = 1;
+  bytes after_photo = 2;
+  optional string description = 3;
+}
+
+message VerifyFixRequest {
+  string fix_claim_id = 1;
+  bool is_valid = 2;
+  double lat = 3;
+  double lng = 4;
+}
+
+// Polls
+message CreatePollRequest {
+  PollType type = 1;
+  string title = 2;
+  optional string description = 3;
+  repeated PollQuestionInput questions = 4;
+  PollTarget target = 5;
+}
+
+message PollQuestionInput {
+  QuestionType question_type = 1;
+  string question_text = 2;
+  repeated string options = 3;
+  bool required = 4;
+}
+
+message PollTarget {
+  repeated string hexagon_ids = 1;
+  repeated int32 ac_ids = 2;
+  int32 min_civic_score = 3;
+  optional int32 max_responses = 4;
+}
+
+message GetPollRequest {
+  string poll_id = 1;
+}
+
+message ListPollsRequest {
+  optional PollStatus status = 1;
+  int32 limit = 2;
+  int32 offset = 3;
+}
+
+message ListPollsResponse {
+  repeated Poll polls = 1;
+  int32 total = 2;
+}
+
+message RespondToPollRequest {
+  string poll_id = 1;
+  map<string, string> answers = 2;
+}
+
+message GetPollResultsRequest {
+  string poll_id = 1;
+  string group_by = 2;  // "overall", "hexagon", "ac"
+}
+
+message PollResultsResponse {
+  string poll_id = 1;
+  int32 response_count = 2;
+  bool meets_k_anonymity = 3;
+  map<string, QuestionResult> results = 4;
+}
+
+message QuestionResult {
+  map<string, int32> option_counts = 1;
+  optional double average = 2;  // For rating questions
+}
+
+// User
+message GetCurrentUserResponse {
+  User user = 1;
+  oneof profile {
+    Participant participant = 2;
+    Customer customer = 3;
+    Fixer fixer = 4;
+  }
+}
+
+message RequestWithdrawalRequest {
+  double amount_inr = 1;
+  PayoutMethod method = 2;
+  optional string upi_id = 3;  // Required if method is UPI
+}
+
+message ListTransactionsRequest {
+  int32 limit = 1;
+  int32 offset = 2;
+}
+
+message ListTransactionsResponse {
+  repeated Transaction transactions = 1;
+  int32 total = 2;
+}
+
+// Public
+message GetIssueLeaderboardRequest {
+  optional int32 ac_id = 1;
+  optional string hexagon_id = 2;
+}
+
+message CheckBlackoutRequest {
+  int32 ac_id = 1;
+}
+
+// Booth Challenge
+message SubmitBoothChallengeRequest {
+  string booth_name_input = 1;  // User's input
+  int32 ac_id = 2;              // Which AC they claim to be in
+}
+
+message SubmitBoothChallengeResponse {
+  bool passed = 1;
+  optional string matched_booth_name = 2;
+  double confidence = 3;
+}

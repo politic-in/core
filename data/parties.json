@@ -1,0 +1,1209 @@
+{
+  "metadata": {
+    "version": "2.0",
+    "lastUpdated": "2024-03-23",
+    "source": "Wikipedia - List of political parties in India (Election Commission of India data, March 2024)",
+    "description": "Comprehensive list of political parties in India including national and state parties based on official ECI recognition",
+    "totalParties": 64,
+    "nationalParties": 6,
+    "stateParties": 58,
+    "unrecognizedParties": 2763,
+    "dataAccuracy": "Based on 18th Lok Sabha (2024) election results"
+  },
+  "nationalParties": [
+    {
+      "id": "bjp",
+      "name": "Bharatiya Janata Party",
+      "abbreviation": "BJP",
+      "type": "national",
+      "status": "recognized",
+      "alliance": "NDA",
+      "founded": 1980,
+      "headquarters": {
+        "city": "New Delhi",
+        "state": "Delhi",
+        "address": "6-A, Deen Dayal Upadhyaya Marg"
+      },
+      "ideology": [
+        "Hindutva",
+        "Hindu nationalism",
+        "Conservatism",
+        "Right-wing",
+        "Neoliberalism"
+      ],
+      "politicalPosition": "Right-wing to far-right",
+      "symbol": "Lotus",
+      "colors": [
+        "#FF9933",
+        "#138808"
+      ],
+      "currentLeader": {
+        "president": "J. P. Nadda",
+        "primeMinister": "Narendra Modi"
+      },
+      "seats": {
+        "lokSabha": 240,
+        "rajyaSabha": 103,
+        "stateAssemblies": 1656,
+        "stateCouncils": 165
+      },
+      "chiefMinisters": 15,
+      "website": "https://www.bjp.org",
+      "description": "The largest political party in India and the ruling party at the national level. Right-wing Hindu nationalist party. Member of National Democratic Alliance (NDA).",
+      "partyId": 1
+    },
+    {
+      "id": "inc",
+      "name": "Indian National Congress",
+      "abbreviation": "INC",
+      "type": "national",
+      "status": "recognized",
+      "alliance": "INDIA",
+      "founded": 1885,
+      "headquarters": {
+        "city": "New Delhi",
+        "state": "Delhi",
+        "address": "24, Akbar Road"
+      },
+      "ideology": [
+        "Big tent",
+        "Liberalism",
+        "Social democracy",
+        "Secularism",
+        "Civic nationalism"
+      ],
+      "politicalPosition": "Centre",
+      "symbol": "Hand",
+      "colors": [
+        "#00BFFF",
+        "#FFFFFF"
+      ],
+      "currentLeader": {
+        "president": "Mallikarjun Kharge",
+        "leaderLokSabha": "Rahul Gandhi"
+      },
+      "seats": {
+        "lokSabha": 101,
+        "rajyaSabha": 27,
+        "stateAssemblies": 653,
+        "stateCouncils": 60
+      },
+      "chiefMinisters": 3,
+      "website": "https://www.inc.in",
+      "description": "The oldest political party in India, founded during the Indian independence movement. Currently the primary opposition party and part of INDIA alliance.",
+      "partyId": 2
+    },
+    {
+      "id": "aap",
+      "name": "Aam Aadmi Party",
+      "abbreviation": "AAP",
+      "type": "national",
+      "status": "recognized",
+      "alliance": "INDIA",
+      "founded": 2012,
+      "headquarters": {
+        "city": "New Delhi",
+        "state": "Delhi",
+        "address": "206, Rouse Avenue"
+      },
+      "ideology": [
+        "Welfarism",
+        "Indian nationalism",
+        "Populism",
+        "Secularism"
+      ],
+      "politicalPosition": "Centre",
+      "symbol": "Broom",
+      "colors": [
+        "#0066CC",
+        "#FFFFFF"
+      ],
+      "currentLeader": {
+        "convener": "Arvind Kejriwal"
+      },
+      "seats": {
+        "lokSabha": 3,
+        "rajyaSabha": 10,
+        "stateAssemblies": 122,
+        "stateCouncils": 0
+      },
+      "chiefMinisters": 1,
+      "website": "https://www.aamaadmiparty.org",
+      "description": "A political party that emerged from the anti-corruption movement in 2012. Currently governs Delhi and Punjab. Part of INDIA alliance.",
+      "partyId": 3
+    },
+    {
+      "id": "bsp",
+      "name": "Bahujan Samaj Party",
+      "abbreviation": "BSP",
+      "type": "national",
+      "status": "recognized",
+      "alliance": "Other",
+      "founded": 1984,
+      "headquarters": {
+        "city": "Lucknow",
+        "state": "Uttar Pradesh"
+      },
+      "ideology": [
+        "Social justice",
+        "Self-respect",
+        "Ambedkarism"
+      ],
+      "politicalPosition": "Centre-left",
+      "symbol": "Elephant",
+      "colors": [
+        "#0000FF",
+        "#000080"
+      ],
+      "currentLeader": {
+        "president": "Mayawati"
+      },
+      "seats": {
+        "lokSabha": 0,
+        "rajyaSabha": 1,
+        "stateAssemblies": 3,
+        "stateCouncils": 0
+      },
+      "chiefMinisters": 0,
+      "website": "https://www.bspindia.org",
+      "description": "A political party focused on representing Dalits and other marginalized communities, primarily active in Uttar Pradesh. Maintains independence from major alliances.",
+      "partyId": 4
+    },
+    {
+      "id": "cpim",
+      "name": "Communist Party of India (Marxist)",
+      "abbreviation": "CPI(M)",
+      "type": "national",
+      "status": "recognized",
+      "alliance": "INDIA",
+      "founded": 1964,
+      "headquarters": {
+        "city": "New Delhi",
+        "state": "Delhi",
+        "address": "A.K. Gopalan Bhawan, 27-29, Bhai Vir Singh Marg"
+      },
+      "ideology": [
+        "Marxism-Leninism",
+        "Socialism",
+        "Secularism"
+      ],
+      "politicalPosition": "Left-wing",
+      "symbol": "Hammer, Sickle and Star",
+      "colors": [
+        "#FF0000"
+      ],
+      "currentLeader": {
+        "generalSecretary": "Sitaram Yechury"
+      },
+      "seats": {
+        "lokSabha": 4,
+        "rajyaSabha": 4,
+        "stateAssemblies": 80,
+        "stateCouncils": 0
+      },
+      "chiefMinisters": 1,
+      "website": "https://www.cpim.org",
+      "description": "The largest communist party in India. Active in Kerala, West Bengal, and Tripura. Part of INDIA alliance and leads the Left Front coalition.",
+      "partyId": 5
+    },
+    {
+      "id": "npp",
+      "name": "National People's Party",
+      "abbreviation": "NPP",
+      "type": "national",
+      "status": "recognized",
+      "alliance": "NDA",
+      "founded": 2013,
+      "headquarters": {
+        "city": "New Delhi",
+        "state": "Delhi",
+        "address": "1, Rafi Marg"
+      },
+      "ideology": [
+        "Conservatism",
+        "Regionalism"
+      ],
+      "politicalPosition": "Centre-right",
+      "symbol": "Book",
+      "colors": [
+        "#0000FF",
+        "#FFFF00"
+      ],
+      "currentLeader": {
+        "president": "Conrad Sangma",
+        "chiefMinister": "Conrad Sangma (Meghalaya)"
+      },
+      "seats": {
+        "lokSabha": 0,
+        "rajyaSabha": 1,
+        "stateAssemblies": 50,
+        "stateCouncils": 0
+      },
+      "chiefMinisters": 1,
+      "website": "https://www.nppmeghalaya.org",
+      "description": "A national party primarily active in Meghalaya and other northeastern states. Member of NDA.",
+      "partyId": 6
+    }
+  ],
+  "stateParties": [
+    {
+      "id": "tdp",
+      "name": "Telugu Desam Party",
+      "abbreviation": "TDP",
+      "type": "state",
+      "status": "recognized",
+      "alliance": "NDA",
+      "founded": 1982,
+      "recognizedIn": [
+        "Andhra Pradesh",
+        "Telangana"
+      ],
+      "headquarters": {
+        "city": "Hyderabad",
+        "state": "Telangana"
+      },
+      "ideology": [
+        "Telugu nationalism",
+        "Regionalism",
+        "Centre-right"
+      ],
+      "symbol": "Bicycle",
+      "colors": [
+        "#FFFF00",
+        "#000000"
+      ],
+      "currentLeader": {
+        "president": "N. Chandrababu Naidu",
+        "chiefMinister": "N. Chandrababu Naidu (Andhra Pradesh)"
+      },
+      "seats": {
+        "lokSabha": 16,
+        "rajyaSabha": 2,
+        "stateAssemblies": 135,
+        "stateCouncils": 10
+      },
+      "website": "https://www.telugudesam.org",
+      "description": "A major regional party in Andhra Pradesh and Telangana, currently ruling Andhra Pradesh as part of NDA.",
+      "partyId": 7
+    },
+    {
+      "id": "jdu",
+      "name": "Janata Dal (United)",
+      "abbreviation": "JD(U)",
+      "type": "state",
+      "status": "recognized",
+      "alliance": "NDA",
+      "founded": 2003,
+      "recognizedIn": [
+        "Arunachal Pradesh",
+        "Bihar",
+        "Manipur"
+      ],
+      "headquarters": {
+        "city": "New Delhi",
+        "state": "Delhi"
+      },
+      "ideology": [
+        "Secularism",
+        "Socialism",
+        "Centre-left"
+      ],
+      "symbol": "Arrow",
+      "colors": [
+        "#008000",
+        "#FFFF00"
+      ],
+      "currentLeader": {
+        "president": "Nitish Kumar",
+        "chiefMinister": "Nitish Kumar (Bihar)"
+      },
+      "seats": {
+        "lokSabha": 12,
+        "rajyaSabha": 4,
+        "stateAssemblies": 46,
+        "stateCouncils": 26
+      },
+      "website": "https://www.jdu.org.in",
+      "description": "A major political party in Bihar, currently governing the state in alliance with BJP.",
+      "partyId": 8
+    },
+    {
+      "id": "dmk",
+      "name": "Dravida Munnetra Kazhagam",
+      "abbreviation": "DMK",
+      "type": "state",
+      "status": "recognized",
+      "alliance": "INDIA",
+      "founded": 1949,
+      "recognizedIn": [
+        "Puducherry",
+        "Tamil Nadu"
+      ],
+      "headquarters": {
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "address": "Anna Arivalayam"
+      },
+      "ideology": [
+        "Dravidian",
+        "Social democracy",
+        "Secularism"
+      ],
+      "symbol": "Rising Sun",
+      "colors": [
+        "#FF0000",
+        "#000000"
+      ],
+      "currentLeader": {
+        "president": "M. K. Stalin",
+        "chiefMinister": "M. K. Stalin (Tamil Nadu)"
+      },
+      "seats": {
+        "lokSabha": 22,
+        "rajyaSabha": 10,
+        "stateAssemblies": 137,
+        "stateCouncils": 0
+      },
+      "website": "https://www.dmk.in",
+      "description": "A major Dravidian party in Tamil Nadu, currently governing the state. Key member of INDIA alliance.",
+      "partyId": 9
+    },
+    {
+      "id": "tmc",
+      "name": "All India Trinamool Congress",
+      "abbreviation": "TMC",
+      "type": "state",
+      "status": "recognized",
+      "alliance": "INDIA",
+      "founded": 1998,
+      "recognizedIn": [
+        "Meghalaya",
+        "Tripura",
+        "West Bengal"
+      ],
+      "headquarters": {
+        "city": "Kolkata",
+        "state": "West Bengal"
+      },
+      "ideology": [
+        "Populism",
+        "Secularism",
+        "Regionalism"
+      ],
+      "symbol": "Flowers and Grass",
+      "colors": [
+        "#20C6A5",
+        "#FFFFFF"
+      ],
+      "currentLeader": {
+        "chairperson": "Mamata Banerjee",
+        "chiefMinister": "Mamata Banerjee (West Bengal)"
+      },
+      "seats": {
+        "lokSabha": 29,
+        "rajyaSabha": 13,
+        "stateAssemblies": 230,
+        "stateCouncils": 0
+      },
+      "website": "https://www.aitmc.org",
+      "description": "The ruling party in West Bengal, led by Mamata Banerjee. Key member of INDIA alliance.",
+      "partyId": 10
+    },
+    {
+      "id": "sp",
+      "name": "Samajwadi Party",
+      "abbreviation": "SP",
+      "type": "state",
+      "status": "recognized",
+      "alliance": "INDIA",
+      "founded": 1992,
+      "recognizedIn": [
+        "Uttar Pradesh"
+      ],
+      "headquarters": {
+        "city": "Lucknow",
+        "state": "Uttar Pradesh"
+      },
+      "ideology": [
+        "Socialism",
+        "Secularism"
+      ],
+      "symbol": "Bicycle",
+      "colors": [
+        "#FF0000",
+        "#008000"
+      ],
+      "currentLeader": {
+        "president": "Akhilesh Yadav"
+      },
+      "seats": {
+        "lokSabha": 37,
+        "rajyaSabha": 4,
+        "stateAssemblies": 112,
+        "stateCouncils": 9
+      },
+      "website": "https://www.samajwadiparty.in",
+      "description": "A major socialist party in Uttar Pradesh, led by Akhilesh Yadav. Key member of INDIA alliance.",
+      "partyId": 11
+    },
+    {
+      "id": "bjd",
+      "name": "Biju Janata Dal",
+      "abbreviation": "BJD",
+      "type": "state",
+      "status": "recognized",
+      "alliance": "Other",
+      "founded": 1997,
+      "recognizedIn": [
+        "Odisha"
+      ],
+      "headquarters": {
+        "city": "Bhubaneswar",
+        "state": "Odisha"
+      },
+      "ideology": [
+        "Regionalism",
+        "Secularism"
+      ],
+      "symbol": "Conch",
+      "colors": [
+        "#008000",
+        "#FFFF00"
+      ],
+      "currentLeader": {
+        "president": "Naveen Patnaik"
+      },
+      "seats": {
+        "lokSabha": 0,
+        "rajyaSabha": 7,
+        "stateAssemblies": 51,
+        "stateCouncils": 0
+      },
+      "website": "https://www.bjd.org.in",
+      "description": "A regional party in Odisha that governed the state for over two decades. Maintains equidistance from national alliances.",
+      "partyId": 12
+    },
+    {
+      "id": "cpi",
+      "name": "Communist Party of India",
+      "abbreviation": "CPI",
+      "type": "state",
+      "status": "recognized",
+      "alliance": "INDIA",
+      "founded": 1925,
+      "recognizedIn": [
+        "Kerala",
+        "Manipur",
+        "Tamil Nadu"
+      ],
+      "headquarters": {
+        "city": "New Delhi",
+        "state": "Delhi",
+        "address": "Ajoy Bhavan, 15, Kotla Marg"
+      },
+      "ideology": [
+        "Communism",
+        "Marxism-Leninism",
+        "Left-wing"
+      ],
+      "symbol": "Ears of corn and sickle",
+      "colors": [
+        "#FF0000"
+      ],
+      "currentLeader": {
+        "generalSecretary": "D. Raja"
+      },
+      "seats": {
+        "lokSabha": 2,
+        "rajyaSabha": 2,
+        "stateAssemblies": 22,
+        "stateCouncils": 1
+      },
+      "website": "https://www.cpi.org.in",
+      "description": "One of the oldest communist parties in India (founded 1925), active in several states including Kerala and West Bengal. State party status.",
+      "partyId": 13
+    },
+    {
+      "id": "aiadmk",
+      "name": "All India Anna Dravida Munnetra Kazhagam",
+      "abbreviation": "AIADMK",
+      "type": "state",
+      "status": "recognized",
+      "alliance": "NDA",
+      "founded": 1972,
+      "recognizedIn": [
+        "Puducherry",
+        "Tamil Nadu"
+      ],
+      "headquarters": {
+        "city": "Chennai",
+        "state": "Tamil Nadu"
+      },
+      "ideology": [
+        "Dravidian",
+        "Social conservatism"
+      ],
+      "symbol": "Two Leaves",
+      "colors": [
+        "#008000",
+        "#000000"
+      ],
+      "currentLeader": {
+        "generalSecretary": "Edappadi K. Palaniswami"
+      },
+      "seats": {
+        "lokSabha": 0,
+        "rajyaSabha": 4,
+        "stateAssemblies": 61,
+        "stateCouncils": 0
+      },
+      "website": "https://www.aiadmk.com",
+      "description": "A major Dravidian party in Tamil Nadu, currently in opposition. Part of NDA alliance.",
+      "partyId": 14
+    },
+    {
+      "id": "shinde_shivsena",
+      "name": "Shiv Sena",
+      "abbreviation": "SS (Shinde)",
+      "type": "state",
+      "status": "recognized",
+      "alliance": "NDA",
+      "founded": 2022,
+      "recognizedIn": [
+        "Maharashtra"
+      ],
+      "headquarters": {
+        "city": "Mumbai",
+        "state": "Maharashtra"
+      },
+      "ideology": [
+        "Marathi nationalism",
+        "Hindutva",
+        "Right-wing populism"
+      ],
+      "symbol": "Bow and Arrow",
+      "colors": [
+        "#FF6600"
+      ],
+      "currentLeader": {
+        "president": "Eknath Shinde"
+      },
+      "seats": {
+        "lokSabha": 7,
+        "rajyaSabha": 1,
+        "stateAssemblies": 59,
+        "stateCouncils": 8
+      },
+      "website": "https://www.shivsena.org",
+      "description": "Shiv Sena faction led by Eknath Shinde. Currently governing Maharashtra as part of NDA. Split from original Shiv Sena in 2022.",
+      "partyId": 15
+    },
+    {
+      "id": "uddhav_shivsena",
+      "name": "Shiv Sena (Uddhav Balasaheb Thackeray)",
+      "abbreviation": "SS (UBT)",
+      "type": "state",
+      "status": "recognized",
+      "alliance": "INDIA",
+      "founded": 2022,
+      "recognizedIn": [
+        "Maharashtra"
+      ],
+      "headquarters": {
+        "city": "Mumbai",
+        "state": "Maharashtra"
+      },
+      "ideology": [
+        "Marathi nationalism",
+        "Hindutva",
+        "Secularism"
+      ],
+      "symbol": "Flaming Torch",
+      "colors": [
+        "#FF6600"
+      ],
+      "currentLeader": {
+        "president": "Uddhav Thackeray"
+      },
+      "seats": {
+        "lokSabha": 9,
+        "rajyaSabha": 2,
+        "stateAssemblies": 20,
+        "stateCouncils": 6
+      },
+      "website": "https://www.shivsena.org",
+      "description": "Shiv Sena faction led by Uddhav Thackeray. Part of INDIA alliance. Split from original Shiv Sena in 2022.",
+      "partyId": 16
+    },
+    {
+      "id": "ncp_ajit",
+      "name": "Nationalist Congress Party",
+      "abbreviation": "NCP (Ajit Pawar)",
+      "type": "state",
+      "status": "recognized",
+      "alliance": "NDA",
+      "founded": 1999,
+      "recognizedIn": [
+        "Arunachal Pradesh",
+        "Maharashtra",
+        "Nagaland"
+      ],
+      "headquarters": {
+        "city": "Mumbai",
+        "state": "Maharashtra"
+      },
+      "ideology": [
+        "Social democracy",
+        "Secularism"
+      ],
+      "symbol": "Clock",
+      "colors": [
+        "#00BFFF",
+        "#87CEEB"
+      ],
+      "currentLeader": {
+        "president": "Ajit Pawar"
+      },
+      "seats": {
+        "lokSabha": 1,
+        "rajyaSabha": 3,
+        "stateAssemblies": 44,
+        "stateCouncils": 8
+      },
+      "website": "https://www.ncpindia.in",
+      "description": "NCP faction led by Ajit Pawar, part of NDA alliance in Maharashtra government.",
+      "partyId": 17
+    },
+    {
+      "id": "ncp_sharad",
+      "name": "Nationalist Congress Party (Sharadchandra Pawar)",
+      "abbreviation": "NCP (SP)",
+      "type": "state",
+      "status": "recognized",
+      "alliance": "INDIA",
+      "founded": 2024,
+      "recognizedIn": [
+        "Maharashtra",
+        "Nagaland"
+      ],
+      "headquarters": {
+        "city": "Mumbai",
+        "state": "Maharashtra"
+      },
+      "ideology": [
+        "Social democracy",
+        "Secularism"
+      ],
+      "symbol": "Man Blowing Turha (Trumpet)",
+      "colors": [
+        "#00BFFF",
+        "#87CEEB"
+      ],
+      "currentLeader": {
+        "president": "Sharad Pawar"
+      },
+      "seats": {
+        "lokSabha": 8,
+        "rajyaSabha": 2,
+        "stateAssemblies": 12,
+        "stateCouncils": 3
+      },
+      "website": "https://www.ncp.org.in",
+      "description": "NCP faction led by Sharad Pawar, part of INDIA alliance. Split from NCP in 2023.",
+      "partyId": 18
+    },
+    {
+      "id": "rjd",
+      "name": "Rashtriya Janata Dal",
+      "abbreviation": "RJD",
+      "type": "state",
+      "status": "recognized",
+      "alliance": "INDIA",
+      "founded": 1997,
+      "recognizedIn": [
+        "Bihar",
+        "Jharkhand"
+      ],
+      "headquarters": {
+        "city": "Patna",
+        "state": "Bihar"
+      },
+      "ideology": [
+        "Socialism",
+        "Secularism"
+      ],
+      "symbol": "Lantern",
+      "colors": [
+        "#008000",
+        "#FFFFFF"
+      ],
+      "currentLeader": {
+        "president": "Lalu Prasad Yadav",
+        "leader": "Tejashwi Yadav"
+      },
+      "seats": {
+        "lokSabha": 4,
+        "rajyaSabha": 5,
+        "stateAssemblies": 81,
+        "stateCouncils": 5
+      },
+      "website": "https://www.rjd.co.in",
+      "description": "A major political party in Bihar, founded by Lalu Prasad Yadav. Member of INDIA alliance.",
+      "partyId": 19
+    },
+    {
+      "id": "ysrcp",
+      "name": "YSR Congress Party",
+      "abbreviation": "YSRCP",
+      "type": "state",
+      "status": "recognized",
+      "alliance": "Other",
+      "founded": 2011,
+      "recognizedIn": [
+        "Andhra Pradesh",
+        "Telangana"
+      ],
+      "headquarters": {
+        "city": "Tadepalli",
+        "state": "Andhra Pradesh"
+      },
+      "ideology": [
+        "Populism",
+        "Regionalism"
+      ],
+      "symbol": "Ceiling Fan",
+      "colors": [
+        "#0066CC",
+        "#FFFF00"
+      ],
+      "currentLeader": {
+        "president": "Y. S. Jagan Mohan Reddy"
+      },
+      "seats": {
+        "lokSabha": 4,
+        "rajyaSabha": 7,
+        "stateAssemblies": 11,
+        "stateCouncils": 35
+      },
+      "website": "https://www.ysrcp.in",
+      "description": "A regional party in Andhra Pradesh, governed the state from 2019-2024.",
+      "partyId": 20
+    },
+    {
+      "id": "jknc",
+      "name": "Jammu & Kashmir National Conference",
+      "abbreviation": "J&K NC",
+      "type": "state",
+      "status": "recognized",
+      "alliance": "INDIA",
+      "founded": 1932,
+      "recognizedIn": [
+        "Jammu and Kashmir"
+      ],
+      "headquarters": {
+        "city": "Srinagar",
+        "state": "Jammu and Kashmir"
+      },
+      "ideology": [
+        "Kashmiri regionalism",
+        "Secularism"
+      ],
+      "symbol": "Plough",
+      "colors": [
+        "#FF0000",
+        "#FFFFFF"
+      ],
+      "currentLeader": {
+        "president": "Farooq Abdullah",
+        "vicePresident": "Omar Abdullah",
+        "chiefMinister": "Omar Abdullah (Jammu and Kashmir)"
+      },
+      "seats": {
+        "lokSabha": 2,
+        "rajyaSabha": 3,
+        "stateAssemblies": 42,
+        "stateCouncils": 0
+      },
+      "website": "https://www.jknc.in",
+      "description": "The oldest political party in Jammu and Kashmir, currently governing the union territory. Part of INDIA alliance.",
+      "partyId": 21
+    },
+    {
+      "id": "jmm",
+      "name": "Jharkhand Mukti Morcha",
+      "abbreviation": "JMM",
+      "type": "state",
+      "status": "recognized",
+      "alliance": "INDIA",
+      "founded": 1972,
+      "recognizedIn": [
+        "Jharkhand"
+      ],
+      "headquarters": {
+        "city": "Ranchi",
+        "state": "Jharkhand"
+      },
+      "ideology": [
+        "Tribal politics",
+        "Regionalism"
+      ],
+      "symbol": "Bow and Arrow",
+      "colors": [
+        "#008000",
+        "#FFFF00"
+      ],
+      "currentLeader": {
+        "president": "Shibu Soren",
+        "executivePresident": "Hemant Soren",
+        "chiefMinister": "Hemant Soren (Jharkhand)"
+      },
+      "seats": {
+        "lokSabha": 3,
+        "rajyaSabha": 2,
+        "stateAssemblies": 34,
+        "stateCouncils": 0
+      },
+      "website": "https://www.jmm.org.in",
+      "description": "A tribal-focused party in Jharkhand, currently governing the state with Congress support as part of INDIA alliance.",
+      "partyId": 22
+    },
+    {
+      "id": "brs",
+      "name": "Bharat Rashtra Samithi",
+      "abbreviation": "BRS",
+      "type": "state",
+      "status": "recognized",
+      "alliance": "Other",
+      "founded": 2001,
+      "recognizedIn": [
+        "Telangana"
+      ],
+      "headquarters": {
+        "city": "Hyderabad",
+        "state": "Telangana"
+      },
+      "ideology": [
+        "Telangana regionalism",
+        "Federalism"
+      ],
+      "symbol": "Car",
+      "colors": [
+        "#FF1493",
+        "#000080"
+      ],
+      "currentLeader": {
+        "president": "K. Chandrashekar Rao"
+      },
+      "seats": {
+        "lokSabha": 0,
+        "rajyaSabha": 4,
+        "stateAssemblies": 39,
+        "stateCouncils": 19
+      },
+      "website": "https://www.brsparty.org",
+      "description": "A regional party in Telangana, previously known as TRS. Governed Telangana from 2014-2023.",
+      "partyId": 23
+    },
+    {
+      "id": "skm",
+      "name": "Sikkim Krantikari Morcha",
+      "abbreviation": "SKM",
+      "type": "state",
+      "status": "recognized",
+      "alliance": "Other",
+      "founded": 2013,
+      "recognizedIn": [
+        "Sikkim"
+      ],
+      "headquarters": {
+        "city": "Gangtok",
+        "state": "Sikkim"
+      },
+      "ideology": [
+        "Regionalism",
+        "Sikkimese identity"
+      ],
+      "symbol": "Umbrella",
+      "colors": [
+        "#FF0000",
+        "#FFFF00"
+      ],
+      "currentLeader": {
+        "president": "Prem Singh Tamang",
+        "chiefMinister": "Prem Singh Tamang (Sikkim)"
+      },
+      "seats": {
+        "lokSabha": 1,
+        "rajyaSabha": 0,
+        "stateAssemblies": 32,
+        "stateCouncils": 0
+      },
+      "website": "https://www.skm.org.in",
+      "description": "The ruling party in Sikkim, representing regional interests.",
+      "partyId": 24
+    },
+    {
+      "id": "zpm",
+      "name": "Zoram People's Movement",
+      "abbreviation": "ZPM",
+      "type": "state",
+      "status": "recognized",
+      "alliance": "Other",
+      "founded": 2017,
+      "recognizedIn": [
+        "Mizoram"
+      ],
+      "headquarters": {
+        "city": "Aizawl",
+        "state": "Mizoram"
+      },
+      "ideology": [
+        "Regionalism",
+        "Anti-corruption"
+      ],
+      "symbol": "Trumpet",
+      "colors": [
+        "#FF6600",
+        "#FFFFFF"
+      ],
+      "currentLeader": {
+        "president": "Lalduhoma",
+        "chiefMinister": "Lalduhoma (Mizoram)"
+      },
+      "seats": {
+        "lokSabha": 1,
+        "rajyaSabha": 0,
+        "stateAssemblies": 27,
+        "stateCouncils": 0
+      },
+      "website": "https://www.zpm.org.in",
+      "description": "The ruling party in Mizoram, formed as a regional alternative to national parties in 2017.",
+      "partyId": 25
+    },
+    {
+      "id": "ljp_rv",
+      "name": "Lok Janshakti Party (Ram Vilas)",
+      "abbreviation": "LJP(RV)",
+      "type": "state",
+      "status": "recognized",
+      "alliance": "NDA",
+      "founded": 2021,
+      "recognizedIn": [
+        "Bihar",
+        "Nagaland"
+      ],
+      "headquarters": {
+        "city": "New Delhi",
+        "state": "Delhi"
+      },
+      "ideology": [
+        "Dalit politics",
+        "Socialism"
+      ],
+      "symbol": "Bungalow",
+      "colors": [
+        "#0000FF",
+        "#FFFFFF"
+      ],
+      "currentLeader": {
+        "president": "Chirag Paswan"
+      },
+      "seats": {
+        "lokSabha": 5,
+        "rajyaSabha": 0,
+        "stateAssemblies": 3,
+        "stateCouncils": 0
+      },
+      "website": "https://www.ljpramvilas.in",
+      "description": "A Dalit-focused party in Bihar, allied with BJP in NDA. Led by Chirag Paswan after party split.",
+      "partyId": 26
+    },
+    {
+      "id": "janasena",
+      "name": "Janasena Party",
+      "abbreviation": "JSP",
+      "type": "state",
+      "status": "recognized",
+      "alliance": "NDA",
+      "founded": 2014,
+      "recognizedIn": [
+        "Andhra Pradesh"
+      ],
+      "headquarters": {
+        "city": "Mangalagiri",
+        "state": "Andhra Pradesh"
+      },
+      "ideology": [
+        "Social justice",
+        "Secularism",
+        "Populism"
+      ],
+      "symbol": "Glass Tumbler",
+      "colors": [
+        "#FF0000",
+        "#FFFF00"
+      ],
+      "currentLeader": {
+        "president": "Pawan Kalyan"
+      },
+      "seats": {
+        "lokSabha": 2,
+        "rajyaSabha": 0,
+        "stateAssemblies": 21,
+        "stateCouncils": 2
+      },
+      "website": "https://www.janasenaparty.org",
+      "description": "A regional party in Andhra Pradesh led by actor-politician Pawan Kalyan. Part of NDA, achieved state party status in January 2025.",
+      "partyId": 27
+    },
+    {
+      "id": "vck",
+      "name": "Viduthalai Chiruthaigal Katchi",
+      "abbreviation": "VCK",
+      "type": "state",
+      "status": "recognized",
+      "alliance": "INDIA",
+      "founded": 1990,
+      "recognizedIn": [
+        "Tamil Nadu"
+      ],
+      "headquarters": {
+        "city": "Chennai",
+        "state": "Tamil Nadu"
+      },
+      "ideology": [
+        "Dalit politics",
+        "Ambedkarism",
+        "Social justice"
+      ],
+      "symbol": "Pot",
+      "colors": [
+        "#0000FF",
+        "#FFFF00"
+      ],
+      "currentLeader": {
+        "president": "Thol. Thirumavalavan"
+      },
+      "seats": {
+        "lokSabha": 2,
+        "rajyaSabha": 0,
+        "stateAssemblies": 4,
+        "stateCouncils": 0
+      },
+      "website": "https://www.vck.in",
+      "description": "A Dalit party in Tamil Nadu representing scheduled castes, allied with DMK in INDIA alliance.",
+      "partyId": 28
+    },
+    {
+      "id": "iuml",
+      "name": "Indian Union Muslim League",
+      "abbreviation": "IUML",
+      "type": "state",
+      "status": "recognized",
+      "alliance": "INDIA",
+      "founded": 1948,
+      "recognizedIn": [
+        "Kerala"
+      ],
+      "headquarters": {
+        "city": "Kozhikode",
+        "state": "Kerala"
+      },
+      "ideology": [
+        "Muslim politics",
+        "Secularism"
+      ],
+      "symbol": "Ladder",
+      "colors": [
+        "#008000",
+        "#FFFFFF"
+      ],
+      "currentLeader": {
+        "president": "Sadiq Ali Shihab Thangal"
+      },
+      "seats": {
+        "lokSabha": 3,
+        "rajyaSabha": 2,
+        "stateAssemblies": 15,
+        "stateCouncils": 0
+      },
+      "website": "https://www.iuml.com",
+      "description": "A Muslim political party primarily active in Kerala, allied with Congress in UDF as part of INDIA alliance.",
+      "partyId": 29
+    }
+  ],
+  "alliances": [
+    {
+      "id": "nda",
+      "name": "National Democratic Alliance",
+      "abbreviation": "NDA",
+      "type": "coalition",
+      "founded": 1998,
+      "leadParty": "BJP",
+      "convenor": "Bharatiya Janata Party",
+      "ideology": [
+        "Centre-right",
+        "Right-wing"
+      ],
+      "description": "The ruling coalition at the national level, led by BJP. As of March 2025, comprises 39 member parties including BJP, JD(U), TDP, Shiv Sena (Shinde), NCP (Ajit Pawar), LJP(RV), and Janasena.",
+      "members": 39,
+      "currentStatus": "Ruling coalition (Government of India)",
+      "statesGoverning": 19,
+      "primeMinister": "Narendra Modi",
+      "seats": {
+        "lokSabha": 293,
+        "rajyaSabha": 117
+      },
+      "allianceId": 1
+    },
+    {
+      "id": "india",
+      "name": "Indian National Developmental Inclusive Alliance",
+      "abbreviation": "INDIA",
+      "type": "coalition",
+      "founded": 2023,
+      "leadParty": "INC",
+      "convenor": "Indian National Congress",
+      "ideology": [
+        "Centre-left",
+        "Secularism",
+        "Social democracy"
+      ],
+      "description": "The main opposition alliance, successor to UPA. Formed in 2023, comprising 26+ parties including INC, AAP, DMK, TMC, CPI(M), SP, RJD, JMM, Shiv Sena (UBT), NCP (SP), and IUML.",
+      "members": 26,
+      "currentStatus": "Opposition alliance",
+      "statesGoverning": 8,
+      "seats": {
+        "lokSabha": 234,
+        "rajyaSabha": 85
+      },
+      "allianceId": 2
+    },
+    {
+      "id": "lf",
+      "name": "Left Front",
+      "abbreviation": "LF",
+      "type": "coalition",
+      "founded": 1977,
+      "leadParty": "CPI(M)",
+      "convenor": "Communist Party of India (Marxist)",
+      "ideology": [
+        "Communism",
+        "Left-wing",
+        "Marxism-Leninism"
+      ],
+      "description": "Coalition of communist and socialist parties, active in Kerala and West Bengal. Includes CPI(M), CPI, RSP, and other left parties. Part of INDIA alliance at national level.",
+      "members": 8,
+      "currentStatus": "Regional alliance (Part of INDIA at national level)",
+      "statesGoverning": 1,
+      "allianceId": 3
+    }
+  ],
+  "notes": {
+    "dataSource": "Based on Wikipedia article 'List of political parties in India' which compiles Election Commission of India official data as of March 2024",
+    "electionData": "Seat counts reflect 18th Lok Sabha (2024 general election results)",
+    "partySplits": "Several major parties have split recently: Shiv Sena (2022 into Shinde and UBT factions), NCP (2023 into Ajit Pawar and Sharad Pawar factions), LJP (2021 into multiple factions)",
+    "recognition": "Party recognition by ECI is based on performance in Lok Sabha and State Assembly elections. National party status requires meeting criteria in 4+ states, State party status requires meeting criteria in that specific state.",
+    "totalRegisteredParties": "As of 2024, India has 6 national parties, 58 state parties, and 2,763 unrecognized registered parties"
+  }
+}

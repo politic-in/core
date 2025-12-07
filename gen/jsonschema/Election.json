@@ -1,0 +1,64 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "$ref": "#/definitions/Election",
+    "definitions": {
+        "Election": {
+            "properties": {
+                "id": {
+                    "type": "string"
+                },
+                "type": {
+                    "enum": [
+                        "ELECTION_TYPE_UNSPECIFIED",
+                        0,
+                        "ELECTION_TYPE_GENERAL",
+                        1,
+                        "ELECTION_TYPE_ASSEMBLY",
+                        2,
+                        "ELECTION_TYPE_BY_ELECTION",
+                        3,
+                        "ELECTION_TYPE_LOCAL_BODY",
+                        4
+                    ],
+                    "oneOf": [
+                        {
+                            "type": "string"
+                        },
+                        {
+                            "type": "integer"
+                        }
+                    ],
+                    "title": "=============================================================================\n ELECTION BLACKOUT TYPES\n =============================================================================",
+                    "description": "============================================================================= ELECTION BLACKOUT TYPES ============================================================================="
+                },
+                "name": {
+                    "type": "string"
+                },
+                "state_id": {
+                    "type": "integer"
+                },
+                "ac_ids": {
+                    "items": {
+                        "type": "integer"
+                    },
+                    "type": "array"
+                },
+                "polling_date": {
+                    "type": "string",
+                    "format": "date-time"
+                },
+                "blackout_starts_at": {
+                    "type": "string",
+                    "format": "date-time"
+                },
+                "blackout_ends_at": {
+                    "type": "string",
+                    "format": "date-time"
+                }
+            },
+            "additionalProperties": true,
+            "type": "object",
+            "title": "Election"
+        }
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "$ref": "#/definitions/ListDistrictsResponse",
+    "definitions": {
+        "ListDistrictsResponse": {
+            "properties": {
+                "districts": {
+                    "items": {
+                        "$ref": "#/definitions/politic.core.v1.District"
+                    },
+                    "type": "array"
+                }
+            },
+            "additionalProperties": true,
+            "type": "object",
+            "title": "List Districts Response"
+        },
+        "politic.core.v1.District": {
+            "properties": {
+                "id": {
+                    "type": "integer"
+                },
+                "state_id": {
+                    "type": "integer"
+                },
+                "code": {
+                    "type": "string",
+                    "description": "\"KA-BLR-U\""
+                },
+                "name": {
+                    "type": "string"
+                },
+                "name_local": {
+                    "type": "string"
+                }
+            },
+            "additionalProperties": true,
+            "type": "object",
+            "title": "District"
+        }
+    }
+}

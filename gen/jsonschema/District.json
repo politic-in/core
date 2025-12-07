@@ -1,0 +1,29 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "$ref": "#/definitions/District",
+    "definitions": {
+        "District": {
+            "properties": {
+                "id": {
+                    "type": "integer"
+                },
+                "state_id": {
+                    "type": "integer"
+                },
+                "code": {
+                    "type": "string",
+                    "description": "\"KA-BLR-U\""
+                },
+                "name": {
+                    "type": "string"
+                },
+                "name_local": {
+                    "type": "string"
+                }
+            },
+            "additionalProperties": true,
+            "type": "object",
+            "title": "District"
+        }
+    }
+}

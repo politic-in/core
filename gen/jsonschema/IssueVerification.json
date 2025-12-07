@@ -1,0 +1,38 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "$ref": "#/definitions/IssueVerification",
+    "definitions": {
+        "IssueVerification": {
+            "properties": {
+                "id": {
+                    "type": "string"
+                },
+                "issue_id": {
+                    "type": "string"
+                },
+                "is_valid": {
+                    "type": "boolean"
+                },
+                "comment": {
+                    "type": "string"
+                },
+                "verifier_lat": {
+                    "type": "number"
+                },
+                "verifier_lng": {
+                    "type": "number"
+                },
+                "distance_to_issue_m": {
+                    "type": "integer"
+                },
+                "created_at": {
+                    "type": "string",
+                    "format": "date-time"
+                }
+            },
+            "additionalProperties": true,
+            "type": "object",
+            "title": "Issue Verification"
+        }
+    }
+}

@@ -1,0 +1,201 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "$ref": "#/definitions/GetCurrentUserResponse",
+    "definitions": {
+        "GetCurrentUserResponse": {
+            "properties": {
+                "user": {
+                    "$ref": "#/definitions/politic.core.v1.User",
+                    "additionalProperties": true
+                },
+                "participant": {
+                    "$ref": "#/definitions/politic.core.v1.Participant",
+                    "additionalProperties": true
+                },
+                "customer": {
+                    "$ref": "#/definitions/politic.core.v1.Customer",
+                    "additionalProperties": true
+                },
+                "fixer": {
+                    "$ref": "#/definitions/politic.core.v1.Fixer",
+                    "additionalProperties": true
+                }
+            },
+            "additionalProperties": true,
+            "type": "object",
+            "title": "Get Current User Response",
+            "description": "User"
+        },
+        "politic.core.v1.Customer": {
+            "properties": {
+                "user_id": {
+                    "type": "string"
+                },
+                "org_name": {
+                    "type": "string"
+                },
+                "org_type": {
+                    "type": "string"
+                },
+                "subscription_tier": {
+                    "type": "string"
+                },
+                "subscription_expires_at": {
+                    "type": "string",
+                    "format": "date-time"
+                },
+                "polls_remaining_micro": {
+                    "type": "integer"
+                },
+                "polls_remaining_detailed": {
+                    "type": "integer"
+                }
+            },
+            "additionalProperties": true,
+            "type": "object",
+            "title": "Customer"
+        },
+        "politic.core.v1.Fixer": {
+            "properties": {
+                "user_id": {
+                    "type": "string"
+                },
+                "fixer_type": {
+                    "enum": [
+                        "FIXER_TYPE_UNSPECIFIED",
+                        0,
+                        "FIXER_TYPE_ELECTED_REP",
+                        1,
+                        "FIXER_TYPE_GOVT_DEPT",
+                        2,
+                        "FIXER_TYPE_NGO",
+                        3,
+                        "FIXER_TYPE_RWA",
+                        4,
+                        "FIXER_TYPE_BUSINESS",
+                        5,
+                        "FIXER_TYPE_VOLUNTEER",
+                        6
+                    ],
+                    "oneOf": [
+                        {
+                            "type": "string"
+                        },
+                        {
+                            "type": "integer"
+                        }
+                    ],
+                    "title": "Fixer Type"
+                },
+                "org_name": {
+                    "type": "string"
+                },
+                "verified": {
+                    "type": "boolean"
+                },
+                "ac_ids": {
+                    "items": {
+                        "type": "integer"
+                    },
+                    "type": "array"
+                },
+                "fixes_claimed": {
+                    "type": "integer"
+                },
+                "fixes_verified": {
+                    "type": "integer"
+                }
+            },
+            "additionalProperties": true,
+            "type": "object",
+            "title": "Fixer"
+        },
+        "politic.core.v1.Participant": {
+            "properties": {
+                "user_id": {
+                    "type": "string"
+                },
+                "kyc_status": {
+                    "enum": [
+                        "KYC_STATUS_UNSPECIFIED",
+                        0,
+                        "KYC_STATUS_NONE",
+                        1,
+                        "KYC_STATUS_PENDING",
+                        2,
+                        "KYC_STATUS_VERIFIED",
+                        3,
+                        "KYC_STATUS_REJECTED",
+                        4
+                    ],
+                    "oneOf": [
+                        {
+                            "type": "string"
+                        },
+                        {
+                            "type": "integer"
+                        }
+                    ],
+                    "title": "KYC Status"
+                },
+                "booth_challenge_passed": {
+                    "type": "boolean"
+                },
+                "primary_hexagon_id": {
+                    "type": "string"
+                },
+                "civic_score": {
+                    "type": "integer"
+                },
+                "issues_reported": {
+                    "type": "integer"
+                },
+                "issues_verified": {
+                    "type": "integer"
+                },
+                "polls_completed": {
+                    "type": "integer"
+                }
+            },
+            "additionalProperties": true,
+            "type": "object",
+            "title": "Participant"
+        },
+        "politic.core.v1.User": {
+            "properties": {
+                "id": {
+                    "type": "string"
+                },
+                "type": {
+                    "enum": [
+                        "USER_TYPE_UNSPECIFIED",
+                        0,
+                        "USER_TYPE_PARTICIPANT",
+                        1,
+                        "USER_TYPE_CUSTOMER",
+                        2,
+                        "USER_TYPE_FIXER",
+                        3
+                    ],
+                    "oneOf": [
+                        {
+                            "type": "string"
+                        },
+                        {
+                            "type": "integer"
+                        }
+                    ],
+                    "title": "=============================================================================\n USER TYPES\n =============================================================================",
+                    "description": "============================================================================= USER TYPES ============================================================================="
+                },
+                "created_at": {
+                    "type": "string",
+                    "format": "date-time"
+                }
+            },
+            "additionalProperties": true,
+            "type": "object",
+            "title": "User"
+        }
+    }
+}

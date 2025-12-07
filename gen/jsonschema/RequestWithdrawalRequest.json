@@ -1,0 +1,43 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "$ref": "#/definitions/RequestWithdrawalRequest",
+    "definitions": {
+        "RequestWithdrawalRequest": {
+            "properties": {
+                "amount_inr": {
+                    "type": "number"
+                },
+                "method": {
+                    "enum": [
+                        "PAYOUT_METHOD_UNSPECIFIED",
+                        0,
+                        "PAYOUT_METHOD_UPI",
+                        1,
+                        "PAYOUT_METHOD_AMAZON_VOUCHER",
+                        2,
+                        "PAYOUT_METHOD_FLIPKART_VOUCHER",
+                        3,
+                        "PAYOUT_METHOD_ERUPI",
+                        4
+                    ],
+                    "oneOf": [
+                        {
+                            "type": "string"
+                        },
+                        {
+                            "type": "integer"
+                        }
+                    ],
+                    "title": "Payout Method"
+                },
+                "upi_id": {
+                    "type": "string",
+                    "description": "Required if method is UPI"
+                }
+            },
+            "additionalProperties": true,
+            "type": "object",
+            "title": "Request Withdrawal Request"
+        }
+    }
+}

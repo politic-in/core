@@ -1,0 +1,80 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "$ref": "#/definitions/CivicScoreLog",
+    "definitions": {
+        "CivicScoreLog": {
+            "properties": {
+                "id": {
+                    "type": "string"
+                },
+                "user_id": {
+                    "type": "string"
+                },
+                "action": {
+                    "enum": [
+                        "CIVIC_ACTION_UNSPECIFIED",
+                        0,
+                        "CIVIC_ACTION_KYC_COMPLETED",
+                        1,
+                        "CIVIC_ACTION_BOOTH_CHALLENGE_PASSED",
+                        2,
+                        "CIVIC_ACTION_ISSUE_VERIFIED",
+                        3,
+                        "CIVIC_ACTION_VERIFICATION_GIVEN",
+                        4,
+                        "CIVIC_ACTION_POLL_COMPLETED",
+                        5,
+                        "CIVIC_ACTION_ISSUE_FIXED",
+                        6,
+                        "CIVIC_ACTION_ACCOUNT_AGE_30",
+                        7,
+                        "CIVIC_ACTION_ACCOUNT_AGE_90",
+                        8,
+                        "CIVIC_ACTION_ACCOUNT_AGE_180",
+                        9,
+                        "CIVIC_ACTION_FAKE_VERIFICATION",
+                        10,
+                        "CIVIC_ACTION_FAKE_ISSUE_REPORTED",
+                        11,
+                        "CIVIC_ACTION_LOW_QUALITY_RESPONSE",
+                        12,
+                        "CIVIC_ACTION_INACTIVE_60_DAYS",
+                        13
+                    ],
+                    "oneOf": [
+                        {
+                            "type": "string"
+                        },
+                        {
+                            "type": "integer"
+                        }
+                    ],
+                    "title": "=============================================================================\n CIVIC SCORE TYPES\n =============================================================================",
+                    "description": "============================================================================= CIVIC SCORE TYPES ============================================================================="
+                },
+                "points": {
+                    "type": "integer"
+                },
+                "score_before": {
+                    "type": "integer"
+                },
+                "score_after": {
+                    "type": "integer"
+                },
+                "reference_type": {
+                    "type": "string"
+                },
+                "reference_id": {
+                    "type": "string"
+                },
+                "created_at": {
+                    "type": "string",
+                    "format": "date-time"
+                }
+            },
+            "additionalProperties": true,
+            "type": "object",
+            "title": "Civic Score Log"
+        }
+    }
+}

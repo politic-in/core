@@ -1,0 +1,61 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "$ref": "#/definitions/Fixer",
+    "definitions": {
+        "Fixer": {
+            "properties": {
+                "user_id": {
+                    "type": "string"
+                },
+                "fixer_type": {
+                    "enum": [
+                        "FIXER_TYPE_UNSPECIFIED",
+                        0,
+                        "FIXER_TYPE_ELECTED_REP",
+                        1,
+                        "FIXER_TYPE_GOVT_DEPT",
+                        2,
+                        "FIXER_TYPE_NGO",
+                        3,
+                        "FIXER_TYPE_RWA",
+                        4,
+                        "FIXER_TYPE_BUSINESS",
+                        5,
+                        "FIXER_TYPE_VOLUNTEER",
+                        6
+                    ],
+                    "oneOf": [
+                        {
+                            "type": "string"
+                        },
+                        {
+                            "type": "integer"
+                        }
+                    ],
+                    "title": "Fixer Type"
+                },
+                "org_name": {
+                    "type": "string"
+                },
+                "verified": {
+                    "type": "boolean"
+                },
+                "ac_ids": {
+                    "items": {
+                        "type": "integer"
+                    },
+                    "type": "array"
+                },
+                "fixes_claimed": {
+                    "type": "integer"
+                },
+                "fixes_verified": {
+                    "type": "integer"
+                }
+            },
+            "additionalProperties": true,
+            "type": "object",
+            "title": "Fixer"
+        }
+    }
+}

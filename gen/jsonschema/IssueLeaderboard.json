@@ -1,0 +1,78 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "$ref": "#/definitions/IssueLeaderboard",
+    "definitions": {
+        "IssueLeaderboard": {
+            "properties": {
+                "ac_id": {
+                    "type": "integer"
+                },
+                "ac_name": {
+                    "type": "string"
+                },
+                "open_issues": {
+                    "type": "integer"
+                },
+                "fixed_issues": {
+                    "type": "integer"
+                },
+                "avg_fix_time_days": {
+                    "type": "number"
+                },
+                "top_fixers": {
+                    "items": {
+                        "$ref": "#/definitions/politic.core.v1.TopFixer"
+                    },
+                    "type": "array"
+                }
+            },
+            "additionalProperties": true,
+            "type": "object",
+            "title": "=============================================================================\n LEADERBOARD TYPES\n =============================================================================",
+            "description": "============================================================================= LEADERBOARD TYPES ============================================================================="
+        },
+        "politic.core.v1.TopFixer": {
+            "properties": {
+                "fixer_name": {
+                    "type": "string"
+                },
+                "fixer_type": {
+                    "enum": [
+                        "FIXER_TYPE_UNSPECIFIED",
+                        0,
+                        "FIXER_TYPE_ELECTED_REP",
+                        1,
+                        "FIXER_TYPE_GOVT_DEPT",
+                        2,
+                        "FIXER_TYPE_NGO",
+                        3,
+                        "FIXER_TYPE_RWA",
+                        4,
+                        "FIXER_TYPE_BUSINESS",
+                        5,
+                        "FIXER_TYPE_VOLUNTEER",
+                        6
+                    ],
+                    "oneOf": [
+                        {
+                            "type": "string"
+                        },
+                        {
+                            "type": "integer"
+                        }
+                    ],
+                    "title": "Fixer Type"
+                },
+                "fixes_count": {
+                    "type": "integer"
+                },
+                "avg_fix_days": {
+                    "type": "number"
+                }
+            },
+            "additionalProperties": true,
+            "type": "object",
+            "title": "Top Fixer"
+        }
+    }
+}

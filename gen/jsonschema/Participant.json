@@ -1,0 +1,57 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "$ref": "#/definitions/Participant",
+    "definitions": {
+        "Participant": {
+            "properties": {
+                "user_id": {
+                    "type": "string"
+                },
+                "kyc_status": {
+                    "enum": [
+                        "KYC_STATUS_UNSPECIFIED",
+                        0,
+                        "KYC_STATUS_NONE",
+                        1,
+                        "KYC_STATUS_PENDING",
+                        2,
+                        "KYC_STATUS_VERIFIED",
+                        3,
+                        "KYC_STATUS_REJECTED",
+                        4
+                    ],
+                    "oneOf": [
+                        {
+                            "type": "string"
+                        },
+                        {
+                            "type": "integer"
+                        }
+                    ],
+                    "title": "KYC Status"
+                },
+                "booth_challenge_passed": {
+                    "type": "boolean"
+                },
+                "primary_hexagon_id": {
+                    "type": "string"
+                },
+                "civic_score": {
+                    "type": "integer"
+                },
+                "issues_reported": {
+                    "type": "integer"
+                },
+                "issues_verified": {
+                    "type": "integer"
+                },
+                "polls_completed": {
+                    "type": "integer"
+                }
+            },
+            "additionalProperties": true,
+            "type": "object",
+            "title": "Participant"
+        }
+    }
+}

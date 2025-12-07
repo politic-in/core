@@ -1,0 +1,36 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "$ref": "#/definitions/AssemblyConstituency",
+    "definitions": {
+        "AssemblyConstituency": {
+            "properties": {
+                "id": {
+                    "type": "integer"
+                },
+                "district_id": {
+                    "type": "integer"
+                },
+                "code": {
+                    "type": "string",
+                    "description": "\"KA-176\""
+                },
+                "name": {
+                    "type": "string"
+                },
+                "name_local": {
+                    "type": "string"
+                },
+                "total_voters": {
+                    "type": "integer"
+                },
+                "reserved_category": {
+                    "type": "string",
+                    "description": "\"GEN\", \"SC\", \"ST\""
+                }
+            },
+            "additionalProperties": true,
+            "type": "object",
+            "title": "Assembly Constituency"
+        }
+    }
+}

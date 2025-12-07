@@ -1,0 +1,19 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "$ref": "#/definitions/ListAssemblyConstituenciesRequest",
+    "definitions": {
+        "ListAssemblyConstituenciesRequest": {
+            "properties": {
+                "district_id": {
+                    "type": "integer"
+                },
+                "state_id": {
+                    "type": "integer"
+                }
+            },
+            "additionalProperties": true,
+            "type": "object",
+            "title": "List Assembly Constituencies Request"
+        }
+    }
+}

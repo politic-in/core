@@ -1,0 +1,24 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "$ref": "#/definitions/ClaimFixRequest",
+    "definitions": {
+        "ClaimFixRequest": {
+            "properties": {
+                "issue_id": {
+                    "type": "string"
+                },
+                "after_photo": {
+                    "type": "string",
+                    "format": "binary",
+                    "binaryEncoding": "base64"
+                },
+                "description": {
+                    "type": "string"
+                }
+            },
+            "additionalProperties": true,
+            "type": "object",
+            "title": "Claim Fix Request"
+        }
+    }
+}

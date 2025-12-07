@@ -1,0 +1,38 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "$ref": "#/definitions/FixClaim",
+    "definitions": {
+        "FixClaim": {
+            "properties": {
+                "id": {
+                    "type": "string"
+                },
+                "issue_id": {
+                    "type": "string"
+                },
+                "fixer_id": {
+                    "type": "string"
+                },
+                "after_photo_url": {
+                    "type": "string"
+                },
+                "description": {
+                    "type": "string"
+                },
+                "verify_count": {
+                    "type": "integer"
+                },
+                "verified": {
+                    "type": "boolean"
+                },
+                "created_at": {
+                    "type": "string",
+                    "format": "date-time"
+                }
+            },
+            "additionalProperties": true,
+            "type": "object",
+            "title": "Fix Claim"
+        }
+    }
+}

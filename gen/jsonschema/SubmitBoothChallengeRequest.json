@@ -1,0 +1,22 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "$ref": "#/definitions/SubmitBoothChallengeRequest",
+    "definitions": {
+        "SubmitBoothChallengeRequest": {
+            "properties": {
+                "booth_name_input": {
+                    "type": "string",
+                    "description": "User's input"
+                },
+                "ac_id": {
+                    "type": "integer",
+                    "description": "Which AC they claim to be in"
+                }
+            },
+            "additionalProperties": true,
+            "type": "object",
+            "title": "Submit Booth Challenge Request",
+            "description": "Booth Challenge"
+        }
+    }
+}

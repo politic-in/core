@@ -1,0 +1,59 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "$ref": "#/definitions/PollQuestion",
+    "definitions": {
+        "PollQuestion": {
+            "properties": {
+                "id": {
+                    "type": "string"
+                },
+                "poll_id": {
+                    "type": "string"
+                },
+                "question_type": {
+                    "enum": [
+                        "QUESTION_TYPE_UNSPECIFIED",
+                        0,
+                        "QUESTION_TYPE_SINGLE_CHOICE",
+                        1,
+                        "QUESTION_TYPE_MULTI_CHOICE",
+                        2,
+                        "QUESTION_TYPE_RATING",
+                        3,
+                        "QUESTION_TYPE_TEXT",
+                        4,
+                        "QUESTION_TYPE_AUDIO",
+                        5
+                    ],
+                    "oneOf": [
+                        {
+                            "type": "string"
+                        },
+                        {
+                            "type": "integer"
+                        }
+                    ],
+                    "title": "Question Type"
+                },
+                "question_text": {
+                    "type": "string"
+                },
+                "question_order": {
+                    "type": "integer"
+                },
+                "options": {
+                    "items": {
+                        "type": "string"
+                    },
+                    "type": "array"
+                },
+                "required": {
+                    "type": "boolean"
+                }
+            },
+            "additionalProperties": true,
+            "type": "object",
+            "title": "Poll Question"
+        }
+    }
+}

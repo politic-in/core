@@ -1,0 +1,65 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "$ref": "#/definitions/CreateIssueRequest",
+    "definitions": {
+        "CreateIssueRequest": {
+            "properties": {
+                "category": {
+                    "enum": [
+                        "ISSUE_CATEGORY_UNSPECIFIED",
+                        0,
+                        "ISSUE_CATEGORY_ROADS_TRANSPORT",
+                        1,
+                        "ISSUE_CATEGORY_WATER_SANITATION",
+                        2,
+                        "ISSUE_CATEGORY_ELECTRICITY",
+                        3,
+                        "ISSUE_CATEGORY_PUBLIC_SPACES",
+                        4,
+                        "ISSUE_CATEGORY_SAFETY",
+                        5,
+                        "ISSUE_CATEGORY_OTHER",
+                        6
+                    ],
+                    "oneOf": [
+                        {
+                            "type": "string"
+                        },
+                        {
+                            "type": "integer"
+                        }
+                    ],
+                    "title": "Issue Category"
+                },
+                "title": {
+                    "type": "string"
+                },
+                "description": {
+                    "type": "string"
+                },
+                "suggested_solution": {
+                    "type": "string"
+                },
+                "lat": {
+                    "type": "number"
+                },
+                "lng": {
+                    "type": "number"
+                },
+                "photos": {
+                    "items": {
+                        "type": "string"
+                    },
+                    "type": "array",
+                    "description": "Photo binary data",
+                    "format": "binary",
+                    "binaryEncoding": "base64"
+                }
+            },
+            "additionalProperties": true,
+            "type": "object",
+            "title": "Create Issue Request",
+            "description": "Issues"
+        }
+    }
+}

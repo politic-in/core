@@ -1,0 +1,22 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "$ref": "#/definitions/SubmitBoothChallengeResponse",
+    "definitions": {
+        "SubmitBoothChallengeResponse": {
+            "properties": {
+                "passed": {
+                    "type": "boolean"
+                },
+                "matched_booth_name": {
+                    "type": "string"
+                },
+                "confidence": {
+                    "type": "number"
+                }
+            },
+            "additionalProperties": true,
+            "type": "object",
+            "title": "Submit Booth Challenge Response"
+        }
+    }
+}

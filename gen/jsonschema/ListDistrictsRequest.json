@@ -1,0 +1,16 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "$ref": "#/definitions/ListDistrictsRequest",
+    "definitions": {
+        "ListDistrictsRequest": {
+            "properties": {
+                "state_id": {
+                    "type": "integer"
+                }
+            },
+            "additionalProperties": true,
+            "type": "object",
+            "title": "List Districts Request"
+        }
+    }
+}

@@ -1,0 +1,142 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "$ref": "#/definitions/ListIssuesResponse",
+    "definitions": {
+        "ListIssuesResponse": {
+            "properties": {
+                "issues": {
+                    "items": {
+                        "$ref": "#/definitions/politic.core.v1.Issue"
+                    },
+                    "type": "array"
+                },
+                "total": {
+                    "type": "integer"
+                }
+            },
+            "additionalProperties": true,
+            "type": "object",
+            "title": "List Issues Response"
+        },
+        "politic.core.v1.Issue": {
+            "properties": {
+                "id": {
+                    "type": "string"
+                },
+                "hexagon_id": {
+                    "type": "string"
+                },
+                "ac_id": {
+                    "type": "integer"
+                },
+                "lat": {
+                    "type": "number"
+                },
+                "lng": {
+                    "type": "number"
+                },
+                "address_text": {
+                    "type": "string"
+                },
+                "category": {
+                    "enum": [
+                        "ISSUE_CATEGORY_UNSPECIFIED",
+                        0,
+                        "ISSUE_CATEGORY_ROADS_TRANSPORT",
+                        1,
+                        "ISSUE_CATEGORY_WATER_SANITATION",
+                        2,
+                        "ISSUE_CATEGORY_ELECTRICITY",
+                        3,
+                        "ISSUE_CATEGORY_PUBLIC_SPACES",
+                        4,
+                        "ISSUE_CATEGORY_SAFETY",
+                        5,
+                        "ISSUE_CATEGORY_OTHER",
+                        6
+                    ],
+                    "oneOf": [
+                        {
+                            "type": "string"
+                        },
+                        {
+                            "type": "integer"
+                        }
+                    ],
+                    "title": "Issue Category"
+                },
+                "title": {
+                    "type": "string"
+                },
+                "description": {
+                    "type": "string"
+                },
+                "suggested_solution": {
+                    "type": "string"
+                },
+                "photo_urls": {
+                    "items": {
+                        "type": "string"
+                    },
+                    "type": "array"
+                },
+                "photo_verified": {
+                    "type": "boolean"
+                },
+                "status": {
+                    "enum": [
+                        "ISSUE_STATUS_UNSPECIFIED",
+                        0,
+                        "ISSUE_STATUS_OPEN",
+                        1,
+                        "ISSUE_STATUS_VERIFIED",
+                        2,
+                        "ISSUE_STATUS_REJECTED",
+                        3,
+                        "ISSUE_STATUS_IN_PROGRESS",
+                        4,
+                        "ISSUE_STATUS_FIXED",
+                        5
+                    ],
+                    "oneOf": [
+                        {
+                            "type": "string"
+                        },
+                        {
+                            "type": "integer"
+                        }
+                    ],
+                    "title": "=============================================================================\n ISSUE TYPES\n =============================================================================",
+                    "description": "============================================================================= ISSUE TYPES ============================================================================="
+                },
+                "verify_count": {
+                    "type": "integer"
+                },
+                "reject_count": {
+                    "type": "integer"
+                },
+                "fixed_at": {
+                    "type": "string",
+                    "format": "date-time"
+                },
+                "fixed_by": {
+                    "type": "string"
+                },
+                "fix_photo_url": {
+                    "type": "string"
+                },
+                "created_at": {
+                    "type": "string",
+                    "format": "date-time"
+                },
+                "verified_at": {
+                    "type": "string",
+                    "format": "date-time"
+                }
+            },
+            "additionalProperties": true,
+            "type": "object",
+            "title": "Issue"
+        }
+    }
+}
