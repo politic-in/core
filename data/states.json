@@ -1,0 +1,793 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "lastUpdated": "2024-03-23",
+    "source": "Official Government of India data",
+    "description": "List of all states and union territories in India with geographical coordinates",
+    "totalEntities": 36,
+    "states": 28,
+    "unionTerritories": 8
+  },
+  "states": [
+    {
+      "id": 1,
+      "stateId": "AP",
+      "name": "Andhra Pradesh",
+      "type": "state",
+      "capital": "Amaravati",
+      "latitude": 15.9129,
+      "longitude": 79.7400,
+      "region": "South India",
+      "newsSources": [
+        {
+          "name": "The Hindu Andhra Pradesh",
+          "baseUrl": "https://www.thehindu.com/news/national/andhra-pradesh/",
+          "selectors": {"title": "h1.title", "content": "div.articlebodycontent", "date": "span.publish-time"},
+          "priority": 9,
+          "scrapeFrequencyHours": 12
+        },
+        {
+          "name": "Eenadu Online",
+          "baseUrl": "https://www.eenadu.net/",
+          "selectors": {"title": "h1.news-title", "content": "div.story-content"},
+          "priority": 8,
+          "scrapeFrequencyHours": 12
+        },
+        {
+          "name": "Deccan Chronicle Andhra",
+          "baseUrl": "https://www.deccanchronicle.com/south/andhra-pradesh",
+          "selectors": {"title": "h1.story-heading", "content": "div.story-body"},
+          "priority": 7,
+          "scrapeFrequencyHours": 24
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "stateId": "AR",
+      "name": "Arunachal Pradesh",
+      "type": "state",
+      "capital": "Itanagar",
+      "latitude": 28.2180,
+      "longitude": 94.7278,
+      "region": "Northeast India"
+    },
+    {
+      "id": 3,
+      "stateId": "AS",
+      "name": "Assam",
+      "type": "state",
+      "capital": "Dispur",
+      "latitude": 26.2006,
+      "longitude": 92.9376,
+      "region": "Northeast India",
+      "newsSources": [
+        {
+          "name": "The Assam Tribune",
+          "baseUrl": "https://www.assamtribune.com/",
+          "selectors": {"title": "h1.article-title", "content": "div.article-body"},
+          "priority": 9,
+          "scrapeFrequencyHours": 12
+        },
+        {
+          "name": "The Sentinel Assam",
+          "baseUrl": "https://www.sentinelassam.com/",
+          "selectors": {"title": "h1.news-heading", "content": "div.news-content"},
+          "priority": 8,
+          "scrapeFrequencyHours": 24
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "stateId": "BR",
+      "name": "Bihar",
+      "type": "state",
+      "capital": "Patna",
+      "latitude": 25.0961,
+      "longitude": 85.3131,
+      "region": "East India",
+      "newsSources": [
+        {
+          "name": "Hindustan Times Patna",
+          "baseUrl": "https://www.hindustantimes.com/cities/patna-news",
+          "selectors": {"title": "h1.hdg1", "content": "div.detail"},
+          "priority": 8,
+          "scrapeFrequencyHours": 12
+        },
+        {
+          "name": "Dainik Jagran Bihar",
+          "baseUrl": "https://www.jagran.com/bihar",
+          "selectors": {"title": "h1.news-title", "content": "div.story-content"},
+          "priority": 8,
+          "scrapeFrequencyHours": 24
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "stateId": "CG",
+      "name": "Chhattisgarh",
+      "type": "state",
+      "capital": "Raipur",
+      "latitude": 21.2787,
+      "longitude": 81.8661,
+      "region": "Central India"
+    },
+    {
+      "id": 6,
+      "stateId": "GA",
+      "name": "Goa",
+      "type": "state",
+      "capital": "Panaji",
+      "latitude": 15.2993,
+      "longitude": 74.1240,
+      "region": "West India"
+    },
+    {
+      "id": 7,
+      "stateId": "GJ",
+      "name": "Gujarat",
+      "type": "state",
+      "capital": "Gandhinagar",
+      "latitude": 22.2587,
+      "longitude": 71.1924,
+      "region": "West India",
+      "newsSources": [
+        {
+          "name": "Times of India Ahmedabad",
+          "baseUrl": "https://timesofindia.indiatimes.com/city/ahmedabad",
+          "selectors": {"title": "h1.HNMDR", "content": "div._s30J"},
+          "priority": 9,
+          "scrapeFrequencyHours": 12
+        },
+        {
+          "name": "Gujarat Samachar",
+          "baseUrl": "https://www.gujaratsamachar.com/",
+          "selectors": {"title": "h1.news-title", "content": "div.story-content"},
+          "priority": 9,
+          "scrapeFrequencyHours": 12
+        },
+        {
+          "name": "Sandesh",
+          "baseUrl": "https://www.sandesh.com/",
+          "selectors": {"title": "h1.article-heading", "content": "div.article-body"},
+          "priority": 8,
+          "scrapeFrequencyHours": 24
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "stateId": "HR",
+      "name": "Haryana",
+      "type": "state",
+      "capital": "Chandigarh",
+      "latitude": 29.0588,
+      "longitude": 76.0856,
+      "region": "North India"
+    },
+    {
+      "id": 9,
+      "stateId": "HP",
+      "name": "Himachal Pradesh",
+      "type": "state",
+      "capital": "Shimla",
+      "latitude": 31.1048,
+      "longitude": 77.1734,
+      "region": "North India"
+    },
+    {
+      "id": 10,
+      "stateId": "JH",
+      "name": "Jharkhand",
+      "type": "state",
+      "capital": "Ranchi",
+      "latitude": 23.6102,
+      "longitude": 85.2799,
+      "region": "East India"
+    },
+    {
+      "id": 11,
+      "stateId": "KA",
+      "name": "Karnataka",
+      "type": "state",
+      "capital": "Bengaluru",
+      "latitude": 15.3173,
+      "longitude": 75.7139,
+      "region": "South India",
+      "newsSources": [
+        {
+          "name": "The Hindu Karnataka",
+          "baseUrl": "https://www.thehindu.com/news/national/karnataka/",
+          "selectors": {"title": "h1.title", "content": "div.articlebodycontent", "date": "span.publish-time"},
+          "priority": 10,
+          "scrapeFrequencyHours": 12
+        },
+        {
+          "name": "Times of India Bangalore",
+          "baseUrl": "https://timesofindia.indiatimes.com/city/bengaluru",
+          "selectors": {"title": "h1.HNMDR", "content": "div._s30J"},
+          "priority": 9,
+          "scrapeFrequencyHours": 12
+        },
+        {
+          "name": "Deccan Herald",
+          "baseUrl": "https://www.deccanherald.com/karnataka",
+          "selectors": {"title": "h1.article-title", "content": "div.article-content"},
+          "priority": 9,
+          "scrapeFrequencyHours": 12
+        },
+        {
+          "name": "Vijaya Karnataka",
+          "baseUrl": "https://vijaykarnataka.com/",
+          "selectors": {"title": "h1.news-title", "content": "div.story-content"},
+          "priority": 8,
+          "scrapeFrequencyHours": 24
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "stateId": "KL",
+      "name": "Kerala",
+      "type": "state",
+      "capital": "Thiruvananthapuram",
+      "latitude": 10.8505,
+      "longitude": 76.2711,
+      "region": "South India",
+      "newsSources": [
+        {
+          "name": "Mathrubhumi",
+          "baseUrl": "https://www.mathrubhumi.com/",
+          "selectors": {"title": "h1.article-title", "content": "div.article-content"},
+          "priority": 9,
+          "scrapeFrequencyHours": 12
+        },
+        {
+          "name": "Malayala Manorama",
+          "baseUrl": "https://www.manoramaonline.com/",
+          "selectors": {"title": "h1.news-heading", "content": "div.news-body"},
+          "priority": 9,
+          "scrapeFrequencyHours": 12
+        },
+        {
+          "name": "The Hindu Kerala",
+          "baseUrl": "https://www.thehindu.com/news/national/kerala/",
+          "selectors": {"title": "h1.title", "content": "div.articlebodycontent"},
+          "priority": 8,
+          "scrapeFrequencyHours": 24
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "stateId": "MP",
+      "name": "Madhya Pradesh",
+      "type": "state",
+      "capital": "Bhopal",
+      "latitude": 22.9734,
+      "longitude": 78.6569,
+      "region": "Central India",
+      "newsSources": [
+        {
+          "name": "Nai Dunia",
+          "baseUrl": "https://www.naidunia.com/",
+          "selectors": {"title": "h1.article-title", "content": "div.article-body"},
+          "priority": 8,
+          "scrapeFrequencyHours": 12
+        },
+        {
+          "name": "Dainik Bhaskar MP",
+          "baseUrl": "https://www.bhaskar.com/mp/",
+          "selectors": {"title": "h1.news-title", "content": "div.story-content"},
+          "priority": 8,
+          "scrapeFrequencyHours": 24
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "stateId": "MH",
+      "name": "Maharashtra",
+      "type": "state",
+      "capital": "Mumbai",
+      "latitude": 19.7515,
+      "longitude": 75.7139,
+      "region": "West India",
+      "newsSources": [
+        {
+          "name": "Times of India Mumbai",
+          "baseUrl": "https://timesofindia.indiatimes.com/city/mumbai",
+          "selectors": {"title": "h1.HNMDR", "content": "div._s30J"},
+          "priority": 10,
+          "scrapeFrequencyHours": 12
+        },
+        {
+          "name": "Indian Express Mumbai",
+          "baseUrl": "https://indianexpress.com/section/cities/mumbai/",
+          "selectors": {"title": "h1.native_story_title", "content": "div.full-details"},
+          "priority": 9,
+          "scrapeFrequencyHours": 12
+        },
+        {
+          "name": "Maharashtra Times",
+          "baseUrl": "https://maharashtratimes.com/",
+          "selectors": {"title": "h1.article-title", "content": "div.article-body"},
+          "priority": 9,
+          "scrapeFrequencyHours": 12
+        },
+        {
+          "name": "Loksatta",
+          "baseUrl": "https://www.loksatta.com/",
+          "selectors": {"title": "h1.news-heading", "content": "div.news-body"},
+          "priority": 8,
+          "scrapeFrequencyHours": 24
+        },
+        {
+          "name": "Mumbai Mirror",
+          "baseUrl": "https://mumbaimirror.indiatimes.com/",
+          "selectors": {"title": "h1.article_heading", "content": "div.article_content"},
+          "priority": 7,
+          "scrapeFrequencyHours": 24
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "stateId": "MN",
+      "name": "Manipur",
+      "type": "state",
+      "capital": "Imphal",
+      "latitude": 24.6637,
+      "longitude": 93.9063,
+      "region": "Northeast India"
+    },
+    {
+      "id": 16,
+      "stateId": "ML",
+      "name": "Meghalaya",
+      "type": "state",
+      "capital": "Shillong",
+      "latitude": 25.4670,
+      "longitude": 91.3662,
+      "region": "Northeast India"
+    },
+    {
+      "id": 17,
+      "stateId": "MZ",
+      "name": "Mizoram",
+      "type": "state",
+      "capital": "Aizawl",
+      "latitude": 23.1645,
+      "longitude": 92.9376,
+      "region": "Northeast India"
+    },
+    {
+      "id": 18,
+      "stateId": "NL",
+      "name": "Nagaland",
+      "type": "state",
+      "capital": "Kohima",
+      "latitude": 26.1584,
+      "longitude": 94.5624,
+      "region": "Northeast India"
+    },
+    {
+      "id": 19,
+      "stateId": "OD",
+      "name": "Odisha",
+      "type": "state",
+      "capital": "Bhubaneswar",
+      "latitude": 20.9517,
+      "longitude": 85.0985,
+      "region": "East India"
+    },
+    {
+      "id": 20,
+      "stateId": "PB",
+      "name": "Punjab",
+      "type": "state",
+      "capital": "Chandigarh",
+      "latitude": 31.1471,
+      "longitude": 75.3412,
+      "region": "North India",
+      "newsSources": [
+        {
+          "name": "Tribune Chandigarh",
+          "baseUrl": "https://www.tribuneindia.com/news/punjab",
+          "selectors": {"title": "h1.story-title", "content": "div.story-content"},
+          "priority": 9,
+          "scrapeFrequencyHours": 12
+        },
+        {
+          "name": "Jagbani",
+          "baseUrl": "https://www.jagbani.com/",
+          "selectors": {"title": "h1.news-title", "content": "div.news-body"},
+          "priority": 8,
+          "scrapeFrequencyHours": 24
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "stateId": "RJ",
+      "name": "Rajasthan",
+      "type": "state",
+      "capital": "Jaipur",
+      "latitude": 27.0238,
+      "longitude": 74.2179,
+      "region": "North India",
+      "newsSources": [
+        {
+          "name": "Rajasthan Patrika",
+          "baseUrl": "https://www.patrika.com/rajasthan-news/",
+          "selectors": {"title": "h1.article-title", "content": "div.article-body"},
+          "priority": 9,
+          "scrapeFrequencyHours": 12
+        },
+        {
+          "name": "Dainik Bhaskar Rajasthan",
+          "baseUrl": "https://www.bhaskar.com/rajasthan/",
+          "selectors": {"title": "h1.news-title", "content": "div.story-content"},
+          "priority": 8,
+          "scrapeFrequencyHours": 24
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "stateId": "SK",
+      "name": "Sikkim",
+      "type": "state",
+      "capital": "Gangtok",
+      "latitude": 27.5330,
+      "longitude": 88.5122,
+      "region": "Northeast India"
+    },
+    {
+      "id": 23,
+      "stateId": "TN",
+      "name": "Tamil Nadu",
+      "type": "state",
+      "capital": "Chennai",
+      "latitude": 11.1271,
+      "longitude": 78.6569,
+      "region": "South India",
+      "newsSources": [
+        {
+          "name": "The Hindu Tamil Nadu",
+          "baseUrl": "https://www.thehindu.com/news/national/tamil-nadu/",
+          "selectors": {"title": "h1.title", "content": "div.articlebodycontent", "date": "span.publish-time"},
+          "priority": 10,
+          "scrapeFrequencyHours": 12
+        },
+        {
+          "name": "Dinamalar",
+          "baseUrl": "https://www.dinamalar.com/",
+          "selectors": {"title": "h1.news-title", "content": "div.news-content"},
+          "priority": 9,
+          "scrapeFrequencyHours": 12
+        },
+        {
+          "name": "Times of India Chennai",
+          "baseUrl": "https://timesofindia.indiatimes.com/city/chennai",
+          "selectors": {"title": "h1.HNMDR", "content": "div._s30J", "date": "span.xf8Pm"},
+          "priority": 9,
+          "scrapeFrequencyHours": 12
+        },
+        {
+          "name": "Indian Express Chennai",
+          "baseUrl": "https://indianexpress.com/section/cities/chennai/",
+          "selectors": {"title": "h1.native_story_title", "content": "div.full-details"},
+          "priority": 8,
+          "scrapeFrequencyHours": 12
+        },
+        {
+          "name": "News18 Tamil Nadu",
+          "baseUrl": "https://tamil.news18.com/",
+          "selectors": {"title": "h1.article_heading", "content": "div.article_content"},
+          "priority": 7,
+          "scrapeFrequencyHours": 24
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "stateId": "TG",
+      "name": "Telangana",
+      "type": "state",
+      "capital": "Hyderabad",
+      "latitude": 18.1124,
+      "longitude": 79.0193,
+      "region": "South India",
+      "newsSources": [
+        {
+          "name": "The Hindu Telangana",
+          "baseUrl": "https://www.thehindu.com/news/national/telangana/",
+          "selectors": {"title": "h1.title", "content": "div.articlebodycontent"},
+          "priority": 9,
+          "scrapeFrequencyHours": 12
+        },
+        {
+          "name": "Times of India Hyderabad",
+          "baseUrl": "https://timesofindia.indiatimes.com/city/hyderabad",
+          "selectors": {"title": "h1.HNMDR", "content": "div._s30J"},
+          "priority": 9,
+          "scrapeFrequencyHours": 12
+        },
+        {
+          "name": "Deccan Chronicle Hyderabad",
+          "baseUrl": "https://www.deccanchronicle.com/south/telangana",
+          "selectors": {"title": "h1.story-heading", "content": "div.story-body"},
+          "priority": 8,
+          "scrapeFrequencyHours": 24
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "stateId": "TR",
+      "name": "Tripura",
+      "type": "state",
+      "capital": "Agartala",
+      "latitude": 23.9408,
+      "longitude": 91.9882,
+      "region": "Northeast India"
+    },
+    {
+      "id": 26,
+      "stateId": "UP",
+      "name": "Uttar Pradesh",
+      "type": "state",
+      "capital": "Lucknow",
+      "latitude": 26.8467,
+      "longitude": 80.9462,
+      "region": "North India",
+      "newsSources": [
+        {
+          "name": "Times of India Lucknow",
+          "baseUrl": "https://timesofindia.indiatimes.com/city/lucknow",
+          "selectors": {"title": "h1.HNMDR", "content": "div._s30J"},
+          "priority": 9,
+          "scrapeFrequencyHours": 12
+        },
+        {
+          "name": "Hindustan Times Lucknow",
+          "baseUrl": "https://www.hindustantimes.com/cities/lucknow-news",
+          "selectors": {"title": "h1.hdg1", "content": "div.detail"},
+          "priority": 9,
+          "scrapeFrequencyHours": 12
+        },
+        {
+          "name": "Dainik Jagran",
+          "baseUrl": "https://www.jagran.com/uttar-pradesh",
+          "selectors": {"title": "h1.news-title", "content": "div.story-content"},
+          "priority": 8,
+          "scrapeFrequencyHours": 24
+        },
+        {
+          "name": "Amar Ujala UP",
+          "baseUrl": "https://www.amarujala.com/uttar-pradesh",
+          "selectors": {"title": "h1.article-heading", "content": "div.article-body"},
+          "priority": 8,
+          "scrapeFrequencyHours": 24
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "stateId": "UK",
+      "name": "Uttarakhand",
+      "type": "state",
+      "capital": "Dehradun (Winter), Gairsain (Summer)",
+      "latitude": 30.0668,
+      "longitude": 79.0193,
+      "region": "North India"
+    },
+    {
+      "id": 28,
+      "stateId": "WB",
+      "name": "West Bengal",
+      "type": "state",
+      "capital": "Kolkata",
+      "latitude": 22.9868,
+      "longitude": 87.8550,
+      "region": "East India",
+      "newsSources": [
+        {
+          "name": "The Telegraph Calcutta",
+          "baseUrl": "https://www.telegraphindia.com/west-bengal",
+          "selectors": {"title": "h1.story-title", "content": "div.story-content"},
+          "priority": 10,
+          "scrapeFrequencyHours": 12
+        },
+        {
+          "name": "Times of India Kolkata",
+          "baseUrl": "https://timesofindia.indiatimes.com/city/kolkata",
+          "selectors": {"title": "h1.HNMDR", "content": "div._s30J"},
+          "priority": 9,
+          "scrapeFrequencyHours": 12
+        },
+        {
+          "name": "Anandabazar Patrika",
+          "baseUrl": "https://www.anandabazar.com/",
+          "selectors": {"title": "h1.article-title", "content": "div.article-body"},
+          "priority": 9,
+          "scrapeFrequencyHours": 12
+        },
+        {
+          "name": "Ei Samay",
+          "baseUrl": "https://eisamay.indiatimes.com/",
+          "selectors": {"title": "h1.news-title", "content": "div.news-body"},
+          "priority": 8,
+          "scrapeFrequencyHours": 24
+        }
+      ]
+    }
+  ],
+  "unionTerritories": [
+    {
+      "id": 29,
+      "stateId": "AN",
+      "name": "Andaman and Nicobar Islands",
+      "type": "union_territory",
+      "capital": "Port Blair",
+      "latitude": 11.7401,
+      "longitude": 92.6586,
+      "region": "Islands"
+    },
+    {
+      "id": 30,
+      "stateId": "CH",
+      "name": "Chandigarh",
+      "type": "union_territory",
+      "capital": "Chandigarh",
+      "latitude": 30.7333,
+      "longitude": 76.7794,
+      "region": "North India"
+    },
+    {
+      "id": 31,
+      "stateId": "DH",
+      "name": "Dadra and Nagar Haveli and Daman and Diu",
+      "type": "union_territory",
+      "capital": "Daman",
+      "latitude": 20.4283,
+      "longitude": 72.8397,
+      "region": "West India"
+    },
+    {
+      "id": 32,
+      "stateId": "DL",
+      "name": "Delhi",
+      "type": "union_territory",
+      "capital": "New Delhi",
+      "latitude": 28.7041,
+      "longitude": 77.1025,
+      "region": "North India",
+      "newsSources": [
+        {
+          "name": "Hindustan Times Delhi",
+          "baseUrl": "https://www.hindustantimes.com/cities/delhi-news",
+          "selectors": {"title": "h1.hdg1", "content": "div.detail"},
+          "priority": 10,
+          "scrapeFrequencyHours": 12
+        },
+        {
+          "name": "Times of India Delhi",
+          "baseUrl": "https://timesofindia.indiatimes.com/city/delhi",
+          "selectors": {"title": "h1.HNMDR", "content": "div._s30J"},
+          "priority": 10,
+          "scrapeFrequencyHours": 12
+        },
+        {
+          "name": "Indian Express Delhi",
+          "baseUrl": "https://indianexpress.com/section/cities/delhi/",
+          "selectors": {"title": "h1.native_story_title", "content": "div.full-details"},
+          "priority": 9,
+          "scrapeFrequencyHours": 12
+        },
+        {
+          "name": "NDTV Delhi",
+          "baseUrl": "https://www.ndtv.com/delhi-news",
+          "selectors": {"title": "h1.sp-ttl", "content": "div.sp-cn"},
+          "priority": 8,
+          "scrapeFrequencyHours": 24
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "stateId": "JK",
+      "name": "Jammu and Kashmir",
+      "type": "union_territory",
+      "capital": "Srinagar (Summer), Jammu (Winter)",
+      "latitude": 33.7782,
+      "longitude": 76.5762,
+      "region": "North India"
+    },
+    {
+      "id": 34,
+      "stateId": "LA",
+      "name": "Ladakh",
+      "type": "union_territory",
+      "capital": "Leh",
+      "latitude": 34.1526,
+      "longitude": 77.5771,
+      "region": "North India"
+    },
+    {
+      "id": 35,
+      "stateId": "LD",
+      "name": "Lakshadweep",
+      "type": "union_territory",
+      "capital": "Kavaratti",
+      "latitude": 10.5667,
+      "longitude": 72.6417,
+      "region": "Islands"
+    },
+    {
+      "id": 36,
+      "stateId": "PY",
+      "name": "Puducherry",
+      "type": "union_territory",
+      "capital": "Puducherry",
+      "latitude": 11.9416,
+      "longitude": 79.8083,
+      "region": "South India"
+    }
+  ],
+  "regions": {
+    "North India": [
+      "Haryana",
+      "Himachal Pradesh",
+      "Punjab",
+      "Rajasthan",
+      "Uttar Pradesh",
+      "Uttarakhand",
+      "Chandigarh",
+      "Delhi",
+      "Jammu and Kashmir",
+      "Ladakh"
+    ],
+    "South India": [
+      "Andhra Pradesh",
+      "Karnataka",
+      "Kerala",
+      "Tamil Nadu",
+      "Telangana",
+      "Puducherry"
+    ],
+    "East India": [
+      "Bihar",
+      "Jharkhand",
+      "Odisha",
+      "West Bengal"
+    ],
+    "West India": [
+      "Goa",
+      "Gujarat",
+      "Maharashtra",
+      "Dadra and Nagar Haveli and Daman and Diu"
+    ],
+    "Central India": [
+      "Chhattisgarh",
+      "Madhya Pradesh"
+    ],
+    "Northeast India": [
+      "Arunachal Pradesh",
+      "Assam",
+      "Manipur",
+      "Meghalaya",
+      "Mizoram",
+      "Nagaland",
+      "Sikkim",
+      "Tripura"
+    ],
+    "Islands": [
+      "Andaman and Nicobar Islands",
+      "Lakshadweep"
+    ]
+  }
+}
