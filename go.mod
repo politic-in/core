@@ -4,7 +4,7 @@ go 1.24.0
 
 require (
 	github.com/lithammer/fuzzysearch v1.1.8
-	github.com/uber/h3-go/v4 v4.1.2
+	github.com/uber/h3-go/v4 v4.3.0
 	google.golang.org/grpc v1.77.0
 	google.golang.org/protobuf v1.36.10
 )
