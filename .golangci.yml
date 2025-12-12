@@ -8,10 +8,9 @@ linters:
   default: none
   enable:
     - errcheck
-    - gosimple
     - govet
     - ineffassign
-    - staticcheck
+    - staticcheck  # includes gosimple, stylecheck
     - unused
     - misspell
     - unconvert
