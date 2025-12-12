@@ -1,8 +1,11 @@
+version: "2"
+
 run:
   timeout: 5m
   modules-download-mode: readonly
 
 linters:
+  default: none
   enable:
     - errcheck
     - gosimple
@@ -10,30 +13,34 @@ linters:
     - ineffassign
     - staticcheck
     - unused
-    - gofmt
-    - goimports
     - misspell
     - unconvert
     - unparam
 
-linters-settings:
-  errcheck:
-    check-type-assertions: true
-  govet:
-    enable:
-      - shadow
-  gofmt:
-    simplify: true
+  settings:
+    errcheck:
+      check-type-assertions: true
+    govet:
+      enable:
+        - shadow
 
-issues:
-  exclude-rules:
-    # Ignore test files for some linters
-    - path: _test\.go
-      linters:
-        - errcheck
-        - unparam
+  exclusions:
+    rules:
+      # Ignore test files for some linters
+      - path: _test\.go
+        linters:
+          - errcheck
+          - unparam
+      # Ignore generated files
+      - path: gen/
+        linters:
+          - all
 
-    # Ignore generated files
-    - path: gen/
-      linters:
-        - all
+formatters:
+  enable:
+    - gofmt
+    - goimports
+
+  settings:
+    gofmt:
+      simplify: true
