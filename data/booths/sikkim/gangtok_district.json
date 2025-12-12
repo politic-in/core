@@ -8,7 +8,9 @@
     "acNumber": 26,
     "acName": "ARITHANG",
     "partNumber": 1,
-    "partName": "ARITHANG  A"
+    "partName": "ARITHANG  A",
+    "lat": 27.328827699999998,
+    "lon": 88.6100048015409
   },
   {
     "partId": 476,
@@ -19,7 +21,9 @@
     "acNumber": 26,
     "acName": "ARITHANG",
     "partNumber": 2,
-    "partName": "ARITHANG B"
+    "partName": "ARITHANG B",
+    "lat": 27.328827699999998,
+    "lon": 88.6100048015409
   },
   {
     "partId": 477,
@@ -30,7 +34,9 @@
     "acNumber": 26,
     "acName": "ARITHANG",
     "partNumber": 3,
-    "partName": "ARITHANG C"
+    "partName": "ARITHANG C",
+    "lat": 27.328827699999998,
+    "lon": 88.6100048015409
   },
   {
     "partId": 478,
@@ -41,7 +47,9 @@
     "acNumber": 26,
     "acName": "ARITHANG",
     "partNumber": 4,
-    "partName": "ARITHANG D"
+    "partName": "ARITHANG D",
+    "lat": 27.328827699999998,
+    "lon": 88.6100048015409
   },
   {
     "partId": 479,
@@ -52,7 +60,9 @@
     "acNumber": 26,
     "acName": "ARITHANG",
     "partNumber": 5,
-    "partName": "ARITHANG E"
+    "partName": "ARITHANG E",
+    "lat": 27.328827699999998,
+    "lon": 88.6100048015409
   },
   {
     "partId": 480,
@@ -63,7 +73,9 @@
     "acNumber": 26,
     "acName": "ARITHANG",
     "partNumber": 6,
-    "partName": "LOWER M.G. MARG A"
+    "partName": "LOWER M.G. MARG A",
+    "lat": 27.32378885,
+    "lon": 88.61057247388393
   },
   {
     "partId": 481,
@@ -74,7 +86,9 @@
     "acNumber": 26,
     "acName": "ARITHANG",
     "partNumber": 7,
-    "partName": "LOWER M.G. MARG D"
+    "partName": "LOWER M.G. MARG D",
+    "lat": 27.32378885,
+    "lon": 88.61057247388393
   },
   {
     "partId": 482,
@@ -85,7 +99,9 @@
     "acNumber": 26,
     "acName": "ARITHANG",
     "partNumber": 8,
-    "partName": "LOWER M.G. MARG B"
+    "partName": "LOWER M.G. MARG B",
+    "lat": 27.32378885,
+    "lon": 88.61057247388393
   },
   {
     "partId": 483,
@@ -96,7 +112,9 @@
     "acNumber": 26,
     "acName": "ARITHANG",
     "partNumber": 9,
-    "partName": "LOWER M.G. MARG C"
+    "partName": "LOWER M.G. MARG C",
+    "lat": 27.32378885,
+    "lon": 88.61057247388393
   },
   {
     "partId": 484,
@@ -107,7 +125,9 @@
     "acNumber": 26,
     "acName": "ARITHANG",
     "partNumber": 10,
-    "partName": "DEORALI A"
+    "partName": "DEORALI A",
+    "lat": 27.31936295,
+    "lon": 88.60649555562568
   },
   {
     "partId": 485,
@@ -118,7 +138,9 @@
     "acNumber": 26,
     "acName": "ARITHANG",
     "partNumber": 11,
-    "partName": "DEORALI B"
+    "partName": "DEORALI B",
+    "lat": 27.31936295,
+    "lon": 88.60649555562568
   },
   {
     "partId": 486,
@@ -129,7 +151,9 @@
     "acNumber": 26,
     "acName": "ARITHANG",
     "partNumber": 12,
-    "partName": "SYARI/TATHANGCHEN  D"
+    "partName": "SYARI/TATHANGCHEN  D",
+    "lat": 27.315330699999997,
+    "lon": 88.60525718283506
   },
   {
     "partId": 497,
@@ -140,7 +164,9 @@
     "acNumber": 27,
     "acName": "GANGTOK",
     "partNumber": 1,
-    "partName": "UPPER M.G. MARG A"
+    "partName": "UPPER M.G. MARG A",
+    "lat": 27.3259161,
+    "lon": 88.6124537867197
   },
   {
     "partId": 487,
@@ -151,7 +177,9 @@
     "acNumber": 27,
     "acName": "GANGTOK",
     "partNumber": 2,
-    "partName": "UPPER M.G. MARG B"
+    "partName": "UPPER M.G. MARG B",
+    "lat": 27.3259161,
+    "lon": 88.6124537867197
   },
   {
     "partId": 488,
@@ -162,7 +190,9 @@
     "acNumber": 27,
     "acName": "GANGTOK",
     "partNumber": 3,
-    "partName": "DIESEL POWER HOUSE A"
+    "partName": "DIESEL POWER HOUSE A",
+    "lat": 27.329046,
+    "lon": 88.6122673
   },
   {
     "partId": 489,
@@ -173,7 +203,9 @@
     "acNumber": 27,
     "acName": "GANGTOK",
     "partNumber": 4,
-    "partName": "DIESEL POWER HOUSE B"
+    "partName": "DIESEL POWER HOUSE B",
+    "lat": 27.329046,
+    "lon": 88.6122673
   },
   {
     "partId": 490,
@@ -184,7 +216,9 @@
     "acNumber": 27,
     "acName": "GANGTOK",
     "partNumber": 5,
-    "partName": "DIESEL POWER HOUSE C"
+    "partName": "DIESEL POWER HOUSE C",
+    "lat": 27.329046,
+    "lon": 88.6122673
   },
   {
     "partId": 491,
@@ -195,7 +229,9 @@
     "acNumber": 27,
     "acName": "GANGTOK",
     "partNumber": 6,
-    "partName": "DEVELOPMENT AREA A"
+    "partName": "DEVELOPMENT AREA A",
+    "lat": 27.340273099999997,
+    "lon": 88.61210436086364
   },
   {
     "partId": 492,
@@ -206,7 +242,9 @@
     "acNumber": 27,
     "acName": "GANGTOK",
     "partNumber": 7,
-    "partName": "DEVELOPMENT AREA B"
+    "partName": "DEVELOPMENT AREA B",
+    "lat": 27.340273099999997,
+    "lon": 88.61210436086364
   },
   {
     "partId": 493,
@@ -217,7 +255,9 @@
     "acNumber": 27,
     "acName": "GANGTOK",
     "partNumber": 8,
-    "partName": "DEVELOPMENT AREA C"
+    "partName": "DEVELOPMENT AREA C",
+    "lat": 27.340273099999997,
+    "lon": 88.61210436086364
   },
   {
     "partId": 494,
@@ -228,7 +268,9 @@
     "acNumber": 27,
     "acName": "GANGTOK",
     "partNumber": 9,
-    "partName": "DEVELOPMENT AREA D"
+    "partName": "DEVELOPMENT AREA D",
+    "lat": 27.340273099999997,
+    "lon": 88.61210436086364
   },
   {
     "partId": 495,
@@ -239,7 +281,9 @@
     "acNumber": 27,
     "acName": "GANGTOK",
     "partNumber": 10,
-    "partName": "TIBET ROAD A"
+    "partName": "TIBET ROAD A",
+    "lat": 27.3313553,
+    "lon": 88.6152021
   },
   {
     "partId": 496,
@@ -250,7 +294,9 @@
     "acNumber": 27,
     "acName": "GANGTOK",
     "partNumber": 11,
-    "partName": "TIBET ROAD B"
+    "partName": "TIBET ROAD B",
+    "lat": 27.3313553,
+    "lon": 88.6152021
   },
   {
     "partId": 498,
@@ -261,7 +307,9 @@
     "acNumber": 27,
     "acName": "GANGTOK",
     "partNumber": 12,
-    "partName": "TIBET ROAD C"
+    "partName": "TIBET ROAD C",
+    "lat": 27.3313553,
+    "lon": 88.6152021
   },
   {
     "partId": 302,
@@ -272,7 +320,9 @@
     "acNumber": 17,
     "acName": "KHAMDONG-SINGTAM",
     "partNumber": 1,
-    "partName": "CHADEY"
+    "partName": "CHADEY",
+    "lat": 27.2663499,
+    "lon": 88.4819666
   },
   {
     "partId": 303,
@@ -283,7 +333,9 @@
     "acNumber": 17,
     "acName": "KHAMDONG-SINGTAM",
     "partNumber": 2,
-    "partName": "ARITAR-SIMIK"
+    "partName": "ARITAR-SIMIK",
+    "lat": 27.2663499,
+    "lon": 88.4819666
   },
   {
     "partId": 304,
@@ -294,7 +346,9 @@
     "acNumber": 17,
     "acName": "KHAMDONG-SINGTAM",
     "partNumber": 3,
-    "partName": "LINGZEY"
+    "partName": "LINGZEY",
+    "lat": 27.2992965,
+    "lon": 88.4676178
   },
   {
     "partId": 305,
@@ -305,7 +359,9 @@
     "acNumber": 17,
     "acName": "KHAMDONG-SINGTAM",
     "partNumber": 4,
-    "partName": "DUNGDUNG THASA"
+    "partName": "DUNGDUNG THASA",
+    "lat": 27.2663499,
+    "lon": 88.4819666
   },
   {
     "partId": 306,
@@ -316,7 +372,9 @@
     "acNumber": 17,
     "acName": "KHAMDONG-SINGTAM",
     "partNumber": 5,
-    "partName": "BUDANG THANGSING-A"
+    "partName": "BUDANG THANGSING-A",
+    "lat": 27.2663499,
+    "lon": 88.4819666
   },
   {
     "partId": 307,
@@ -327,7 +385,9 @@
     "acNumber": 17,
     "acName": "KHAMDONG-SINGTAM",
     "partNumber": 6,
-    "partName": "DUNG DUNG"
+    "partName": "DUNG DUNG",
+    "lat": 27.2663499,
+    "lon": 88.4819666
   },
   {
     "partId": 308,
@@ -338,7 +398,9 @@
     "acNumber": 17,
     "acName": "KHAMDONG-SINGTAM",
     "partNumber": 7,
-    "partName": "KHAMDONG"
+    "partName": "KHAMDONG",
+    "lat": 27.2663499,
+    "lon": 88.4819666
   },
   {
     "partId": 309,
@@ -349,7 +411,9 @@
     "acNumber": 17,
     "acName": "KHAMDONG-SINGTAM",
     "partNumber": 8,
-    "partName": "BENG"
+    "partName": "BENG",
+    "lat": 27.2663499,
+    "lon": 88.4819666
   },
   {
     "partId": 310,
@@ -360,7 +424,9 @@
     "acNumber": 17,
     "acName": "KHAMDONG-SINGTAM",
     "partNumber": 9,
-    "partName": "SIRWANI"
+    "partName": "SIRWANI",
+    "lat": 27.2977664,
+    "lon": 88.5875082
   },
   {
     "partId": 311,
@@ -371,7 +437,9 @@
     "acNumber": 17,
     "acName": "KHAMDONG-SINGTAM",
     "partNumber": 10,
-    "partName": "NAMGEYTHANG SAKYONG"
+    "partName": "NAMGEYTHANG SAKYONG",
+    "lat": 27.2663499,
+    "lon": 88.4819666
   },
   {
     "partId": 312,
@@ -382,7 +450,9 @@
     "acNumber": 17,
     "acName": "KHAMDONG-SINGTAM",
     "partNumber": 11,
-    "partName": "CHISOPANI-A"
+    "partName": "CHISOPANI-A",
+    "lat": 27.2663499,
+    "lon": 88.4819666
   },
   {
     "partId": 313,
@@ -393,7 +463,9 @@
     "acNumber": 17,
     "acName": "KHAMDONG-SINGTAM",
     "partNumber": 12,
-    "partName": "CHISOPANI-B"
+    "partName": "CHISOPANI-B",
+    "lat": 27.2663499,
+    "lon": 88.4819666
   },
   {
     "partId": 314,
@@ -404,7 +476,9 @@
     "acNumber": 17,
     "acName": "KHAMDONG-SINGTAM",
     "partNumber": 13,
-    "partName": "RABDANG"
+    "partName": "RABDANG",
+    "lat": 27.2663499,
+    "lon": 88.4819666
   },
   {
     "partId": 315,
@@ -415,7 +489,9 @@
     "acNumber": 17,
     "acName": "KHAMDONG-SINGTAM",
     "partNumber": 14,
-    "partName": "PIPAL DARA"
+    "partName": "PIPAL DARA",
+    "lat": 27.2663499,
+    "lon": 88.4819666
   },
   {
     "partId": 316,
@@ -426,7 +502,9 @@
     "acNumber": 17,
     "acName": "KHAMDONG-SINGTAM",
     "partNumber": 15,
-    "partName": "DARAGOAN"
+    "partName": "DARAGOAN",
+    "lat": 27.2663499,
+    "lon": 88.4819666
   },
   {
     "partId": 317,
@@ -437,7 +515,9 @@
     "acNumber": 17,
     "acName": "KHAMDONG-SINGTAM",
     "partNumber": 16,
-    "partName": "MANDIR LINE"
+    "partName": "MANDIR LINE",
+    "lat": 27.2663499,
+    "lon": 88.4819666
   },
   {
     "partId": 318,
@@ -448,7 +528,9 @@
     "acNumber": 17,
     "acName": "KHAMDONG-SINGTAM",
     "partNumber": 17,
-    "partName": "LALL BAZAR"
+    "partName": "LALL BAZAR",
+    "lat": 27.2663499,
+    "lon": 88.4819666
   },
   {
     "partId": 319,
@@ -459,7 +541,9 @@
     "acNumber": 17,
     "acName": "KHAMDONG-SINGTAM",
     "partNumber": 18,
-    "partName": "CHICHOPANI"
+    "partName": "CHICHOPANI",
+    "lat": 27.2663499,
+    "lon": 88.4819666
   },
   {
     "partId": 445,
@@ -470,7 +554,9 @@
     "acNumber": 24,
     "acName": "MARTAM-RUMTEK",
     "partNumber": 1,
-    "partName": "PHEGYONG-A"
+    "partName": "PHEGYONG-A",
+    "lat": 27.32573445,
+    "lon": 88.69835492435763
   },
   {
     "partId": 446,
@@ -481,7 +567,9 @@
     "acNumber": 24,
     "acName": "MARTAM-RUMTEK",
     "partNumber": 2,
-    "partName": "PHEGYONG-BYANG"
+    "partName": "PHEGYONG-BYANG",
+    "lat": 27.32573445,
+    "lon": 88.69835492435763
   },
   {
     "partId": 447,
@@ -492,7 +580,9 @@
     "acNumber": 24,
     "acName": "MARTAM-RUMTEK",
     "partNumber": 3,
-    "partName": "MARTAM-A"
+    "partName": "MARTAM-A",
+    "lat": 27.326052509375,
+    "lon": 88.69091791658528
   },
   {
     "partId": 448,
@@ -503,7 +593,9 @@
     "acNumber": 24,
     "acName": "MARTAM-RUMTEK",
     "partNumber": 4,
-    "partName": "MARTAM-B"
+    "partName": "MARTAM-B",
+    "lat": 27.32573445,
+    "lon": 88.69835492435763
   },
   {
     "partId": 449,
@@ -514,7 +606,9 @@
     "acNumber": 24,
     "acName": "MARTAM-RUMTEK",
     "partNumber": 5,
-    "partName": "TIRKUTAM"
+    "partName": "TIRKUTAM",
+    "lat": 27.326052509375,
+    "lon": 88.69091791658528
   },
   {
     "partId": 450,
@@ -525,7 +619,9 @@
     "acNumber": 24,
     "acName": "MARTAM-RUMTEK",
     "partNumber": 6,
-    "partName": "NAMLI-TUMLABUNG"
+    "partName": "NAMLI-TUMLABUNG",
+    "lat": 27.32573445,
+    "lon": 88.69835492435763
   },
   {
     "partId": 451,
@@ -536,7 +632,9 @@
     "acNumber": 24,
     "acName": "MARTAM-RUMTEK",
     "partNumber": 7,
-    "partName": "SHYAGYONG RUMTEK-A"
+    "partName": "SHYAGYONG RUMTEK-A",
+    "lat": 27.32573445,
+    "lon": 88.69835492435763
   },
   {
     "partId": 452,
@@ -547,7 +645,9 @@
     "acNumber": 24,
     "acName": "MARTAM-RUMTEK",
     "partNumber": 8,
-    "partName": "RAWTEK RUMTEK A"
+    "partName": "RAWTEK RUMTEK A",
+    "lat": 27.32573445,
+    "lon": 88.69835492435763
   },
   {
     "partId": 453,
@@ -558,7 +658,9 @@
     "acNumber": 24,
     "acName": "MARTAM-RUMTEK",
     "partNumber": 9,
-    "partName": "CHUBA"
+    "partName": "CHUBA",
+    "lat": 27.32573445,
+    "lon": 88.69835492435763
   },
   {
     "partId": 454,
@@ -569,7 +671,9 @@
     "acNumber": 24,
     "acName": "MARTAM-RUMTEK",
     "partNumber": 10,
-    "partName": "SAMLIK"
+    "partName": "SAMLIK",
+    "lat": 27.32573445,
+    "lon": 88.69835492435763
   },
   {
     "partId": 455,
@@ -580,7 +684,9 @@
     "acNumber": 24,
     "acName": "MARTAM-RUMTEK",
     "partNumber": 11,
-    "partName": "MARCHAK"
+    "partName": "MARCHAK",
+    "lat": 27.326052509375,
+    "lon": 88.69091791658528
   },
   {
     "partId": 456,
@@ -591,7 +697,9 @@
     "acNumber": 24,
     "acName": "MARTAM-RUMTEK",
     "partNumber": 12,
-    "partName": "PHEGYONG"
+    "partName": "PHEGYONG",
+    "lat": 27.32573445,
+    "lon": 88.69835492435763
   },
   {
     "partId": 457,
@@ -602,7 +710,9 @@
     "acNumber": 24,
     "acName": "MARTAM-RUMTEK",
     "partNumber": 13,
-    "partName": "MARTAM-C"
+    "partName": "MARTAM-C",
+    "lat": 27.32573445,
+    "lon": 88.69835492435763
   },
   {
     "partId": 458,
@@ -613,7 +723,9 @@
     "acNumber": 24,
     "acName": "MARTAM-RUMTEK",
     "partNumber": 14,
-    "partName": "RAWTEY RUMTEK-B"
+    "partName": "RAWTEY RUMTEK-B",
+    "lat": 27.326052509375,
+    "lon": 88.69091791658528
   },
   {
     "partId": 459,
@@ -624,7 +736,9 @@
     "acNumber": 24,
     "acName": "MARTAM-RUMTEK",
     "partNumber": 15,
-    "partName": "CHINZEY"
+    "partName": "CHINZEY",
+    "lat": 27.32573445,
+    "lon": 88.69835492435763
   },
   {
     "partId": 460,
@@ -635,7 +749,9 @@
     "acNumber": 24,
     "acName": "MARTAM-RUMTEK",
     "partNumber": 16,
-    "partName": "BARBING-A"
+    "partName": "BARBING-A",
+    "lat": 27.32573445,
+    "lon": 88.69835492435763
   },
   {
     "partId": 461,
@@ -646,7 +762,9 @@
     "acNumber": 24,
     "acName": "MARTAM-RUMTEK",
     "partNumber": 17,
-    "partName": "BARBING-B"
+    "partName": "BARBING-B",
+    "lat": 27.326052509375,
+    "lon": 88.69091791658528
   },
   {
     "partId": 462,
@@ -657,7 +775,9 @@
     "acNumber": 24,
     "acName": "MARTAM-RUMTEK",
     "partNumber": 18,
-    "partName": "MARTAM-D"
+    "partName": "MARTAM-D",
+    "lat": 27.326052509375,
+    "lon": 88.69091791658528
   },
   {
     "partId": 463,
@@ -668,7 +788,9 @@
     "acNumber": 24,
     "acName": "MARTAM-RUMTEK",
     "partNumber": 19,
-    "partName": "SHYAGYONG RUMTEK"
+    "partName": "SHYAGYONG RUMTEK",
+    "lat": 27.32573445,
+    "lon": 88.69835492435763
   },
   {
     "partId": 464,
@@ -679,7 +801,9 @@
     "acNumber": 24,
     "acName": "MARTAM-RUMTEK",
     "partNumber": 20,
-    "partName": "TEMPHYAK MENDU-REY"
+    "partName": "TEMPHYAK MENDU-REY",
+    "lat": 27.32573445,
+    "lon": 88.69835492435763
   },
   {
     "partId": 465,
@@ -690,7 +814,9 @@
     "acNumber": 24,
     "acName": "MARTAM-RUMTEK",
     "partNumber": 21,
-    "partName": "LINGDUM"
+    "partName": "LINGDUM",
+    "lat": 27.3308234,
+    "lon": 88.5793628
   },
   {
     "partId": 466,
@@ -701,7 +827,9 @@
     "acNumber": 24,
     "acName": "MARTAM-RUMTEK",
     "partNumber": 22,
-    "partName": "LINGDUM-B"
+    "partName": "LINGDUM-B",
+    "lat": 27.32573445,
+    "lon": 88.69835492435763
   },
   {
     "partId": 605,
@@ -712,7 +840,9 @@
     "acNumber": 32,
     "acName": "SANGHA",
     "partNumber": 1,
-    "partName": "DUBDI SANGHA GUMPA"
+    "partName": "DUBDI SANGHA GUMPA",
+    "lat": 27.32573445,
+    "lon": 88.69835492435763
   },
   {
     "partId": 606,
@@ -723,7 +853,9 @@
     "acNumber": 32,
     "acName": "SANGHA",
     "partNumber": 2,
-    "partName": "KHECHOPHERI GUMPA"
+    "partName": "KHECHOPHERI GUMPA",
+    "lat": 27.32573445,
+    "lon": 88.69835492435763
   },
   {
     "partId": 607,
@@ -734,7 +866,9 @@
     "acNumber": 32,
     "acName": "SANGHA",
     "partNumber": 3,
-    "partName": "PAU HONGRI GUMPA"
+    "partName": "PAU HONGRI GUMPA",
+    "lat": 27.32573445,
+    "lon": 88.69835492435763
   },
   {
     "partId": 608,
@@ -745,7 +879,9 @@
     "acNumber": 32,
     "acName": "SANGHA",
     "partNumber": 4,
-    "partName": "MELLI GUMPA"
+    "partName": "MELLI GUMPA",
+    "lat": 27.32573445,
+    "lon": 88.69835492435763
   },
   {
     "partId": 609,
@@ -756,7 +892,9 @@
     "acNumber": 32,
     "acName": "SANGHA",
     "partNumber": 5,
-    "partName": "PEMAYANGTSE GUMPA"
+    "partName": "PEMAYANGTSE GUMPA",
+    "lat": 27.32573445,
+    "lon": 88.69835492435763
   },
   {
     "partId": 610,
@@ -767,7 +905,9 @@
     "acNumber": 32,
     "acName": "SANGHA",
     "partNumber": 6,
-    "partName": "TASHIDING CHOGYAL LAKHANG GUMPA"
+    "partName": "TASHIDING CHOGYAL LAKHANG GUMPA",
+    "lat": 27.32573445,
+    "lon": 88.69835492435763
   },
   {
     "partId": 611,
@@ -778,7 +918,9 @@
     "acNumber": 32,
     "acName": "SANGHA",
     "partNumber": 7,
-    "partName": "SANGACHOLING GUMPA"
+    "partName": "SANGACHOLING GUMPA",
+    "lat": 27.32573445,
+    "lon": 88.69835492435763
   },
   {
     "partId": 612,
@@ -789,7 +931,9 @@
     "acNumber": 32,
     "acName": "SANGHA",
     "partNumber": 8,
-    "partName": "LHUNTSE GUMPA"
+    "partName": "LHUNTSE GUMPA",
+    "lat": 27.32573445,
+    "lon": 88.69835492435763
   },
   {
     "partId": 613,
@@ -800,7 +944,9 @@
     "acNumber": 32,
     "acName": "SANGHA",
     "partNumber": 9,
-    "partName": "RINCHENPONG GUMPA"
+    "partName": "RINCHENPONG GUMPA",
+    "lat": 27.32573445,
+    "lon": 88.69835492435763
   },
   {
     "partId": 614,
@@ -811,7 +957,9 @@
     "acNumber": 32,
     "acName": "SANGHA",
     "partNumber": 10,
-    "partName": "CHAKUNG GUMPA"
+    "partName": "CHAKUNG GUMPA",
+    "lat": 27.32573445,
+    "lon": 88.69835492435763
   },
   {
     "partId": 615,
@@ -822,7 +970,9 @@
     "acNumber": 32,
     "acName": "SANGHA",
     "partNumber": 11,
-    "partName": "ANDEN WOLUNG GUMPA"
+    "partName": "ANDEN WOLUNG GUMPA",
+    "lat": 27.325498001136364,
+    "lon": 88.69623906659575
   },
   {
     "partId": 616,
@@ -833,7 +983,9 @@
     "acNumber": 32,
     "acName": "SANGHA",
     "partNumber": 12,
-    "partName": "KITAM NYANGMA GUMPA"
+    "partName": "KITAM NYANGMA GUMPA",
+    "lat": 27.32573445,
+    "lon": 88.69835492435763
   },
   {
     "partId": 617,
@@ -844,7 +996,9 @@
     "acNumber": 32,
     "acName": "SANGHA",
     "partNumber": 13,
-    "partName": "RALONG KAGYUD GUMPA"
+    "partName": "RALONG KAGYUD GUMPA",
+    "lat": 27.32573445,
+    "lon": 88.69835492435763
   },
   {
     "partId": 618,
@@ -855,7 +1009,9 @@
     "acNumber": 32,
     "acName": "SANGHA",
     "partNumber": 14,
-    "partName": "DOLLING LONYANG GUMPA"
+    "partName": "DOLLING LONYANG GUMPA",
+    "lat": 27.32573445,
+    "lon": 88.69835492435763
   },
   {
     "partId": 600,
@@ -866,7 +1022,9 @@
     "acNumber": 32,
     "acName": "SANGHA",
     "partNumber": 15,
-    "partName": "KHOSING MANGBRUE GUMPA"
+    "partName": "KHOSING MANGBRUE GUMPA",
+    "lat": 27.32573445,
+    "lon": 88.69835492435763
   },
   {
     "partId": 601,
@@ -877,7 +1035,9 @@
     "acNumber": 32,
     "acName": "SANGHA",
     "partNumber": 16,
-    "partName": "WAK GOMPA"
+    "partName": "WAK GOMPA",
+    "lat": 27.32573445,
+    "lon": 88.69835492435763
   },
   {
     "partId": 602,
@@ -888,7 +1048,9 @@
     "acNumber": 32,
     "acName": "SANGHA",
     "partNumber": 17,
-    "partName": "NAMCHI BOOMTAR GMPA"
+    "partName": "NAMCHI BOOMTAR GMPA",
+    "lat": 27.32573445,
+    "lon": 88.69835492435763
   },
   {
     "partId": 603,
@@ -899,7 +1061,9 @@
     "acNumber": 32,
     "acName": "SANGHA",
     "partNumber": 18,
-    "partName": "NAMCHI NGADAK GUMPA"
+    "partName": "NAMCHI NGADAK GUMPA",
+    "lat": 27.32573445,
+    "lon": 88.69835492435763
   },
   {
     "partId": 604,
@@ -910,7 +1074,9 @@
     "acNumber": 32,
     "acName": "SANGHA",
     "partNumber": 19,
-    "partName": "MELLI TASHI CHODARLING GUMPA"
+    "partName": "MELLI TASHI CHODARLING GUMPA",
+    "lat": 27.325498001136364,
+    "lon": 88.69623906659575
   },
   {
     "partId": 597,
@@ -921,7 +1087,9 @@
     "acNumber": 32,
     "acName": "SANGHA",
     "partNumber": 20,
-    "partName": "NAMTHANG NORBU CHOLING GUMPA"
+    "partName": "NAMTHANG NORBU CHOLING GUMPA",
+    "lat": 27.32573445,
+    "lon": 88.69835492435763
   },
   {
     "partId": 598,
@@ -932,7 +1100,9 @@
     "acNumber": 32,
     "acName": "SANGHA",
     "partNumber": 21,
-    "partName": "BERMIOK WOSEL CHOLING GUMPA"
+    "partName": "BERMIOK WOSEL CHOLING GUMPA",
+    "lat": 27.32573445,
+    "lon": 88.69835492435763
   },
   {
     "partId": 599,
@@ -943,7 +1113,9 @@
     "acNumber": 32,
     "acName": "SANGHA",
     "partNumber": 22,
-    "partName": "PARBING KARMA TASHI GUMPA"
+    "partName": "PARBING KARMA TASHI GUMPA",
+    "lat": 27.325498001136364,
+    "lon": 88.69623906659575
   },
   {
     "partId": 568,
@@ -954,7 +1126,9 @@
     "acNumber": 32,
     "acName": "SANGHA",
     "partNumber": 23,
-    "partName": "SUMIN GUMPA"
+    "partName": "SUMIN GUMPA",
+    "lat": 27.32573445,
+    "lon": 88.69835492435763
   },
   {
     "partId": 569,
@@ -965,7 +1139,9 @@
     "acNumber": 32,
     "acName": "SANGHA",
     "partNumber": 24,
-    "partName": "LINKEY MATCHING CHENKAR GOMPA"
+    "partName": "LINKEY MATCHING CHENKAR GOMPA",
+    "lat": 27.32573445,
+    "lon": 88.69835492435763
   },
   {
     "partId": 570,
@@ -976,7 +1152,9 @@
     "acNumber": 32,
     "acName": "SANGHA",
     "partNumber": 25,
-    "partName": "UPPER ARITAR"
+    "partName": "UPPER ARITAR",
+    "lat": 27.32573445,
+    "lon": 88.69835492435763
   },
   {
     "partId": 571,
@@ -987,7 +1165,9 @@
     "acNumber": 32,
     "acName": "SANGHA",
     "partNumber": 26,
-    "partName": "MAMRING"
+    "partName": "MAMRING",
+    "lat": 27.325498001136364,
+    "lon": 88.69623906659575
   },
   {
     "partId": 572,
@@ -998,7 +1178,9 @@
     "acNumber": 32,
     "acName": "SANGHA",
     "partNumber": 27,
-    "partName": "CHANGEY GOMPA"
+    "partName": "CHANGEY GOMPA",
+    "lat": 27.32573445,
+    "lon": 88.69835492435763
   },
   {
     "partId": 573,
@@ -1009,7 +1191,9 @@
     "acNumber": 32,
     "acName": "SANGHA",
     "partNumber": 28,
-    "partName": "KARTHOK DOJIDEN GOMPA"
+    "partName": "KARTHOK DOJIDEN GOMPA",
+    "lat": 27.32573445,
+    "lon": 88.69835492435763
   },
   {
     "partId": 574,
@@ -1020,7 +1204,9 @@
     "acNumber": 32,
     "acName": "SANGHA",
     "partNumber": 29,
-    "partName": "YANGANG TASHI PALDING GUMPA"
+    "partName": "YANGANG TASHI PALDING GUMPA",
+    "lat": 27.32573445,
+    "lon": 88.69835492435763
   },
   {
     "partId": 575,
@@ -1031,7 +1217,9 @@
     "acNumber": 32,
     "acName": "SANGHA",
     "partNumber": 30,
-    "partName": "SIMICK DUDULING GOMPA"
+    "partName": "SIMICK DUDULING GOMPA",
+    "lat": 27.32573445,
+    "lon": 88.69835492435763
   },
   {
     "partId": 576,
@@ -1042,7 +1230,9 @@
     "acNumber": 32,
     "acName": "SANGHA",
     "partNumber": 31,
-    "partName": "THOULUNG GOMPA"
+    "partName": "THOULUNG GOMPA",
+    "lat": 27.32573445,
+    "lon": 88.69835492435763
   },
   {
     "partId": 577,
@@ -1053,7 +1243,9 @@
     "acNumber": 32,
     "acName": "SANGHA",
     "partNumber": 32,
-    "partName": "LINTHEM CHOPAL TARGELLING GOMPA"
+    "partName": "LINTHEM CHOPAL TARGELLING GOMPA",
+    "lat": 27.325498001136364,
+    "lon": 88.69623906659575
   },
   {
     "partId": 578,
@@ -1064,7 +1256,9 @@
     "acNumber": 32,
     "acName": "SANGHA",
     "partNumber": 33,
-    "partName": "GYATHANG TASHI CHOLING GOMPA"
+    "partName": "GYATHANG TASHI CHOLING GOMPA",
+    "lat": 27.32573445,
+    "lon": 88.69835492435763
   },
   {
     "partId": 579,
@@ -1075,7 +1269,9 @@
     "acNumber": 32,
     "acName": "SANGHA",
     "partNumber": 34,
-    "partName": "GOR TARYANG GOMPA"
+    "partName": "GOR TARYANG GOMPA",
+    "lat": 27.325498001136364,
+    "lon": 88.69623906659575
   },
   {
     "partId": 580,
@@ -1086,7 +1282,9 @@
     "acNumber": 32,
     "acName": "SANGHA",
     "partNumber": 35,
-    "partName": "SHIPGYER KINGACHIOLING GOMPA"
+    "partName": "SHIPGYER KINGACHIOLING GOMPA",
+    "lat": 27.325498001136364,
+    "lon": 88.69623906659575
   },
   {
     "partId": 581,
@@ -1097,7 +1295,9 @@
     "acNumber": 32,
     "acName": "SANGHA",
     "partNumber": 36,
-    "partName": "LINGI PHAGYAL GUMPA"
+    "partName": "LINGI PHAGYAL GUMPA",
+    "lat": 27.32573445,
+    "lon": 88.69835492435763
   },
   {
     "partId": 582,
@@ -1108,7 +1308,9 @@
     "acNumber": 32,
     "acName": "SANGHA",
     "partNumber": 37,
-    "partName": "LACHEN GYANDEN CHOLLING GUMPA"
+    "partName": "LACHEN GYANDEN CHOLLING GUMPA",
+    "lat": 27.32573445,
+    "lon": 88.69835492435763
   },
   {
     "partId": 583,
@@ -1119,7 +1321,9 @@
     "acNumber": 32,
     "acName": "SANGHA",
     "partNumber": 38,
-    "partName": "LACHUNG SAMTEN CHOLING GUMPA"
+    "partName": "LACHUNG SAMTEN CHOLING GUMPA",
+    "lat": 27.32573445,
+    "lon": 88.69835492435763
   },
   {
     "partId": 584,
@@ -1130,7 +1334,9 @@
     "acNumber": 32,
     "acName": "SANGHA",
     "partNumber": 39,
-    "partName": "CHUNGTHANG CHIMO RINCHEN GOMPA"
+    "partName": "CHUNGTHANG CHIMO RINCHEN GOMPA",
+    "lat": 27.32573445,
+    "lon": 88.69835492435763
   },
   {
     "partId": 585,
@@ -1141,7 +1347,9 @@
     "acNumber": 32,
     "acName": "SANGHA",
     "partNumber": 40,
-    "partName": "SINGCHIT NADAK GUMPA"
+    "partName": "SINGCHIT NADAK GUMPA",
+    "lat": 27.32573445,
+    "lon": 88.69835492435763
   },
   {
     "partId": 586,
@@ -1152,7 +1360,9 @@
     "acNumber": 32,
     "acName": "SANGHA",
     "partNumber": 41,
-    "partName": "RINGONG RIKZING CHOLING GUMPA"
+    "partName": "RINGONG RIKZING CHOLING GUMPA",
+    "lat": 27.32573445,
+    "lon": 88.69835492435763
   },
   {
     "partId": 587,
@@ -1163,7 +1373,9 @@
     "acNumber": 32,
     "acName": "SANGHA",
     "partNumber": 42,
-    "partName": "PHODONG KAGYUD GUMPA-LABRONG GUMPA"
+    "partName": "PHODONG KAGYUD GUMPA-LABRONG GUMPA",
+    "lat": 27.32573445,
+    "lon": 88.69835492435763
   },
   {
     "partId": 588,
@@ -1174,7 +1386,9 @@
     "acNumber": 32,
     "acName": "SANGHA",
     "partNumber": 43,
-    "partName": "PHENSANG GOMPA-CHEWANG ANI GOMPA"
+    "partName": "PHENSANG GOMPA-CHEWANG ANI GOMPA",
+    "lat": 27.32573445,
+    "lon": 88.69835492435763
   },
   {
     "partId": 589,
@@ -1185,7 +1399,9 @@
     "acNumber": 32,
     "acName": "SANGHA",
     "partNumber": 44,
-    "partName": "RAKDONG TINTEK GOMPA"
+    "partName": "RAKDONG TINTEK GOMPA",
+    "lat": 27.32573445,
+    "lon": 88.69835492435763
   },
   {
     "partId": 590,
@@ -1196,7 +1412,9 @@
     "acNumber": 32,
     "acName": "SANGHA",
     "partNumber": 45,
-    "partName": "TUMIN KARMACHOLING GOMPA - SAMDONG MINTOK GOMPA"
+    "partName": "TUMIN KARMACHOLING GOMPA - SAMDONG MINTOK GOMPA",
+    "lat": 27.32573445,
+    "lon": 88.69835492435763
   },
   {
     "partId": 591,
@@ -1207,7 +1425,9 @@
     "acNumber": 32,
     "acName": "SANGHA",
     "partNumber": 46,
-    "partName": "SANG KAGYUD GUMPA"
+    "partName": "SANG KAGYUD GUMPA",
+    "lat": 27.32573445,
+    "lon": 88.69835492435763
   },
   {
     "partId": 592,
@@ -1218,7 +1438,9 @@
     "acNumber": 32,
     "acName": "SANGHA",
     "partNumber": 47,
-    "partName": "MARTAM CHONKAR GOMPA"
+    "partName": "MARTAM CHONKAR GOMPA",
+    "lat": 27.32573445,
+    "lon": 88.69835492435763
   },
   {
     "partId": 593,
@@ -1229,7 +1451,9 @@
     "acNumber": 32,
     "acName": "SANGHA",
     "partNumber": 48,
-    "partName": "RUMTEK KAGYUD GUMPA"
+    "partName": "RUMTEK KAGYUD GUMPA",
+    "lat": 27.32573445,
+    "lon": 88.69835492435763
   },
   {
     "partId": 594,
@@ -1240,7 +1464,9 @@
     "acNumber": 32,
     "acName": "SANGHA",
     "partNumber": 49,
-    "partName": "PABYUK BORA KAGYUD GOMPA"
+    "partName": "PABYUK BORA KAGYUD GOMPA",
+    "lat": 27.32573445,
+    "lon": 88.69835492435763
   },
   {
     "partId": 595,
@@ -1251,7 +1477,9 @@
     "acNumber": 32,
     "acName": "SANGHA",
     "partNumber": 50,
-    "partName": "TATHANGCHEN"
+    "partName": "TATHANGCHEN",
+    "lat": 27.315330699999997,
+    "lon": 88.60525718283506
   },
   {
     "partId": 596,
@@ -1262,7 +1490,9 @@
     "acNumber": 32,
     "acName": "SANGHA",
     "partNumber": 51,
-    "partName": "LINGDOK"
+    "partName": "LINGDOK",
+    "lat": 27.32573445,
+    "lon": 88.69835492435763
   },
   {
     "partId": 640,
@@ -1273,7 +1503,9 @@
     "acNumber": 23,
     "acName": "SHYARI",
     "partNumber": 1,
-    "partName": "NANDOK-A"
+    "partName": "NANDOK-A",
+    "lat": 27.32573445,
+    "lon": 88.69835492435763
   },
   {
     "partId": 641,
@@ -1284,7 +1516,9 @@
     "acNumber": 23,
     "acName": "SHYARI",
     "partNumber": 2,
-    "partName": "NANDOK-B"
+    "partName": "NANDOK-B",
+    "lat": 27.32573445,
+    "lon": 88.69835492435763
   },
   {
     "partId": 642,
@@ -1295,7 +1529,9 @@
     "acNumber": 23,
     "acName": "SHYARI",
     "partNumber": 3,
-    "partName": "SARAMSA"
+    "partName": "SARAMSA",
+    "lat": 27.32573445,
+    "lon": 88.69835492435763
   },
   {
     "partId": 643,
@@ -1306,7 +1542,9 @@
     "acNumber": 23,
     "acName": "SHYARI",
     "partNumber": 4,
-    "partName": "NAITAM"
+    "partName": "NAITAM",
+    "lat": 27.32573445,
+    "lon": 88.69835492435763
   },
   {
     "partId": 644,
@@ -1317,7 +1555,9 @@
     "acNumber": 23,
     "acName": "SHYARI",
     "partNumber": 5,
-    "partName": "NAMONG"
+    "partName": "NAMONG",
+    "lat": 27.32573445,
+    "lon": 88.69835492435763
   },
   {
     "partId": 645,
@@ -1328,7 +1568,9 @@
     "acNumber": 23,
     "acName": "SHYARI",
     "partNumber": 6,
-    "partName": "TATHANGCHEN"
+    "partName": "TATHANGCHEN",
+    "lat": 27.315330699999997,
+    "lon": 88.60525718283506
   },
   {
     "partId": 646,
@@ -1339,7 +1581,9 @@
     "acNumber": 23,
     "acName": "SHYARI",
     "partNumber": 7,
-    "partName": "CHONGEY"
+    "partName": "CHONGEY",
+    "lat": 27.32573445,
+    "lon": 88.69835492435763
   },
   {
     "partId": 647,
@@ -1350,7 +1594,9 @@
     "acNumber": 23,
     "acName": "SHYARI",
     "partNumber": 8,
-    "partName": "BHUSUK"
+    "partName": "BHUSUK",
+    "lat": 27.32573445,
+    "lon": 88.69835492435763
   },
   {
     "partId": 648,
@@ -1361,7 +1607,9 @@
     "acNumber": 23,
     "acName": "SHYARI",
     "partNumber": 9,
-    "partName": "SYARI-A"
+    "partName": "SYARI-A",
+    "lat": 27.315330699999997,
+    "lon": 88.60525718283506
   },
   {
     "partId": 649,
@@ -1372,7 +1620,9 @@
     "acNumber": 23,
     "acName": "SHYARI",
     "partNumber": 10,
-    "partName": "SYARI-B"
+    "partName": "SYARI-B",
+    "lat": 27.315330699999997,
+    "lon": 88.60525718283506
   },
   {
     "partId": 650,
@@ -1383,7 +1633,9 @@
     "acNumber": 23,
     "acName": "SHYARI",
     "partNumber": 11,
-    "partName": "SYARI-C"
+    "partName": "SYARI-C",
+    "lat": 27.315330699999997,
+    "lon": 88.60525718283506
   },
   {
     "partId": 651,
@@ -1394,7 +1646,9 @@
     "acNumber": 23,
     "acName": "SHYARI",
     "partNumber": 12,
-    "partName": "RONGAY"
+    "partName": "RONGAY",
+    "lat": 27.32573445,
+    "lon": 88.69835492435763
   },
   {
     "partId": 652,
@@ -1405,7 +1659,9 @@
     "acNumber": 23,
     "acName": "SHYARI",
     "partNumber": 13,
-    "partName": "CHANDBARI A"
+    "partName": "CHANDBARI A",
+    "lat": 27.32573445,
+    "lon": 88.69835492435763
   },
   {
     "partId": 653,
@@ -1416,7 +1672,9 @@
     "acNumber": 23,
     "acName": "SHYARI",
     "partNumber": 14,
-    "partName": "CHANDBARI B"
+    "partName": "CHANDBARI B",
+    "lat": 27.32573445,
+    "lon": 88.69835492435763
   },
   {
     "partId": 654,
@@ -1427,7 +1685,9 @@
     "acNumber": 23,
     "acName": "SHYARI",
     "partNumber": 15,
-    "partName": "CHANDBARI C"
+    "partName": "CHANDBARI C",
+    "lat": 27.32573445,
+    "lon": 88.69835492435763
   },
   {
     "partId": 655,
@@ -1438,7 +1698,9 @@
     "acNumber": 23,
     "acName": "SHYARI",
     "partNumber": 16,
-    "partName": "SYARI/TATHANGCHEN  A"
+    "partName": "SYARI/TATHANGCHEN  A",
+    "lat": 27.315330699999997,
+    "lon": 88.60525718283506
   },
   {
     "partId": 656,
@@ -1449,7 +1711,9 @@
     "acNumber": 23,
     "acName": "SHYARI",
     "partNumber": 17,
-    "partName": "SYARI/TATHANGCHEN  B"
+    "partName": "SYARI/TATHANGCHEN  B",
+    "lat": 27.315330699999997,
+    "lon": 88.60525718283506
   },
   {
     "partId": 280,
@@ -1460,7 +1724,9 @@
     "acNumber": 16,
     "acName": "TUMEN-LINGI",
     "partNumber": 1,
-    "partName": "SOKPAY"
+    "partName": "SOKPAY",
+    "lat": 27.32573445,
+    "lon": 88.69835492435763
   },
   {
     "partId": 281,
@@ -1471,7 +1737,9 @@
     "acNumber": 16,
     "acName": "TUMEN-LINGI",
     "partNumber": 2,
-    "partName": "LINGI A-LINGI PHAGYAL GUMPA"
+    "partName": "LINGI A-LINGI PHAGYAL GUMPA",
+    "lat": 27.32573445,
+    "lon": 88.69835492435763
   },
   {
     "partId": 282,
@@ -1482,7 +1750,9 @@
     "acNumber": 16,
     "acName": "TUMEN-LINGI",
     "partNumber": 3,
-    "partName": "LINGI B"
+    "partName": "LINGI B",
+    "lat": 27.32573445,
+    "lon": 88.69835492435763
   },
   {
     "partId": 283,
@@ -1493,7 +1763,9 @@
     "acNumber": 16,
     "acName": "TUMEN-LINGI",
     "partNumber": 4,
-    "partName": "KAU"
+    "partName": "KAU",
+    "lat": 27.32573445,
+    "lon": 88.69835492435763
   },
   {
     "partId": 284,
@@ -1504,7 +1776,9 @@
     "acNumber": 16,
     "acName": "TUMEN-LINGI",
     "partNumber": 5,
-    "partName": "UPPER PAIYONG"
+    "partName": "UPPER PAIYONG",
+    "lat": 27.32573445,
+    "lon": 88.69835492435763
   },
   {
     "partId": 285,
@@ -1515,7 +1789,9 @@
     "acNumber": 16,
     "acName": "TUMEN-LINGI",
     "partNumber": 6,
-    "partName": "LOWER PAIYONG"
+    "partName": "LOWER PAIYONG",
+    "lat": 27.32573445,
+    "lon": 88.69835492435763
   },
   {
     "partId": 286,
@@ -1526,7 +1802,9 @@
     "acNumber": 16,
     "acName": "TUMEN-LINGI",
     "partNumber": 7,
-    "partName": "LINGMO PEPTHANG"
+    "partName": "LINGMO PEPTHANG",
+    "lat": 27.32573445,
+    "lon": 88.69835492435763
   },
   {
     "partId": 287,
@@ -1537,7 +1815,9 @@
     "acNumber": 16,
     "acName": "TUMEN-LINGI",
     "partNumber": 8,
-    "partName": "RAKDONG A"
+    "partName": "RAKDONG A",
+    "lat": 27.32573445,
+    "lon": 88.69835492435763
   },
   {
     "partId": 288,
@@ -1548,7 +1828,9 @@
     "acNumber": 16,
     "acName": "TUMEN-LINGI",
     "partNumber": 9,
-    "partName": "RAKDONG-B"
+    "partName": "RAKDONG-B",
+    "lat": 27.32573445,
+    "lon": 88.69835492435763
   },
   {
     "partId": 289,
@@ -1559,7 +1841,9 @@
     "acNumber": 16,
     "acName": "TUMEN-LINGI",
     "partNumber": 10,
-    "partName": "TINTEK-A"
+    "partName": "TINTEK-A",
+    "lat": 27.32573445,
+    "lon": 88.69835492435763
   },
   {
     "partId": 290,
@@ -1570,7 +1854,9 @@
     "acNumber": 16,
     "acName": "TUMEN-LINGI",
     "partNumber": 11,
-    "partName": "TINTEK-B"
+    "partName": "TINTEK-B",
+    "lat": 27.32573445,
+    "lon": 88.69835492435763
   },
   {
     "partId": 291,
@@ -1581,7 +1867,9 @@
     "acNumber": 16,
     "acName": "TUMEN-LINGI",
     "partNumber": 12,
-    "partName": "RALEY KHESEY-A"
+    "partName": "RALEY KHESEY-A",
+    "lat": 27.32573445,
+    "lon": 88.69835492435763
   },
   {
     "partId": 292,
@@ -1592,7 +1880,9 @@
     "acNumber": 16,
     "acName": "TUMEN-LINGI",
     "partNumber": 13,
-    "partName": "RALEY KHESEY-B"
+    "partName": "RALEY KHESEY-B",
+    "lat": 27.32573445,
+    "lon": 88.69835492435763
   },
   {
     "partId": 293,
@@ -1603,7 +1893,9 @@
     "acNumber": 16,
     "acName": "TUMEN-LINGI",
     "partNumber": 14,
-    "partName": "TUMIN A"
+    "partName": "TUMIN A",
+    "lat": 27.32573445,
+    "lon": 88.69835492435763
   },
   {
     "partId": 294,
@@ -1614,7 +1906,9 @@
     "acNumber": 16,
     "acName": "TUMEN-LINGI",
     "partNumber": 15,
-    "partName": "TUMIN B"
+    "partName": "TUMIN B",
+    "lat": 27.32573445,
+    "lon": 88.69835492435763
   },
   {
     "partId": 295,
@@ -1625,7 +1919,9 @@
     "acNumber": 16,
     "acName": "TUMEN-LINGI",
     "partNumber": 16,
-    "partName": "TUMIN C"
+    "partName": "TUMIN C",
+    "lat": 27.32573445,
+    "lon": 88.69835492435763
   },
   {
     "partId": 296,
@@ -1636,7 +1932,9 @@
     "acNumber": 16,
     "acName": "TUMEN-LINGI",
     "partNumber": 17,
-    "partName": "PATUK A"
+    "partName": "PATUK A",
+    "lat": 27.32573445,
+    "lon": 88.69835492435763
   },
   {
     "partId": 297,
@@ -1647,7 +1945,9 @@
     "acNumber": 16,
     "acName": "TUMEN-LINGI",
     "partNumber": 18,
-    "partName": "PATUK SINGBEL"
+    "partName": "PATUK SINGBEL",
+    "lat": 27.32573445,
+    "lon": 88.69835492435763
   },
   {
     "partId": 298,
@@ -1658,7 +1958,9 @@
     "acNumber": 16,
     "acName": "TUMEN-LINGI",
     "partNumber": 19,
-    "partName": "SINGBEL"
+    "partName": "SINGBEL",
+    "lat": 27.32573445,
+    "lon": 88.69835492435763
   },
   {
     "partId": 299,
@@ -1669,7 +1971,9 @@
     "acNumber": 16,
     "acName": "TUMEN-LINGI",
     "partNumber": 20,
-    "partName": "SAMDONG A"
+    "partName": "SAMDONG A",
+    "lat": 27.3762929,
+    "lon": 88.5136592
   },
   {
     "partId": 300,
@@ -1680,7 +1984,9 @@
     "acNumber": 16,
     "acName": "TUMEN-LINGI",
     "partNumber": 21,
-    "partName": "SAMDONG B"
+    "partName": "SAMDONG B",
+    "lat": 27.3762929,
+    "lon": 88.5136592
   },
   {
     "partId": 301,
@@ -1691,7 +1997,9 @@
     "acNumber": 16,
     "acName": "TUMEN-LINGI",
     "partNumber": 22,
-    "partName": "KAMBAL"
+    "partName": "KAMBAL",
+    "lat": 27.32573445,
+    "lon": 88.69835492435763
   },
   {
     "partId": 672,
@@ -1702,7 +2010,9 @@
     "acNumber": 28,
     "acName": "UPPER BURTUK",
     "partNumber": 1,
-    "partName": "LUING-A"
+    "partName": "LUING-A",
+    "lat": 27.3553696,
+    "lon": 88.6172642
   },
   {
     "partId": 673,
@@ -1713,7 +2023,9 @@
     "acNumber": 28,
     "acName": "UPPER BURTUK",
     "partNumber": 2,
-    "partName": "LUING-B"
+    "partName": "LUING-B",
+    "lat": 27.3553696,
+    "lon": 88.6172642
   },
   {
     "partId": 674,
@@ -1724,7 +2036,9 @@
     "acNumber": 28,
     "acName": "UPPER BURTUK",
     "partNumber": 3,
-    "partName": "LUING-C"
+    "partName": "LUING-C",
+    "lat": 27.3553696,
+    "lon": 88.6172642
   },
   {
     "partId": 675,
@@ -1735,7 +2049,9 @@
     "acNumber": 28,
     "acName": "UPPER BURTUK",
     "partNumber": 4,
-    "partName": "PERBING"
+    "partName": "PERBING",
+    "lat": 27.3553696,
+    "lon": 88.6172642
   },
   {
     "partId": 676,
@@ -1746,7 +2062,9 @@
     "acNumber": 28,
     "acName": "UPPER BURTUK",
     "partNumber": 5,
-    "partName": "SANGTONG-RANKA"
+    "partName": "SANGTONG-RANKA",
+    "lat": 27.3553696,
+    "lon": 88.6172642
   },
   {
     "partId": 677,
@@ -1757,7 +2075,9 @@
     "acNumber": 28,
     "acName": "UPPER BURTUK",
     "partNumber": 6,
-    "partName": "RANKA"
+    "partName": "RANKA",
+    "lat": 27.3440777,
+    "lon": 88.5903778
   },
   {
     "partId": 678,
@@ -1768,7 +2088,9 @@
     "acNumber": 28,
     "acName": "UPPER BURTUK",
     "partNumber": 7,
-    "partName": "BURTUK A"
+    "partName": "BURTUK A",
+    "lat": 27.3551851,
+    "lon": 88.6169895
   },
   {
     "partId": 679,
@@ -1779,7 +2101,9 @@
     "acNumber": 28,
     "acName": "UPPER BURTUK",
     "partNumber": 8,
-    "partName": "BURTUK B"
+    "partName": "BURTUK B",
+    "lat": 27.3551851,
+    "lon": 88.6169895
   },
   {
     "partId": 680,
@@ -1790,7 +2114,9 @@
     "acNumber": 28,
     "acName": "UPPER BURTUK",
     "partNumber": 9,
-    "partName": "LOWER SICHEY A"
+    "partName": "LOWER SICHEY A",
+    "lat": 27.336374149999997,
+    "lon": 88.60066674381449
   },
   {
     "partId": 681,
@@ -1801,7 +2127,9 @@
     "acNumber": 28,
     "acName": "UPPER BURTUK",
     "partNumber": 10,
-    "partName": "LINGDING"
+    "partName": "LINGDING",
+    "lat": 27.3553696,
+    "lon": 88.6172642
   },
   {
     "partId": 682,
@@ -1812,7 +2140,9 @@
     "acNumber": 28,
     "acName": "UPPER BURTUK",
     "partNumber": 11,
-    "partName": "UPPER SICHEY A"
+    "partName": "UPPER SICHEY A",
+    "lat": 27.339349,
+    "lon": 88.60729646856439
   },
   {
     "partId": 683,
@@ -1823,7 +2153,9 @@
     "acNumber": 28,
     "acName": "UPPER BURTUK",
     "partNumber": 12,
-    "partName": "UPPER SICHEY B"
+    "partName": "UPPER SICHEY B",
+    "lat": 27.3553696,
+    "lon": 88.6172642
   },
   {
     "partId": 684,
@@ -1834,7 +2166,9 @@
     "acNumber": 28,
     "acName": "UPPER BURTUK",
     "partNumber": 13,
-    "partName": "UPPER SICHEY C"
+    "partName": "UPPER SICHEY C",
+    "lat": 27.339349,
+    "lon": 88.60729646856439
   },
   {
     "partId": 685,
@@ -1845,7 +2179,9 @@
     "acNumber": 28,
     "acName": "UPPER BURTUK",
     "partNumber": 14,
-    "partName": "LOWER SICHEY B"
+    "partName": "LOWER SICHEY B",
+    "lat": 27.336374149999997,
+    "lon": 88.60066674381449
   },
   {
     "partId": 686,
@@ -1856,7 +2192,9 @@
     "acNumber": 28,
     "acName": "UPPER BURTUK",
     "partNumber": 15,
-    "partName": "LOWER SICHEY C"
+    "partName": "LOWER SICHEY C",
+    "lat": 27.336374149999997,
+    "lon": 88.60066674381449
   },
   {
     "partId": 687,
@@ -1867,7 +2205,9 @@
     "acNumber": 28,
     "acName": "UPPER BURTUK",
     "partNumber": 16,
-    "partName": "LOWER BURTUK"
+    "partName": "LOWER BURTUK",
+    "lat": 27.3513729,
+    "lon": 88.613762
   },
   {
     "partId": 671,
@@ -1878,7 +2218,9 @@
     "acNumber": 28,
     "acName": "UPPER BURTUK",
     "partNumber": 17,
-    "partName": "BURTUK C"
+    "partName": "BURTUK C",
+    "lat": 27.3551851,
+    "lon": 88.6169895
   },
   {
     "partId": 467,
@@ -1889,7 +2231,9 @@
     "acNumber": 25,
     "acName": "UPPER TADONG",
     "partNumber": 1,
-    "partName": "DEORALI A"
+    "partName": "DEORALI A",
+    "lat": 27.31936295,
+    "lon": 88.60649555562568
   },
   {
     "partId": 621,
@@ -1900,7 +2244,9 @@
     "acNumber": 25,
     "acName": "UPPER TADONG",
     "partNumber": 2,
-    "partName": "PANI HOUSE"
+    "partName": "PANI HOUSE",
+    "lat": 27.32573445,
+    "lon": 88.69835492435763
   },
   {
     "partId": 468,
@@ -1911,7 +2257,9 @@
     "acNumber": 25,
     "acName": "UPPER TADONG",
     "partNumber": 3,
-    "partName": "DARA GAON A"
+    "partName": "DARA GAON A",
+    "lat": 27.32573445,
+    "lon": 88.69835492435763
   },
   {
     "partId": 469,
@@ -1922,7 +2270,9 @@
     "acNumber": 25,
     "acName": "UPPER TADONG",
     "partNumber": 4,
-    "partName": "DARA GOAN B"
+    "partName": "DARA GOAN B",
+    "lat": 27.32573445,
+    "lon": 88.69835492435763
   },
   {
     "partId": 470,
@@ -1933,7 +2283,9 @@
     "acNumber": 25,
     "acName": "UPPER TADONG",
     "partNumber": 5,
-    "partName": "DARA GOAN C"
+    "partName": "DARA GOAN C",
+    "lat": 27.32573445,
+    "lon": 88.69835492435763
   },
   {
     "partId": 471,
@@ -1944,7 +2296,9 @@
     "acNumber": 25,
     "acName": "UPPER TADONG",
     "partNumber": 6,
-    "partName": "TADONG A"
+    "partName": "TADONG A",
+    "lat": 27.31158995,
+    "lon": 88.59219529773748
   },
   {
     "partId": 472,
@@ -1955,7 +2309,9 @@
     "acNumber": 25,
     "acName": "UPPER TADONG",
     "partNumber": 7,
-    "partName": "TADONG B"
+    "partName": "TADONG B",
+    "lat": 27.31158995,
+    "lon": 88.59219529773748
   },
   {
     "partId": 622,
@@ -1966,7 +2322,9 @@
     "acNumber": 25,
     "acName": "UPPER TADONG",
     "partNumber": 8,
-    "partName": "TADONG BAZAAR-A"
+    "partName": "TADONG BAZAAR-A",
+    "lat": 27.32573445,
+    "lon": 88.69835492435763
   },
   {
     "partId": 473,
@@ -1977,7 +2335,9 @@
     "acNumber": 25,
     "acName": "UPPER TADONG",
     "partNumber": 9,
-    "partName": "TADONG C"
+    "partName": "TADONG C",
+    "lat": 27.31158995,
+    "lon": 88.59219529773748
   },
   {
     "partId": 474,
@@ -1988,7 +2348,9 @@
     "acNumber": 25,
     "acName": "UPPER TADONG",
     "partNumber": 10,
-    "partName": "TADONG D"
+    "partName": "TADONG D",
+    "lat": 27.31158995,
+    "lon": 88.59219529773748
   },
   {
     "partId": 620,
@@ -1999,6 +2361,8 @@
     "acNumber": 25,
     "acName": "UPPER TADONG",
     "partNumber": 11,
-    "partName": "LUMSEY"
+    "partName": "LUMSEY",
+    "lat": 27.32573445,
+    "lon": 88.69835492435763
   }
 ]

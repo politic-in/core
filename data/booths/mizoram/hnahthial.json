@@ -8,7 +8,9 @@
     "acNumber": 29,
     "acName": "SOUTH TUIPUI",
     "partNumber": 1,
-    "partName": "Chawngtui S"
+    "partName": "Chawngtui S",
+    "lat": 22.9663656,
+    "lon": 93.01026448504744
   },
   {
     "partId": 60,
@@ -19,7 +21,9 @@
     "acNumber": 29,
     "acName": "SOUTH TUIPUI",
     "partNumber": 2,
-    "partName": "Tarpho"
+    "partName": "Tarpho",
+    "lat": 23.0036494,
+    "lon": 93.0039554
   },
   {
     "partId": 61,
@@ -30,7 +34,9 @@
     "acNumber": 29,
     "acName": "SOUTH TUIPUI",
     "partNumber": 3,
-    "partName": "Cherhlun I"
+    "partName": "Cherhlun I",
+    "lat": 22.9663656,
+    "lon": 93.01026448504744
   },
   {
     "partId": 62,
@@ -41,7 +47,9 @@
     "acNumber": 29,
     "acName": "SOUTH TUIPUI",
     "partNumber": 4,
-    "partName": "Cherhlun II"
+    "partName": "Cherhlun II",
+    "lat": 22.9663656,
+    "lon": 93.01026448504744
   },
   {
     "partId": 63,
@@ -52,7 +60,9 @@
     "acNumber": 29,
     "acName": "SOUTH TUIPUI",
     "partNumber": 5,
-    "partName": "Aithur"
+    "partName": "Aithur",
+    "lat": 22.9663656,
+    "lon": 93.01026448504744
   },
   {
     "partId": 64,
@@ -63,7 +73,9 @@
     "acNumber": 29,
     "acName": "SOUTH TUIPUI",
     "partNumber": 6,
-    "partName": "Hnahthial I"
+    "partName": "Hnahthial I",
+    "lat": 22.9665679,
+    "lon": 92.9285377
   },
   {
     "partId": 65,
@@ -74,7 +86,9 @@
     "acNumber": 29,
     "acName": "SOUTH TUIPUI",
     "partNumber": 7,
-    "partName": "Hnahthial II"
+    "partName": "Hnahthial II",
+    "lat": 22.9665679,
+    "lon": 92.9285377
   },
   {
     "partId": 66,
@@ -85,7 +99,9 @@
     "acNumber": 29,
     "acName": "SOUTH TUIPUI",
     "partNumber": 8,
-    "partName": "Hnahthial III"
+    "partName": "Hnahthial III",
+    "lat": 22.9663656,
+    "lon": 93.01026448504744
   },
   {
     "partId": 67,
@@ -96,7 +112,9 @@
     "acNumber": 29,
     "acName": "SOUTH TUIPUI",
     "partNumber": 9,
-    "partName": "Hnahthial IV"
+    "partName": "Hnahthial IV",
+    "lat": 22.9663656,
+    "lon": 93.01026448504744
   },
   {
     "partId": 68,
@@ -107,7 +125,9 @@
     "acNumber": 29,
     "acName": "SOUTH TUIPUI",
     "partNumber": 10,
-    "partName": "Hnahthial V"
+    "partName": "Hnahthial V",
+    "lat": 22.9665679,
+    "lon": 92.9285377
   },
   {
     "partId": 69,
@@ -118,7 +138,9 @@
     "acNumber": 29,
     "acName": "SOUTH TUIPUI",
     "partNumber": 11,
-    "partName": "Hnahthial VI"
+    "partName": "Hnahthial VI",
+    "lat": 22.9665679,
+    "lon": 92.9285377
   },
   {
     "partId": 70,
@@ -129,7 +151,9 @@
     "acNumber": 29,
     "acName": "SOUTH TUIPUI",
     "partNumber": 12,
-    "partName": "New Ngharchhip"
+    "partName": "New Ngharchhip",
+    "lat": 22.9663656,
+    "lon": 93.01026448504744
   },
   {
     "partId": 71,
@@ -140,7 +164,9 @@
     "acNumber": 29,
     "acName": "SOUTH TUIPUI",
     "partNumber": 13,
-    "partName": "Tuipui D"
+    "partName": "Tuipui D",
+    "lat": 22.9060817,
+    "lon": 92.932089
   },
   {
     "partId": 72,
@@ -151,7 +177,9 @@
     "acNumber": 29,
     "acName": "SOUTH TUIPUI",
     "partNumber": 14,
-    "partName": "Thingsai I"
+    "partName": "Thingsai I",
+    "lat": 22.9663656,
+    "lon": 93.01026448504744
   },
   {
     "partId": 73,
@@ -162,7 +190,9 @@
     "acNumber": 29,
     "acName": "SOUTH TUIPUI",
     "partNumber": 15,
-    "partName": "Thingsai II"
+    "partName": "Thingsai II",
+    "lat": 22.9663656,
+    "lon": 93.01026448504744
   },
   {
     "partId": 74,
@@ -173,7 +203,9 @@
     "acNumber": 29,
     "acName": "SOUTH TUIPUI",
     "partNumber": 16,
-    "partName": "Lungleng S"
+    "partName": "Lungleng S",
+    "lat": 22.9663656,
+    "lon": 93.01026448504744
   },
   {
     "partId": 75,
@@ -184,7 +216,9 @@
     "acNumber": 29,
     "acName": "SOUTH TUIPUI",
     "partNumber": 17,
-    "partName": "Darzo I"
+    "partName": "Darzo I",
+    "lat": 22.9663656,
+    "lon": 93.01026448504744
   },
   {
     "partId": 1244,
@@ -195,7 +229,9 @@
     "acNumber": 29,
     "acName": "SOUTH TUIPUI",
     "partNumber": 18,
-    "partName": "Darzo II"
+    "partName": "Darzo II",
+    "lat": 22.9663656,
+    "lon": 93.01026448504744
   },
   {
     "partId": 76,
@@ -206,7 +242,9 @@
     "acNumber": 29,
     "acName": "SOUTH TUIPUI",
     "partNumber": 19,
-    "partName": "Muallianpui"
+    "partName": "Muallianpui",
+    "lat": 22.8470868,
+    "lon": 93.031443
   },
   {
     "partId": 77,
@@ -217,7 +255,9 @@
     "acNumber": 29,
     "acName": "SOUTH TUIPUI",
     "partNumber": 20,
-    "partName": "S. Vanlaiphai I"
+    "partName": "S. Vanlaiphai I",
+    "lat": 22.9663656,
+    "lon": 93.01026448504744
   },
   {
     "partId": 78,
@@ -228,7 +268,9 @@
     "acNumber": 29,
     "acName": "SOUTH TUIPUI",
     "partNumber": 21,
-    "partName": "S. Vanlaiphai II"
+    "partName": "S. Vanlaiphai II",
+    "lat": 22.9663656,
+    "lon": 93.01026448504744
   },
   {
     "partId": 79,
@@ -239,7 +281,9 @@
     "acNumber": 29,
     "acName": "SOUTH TUIPUI",
     "partNumber": 22,
-    "partName": "Lungpuitlang"
+    "partName": "Lungpuitlang",
+    "lat": 22.9663656,
+    "lon": 93.01026448504744
   },
   {
     "partId": 1229,
@@ -250,7 +294,9 @@
     "acNumber": 29,
     "acName": "SOUTH TUIPUI",
     "partNumber": 23,
-    "partName": "New Kawnpui"
+    "partName": "New Kawnpui",
+    "lat": 22.9663656,
+    "lon": 93.01026448504744
   },
   {
     "partId": 608,
@@ -261,7 +307,9 @@
     "acNumber": 29,
     "acName": "SOUTH TUIPUI",
     "partNumber": 24,
-    "partName": "Bualpui H"
+    "partName": "Bualpui H",
+    "lat": 22.9663656,
+    "lon": 93.01026448504744
   },
   {
     "partId": 829,
@@ -272,7 +320,9 @@
     "acNumber": 29,
     "acName": "SOUTH TUIPUI",
     "partNumber": 25,
-    "partName": "Khawhri"
+    "partName": "Khawhri",
+    "lat": 22.9663656,
+    "lon": 93.01026448504744
   },
   {
     "partId": 907,
@@ -283,7 +333,9 @@
     "acNumber": 29,
     "acName": "SOUTH TUIPUI",
     "partNumber": 26,
-    "partName": "Ngharchhip"
+    "partName": "Ngharchhip",
+    "lat": 22.9663656,
+    "lon": 93.01026448504744
   },
   {
     "partId": 1169,
@@ -294,6 +346,8 @@
     "acNumber": 29,
     "acName": "SOUTH TUIPUI",
     "partNumber": 27,
-    "partName": "Denlung"
+    "partName": "Denlung",
+    "lat": 22.9663656,
+    "lon": 93.01026448504744
   }
 ]

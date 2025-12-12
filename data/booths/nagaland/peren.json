@@ -8,7 +8,9 @@
     "acNumber": 7,
     "acName": "PEREN",
     "partNumber": 1,
-    "partName": "PEREN TOWN A SECTOR (N/W)"
+    "partName": "PEREN TOWN A SECTOR (N/W)",
+    "lat": 25.47907705,
+    "lon": 93.72563659313207
   },
   {
     "partId": 2838,
@@ -19,7 +21,9 @@
     "acNumber": 7,
     "acName": "PEREN",
     "partNumber": 2,
-    "partName": "PEREN TOWN B SECTOR (E/W)"
+    "partName": "PEREN TOWN B SECTOR (E/W)",
+    "lat": 25.47907705,
+    "lon": 93.72563659313207
   },
   {
     "partId": 2839,
@@ -30,7 +34,9 @@
     "acNumber": 7,
     "acName": "PEREN",
     "partNumber": 3,
-    "partName": "PEREN VILLAGE"
+    "partName": "PEREN VILLAGE",
+    "lat": 25.512487,
+    "lon": 93.73832606241257
   },
   {
     "partId": 2840,
@@ -41,7 +47,9 @@
     "acNumber": 7,
     "acName": "PEREN",
     "partNumber": 4,
-    "partName": "PEREN TOWN MEDICAL COLONY"
+    "partName": "PEREN TOWN MEDICAL COLONY",
+    "lat": 25.47907705,
+    "lon": 93.72563659313207
   },
   {
     "partId": 2841,
@@ -52,7 +60,9 @@
     "acNumber": 7,
     "acName": "PEREN",
     "partNumber": 5,
-    "partName": "PEREN NEW"
+    "partName": "PEREN NEW",
+    "lat": 25.5631612,
+    "lon": 93.6727901
   },
   {
     "partId": 2842,
@@ -63,7 +73,9 @@
     "acNumber": 7,
     "acName": "PEREN",
     "partNumber": 6,
-    "partName": "PUILWA OLD"
+    "partName": "PUILWA OLD",
+    "lat": 25.47907705,
+    "lon": 93.72563659313207
   },
   {
     "partId": 2843,
@@ -74,7 +86,9 @@
     "acNumber": 7,
     "acName": "PEREN",
     "partNumber": 7,
-    "partName": "PUILWA NEW"
+    "partName": "PUILWA NEW",
+    "lat": 25.4816237,
+    "lon": 93.7887183
   },
   {
     "partId": 2844,
@@ -85,7 +99,9 @@
     "acNumber": 7,
     "acName": "PEREN",
     "partNumber": 8,
-    "partName": "OLD MPAI"
+    "partName": "OLD MPAI",
+    "lat": 25.47907705,
+    "lon": 93.72563659313207
   },
   {
     "partId": 2845,
@@ -96,7 +112,9 @@
     "acNumber": 7,
     "acName": "PEREN",
     "partNumber": 9,
-    "partName": "KENDUNG"
+    "partName": "KENDUNG",
+    "lat": 25.47907705,
+    "lon": 93.72563659313207
   },
   {
     "partId": 2846,
@@ -107,7 +125,9 @@
     "acNumber": 7,
     "acName": "PEREN",
     "partNumber": 10,
-    "partName": "PELETKIE"
+    "partName": "PELETKIE",
+    "lat": 25.47907705,
+    "lon": 93.72563659313207
   },
   {
     "partId": 2847,
@@ -118,7 +138,9 @@
     "acNumber": 7,
     "acName": "PEREN",
     "partNumber": 11,
-    "partName": "JALUKIE TOWN A SECTOR-I"
+    "partName": "JALUKIE TOWN A SECTOR-I",
+    "lat": 25.47907705,
+    "lon": 93.72563659313207
   },
   {
     "partId": 2848,
@@ -129,7 +151,9 @@
     "acNumber": 7,
     "acName": "PEREN",
     "partNumber": 12,
-    "partName": "JALUKIE TOWN A SECTOR-II"
+    "partName": "JALUKIE TOWN A SECTOR-II",
+    "lat": 25.47907705,
+    "lon": 93.72563659313207
   },
   {
     "partId": 2849,
@@ -140,7 +164,9 @@
     "acNumber": 7,
     "acName": "PEREN",
     "partNumber": 13,
-    "partName": "JALUKIE TOWN B SECTOR-I (N/W)"
+    "partName": "JALUKIE TOWN B SECTOR-I (N/W)",
+    "lat": 25.47907705,
+    "lon": 93.72563659313207
   },
   {
     "partId": 2850,
@@ -151,7 +177,9 @@
     "acNumber": 7,
     "acName": "PEREN",
     "partNumber": 14,
-    "partName": "JALUKIE TOWN B SECTOR-II (N/W)"
+    "partName": "JALUKIE TOWN B SECTOR-II (N/W)",
+    "lat": 25.47907705,
+    "lon": 93.72563659313207
   },
   {
     "partId": 2851,
@@ -162,7 +190,9 @@
     "acNumber": 7,
     "acName": "PEREN",
     "partNumber": 15,
-    "partName": "SAMJIURAM SECTOR A"
+    "partName": "SAMJIURAM SECTOR A",
+    "lat": 25.47907705,
+    "lon": 93.72563659313207
   },
   {
     "partId": 2852,
@@ -173,7 +203,9 @@
     "acNumber": 7,
     "acName": "PEREN",
     "partNumber": 16,
-    "partName": "SAMZIURAM SECTOR B (N/W)"
+    "partName": "SAMZIURAM SECTOR B (N/W)",
+    "lat": 25.47907705,
+    "lon": 93.72563659313207
   },
   {
     "partId": 2853,
@@ -184,7 +216,9 @@
     "acNumber": 7,
     "acName": "PEREN",
     "partNumber": 17,
-    "partName": "SAMZIURAM SECTOR C (N/W)"
+    "partName": "SAMZIURAM SECTOR C (N/W)",
+    "lat": 25.47907705,
+    "lon": 93.72563659313207
   },
   {
     "partId": 2854,
@@ -195,7 +229,9 @@
     "acNumber": 7,
     "acName": "PEREN",
     "partNumber": 18,
-    "partName": "OLD JALUKIE UPPER"
+    "partName": "OLD JALUKIE UPPER",
+    "lat": 25.47907705,
+    "lon": 93.72563659313207
   },
   {
     "partId": 2855,
@@ -206,7 +242,9 @@
     "acNumber": 7,
     "acName": "PEREN",
     "partNumber": 19,
-    "partName": "OLD JALUKIE LOWER"
+    "partName": "OLD JALUKIE LOWER",
+    "lat": 25.47907705,
+    "lon": 93.72563659313207
   },
   {
     "partId": 2856,
@@ -217,7 +255,9 @@
     "acNumber": 7,
     "acName": "PEREN",
     "partNumber": 20,
-    "partName": "NEW JALUKIE (N/W)"
+    "partName": "NEW JALUKIE (N/W)",
+    "lat": 25.47907705,
+    "lon": 93.72563659313207
   },
   {
     "partId": 2857,
@@ -228,7 +268,9 @@
     "acNumber": 7,
     "acName": "PEREN",
     "partNumber": 21,
-    "partName": "JALUKIE B (N/W)"
+    "partName": "JALUKIE B (N/W)",
+    "lat": 25.47907705,
+    "lon": 93.72563659313207
   },
   {
     "partId": 2858,
@@ -239,7 +281,9 @@
     "acNumber": 7,
     "acName": "PEREN",
     "partNumber": 22,
-    "partName": "KEJANGLWA"
+    "partName": "KEJANGLWA",
+    "lat": 25.5872634,
+    "lon": 93.6817715
   },
   {
     "partId": 2859,
@@ -250,7 +294,9 @@
     "acNumber": 7,
     "acName": "PEREN",
     "partNumber": 23,
-    "partName": "MHAIKAM"
+    "partName": "MHAIKAM",
+    "lat": 25.47907705,
+    "lon": 93.72563659313207
   },
   {
     "partId": 2860,
@@ -261,7 +307,9 @@
     "acNumber": 7,
     "acName": "PEREN",
     "partNumber": 24,
-    "partName": "MHAINAMTSI (N/W)"
+    "partName": "MHAINAMTSI (N/W)",
+    "lat": 25.47907705,
+    "lon": 93.72563659313207
   },
   {
     "partId": 2861,
@@ -272,7 +320,9 @@
     "acNumber": 7,
     "acName": "PEREN",
     "partNumber": 25,
-    "partName": "HENINGKUNGLWA (N/W)"
+    "partName": "HENINGKUNGLWA (N/W)",
+    "lat": 25.47907705,
+    "lon": 93.72563659313207
   },
   {
     "partId": 2862,
@@ -283,7 +333,9 @@
     "acNumber": 7,
     "acName": "PEREN",
     "partNumber": 26,
-    "partName": "NDUNGLWA"
+    "partName": "NDUNGLWA",
+    "lat": 25.47907705,
+    "lon": 93.72563659313207
   },
   {
     "partId": 2863,
@@ -294,7 +346,9 @@
     "acNumber": 7,
     "acName": "PEREN",
     "partNumber": 27,
-    "partName": "PEDI"
+    "partName": "PEDI",
+    "lat": 25.619144,
+    "lon": 93.85304474986897
   },
   {
     "partId": 2864,
@@ -305,7 +359,9 @@
     "acNumber": 7,
     "acName": "PEREN",
     "partNumber": 28,
-    "partName": "GAILI"
+    "partName": "GAILI",
+    "lat": 25.47907705,
+    "lon": 93.72563659313207
   },
   {
     "partId": 2865,
@@ -316,7 +372,9 @@
     "acNumber": 7,
     "acName": "PEREN",
     "partNumber": 29,
-    "partName": "PUNGLWA"
+    "partName": "PUNGLWA",
+    "lat": 25.47907705,
+    "lon": 93.72563659313207
   },
   {
     "partId": 2866,
@@ -327,7 +385,9 @@
     "acNumber": 7,
     "acName": "PEREN",
     "partNumber": 30,
-    "partName": "POILWA OLD (N/W)"
+    "partName": "POILWA OLD (N/W)",
+    "lat": 25.47907705,
+    "lon": 93.72563659313207
   },
   {
     "partId": 2867,
@@ -338,7 +398,9 @@
     "acNumber": 7,
     "acName": "PEREN",
     "partNumber": 31,
-    "partName": "POLLWA NEW (N/W)"
+    "partName": "POLLWA NEW (N/W)",
+    "lat": 25.47907705,
+    "lon": 93.72563659313207
   },
   {
     "partId": 2868,
@@ -349,7 +411,9 @@
     "acNumber": 7,
     "acName": "PEREN",
     "partNumber": 32,
-    "partName": "BENREU"
+    "partName": "BENREU",
+    "lat": 25.5741902,
+    "lon": 93.8586483
   },
   {
     "partId": 2869,
@@ -360,7 +424,9 @@
     "acNumber": 7,
     "acName": "PEREN",
     "partNumber": 33,
-    "partName": "NEW NGWALWA (N/W)"
+    "partName": "NEW NGWALWA (N/W)",
+    "lat": 25.47907705,
+    "lon": 93.72563659313207
   },
   {
     "partId": 2870,
@@ -371,7 +437,9 @@
     "acNumber": 7,
     "acName": "PEREN",
     "partNumber": 34,
-    "partName": "JALUKIEKAM"
+    "partName": "JALUKIEKAM",
+    "lat": 25.47907705,
+    "lon": 93.72563659313207
   },
   {
     "partId": 2871,
@@ -382,7 +450,9 @@
     "acNumber": 7,
     "acName": "PEREN",
     "partNumber": 35,
-    "partName": "JALUKIE ZANGDI"
+    "partName": "JALUKIE ZANGDI",
+    "lat": 25.47907705,
+    "lon": 93.72563659313207
   },
   {
     "partId": 2872,
@@ -393,7 +463,9 @@
     "acNumber": 7,
     "acName": "PEREN",
     "partNumber": 36,
-    "partName": "DUNGKI (N/W)"
+    "partName": "DUNGKI (N/W)",
+    "lat": 25.47907705,
+    "lon": 93.72563659313207
   },
   {
     "partId": 2873,
@@ -404,7 +476,9 @@
     "acNumber": 7,
     "acName": "PEREN",
     "partNumber": 37,
-    "partName": "NKWAKREU"
+    "partName": "NKWAKREU",
+    "lat": 25.47907705,
+    "lon": 93.72563659313207
   },
   {
     "partId": 2874,
@@ -415,7 +489,9 @@
     "acNumber": 7,
     "acName": "PEREN",
     "partNumber": 38,
-    "partName": "DEUKWARAM"
+    "partName": "DEUKWARAM",
+    "lat": 25.47907705,
+    "lon": 93.72563659313207
   },
   {
     "partId": 2875,
@@ -426,7 +502,9 @@
     "acNumber": 7,
     "acName": "PEREN",
     "partNumber": 39,
-    "partName": "KIPEUZANG"
+    "partName": "KIPEUZANG",
+    "lat": 25.47907705,
+    "lon": 93.72563659313207
   },
   {
     "partId": 2876,
@@ -437,7 +515,9 @@
     "acNumber": 7,
     "acName": "PEREN",
     "partNumber": 40,
-    "partName": "NGWALWA TOWN"
+    "partName": "NGWALWA TOWN",
+    "lat": 25.47907705,
+    "lon": 93.72563659313207
   },
   {
     "partId": 2877,
@@ -448,7 +528,9 @@
     "acNumber": 7,
     "acName": "PEREN",
     "partNumber": 41,
-    "partName": "PEREN TOWN-A SECTOR (W/W)"
+    "partName": "PEREN TOWN-A SECTOR (W/W)",
+    "lat": 25.47907705,
+    "lon": 93.72563659313207
   },
   {
     "partId": 2878,
@@ -459,7 +541,9 @@
     "acNumber": 7,
     "acName": "PEREN",
     "partNumber": 42,
-    "partName": "PEREN TOWN-B SECTOR (S/W)"
+    "partName": "PEREN TOWN-B SECTOR (S/W)",
+    "lat": 25.47907705,
+    "lon": 93.72563659313207
   },
   {
     "partId": 2879,
@@ -470,7 +554,9 @@
     "acNumber": 7,
     "acName": "PEREN",
     "partNumber": 43,
-    "partName": "MPAI NAMCHI"
+    "partName": "MPAI NAMCHI",
+    "lat": 25.47907705,
+    "lon": 93.72563659313207
   },
   {
     "partId": 2880,
@@ -481,7 +567,9 @@
     "acNumber": 7,
     "acName": "PEREN",
     "partNumber": 44,
-    "partName": "JALUKIE TOWN-B SECTOR-I (S/W)"
+    "partName": "JALUKIE TOWN-B SECTOR-I (S/W)",
+    "lat": 25.47907705,
+    "lon": 93.72563659313207
   },
   {
     "partId": 2881,
@@ -492,7 +580,9 @@
     "acNumber": 7,
     "acName": "PEREN",
     "partNumber": 45,
-    "partName": "JALUKIE TOWN-B SECTOR-II (S/W)"
+    "partName": "JALUKIE TOWN-B SECTOR-II (S/W)",
+    "lat": 25.47907705,
+    "lon": 93.72563659313207
   },
   {
     "partId": 2882,
@@ -503,7 +593,9 @@
     "acNumber": 7,
     "acName": "PEREN",
     "partNumber": 46,
-    "partName": "SAMZIURAM SECTOR B (S/W)"
+    "partName": "SAMZIURAM SECTOR B (S/W)",
+    "lat": 25.47907705,
+    "lon": 93.72563659313207
   },
   {
     "partId": 2883,
@@ -514,7 +606,9 @@
     "acNumber": 7,
     "acName": "PEREN",
     "partNumber": 47,
-    "partName": "SAMZIURAM SECTOR C (S/W)"
+    "partName": "SAMZIURAM SECTOR C (S/W)",
+    "lat": 25.47907705,
+    "lon": 93.72563659313207
   },
   {
     "partId": 2884,
@@ -525,7 +619,9 @@
     "acNumber": 7,
     "acName": "PEREN",
     "partNumber": 48,
-    "partName": "NEW JALUKIE (S/W)"
+    "partName": "NEW JALUKIE (S/W)",
+    "lat": 25.47907705,
+    "lon": 93.72563659313207
   },
   {
     "partId": 2885,
@@ -536,7 +632,9 @@
     "acNumber": 7,
     "acName": "PEREN",
     "partNumber": 49,
-    "partName": "JALUKIE B (S/W)"
+    "partName": "JALUKIE B (S/W)",
+    "lat": 25.47907705,
+    "lon": 93.72563659313207
   },
   {
     "partId": 2886,
@@ -547,7 +645,9 @@
     "acNumber": 7,
     "acName": "PEREN",
     "partNumber": 50,
-    "partName": "MHAINAMTSI (S/W)"
+    "partName": "MHAINAMTSI (S/W)",
+    "lat": 25.47907705,
+    "lon": 93.72563659313207
   },
   {
     "partId": 2887,
@@ -558,7 +658,9 @@
     "acNumber": 7,
     "acName": "PEREN",
     "partNumber": 51,
-    "partName": "HANINGKUNGLWA (S/W)"
+    "partName": "HANINGKUNGLWA (S/W)",
+    "lat": 25.47907705,
+    "lon": 93.72563659313207
   },
   {
     "partId": 2888,
@@ -569,7 +671,9 @@
     "acNumber": 7,
     "acName": "PEREN",
     "partNumber": 52,
-    "partName": "POILWA OLD (S/W)"
+    "partName": "POILWA OLD (S/W)",
+    "lat": 25.48763160234375,
+    "lon": 93.72855273313765
   },
   {
     "partId": 2889,
@@ -580,7 +684,9 @@
     "acNumber": 7,
     "acName": "PEREN",
     "partNumber": 53,
-    "partName": "NEW NGWALWA (S/W)"
+    "partName": "NEW NGWALWA (S/W)",
+    "lat": 25.47907705,
+    "lon": 93.72563659313207
   },
   {
     "partId": 2890,
@@ -591,7 +697,9 @@
     "acNumber": 7,
     "acName": "PEREN",
     "partNumber": 54,
-    "partName": "DUNGKI (S/W)"
+    "partName": "DUNGKI (S/W)",
+    "lat": 25.47907705,
+    "lon": 93.72563659313207
   },
   {
     "partId": 2891,
@@ -602,7 +710,9 @@
     "acNumber": 7,
     "acName": "PEREN",
     "partNumber": 55,
-    "partName": "LAMHAI"
+    "partName": "LAMHAI",
+    "lat": 25.47907705,
+    "lon": 93.72563659313207
   },
   {
     "partId": 2892,
@@ -613,7 +723,9 @@
     "acNumber": 7,
     "acName": "PEREN",
     "partNumber": 56,
-    "partName": "JALUKIELO VILLAGE"
+    "partName": "JALUKIELO VILLAGE",
+    "lat": 25.47907705,
+    "lon": 93.72563659313207
   },
   {
     "partId": 2893,
@@ -624,7 +736,9 @@
     "acNumber": 7,
     "acName": "PEREN",
     "partNumber": 57,
-    "partName": "JALUKIERAM VILLAGE"
+    "partName": "JALUKIERAM VILLAGE",
+    "lat": 25.47907705,
+    "lon": 93.72563659313207
   },
   {
     "partId": 2894,
@@ -635,7 +749,9 @@
     "acNumber": 7,
     "acName": "PEREN",
     "partNumber": 58,
-    "partName": "HEUNAMBE VILLAGE"
+    "partName": "HEUNAMBE VILLAGE",
+    "lat": 25.47907705,
+    "lon": 93.72563659313207
   },
   {
     "partId": 2895,
@@ -646,7 +762,9 @@
     "acNumber": 7,
     "acName": "PEREN",
     "partNumber": 59,
-    "partName": "KELETZAI WARD"
+    "partName": "KELETZAI WARD",
+    "lat": 25.47907705,
+    "lon": 93.72563659313207
   },
   {
     "partId": 2896,
@@ -657,7 +775,9 @@
     "acNumber": 7,
     "acName": "PEREN",
     "partNumber": 60,
-    "partName": "OLD JALUKIE UPPER (BLOCK A)"
+    "partName": "OLD JALUKIE UPPER (BLOCK A)",
+    "lat": 25.47907705,
+    "lon": 93.72563659313207
   },
   {
     "partId": 2897,
@@ -668,7 +788,9 @@
     "acNumber": 7,
     "acName": "PEREN",
     "partNumber": 61,
-    "partName": "PEREN NAMDI"
+    "partName": "PEREN NAMDI",
+    "lat": 25.47907705,
+    "lon": 93.72563659313207
   },
   {
     "partId": 2898,
@@ -679,7 +801,9 @@
     "acNumber": 7,
     "acName": "PEREN",
     "partNumber": 62,
-    "partName": "GAILI NAMDI"
+    "partName": "GAILI NAMDI",
+    "lat": 25.47907705,
+    "lon": 93.72563659313207
   },
   {
     "partId": 2899,
@@ -690,7 +814,9 @@
     "acNumber": 7,
     "acName": "PEREN",
     "partNumber": 63,
-    "partName": "JALUKIE SANGTAM VILLAGE"
+    "partName": "JALUKIE SANGTAM VILLAGE",
+    "lat": 25.47907705,
+    "lon": 93.72563659313207
   },
   {
     "partId": 2900,
@@ -701,7 +827,9 @@
     "acNumber": 7,
     "acName": "PEREN",
     "partNumber": 64,
-    "partName": "NEW JALUKIE"
+    "partName": "NEW JALUKIE",
+    "lat": 25.47907705,
+    "lon": 93.72563659313207
   },
   {
     "partId": 2901,
@@ -712,7 +840,9 @@
     "acNumber": 7,
     "acName": "PEREN",
     "partNumber": 65,
-    "partName": "PEREN HQ"
+    "partName": "PEREN HQ",
+    "lat": 25.5631612,
+    "lon": 93.6727901
   },
   {
     "partId": 337,
@@ -723,7 +853,9 @@
     "acNumber": 6,
     "acName": "TENNING",
     "partNumber": 1,
-    "partName": "TENING TOWN (N/W)"
+    "partName": "TENING TOWN (N/W)",
+    "lat": 25.389325075,
+    "lon": 93.605603675
   },
   {
     "partId": 338,
@@ -734,7 +866,9 @@
     "acNumber": 6,
     "acName": "TENNING",
     "partNumber": 2,
-    "partName": "NZAU NAMSAN"
+    "partName": "NZAU NAMSAN",
+    "lat": 25.389325075,
+    "lon": 93.605603675
   },
   {
     "partId": 339,
@@ -745,7 +879,9 @@
     "acNumber": 6,
     "acName": "TENNING",
     "partNumber": 3,
-    "partName": "TENING VILLAGE"
+    "partName": "TENING VILLAGE",
+    "lat": 25.389325075,
+    "lon": 93.605603675
   },
   {
     "partId": 340,
@@ -756,7 +892,9 @@
     "acNumber": 6,
     "acName": "TENNING",
     "partNumber": 4,
-    "partName": "TENING CHRISTIAN (S/W)"
+    "partName": "TENING CHRISTIAN (S/W)",
+    "lat": 25.389325075,
+    "lon": 93.605603675
   },
   {
     "partId": 341,
@@ -767,7 +905,9 @@
     "acNumber": 6,
     "acName": "TENNING",
     "partNumber": 5,
-    "partName": "TEPUN"
+    "partName": "TEPUN",
+    "lat": 25.389325075,
+    "lon": 93.605603675
   },
   {
     "partId": 342,
@@ -778,7 +918,9 @@
     "acNumber": 6,
     "acName": "TENNING",
     "partNumber": 6,
-    "partName": "NZAU"
+    "partName": "NZAU",
+    "lat": 25.3126426,
+    "lon": 93.637635
   },
   {
     "partId": 343,
@@ -789,7 +931,9 @@
     "acNumber": 6,
     "acName": "TENNING",
     "partNumber": 7,
-    "partName": "NCHANGRAM-I"
+    "partName": "NCHANGRAM-I",
+    "lat": 25.3985991,
+    "lon": 93.6337559
   },
   {
     "partId": 344,
@@ -800,7 +944,9 @@
     "acNumber": 6,
     "acName": "TENNING",
     "partNumber": 8,
-    "partName": "NCHANGRAM-II"
+    "partName": "NCHANGRAM-II",
+    "lat": 25.3985991,
+    "lon": 93.6337559
   },
   {
     "partId": 345,
@@ -811,7 +957,9 @@
     "acNumber": 6,
     "acName": "TENNING",
     "partNumber": 9,
-    "partName": "MBAUPUNGWA"
+    "partName": "MBAUPUNGWA",
+    "lat": 25.389325075,
+    "lon": 93.605603675
   },
   {
     "partId": 346,
@@ -822,7 +970,9 @@
     "acNumber": 6,
     "acName": "TENNING",
     "partNumber": 10,
-    "partName": "NKIALWA"
+    "partName": "NKIALWA",
+    "lat": 25.389325075,
+    "lon": 93.605603675
   },
   {
     "partId": 347,
@@ -833,7 +983,9 @@
     "acNumber": 6,
     "acName": "TENNING",
     "partNumber": 11,
-    "partName": "SINJOL (A) LOWER"
+    "partName": "SINJOL (A) LOWER",
+    "lat": 25.389325075,
+    "lon": 93.605603675
   },
   {
     "partId": 348,
@@ -844,7 +996,9 @@
     "acNumber": 6,
     "acName": "TENNING",
     "partNumber": 12,
-    "partName": "SINJOL (B) UPPER"
+    "partName": "SINJOL (B) UPPER",
+    "lat": 25.389325075,
+    "lon": 93.605603675
   },
   {
     "partId": 349,
@@ -855,7 +1009,9 @@
     "acNumber": 6,
     "acName": "TENNING",
     "partNumber": 13,
-    "partName": "TESEN OLD (N/W)"
+    "partName": "TESEN OLD (N/W)",
+    "lat": 25.389325075,
+    "lon": 93.605603675
   },
   {
     "partId": 350,
@@ -866,7 +1022,9 @@
     "acNumber": 6,
     "acName": "TENNING",
     "partNumber": 14,
-    "partName": "TESEN NEW"
+    "partName": "TESEN NEW",
+    "lat": 25.389325075,
+    "lon": 93.605603675
   },
   {
     "partId": 351,
@@ -877,7 +1035,9 @@
     "acNumber": 6,
     "acName": "TENNING",
     "partNumber": 15,
-    "partName": "HEIRANGLWA"
+    "partName": "HEIRANGLWA",
+    "lat": 25.389325075,
+    "lon": 93.605603675
   },
   {
     "partId": 352,
@@ -888,7 +1048,9 @@
     "acNumber": 6,
     "acName": "TENNING",
     "partNumber": 16,
-    "partName": "NZAUNA"
+    "partName": "NZAUNA",
+    "lat": 25.2428152,
+    "lon": 93.5705574
   },
   {
     "partId": 353,
@@ -899,7 +1061,9 @@
     "acNumber": 6,
     "acName": "TENNING",
     "partNumber": 17,
-    "partName": "LALONG(N/W)"
+    "partName": "LALONG(N/W)",
+    "lat": 25.389325075,
+    "lon": 93.605603675
   },
   {
     "partId": 354,
@@ -910,7 +1074,9 @@
     "acNumber": 6,
     "acName": "TENNING",
     "partNumber": 18,
-    "partName": "NTU VILLAGE"
+    "partName": "NTU VILLAGE",
+    "lat": 25.389325075,
+    "lon": 93.605603675
   },
   {
     "partId": 355,
@@ -921,7 +1087,9 @@
     "acNumber": 6,
     "acName": "TENNING",
     "partNumber": 19,
-    "partName": "NSONG VILLAGE"
+    "partName": "NSONG VILLAGE",
+    "lat": 25.389325075,
+    "lon": 93.605603675
   },
   {
     "partId": 356,
@@ -932,7 +1100,9 @@
     "acNumber": 6,
     "acName": "TENNING",
     "partNumber": 20,
-    "partName": "NSONG TOWN"
+    "partName": "NSONG TOWN",
+    "lat": 25.389325075,
+    "lon": 93.605603675
   },
   {
     "partId": 357,
@@ -943,7 +1113,9 @@
     "acNumber": 6,
     "acName": "TENNING",
     "partNumber": 21,
-    "partName": "NCHAN"
+    "partName": "NCHAN",
+    "lat": 25.389325075,
+    "lon": 93.605603675
   },
   {
     "partId": 358,
@@ -954,7 +1126,9 @@
     "acNumber": 6,
     "acName": "TENNING",
     "partNumber": 22,
-    "partName": "NGOULONG OLD"
+    "partName": "NGOULONG OLD",
+    "lat": 25.389325075,
+    "lon": 93.605603675
   },
   {
     "partId": 359,
@@ -965,7 +1139,9 @@
     "acNumber": 6,
     "acName": "TENNING",
     "partNumber": 23,
-    "partName": "NGOULONG NEW"
+    "partName": "NGOULONG NEW",
+    "lat": 25.389325075,
+    "lon": 93.605603675
   },
   {
     "partId": 360,
@@ -976,7 +1152,9 @@
     "acNumber": 6,
     "acName": "TENNING",
     "partNumber": 24,
-    "partName": "OLD NKIO"
+    "partName": "OLD NKIO",
+    "lat": 25.389325075,
+    "lon": 93.605603675
   },
   {
     "partId": 361,
@@ -987,7 +1165,9 @@
     "acNumber": 6,
     "acName": "TENNING",
     "partNumber": 25,
-    "partName": "BAMSIAKILWA"
+    "partName": "BAMSIAKILWA",
+    "lat": 25.3586915,
+    "lon": 93.5011282
   },
   {
     "partId": 362,
@@ -998,7 +1178,9 @@
     "acNumber": 6,
     "acName": "TENNING",
     "partNumber": 26,
-    "partName": "PHAIKHOLUM"
+    "partName": "PHAIKHOLUM",
+    "lat": 25.389325075,
+    "lon": 93.605603675
   },
   {
     "partId": 363,
@@ -1009,7 +1191,9 @@
     "acNumber": 6,
     "acName": "TENNING",
     "partNumber": 27,
-    "partName": "NEW NKIO"
+    "partName": "NEW NKIO",
+    "lat": 25.389325075,
+    "lon": 93.605603675
   },
   {
     "partId": 364,
@@ -1020,7 +1204,9 @@
     "acNumber": 6,
     "acName": "TENNING",
     "partNumber": 28,
-    "partName": "OLD SOGET"
+    "partName": "OLD SOGET",
+    "lat": 25.389325075,
+    "lon": 93.605603675
   },
   {
     "partId": 365,
@@ -1031,7 +1217,9 @@
     "acNumber": 6,
     "acName": "TENNING",
     "partNumber": 29,
-    "partName": "KHELMA"
+    "partName": "KHELMA",
+    "lat": 25.389325075,
+    "lon": 93.605603675
   },
   {
     "partId": 366,
@@ -1042,7 +1230,9 @@
     "acNumber": 6,
     "acName": "TENNING",
     "partNumber": 30,
-    "partName": "NEW SOGET"
+    "partName": "NEW SOGET",
+    "lat": 25.389325075,
+    "lon": 93.605603675
   },
   {
     "partId": 367,
@@ -1053,7 +1243,9 @@
     "acNumber": 6,
     "acName": "TENNING",
     "partNumber": 31,
-    "partName": "NSENLO"
+    "partName": "NSENLO",
+    "lat": 25.389325075,
+    "lon": 93.605603675
   },
   {
     "partId": 369,
@@ -1064,7 +1256,9 @@
     "acNumber": 6,
     "acName": "TENNING",
     "partNumber": 32,
-    "partName": "IKIESINGRAM"
+    "partName": "IKIESINGRAM",
+    "lat": 25.389325075,
+    "lon": 93.605603675
   },
   {
     "partId": 370,
@@ -1075,7 +1269,9 @@
     "acNumber": 6,
     "acName": "TENNING",
     "partNumber": 33,
-    "partName": "OLD BEISUMPUI"
+    "partName": "OLD BEISUMPUI",
+    "lat": 25.389325075,
+    "lon": 93.605603675
   },
   {
     "partId": 371,
@@ -1086,7 +1282,9 @@
     "acNumber": 6,
     "acName": "TENNING",
     "partNumber": 34,
-    "partName": "BONGKOLONG I"
+    "partName": "BONGKOLONG I",
+    "lat": 25.389325075,
+    "lon": 93.605603675
   },
   {
     "partId": 372,
@@ -1097,7 +1295,9 @@
     "acNumber": 6,
     "acName": "TENNING",
     "partNumber": 35,
-    "partName": "NEW BEISUMPUI"
+    "partName": "NEW BEISUMPUI",
+    "lat": 25.389325075,
+    "lon": 93.605603675
   },
   {
     "partId": 373,
@@ -1108,7 +1308,9 @@
     "acNumber": 6,
     "acName": "TENNING",
     "partNumber": 36,
-    "partName": "PELHANG"
+    "partName": "PELHANG",
+    "lat": 25.389325075,
+    "lon": 93.605603675
   },
   {
     "partId": 374,
@@ -1119,7 +1321,9 @@
     "acNumber": 6,
     "acName": "TENNING",
     "partNumber": 37,
-    "partName": "INBUNG"
+    "partName": "INBUNG",
+    "lat": 25.389325075,
+    "lon": 93.605603675
   },
   {
     "partId": 375,
@@ -1130,7 +1334,9 @@
     "acNumber": 6,
     "acName": "TENNING",
     "partNumber": 38,
-    "partName": "AHTHIBUNG TOWN(N/W)"
+    "partName": "AHTHIBUNG TOWN(N/W)",
+    "lat": 25.389325075,
+    "lon": 93.605603675
   },
   {
     "partId": 376,
@@ -1141,7 +1347,9 @@
     "acNumber": 6,
     "acName": "TENNING",
     "partNumber": 39,
-    "partName": "OLD CHALKOT"
+    "partName": "OLD CHALKOT",
+    "lat": 25.389325075,
+    "lon": 93.605603675
   },
   {
     "partId": 377,
@@ -1152,7 +1360,9 @@
     "acNumber": 6,
     "acName": "TENNING",
     "partNumber": 40,
-    "partName": "VONGKITHEM"
+    "partName": "VONGKITHEM",
+    "lat": 25.389325075,
+    "lon": 93.605603675
   },
   {
     "partId": 378,
@@ -1163,7 +1373,9 @@
     "acNumber": 6,
     "acName": "TENNING",
     "partNumber": 41,
-    "partName": "PHAIJOL"
+    "partName": "PHAIJOL",
+    "lat": 25.389325075,
+    "lon": 93.605603675
   },
   {
     "partId": 379,
@@ -1174,7 +1386,9 @@
     "acNumber": 6,
     "acName": "TENNING",
     "partNumber": 42,
-    "partName": "NEW CHALKOT"
+    "partName": "NEW CHALKOT",
+    "lat": 25.389325075,
+    "lon": 93.605603675
   },
   {
     "partId": 380,
@@ -1185,7 +1399,9 @@
     "acNumber": 6,
     "acName": "TENNING",
     "partNumber": 43,
-    "partName": "BEISUMPUIKAM"
+    "partName": "BEISUMPUIKAM",
+    "lat": 25.389325075,
+    "lon": 93.605603675
   },
   {
     "partId": 381,
@@ -1196,7 +1412,9 @@
     "acNumber": 6,
     "acName": "TENNING",
     "partNumber": 44,
-    "partName": "PHANZANG"
+    "partName": "PHANZANG",
+    "lat": 25.389325075,
+    "lon": 93.605603675
   },
   {
     "partId": 382,
@@ -1207,7 +1425,9 @@
     "acNumber": 6,
     "acName": "TENNING",
     "partNumber": 45,
-    "partName": "SAIJANG"
+    "partName": "SAIJANG",
+    "lat": 25.5956954,
+    "lon": 93.6489659
   },
   {
     "partId": 383,
@@ -1218,7 +1438,9 @@
     "acNumber": 6,
     "acName": "TENNING",
     "partNumber": 46,
-    "partName": "LIBEMPHAI"
+    "partName": "LIBEMPHAI",
+    "lat": 25.389325075,
+    "lon": 93.605603675
   },
   {
     "partId": 384,
@@ -1229,7 +1451,9 @@
     "acNumber": 6,
     "acName": "TENNING",
     "partNumber": 47,
-    "partName": "LILEN"
+    "partName": "LILEN",
+    "lat": 25.389325075,
+    "lon": 93.605603675
   },
   {
     "partId": 385,
@@ -1240,7 +1464,9 @@
     "acNumber": 6,
     "acName": "TENNING",
     "partNumber": 48,
-    "partName": "NKIO (B)"
+    "partName": "NKIO (B)",
+    "lat": 25.3927751,
+    "lon": 93.5731969
   },
   {
     "partId": 386,
@@ -1251,7 +1477,9 @@
     "acNumber": 6,
     "acName": "TENNING",
     "partNumber": 49,
-    "partName": "NGAM"
+    "partName": "NGAM",
+    "lat": 25.389325075,
+    "lon": 93.605603675
   },
   {
     "partId": 387,
@@ -1262,7 +1490,9 @@
     "acNumber": 6,
     "acName": "TENNING",
     "partNumber": 50,
-    "partName": "SAILHEM"
+    "partName": "SAILHEM",
+    "lat": 25.389325075,
+    "lon": 93.605603675
   },
   {
     "partId": 388,
@@ -1273,7 +1503,9 @@
     "acNumber": 6,
     "acName": "TENNING",
     "partNumber": 51,
-    "partName": "SONGOU"
+    "partName": "SONGOU",
+    "lat": 25.389325075,
+    "lon": 93.605603675
   },
   {
     "partId": 389,
@@ -1284,7 +1516,9 @@
     "acNumber": 6,
     "acName": "TENNING",
     "partNumber": 52,
-    "partName": "SONGLHOU"
+    "partName": "SONGLHOU",
+    "lat": 25.389325075,
+    "lon": 93.605603675
   },
   {
     "partId": 390,
@@ -1295,7 +1529,9 @@
     "acNumber": 6,
     "acName": "TENNING",
     "partNumber": 53,
-    "partName": "MBAULWA"
+    "partName": "MBAULWA",
+    "lat": 25.389325075,
+    "lon": 93.605603675
   },
   {
     "partId": 391,
@@ -1306,7 +1542,9 @@
     "acNumber": 6,
     "acName": "TENNING",
     "partNumber": 54,
-    "partName": "AZAILONG"
+    "partName": "AZAILONG",
+    "lat": 25.4147826,
+    "lon": 93.6458342
   },
   {
     "partId": 392,
@@ -1317,7 +1555,9 @@
     "acNumber": 6,
     "acName": "TENNING",
     "partNumber": 55,
-    "partName": "TENING TOWN (S/W)"
+    "partName": "TENING TOWN (S/W)",
+    "lat": 25.389325075,
+    "lon": 93.605603675
   },
   {
     "partId": 393,
@@ -1328,7 +1568,9 @@
     "acNumber": 6,
     "acName": "TENNING",
     "partNumber": 56,
-    "partName": "TENING CHRISTIAN (S/W)"
+    "partName": "TENING CHRISTIAN (S/W)",
+    "lat": 25.389325075,
+    "lon": 93.605603675
   },
   {
     "partId": 394,
@@ -1339,7 +1581,9 @@
     "acNumber": 6,
     "acName": "TENNING",
     "partNumber": 57,
-    "partName": "TESEN OLD (S/W)"
+    "partName": "TESEN OLD (S/W)",
+    "lat": 25.389325075,
+    "lon": 93.605603675
   },
   {
     "partId": 395,
@@ -1350,7 +1594,9 @@
     "acNumber": 6,
     "acName": "TENNING",
     "partNumber": 58,
-    "partName": "LALONG (S/W)"
+    "partName": "LALONG (S/W)",
+    "lat": 25.389325075,
+    "lon": 93.605603675
   },
   {
     "partId": 396,
@@ -1361,7 +1607,9 @@
     "acNumber": 6,
     "acName": "TENNING",
     "partNumber": 59,
-    "partName": "ATHIBUNG TOWN (S/W)"
+    "partName": "ATHIBUNG TOWN (S/W)",
+    "lat": 25.389325075,
+    "lon": 93.605603675
   },
   {
     "partId": 397,
@@ -1372,7 +1620,9 @@
     "acNumber": 6,
     "acName": "TENNING",
     "partNumber": 60,
-    "partName": "MBAUPUNGCHI"
+    "partName": "MBAUPUNGCHI",
+    "lat": 25.389325075,
+    "lon": 93.605603675
   },
   {
     "partId": 398,
@@ -1383,7 +1633,9 @@
     "acNumber": 6,
     "acName": "TENNING",
     "partNumber": 61,
-    "partName": "BEISUMPUILOA"
+    "partName": "BEISUMPUILOA",
+    "lat": 25.389325075,
+    "lon": 93.605603675
   },
   {
     "partId": 2279,
@@ -1394,7 +1646,9 @@
     "acNumber": 6,
     "acName": "TENNING",
     "partNumber": 62,
-    "partName": "BEISUMPUIRAM VILLAGE"
+    "partName": "BEISUMPUIRAM VILLAGE",
+    "lat": 25.389325075,
+    "lon": 93.605603675
   },
   {
     "partId": 2280,
@@ -1405,7 +1659,9 @@
     "acNumber": 6,
     "acName": "TENNING",
     "partNumber": 63,
-    "partName": "BEISUMPUIKAM VILLAGE"
+    "partName": "BEISUMPUIKAM VILLAGE",
+    "lat": 25.389325075,
+    "lon": 93.605603675
   },
   {
     "partId": 2281,
@@ -1416,7 +1672,9 @@
     "acNumber": 6,
     "acName": "TENNING",
     "partNumber": 64,
-    "partName": "BEISAMLWA VILLAGE COUNCIL"
+    "partName": "BEISAMLWA VILLAGE COUNCIL",
+    "lat": 25.389325075,
+    "lon": 93.605603675
   },
   {
     "partId": 2316,
@@ -1427,7 +1685,9 @@
     "acNumber": 6,
     "acName": "TENNING",
     "partNumber": 65,
-    "partName": "GOPIBUNG"
+    "partName": "GOPIBUNG",
+    "lat": 25.389325075,
+    "lon": 93.605603675
   },
   {
     "partId": 2317,
@@ -1438,6 +1698,8 @@
     "acNumber": 6,
     "acName": "TENNING",
     "partNumber": 66,
-    "partName": "BEISUMPUI JANGDI"
+    "partName": "BEISUMPUI JANGDI",
+    "lat": 25.389325075,
+    "lon": 93.605603675
   }
 ]

@@ -8,7 +8,9 @@
     "acNumber": 40,
     "acName": "Jiribam",
     "partNumber": 1,
-    "partName": "Kalinagar (A)"
+    "partName": "Kalinagar (A)",
+    "lat": 24.8098254,
+    "lon": 93.1137269
   },
   {
     "partId": 808,
@@ -19,7 +21,9 @@
     "acNumber": 40,
     "acName": "Jiribam",
     "partNumber": 2,
-    "partName": "Kalinagar (B)"
+    "partName": "Kalinagar (B)",
+    "lat": 24.8098254,
+    "lon": 93.1137269
   },
   {
     "partId": 809,
@@ -30,7 +34,9 @@
     "acNumber": 40,
     "acName": "Jiribam",
     "partNumber": 3,
-    "partName": "Babupara (A)"
+    "partName": "Babupara (A)",
+    "lat": 24.8098254,
+    "lon": 93.1137269
   },
   {
     "partId": 810,
@@ -41,7 +47,9 @@
     "acNumber": 40,
     "acName": "Jiribam",
     "partNumber": 4,
-    "partName": "Babupara (B)"
+    "partName": "Babupara (B)",
+    "lat": 24.8098254,
+    "lon": 93.1137269
   },
   {
     "partId": 811,
@@ -52,7 +60,9 @@
     "acNumber": 40,
     "acName": "Jiribam",
     "partNumber": 5,
-    "partName": "Babupara (C)"
+    "partName": "Babupara (C)",
+    "lat": 24.8098254,
+    "lon": 93.1137269
   },
   {
     "partId": 812,
@@ -63,7 +73,9 @@
     "acNumber": 40,
     "acName": "Jiribam",
     "partNumber": 6,
-    "partName": "Dibong"
+    "partName": "Dibong",
+    "lat": 24.8098254,
+    "lon": 93.1137269
   },
   {
     "partId": 2867,
@@ -74,7 +86,9 @@
     "acNumber": 40,
     "acName": "Jiribam",
     "partNumber": 7,
-    "partName": "Kadamtala"
+    "partName": "Kadamtala",
+    "lat": 24.7768227,
+    "lon": 93.1243231
   },
   {
     "partId": 2918,
@@ -85,7 +99,9 @@
     "acNumber": 40,
     "acName": "Jiribam",
     "partNumber": 8,
-    "partName": "Islamabad"
+    "partName": "Islamabad",
+    "lat": 24.8098254,
+    "lon": 93.1137269
   },
   {
     "partId": 813,
@@ -96,7 +112,9 @@
     "acNumber": 40,
     "acName": "Jiribam",
     "partNumber": 9,
-    "partName": "Chingdong Leikai"
+    "partName": "Chingdong Leikai",
+    "lat": 24.7830774,
+    "lon": 93.1160184
   },
   {
     "partId": 814,
@@ -107,7 +125,9 @@
     "acNumber": 40,
     "acName": "Jiribam",
     "partNumber": 10,
-    "partName": "Champanagar"
+    "partName": "Champanagar",
+    "lat": 24.768142,
+    "lon": 93.1175135
   },
   {
     "partId": 815,
@@ -118,7 +138,9 @@
     "acNumber": 40,
     "acName": "Jiribam",
     "partNumber": 11,
-    "partName": "Chandrapur"
+    "partName": "Chandrapur",
+    "lat": 24.8098254,
+    "lon": 93.1137269
   },
   {
     "partId": 816,
@@ -129,7 +151,9 @@
     "acNumber": 40,
     "acName": "Jiribam",
     "partNumber": 12,
-    "partName": "Hilghat (A)"
+    "partName": "Hilghat (A)",
+    "lat": 24.7921048,
+    "lon": 93.146286
   },
   {
     "partId": 785,
@@ -140,7 +164,9 @@
     "acNumber": 40,
     "acName": "Jiribam",
     "partNumber": 13,
-    "partName": "Hilghat (B)"
+    "partName": "Hilghat (B)",
+    "lat": 24.7921048,
+    "lon": 93.146286
   },
   {
     "partId": 817,
@@ -151,7 +177,9 @@
     "acNumber": 40,
     "acName": "Jiribam",
     "partNumber": 14,
-    "partName": "Hilghat Khunou"
+    "partName": "Hilghat Khunou",
+    "lat": 24.8098254,
+    "lon": 93.1137269
   },
   {
     "partId": 818,
@@ -162,7 +190,9 @@
     "acNumber": 40,
     "acName": "Jiribam",
     "partNumber": 15,
-    "partName": "Uchathol"
+    "partName": "Uchathol",
+    "lat": 24.7785368,
+    "lon": 93.1478466
   },
   {
     "partId": 819,
@@ -173,7 +203,9 @@
     "acNumber": 40,
     "acName": "Jiribam",
     "partNumber": 16,
-    "partName": "Boroikhal"
+    "partName": "Boroikhal",
+    "lat": 24.8098254,
+    "lon": 93.1137269
   },
   {
     "partId": 820,
@@ -184,7 +216,9 @@
     "acNumber": 40,
     "acName": "Jiribam",
     "partNumber": 17,
-    "partName": "Babukhal"
+    "partName": "Babukhal",
+    "lat": 24.7983242,
+    "lon": 93.1814059
   },
   {
     "partId": 790,
@@ -195,7 +229,9 @@
     "acNumber": 40,
     "acName": "Jiribam",
     "partNumber": 18,
-    "partName": "Aglapur"
+    "partName": "Aglapur",
+    "lat": 24.7807281,
+    "lon": 93.1335436
   },
   {
     "partId": 438,
@@ -206,7 +242,9 @@
     "acNumber": 40,
     "acName": "Jiribam",
     "partNumber": 19,
-    "partName": "Lalpani"
+    "partName": "Lalpani",
+    "lat": 24.7655723,
+    "lon": 93.1267904
   },
   {
     "partId": 455,
@@ -217,7 +255,9 @@
     "acNumber": 40,
     "acName": "Jiribam",
     "partNumber": 20,
-    "partName": "Rashidpur"
+    "partName": "Rashidpur",
+    "lat": 24.7605746,
+    "lon": 93.1145811
   },
   {
     "partId": 821,
@@ -228,7 +268,9 @@
     "acNumber": 40,
     "acName": "Jiribam",
     "partNumber": 21,
-    "partName": "Sonapur (A)"
+    "partName": "Sonapur (A)",
+    "lat": 24.7705145,
+    "lon": 93.1302471
   },
   {
     "partId": 822,
@@ -239,7 +281,9 @@
     "acNumber": 40,
     "acName": "Jiribam",
     "partNumber": 22,
-    "partName": "Sonapur (B)"
+    "partName": "Sonapur (B)",
+    "lat": 24.7705145,
+    "lon": 93.1302471
   },
   {
     "partId": 823,
@@ -250,7 +294,9 @@
     "acNumber": 40,
     "acName": "Jiribam",
     "partNumber": 23,
-    "partName": "Ahmedabad"
+    "partName": "Ahmedabad",
+    "lat": 24.8098254,
+    "lon": 93.1137269
   },
   {
     "partId": 824,
@@ -261,7 +307,9 @@
     "acNumber": 40,
     "acName": "Jiribam",
     "partNumber": 24,
-    "partName": "Kashimpur"
+    "partName": "Kashimpur",
+    "lat": 24.7378849,
+    "lon": 93.1338979
   },
   {
     "partId": 825,
@@ -272,7 +320,9 @@
     "acNumber": 40,
     "acName": "Jiribam",
     "partNumber": 25,
-    "partName": "Jairolpokpi"
+    "partName": "Jairolpokpi",
+    "lat": 24.7557869,
+    "lon": 93.1409616
   },
   {
     "partId": 826,
@@ -283,7 +333,9 @@
     "acNumber": 40,
     "acName": "Jiribam",
     "partNumber": 26,
-    "partName": "Leishabithol"
+    "partName": "Leishabithol",
+    "lat": 24.74265,
+    "lon": 93.1542717
   },
   {
     "partId": 827,
@@ -294,7 +346,9 @@
     "acNumber": 40,
     "acName": "Jiribam",
     "partNumber": 27,
-    "partName": "Latingkhal (A)"
+    "partName": "Latingkhal (A)",
+    "lat": 24.7284108,
+    "lon": 93.0978485
   },
   {
     "partId": 828,
@@ -305,7 +359,9 @@
     "acNumber": 40,
     "acName": "Jiribam",
     "partNumber": 28,
-    "partName": "Latingkhal (B)"
+    "partName": "Latingkhal (B)",
+    "lat": 24.7284108,
+    "lon": 93.0978485
   },
   {
     "partId": 829,
@@ -316,7 +372,9 @@
     "acNumber": 40,
     "acName": "Jiribam",
     "partNumber": 29,
-    "partName": "Nungphou"
+    "partName": "Nungphou",
+    "lat": 24.7430112,
+    "lon": 93.1087309
   },
   {
     "partId": 830,
@@ -327,7 +385,9 @@
     "acNumber": 40,
     "acName": "Jiribam",
     "partNumber": 30,
-    "partName": "Tilka"
+    "partName": "Tilka",
+    "lat": 24.8098254,
+    "lon": 93.1137269
   },
   {
     "partId": 831,
@@ -338,7 +398,9 @@
     "acNumber": 40,
     "acName": "Jiribam",
     "partNumber": 31,
-    "partName": "Baiboni"
+    "partName": "Baiboni",
+    "lat": 24.8098254,
+    "lon": 93.1137269
   },
   {
     "partId": 832,
@@ -349,7 +411,9 @@
     "acNumber": 40,
     "acName": "Jiribam",
     "partNumber": 32,
-    "partName": "Bhutangkhal"
+    "partName": "Bhutangkhal",
+    "lat": 24.6609838,
+    "lon": 93.1116327
   },
   {
     "partId": 833,
@@ -360,7 +424,9 @@
     "acNumber": 40,
     "acName": "Jiribam",
     "partNumber": 33,
-    "partName": "Chhotobekra"
+    "partName": "Chhotobekra",
+    "lat": 24.8098254,
+    "lon": 93.1137269
   },
   {
     "partId": 834,
@@ -371,7 +437,9 @@
     "acNumber": 40,
     "acName": "Jiribam",
     "partNumber": 34,
-    "partName": "Borobekra"
+    "partName": "Borobekra",
+    "lat": 24.6329021,
+    "lon": 93.0962645
   },
   {
     "partId": 835,
@@ -382,7 +450,9 @@
     "acNumber": 40,
     "acName": "Jiribam",
     "partNumber": 35,
-    "partName": "Goakhal"
+    "partName": "Goakhal",
+    "lat": 24.8098254,
+    "lon": 93.1137269
   },
   {
     "partId": 836,
@@ -393,7 +463,9 @@
     "acNumber": 40,
     "acName": "Jiribam",
     "partNumber": 36,
-    "partName": "Jakuradhor (A)"
+    "partName": "Jakuradhor (A)",
+    "lat": 24.603389,
+    "lon": 93.0802993
   },
   {
     "partId": 837,
@@ -404,7 +476,9 @@
     "acNumber": 40,
     "acName": "Jiribam",
     "partNumber": 37,
-    "partName": "Bhowmikpara"
+    "partName": "Bhowmikpara",
+    "lat": 24.8098254,
+    "lon": 93.1137269
   },
   {
     "partId": 838,
@@ -415,7 +489,9 @@
     "acNumber": 40,
     "acName": "Jiribam",
     "partNumber": 38,
-    "partName": "Narayanpur"
+    "partName": "Narayanpur",
+    "lat": 24.8098254,
+    "lon": 93.1137269
   },
   {
     "partId": 839,
@@ -426,7 +502,9 @@
     "acNumber": 40,
     "acName": "Jiribam",
     "partNumber": 39,
-    "partName": "Jakuradhor (B)"
+    "partName": "Jakuradhor (B)",
+    "lat": 24.603389,
+    "lon": 93.0802993
   },
   {
     "partId": 840,
@@ -437,6 +515,8 @@
     "acNumber": 40,
     "acName": "Jiribam",
     "partNumber": 40,
-    "partName": "Durgapur"
+    "partName": "Durgapur",
+    "lat": 24.5966813,
+    "lon": 93.0969441
   }
 ]

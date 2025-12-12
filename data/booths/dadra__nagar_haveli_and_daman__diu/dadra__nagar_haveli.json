@@ -8,7 +8,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 1,
-    "partName": "Dadra-1"
+    "partName": "Dadra-1",
+    "lat": 20.3228008,
+    "lon": 72.9652007
   },
   {
     "partId": 723,
@@ -19,7 +21,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 2,
-    "partName": "Dadra-2"
+    "partName": "Dadra-2",
+    "lat": 20.3228008,
+    "lon": 72.9652007
   },
   {
     "partId": 724,
@@ -30,7 +34,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 3,
-    "partName": "Dadra-3"
+    "partName": "Dadra-3",
+    "lat": 20.3228008,
+    "lon": 72.9652007
   },
   {
     "partId": 725,
@@ -41,7 +47,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 4,
-    "partName": "Dadra-4"
+    "partName": "Dadra-4",
+    "lat": 20.3228008,
+    "lon": 72.9652007
   },
   {
     "partId": 726,
@@ -52,7 +60,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 5,
-    "partName": "Dadra-5"
+    "partName": "Dadra-5",
+    "lat": 20.3228008,
+    "lon": 72.9652007
   },
   {
     "partId": 727,
@@ -63,7 +73,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 6,
-    "partName": "Dadra-6"
+    "partName": "Dadra-6",
+    "lat": 20.3228008,
+    "lon": 72.9652007
   },
   {
     "partId": 728,
@@ -74,7 +86,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 7,
-    "partName": "Dadra-7"
+    "partName": "Dadra-7",
+    "lat": 20.3228008,
+    "lon": 72.9652007
   },
   {
     "partId": 729,
@@ -85,7 +99,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 8,
-    "partName": "Dadra-8"
+    "partName": "Dadra-8",
+    "lat": 20.3228008,
+    "lon": 72.9652007
   },
   {
     "partId": 730,
@@ -96,7 +112,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 9,
-    "partName": "Vaghdhara-I"
+    "partName": "Vaghdhara-I",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 731,
@@ -107,7 +125,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 10,
-    "partName": "Vaghdhara-II"
+    "partName": "Vaghdhara-II",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 732,
@@ -118,7 +138,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 11,
-    "partName": "Tighra-I"
+    "partName": "Tighra-I",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 733,
@@ -129,7 +151,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 12,
-    "partName": "Tighra-II"
+    "partName": "Tighra-II",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 734,
@@ -140,7 +164,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 13,
-    "partName": "Demni-I"
+    "partName": "Demni-I",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 735,
@@ -151,7 +177,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 14,
-    "partName": "Demni-II"
+    "partName": "Demni-II",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 736,
@@ -162,7 +190,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 15,
-    "partName": "Demni-III"
+    "partName": "Demni-III",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 737,
@@ -173,7 +203,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 16,
-    "partName": "Morkhal-I"
+    "partName": "Morkhal-I",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 738,
@@ -184,7 +216,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 17,
-    "partName": "Morkhal-II"
+    "partName": "Morkhal-II",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 739,
@@ -195,7 +229,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 18,
-    "partName": "Morkhal-III"
+    "partName": "Morkhal-III",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 740,
@@ -206,7 +242,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 19,
-    "partName": "Morkhal-IV"
+    "partName": "Morkhal-IV",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 741,
@@ -217,7 +255,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 20,
-    "partName": "Silli-I"
+    "partName": "Silli-I",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 742,
@@ -228,7 +268,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 21,
-    "partName": "Silli-II"
+    "partName": "Silli-II",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 743,
@@ -239,7 +281,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 22,
-    "partName": "Silli-III"
+    "partName": "Silli-III",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 744,
@@ -250,7 +294,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 23,
-    "partName": "Silli-IV"
+    "partName": "Silli-IV",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 745,
@@ -261,7 +307,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 24,
-    "partName": "Silli-V"
+    "partName": "Silli-V",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 746,
@@ -272,7 +320,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 25,
-    "partName": "Silli-VI"
+    "partName": "Silli-VI",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 747,
@@ -283,7 +333,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 26,
-    "partName": "Silli-VII"
+    "partName": "Silli-VII",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 748,
@@ -294,7 +346,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 27,
-    "partName": "Silli-VIII"
+    "partName": "Silli-VIII",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 749,
@@ -305,7 +359,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 28,
-    "partName": "Silvassa-1"
+    "partName": "Silvassa-1",
+    "lat": 20.2736768,
+    "lon": 73.0045787
   },
   {
     "partId": 750,
@@ -316,7 +372,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 29,
-    "partName": "Silvassa-2"
+    "partName": "Silvassa-2",
+    "lat": 20.2736768,
+    "lon": 73.0045787
   },
   {
     "partId": 1028,
@@ -327,7 +385,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 30,
-    "partName": "Silvassa-3"
+    "partName": "Silvassa-3",
+    "lat": 20.2736768,
+    "lon": 73.0045787
   },
   {
     "partId": 751,
@@ -338,7 +398,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 31,
-    "partName": "Silvassa-4"
+    "partName": "Silvassa-4",
+    "lat": 20.2736768,
+    "lon": 73.0045787
   },
   {
     "partId": 752,
@@ -349,7 +411,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 32,
-    "partName": "Silvassa-5"
+    "partName": "Silvassa-5",
+    "lat": 20.2736768,
+    "lon": 73.0045787
   },
   {
     "partId": 753,
@@ -360,7 +424,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 33,
-    "partName": "Silvassa-6"
+    "partName": "Silvassa-6",
+    "lat": 20.2736768,
+    "lon": 73.0045787
   },
   {
     "partId": 754,
@@ -371,7 +437,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 34,
-    "partName": "Silvassa-7"
+    "partName": "Silvassa-7",
+    "lat": 20.2736768,
+    "lon": 73.0045787
   },
   {
     "partId": 755,
@@ -382,7 +450,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 35,
-    "partName": "Silvassa-8"
+    "partName": "Silvassa-8",
+    "lat": 20.2736768,
+    "lon": 73.0045787
   },
   {
     "partId": 756,
@@ -393,7 +463,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 36,
-    "partName": "Silvassa-9"
+    "partName": "Silvassa-9",
+    "lat": 20.2736768,
+    "lon": 73.0045787
   },
   {
     "partId": 1029,
@@ -404,7 +476,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 37,
-    "partName": "Silvassa-10"
+    "partName": "Silvassa-10",
+    "lat": 20.2736768,
+    "lon": 73.0045787
   },
   {
     "partId": 757,
@@ -415,7 +489,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 38,
-    "partName": "Silvassa-11"
+    "partName": "Silvassa-11",
+    "lat": 20.2736768,
+    "lon": 73.0045787
   },
   {
     "partId": 758,
@@ -426,7 +502,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 39,
-    "partName": "Silvassa-12"
+    "partName": "Silvassa-12",
+    "lat": 20.2736768,
+    "lon": 73.0045787
   },
   {
     "partId": 759,
@@ -437,7 +515,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 40,
-    "partName": "Silvassa-13"
+    "partName": "Silvassa-13",
+    "lat": 20.2736768,
+    "lon": 73.0045787
   },
   {
     "partId": 760,
@@ -448,7 +528,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 41,
-    "partName": "Silvassa-14"
+    "partName": "Silvassa-14",
+    "lat": 20.2736768,
+    "lon": 73.0045787
   },
   {
     "partId": 761,
@@ -459,7 +541,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 42,
-    "partName": "Silvassa-15"
+    "partName": "Silvassa-15",
+    "lat": 20.2736768,
+    "lon": 73.0045787
   },
   {
     "partId": 762,
@@ -470,7 +554,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 43,
-    "partName": "Silvassa-16"
+    "partName": "Silvassa-16",
+    "lat": 20.2736768,
+    "lon": 73.0045787
   },
   {
     "partId": 763,
@@ -481,7 +567,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 44,
-    "partName": "Silvassa-17"
+    "partName": "Silvassa-17",
+    "lat": 20.2736768,
+    "lon": 73.0045787
   },
   {
     "partId": 764,
@@ -492,7 +580,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 45,
-    "partName": "Silvassa-18"
+    "partName": "Silvassa-18",
+    "lat": 20.2736768,
+    "lon": 73.0045787
   },
   {
     "partId": 1030,
@@ -503,7 +593,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 46,
-    "partName": "Silvassa-19"
+    "partName": "Silvassa-19",
+    "lat": 20.2736768,
+    "lon": 73.0045787
   },
   {
     "partId": 765,
@@ -514,7 +606,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 47,
-    "partName": "Silvassa-20"
+    "partName": "Silvassa-20",
+    "lat": 20.2736768,
+    "lon": 73.0045787
   },
   {
     "partId": 766,
@@ -525,7 +619,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 48,
-    "partName": "Silvassa-21"
+    "partName": "Silvassa-21",
+    "lat": 20.2736768,
+    "lon": 73.0045787
   },
   {
     "partId": 767,
@@ -536,7 +632,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 49,
-    "partName": "Silvassa-22"
+    "partName": "Silvassa-22",
+    "lat": 20.2736768,
+    "lon": 73.0045787
   },
   {
     "partId": 768,
@@ -547,7 +645,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 50,
-    "partName": "Silvassa-23"
+    "partName": "Silvassa-23",
+    "lat": 20.2736768,
+    "lon": 73.0045787
   },
   {
     "partId": 769,
@@ -558,7 +658,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 51,
-    "partName": "Silvassa-24"
+    "partName": "Silvassa-24",
+    "lat": 20.2736768,
+    "lon": 73.0045787
   },
   {
     "partId": 770,
@@ -569,7 +671,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 52,
-    "partName": "Silvassa-25"
+    "partName": "Silvassa-25",
+    "lat": 20.2736768,
+    "lon": 73.0045787
   },
   {
     "partId": 1031,
@@ -580,7 +684,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 53,
-    "partName": "Silvassa-26"
+    "partName": "Silvassa-26",
+    "lat": 20.2736768,
+    "lon": 73.0045787
   },
   {
     "partId": 771,
@@ -591,7 +697,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 54,
-    "partName": "Silvassa-27"
+    "partName": "Silvassa-27",
+    "lat": 20.2736768,
+    "lon": 73.0045787
   },
   {
     "partId": 772,
@@ -602,7 +710,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 55,
-    "partName": "Silvassa-28"
+    "partName": "Silvassa-28",
+    "lat": 20.2736768,
+    "lon": 73.0045787
   },
   {
     "partId": 773,
@@ -613,7 +723,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 56,
-    "partName": "Silvassa-29"
+    "partName": "Silvassa-29",
+    "lat": 20.2736768,
+    "lon": 73.0045787
   },
   {
     "partId": 774,
@@ -624,7 +736,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 57,
-    "partName": "Silvassa-30"
+    "partName": "Silvassa-30",
+    "lat": 20.2736768,
+    "lon": 73.0045787
   },
   {
     "partId": 775,
@@ -635,7 +749,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 58,
-    "partName": "Silvassa-31"
+    "partName": "Silvassa-31",
+    "lat": 20.2736768,
+    "lon": 73.0045787
   },
   {
     "partId": 1032,
@@ -646,7 +762,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 59,
-    "partName": "Silvassa-32"
+    "partName": "Silvassa-32",
+    "lat": 20.2736768,
+    "lon": 73.0045787
   },
   {
     "partId": 776,
@@ -657,7 +775,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 60,
-    "partName": "Silvassa-33"
+    "partName": "Silvassa-33",
+    "lat": 20.2736768,
+    "lon": 73.0045787
   },
   {
     "partId": 777,
@@ -668,7 +788,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 61,
-    "partName": "Silvassa-34"
+    "partName": "Silvassa-34",
+    "lat": 20.2736768,
+    "lon": 73.0045787
   },
   {
     "partId": 778,
@@ -679,7 +801,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 62,
-    "partName": "Silvassa-35"
+    "partName": "Silvassa-35",
+    "lat": 20.2736768,
+    "lon": 73.0045787
   },
   {
     "partId": 779,
@@ -690,7 +814,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 63,
-    "partName": "Silvassa-36"
+    "partName": "Silvassa-36",
+    "lat": 20.2736768,
+    "lon": 73.0045787
   },
   {
     "partId": 1033,
@@ -701,7 +827,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 64,
-    "partName": "Silvassa-37"
+    "partName": "Silvassa-37",
+    "lat": 20.2736768,
+    "lon": 73.0045787
   },
   {
     "partId": 780,
@@ -712,7 +840,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 65,
-    "partName": "Silvassa-38"
+    "partName": "Silvassa-38",
+    "lat": 20.2736768,
+    "lon": 73.0045787
   },
   {
     "partId": 781,
@@ -723,7 +853,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 66,
-    "partName": "Silvassa-39"
+    "partName": "Silvassa-39",
+    "lat": 20.2736768,
+    "lon": 73.0045787
   },
   {
     "partId": 782,
@@ -734,7 +866,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 67,
-    "partName": "Silvassa-40"
+    "partName": "Silvassa-40",
+    "lat": 20.2736768,
+    "lon": 73.0045787
   },
   {
     "partId": 783,
@@ -745,7 +879,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 68,
-    "partName": "Silvassa-41"
+    "partName": "Silvassa-41",
+    "lat": 20.2736768,
+    "lon": 73.0045787
   },
   {
     "partId": 1034,
@@ -756,7 +892,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 69,
-    "partName": "Silvassa-42"
+    "partName": "Silvassa-42",
+    "lat": 20.2736768,
+    "lon": 73.0045787
   },
   {
     "partId": 784,
@@ -767,7 +905,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 70,
-    "partName": "Silvassa-43"
+    "partName": "Silvassa-43",
+    "lat": 20.2736768,
+    "lon": 73.0045787
   },
   {
     "partId": 1035,
@@ -778,7 +918,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 71,
-    "partName": "Silvassa-44"
+    "partName": "Silvassa-44",
+    "lat": 20.2736768,
+    "lon": 73.0045787
   },
   {
     "partId": 785,
@@ -789,7 +931,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 72,
-    "partName": "Silvassa-45"
+    "partName": "Silvassa-45",
+    "lat": 20.2736768,
+    "lon": 73.0045787
   },
   {
     "partId": 786,
@@ -800,7 +944,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 73,
-    "partName": "Silvassa-46"
+    "partName": "Silvassa-46",
+    "lat": 20.2736768,
+    "lon": 73.0045787
   },
   {
     "partId": 787,
@@ -811,7 +957,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 74,
-    "partName": "Silvassa-47"
+    "partName": "Silvassa-47",
+    "lat": 20.2736768,
+    "lon": 73.0045787
   },
   {
     "partId": 1036,
@@ -822,7 +970,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 75,
-    "partName": "Silvassa-48"
+    "partName": "Silvassa-48",
+    "lat": 20.2736768,
+    "lon": 73.0045787
   },
   {
     "partId": 788,
@@ -833,7 +983,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 76,
-    "partName": "Silvassa-49"
+    "partName": "Silvassa-49",
+    "lat": 20.2736768,
+    "lon": 73.0045787
   },
   {
     "partId": 789,
@@ -844,7 +996,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 77,
-    "partName": "Silvassa-50"
+    "partName": "Silvassa-50",
+    "lat": 20.2736768,
+    "lon": 73.0045787
   },
   {
     "partId": 790,
@@ -855,7 +1009,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 78,
-    "partName": "Silvassa-51"
+    "partName": "Silvassa-51",
+    "lat": 20.2736768,
+    "lon": 73.0045787
   },
   {
     "partId": 791,
@@ -866,7 +1022,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 79,
-    "partName": "Amli-1"
+    "partName": "Amli-1",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 792,
@@ -877,7 +1035,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 80,
-    "partName": "Amli-2"
+    "partName": "Amli-2",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 793,
@@ -888,7 +1048,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 81,
-    "partName": "Amli-3"
+    "partName": "Amli-3",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 794,
@@ -899,7 +1061,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 82,
-    "partName": "Amli-4"
+    "partName": "Amli-4",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 795,
@@ -910,7 +1074,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 83,
-    "partName": "Amli-5"
+    "partName": "Amli-5",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 796,
@@ -921,7 +1087,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 84,
-    "partName": "Amli-6"
+    "partName": "Amli-6",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 797,
@@ -932,7 +1100,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 85,
-    "partName": "Amli-7"
+    "partName": "Amli-7",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 798,
@@ -943,7 +1113,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 86,
-    "partName": "Amli-8"
+    "partName": "Amli-8",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 799,
@@ -954,7 +1126,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 87,
-    "partName": "Amli-9"
+    "partName": "Amli-9",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 800,
@@ -965,7 +1139,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 88,
-    "partName": "Amli-10"
+    "partName": "Amli-10",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 801,
@@ -976,7 +1152,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 89,
-    "partName": "Amli-11"
+    "partName": "Amli-11",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 802,
@@ -987,7 +1165,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 90,
-    "partName": "Amli-12"
+    "partName": "Amli-12",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 803,
@@ -998,7 +1178,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 91,
-    "partName": "Amli-13"
+    "partName": "Amli-13",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 804,
@@ -1009,7 +1191,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 92,
-    "partName": "Amli-14"
+    "partName": "Amli-14",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 805,
@@ -1020,7 +1204,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 93,
-    "partName": "Amli-15"
+    "partName": "Amli-15",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 806,
@@ -1031,7 +1217,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 94,
-    "partName": "Amli-16"
+    "partName": "Amli-16",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 807,
@@ -1042,7 +1230,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 95,
-    "partName": "Amli-17"
+    "partName": "Amli-17",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 808,
@@ -1053,7 +1243,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 96,
-    "partName": "Amli-18"
+    "partName": "Amli-18",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 809,
@@ -1064,7 +1256,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 97,
-    "partName": "Amli-19"
+    "partName": "Amli-19",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 810,
@@ -1075,7 +1269,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 98,
-    "partName": "Amli-20"
+    "partName": "Amli-20",
+    "lat": 20.30270307877698,
+    "lon": 72.98470413512189
   },
   {
     "partId": 811,
@@ -1086,7 +1282,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 99,
-    "partName": "Amli-21"
+    "partName": "Amli-21",
+    "lat": 20.30270307877698,
+    "lon": 72.98470413512189
   },
   {
     "partId": 812,
@@ -1097,7 +1295,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 100,
-    "partName": "Amli-22"
+    "partName": "Amli-22",
+    "lat": 20.30270307877698,
+    "lon": 72.98470413512189
   },
   {
     "partId": 813,
@@ -1108,7 +1308,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 101,
-    "partName": "Amli-23"
+    "partName": "Amli-23",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 814,
@@ -1119,7 +1321,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 102,
-    "partName": "Amli-24"
+    "partName": "Amli-24",
+    "lat": 20.30270307877698,
+    "lon": 72.98470413512189
   },
   {
     "partId": 815,
@@ -1130,7 +1334,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 103,
-    "partName": "Amli-25"
+    "partName": "Amli-25",
+    "lat": 20.30270307877698,
+    "lon": 72.98470413512189
   },
   {
     "partId": 816,
@@ -1141,7 +1347,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 104,
-    "partName": "Amli-26"
+    "partName": "Amli-26",
+    "lat": 20.30270307877698,
+    "lon": 72.98470413512189
   },
   {
     "partId": 817,
@@ -1152,7 +1360,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 105,
-    "partName": "Amli-27"
+    "partName": "Amli-27",
+    "lat": 20.30270307877698,
+    "lon": 72.98470413512189
   },
   {
     "partId": 818,
@@ -1163,7 +1373,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 106,
-    "partName": "Amli-28"
+    "partName": "Amli-28",
+    "lat": 20.30270307877698,
+    "lon": 72.98470413512189
   },
   {
     "partId": 819,
@@ -1174,7 +1386,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 107,
-    "partName": "Amli-29"
+    "partName": "Amli-29",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 820,
@@ -1185,7 +1399,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 108,
-    "partName": "Amli-30"
+    "partName": "Amli-30",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 821,
@@ -1196,7 +1412,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 109,
-    "partName": "Amli-31"
+    "partName": "Amli-31",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 822,
@@ -1207,7 +1425,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 110,
-    "partName": "Amli-32"
+    "partName": "Amli-32",
+    "lat": 20.30270307877698,
+    "lon": 72.98470413512189
   },
   {
     "partId": 823,
@@ -1218,7 +1438,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 111,
-    "partName": "Amli-33"
+    "partName": "Amli-33",
+    "lat": 20.30270307877698,
+    "lon": 72.98470413512189
   },
   {
     "partId": 824,
@@ -1229,7 +1451,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 112,
-    "partName": "Amli-34"
+    "partName": "Amli-34",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 825,
@@ -1240,7 +1464,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 113,
-    "partName": "Amli-35"
+    "partName": "Amli-35",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 826,
@@ -1251,7 +1477,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 114,
-    "partName": "Amli-36"
+    "partName": "Amli-36",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 827,
@@ -1262,7 +1490,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 115,
-    "partName": "Amli-37"
+    "partName": "Amli-37",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 828,
@@ -1273,7 +1503,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 116,
-    "partName": "Amli-38"
+    "partName": "Amli-38",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 829,
@@ -1284,7 +1516,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 117,
-    "partName": "Amli-39"
+    "partName": "Amli-39",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 830,
@@ -1295,7 +1529,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 118,
-    "partName": "Amli-40"
+    "partName": "Amli-40",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 1037,
@@ -1306,7 +1542,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 119,
-    "partName": "Amli-41"
+    "partName": "Amli-41",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 831,
@@ -1317,7 +1555,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 120,
-    "partName": "Amli-42"
+    "partName": "Amli-42",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 832,
@@ -1328,7 +1568,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 121,
-    "partName": "Amli-43"
+    "partName": "Amli-43",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 833,
@@ -1339,7 +1581,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 122,
-    "partName": "Amli-44"
+    "partName": "Amli-44",
+    "lat": 20.30270307877698,
+    "lon": 72.98470413512189
   },
   {
     "partId": 1038,
@@ -1350,7 +1594,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 123,
-    "partName": "Amli-45"
+    "partName": "Amli-45",
+    "lat": 20.30270307877698,
+    "lon": 72.98470413512189
   },
   {
     "partId": 834,
@@ -1361,7 +1607,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 124,
-    "partName": "Amli-46"
+    "partName": "Amli-46",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 1039,
@@ -1372,7 +1620,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 125,
-    "partName": "Amli-47"
+    "partName": "Amli-47",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 835,
@@ -1383,7 +1633,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 126,
-    "partName": "Amli-48"
+    "partName": "Amli-48",
+    "lat": 20.30270307877698,
+    "lon": 72.98470413512189
   },
   {
     "partId": 836,
@@ -1394,7 +1646,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 127,
-    "partName": "Amli-49"
+    "partName": "Amli-49",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 1040,
@@ -1405,7 +1659,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 128,
-    "partName": "Amli-50"
+    "partName": "Amli-50",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 837,
@@ -1416,7 +1672,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 129,
-    "partName": "Amli-51"
+    "partName": "Amli-51",
+    "lat": 20.30270307877698,
+    "lon": 72.98470413512189
   },
   {
     "partId": 838,
@@ -1427,7 +1685,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 130,
-    "partName": "Amli-52"
+    "partName": "Amli-52",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 839,
@@ -1438,7 +1698,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 131,
-    "partName": "Amli-53"
+    "partName": "Amli-53",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 1041,
@@ -1449,7 +1711,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 132,
-    "partName": "Amli-54"
+    "partName": "Amli-54",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 840,
@@ -1460,7 +1724,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 133,
-    "partName": "Amli-55"
+    "partName": "Amli-55",
+    "lat": 20.30270307877698,
+    "lon": 72.98470413512189
   },
   {
     "partId": 841,
@@ -1471,7 +1737,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 134,
-    "partName": "Amli-56"
+    "partName": "Amli-56",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 842,
@@ -1482,7 +1750,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 135,
-    "partName": "Dokmardi-1"
+    "partName": "Dokmardi-1",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 843,
@@ -1493,7 +1763,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 136,
-    "partName": "Dokmardi-2"
+    "partName": "Dokmardi-2",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 844,
@@ -1504,7 +1776,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 137,
-    "partName": "Dokmardi-3"
+    "partName": "Dokmardi-3",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 845,
@@ -1515,7 +1789,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 138,
-    "partName": "Dokmardi-4"
+    "partName": "Dokmardi-4",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 846,
@@ -1526,7 +1802,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 139,
-    "partName": "Dokmardi-5"
+    "partName": "Dokmardi-5",
+    "lat": 20.30270307877698,
+    "lon": 72.98470413512189
   },
   {
     "partId": 847,
@@ -1537,7 +1815,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 140,
-    "partName": "Dokmardi-6"
+    "partName": "Dokmardi-6",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 848,
@@ -1548,7 +1828,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 141,
-    "partName": "Baldevi-I"
+    "partName": "Baldevi-I",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 849,
@@ -1559,7 +1841,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 142,
-    "partName": "Baldevi-II"
+    "partName": "Baldevi-II",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 850,
@@ -1570,7 +1854,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 143,
-    "partName": "Baldevi-III"
+    "partName": "Baldevi-III",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 851,
@@ -1581,7 +1867,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 144,
-    "partName": "Vaghchhipa"
+    "partName": "Vaghchhipa",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 852,
@@ -1592,7 +1880,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 145,
-    "partName": "Athola-1"
+    "partName": "Athola-1",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 853,
@@ -1603,7 +1893,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 146,
-    "partName": "Athola-2"
+    "partName": "Athola-2",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 854,
@@ -1614,7 +1906,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 147,
-    "partName": "Athola-3"
+    "partName": "Athola-3",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 855,
@@ -1625,7 +1919,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 148,
-    "partName": "Athola-4"
+    "partName": "Athola-4",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 856,
@@ -1636,7 +1932,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 149,
-    "partName": "Athola-5"
+    "partName": "Athola-5",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 857,
@@ -1647,7 +1945,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 150,
-    "partName": "Galonda-I"
+    "partName": "Galonda-I",
+    "lat": 20.29783,
+    "lon": 73.0734671
   },
   {
     "partId": 858,
@@ -1658,7 +1958,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 151,
-    "partName": "Galonda-II"
+    "partName": "Galonda-II",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 859,
@@ -1669,7 +1971,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 152,
-    "partName": "Galonda-III"
+    "partName": "Galonda-III",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 860,
@@ -1680,7 +1984,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 153,
-    "partName": "Galonda-IV"
+    "partName": "Galonda-IV",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 861,
@@ -1691,7 +1997,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 154,
-    "partName": "Falandi-I"
+    "partName": "Falandi-I",
+    "lat": 20.2692562,
+    "lon": 73.0653809
   },
   {
     "partId": 862,
@@ -1702,7 +2010,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 155,
-    "partName": "Falandi-II"
+    "partName": "Falandi-II",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 863,
@@ -1713,7 +2023,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 156,
-    "partName": "Umarkui-I"
+    "partName": "Umarkui-I",
+    "lat": 20.2659629,
+    "lon": 73.0940872
   },
   {
     "partId": 864,
@@ -1724,7 +2036,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 157,
-    "partName": "Umarkui-II"
+    "partName": "Umarkui-II",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 865,
@@ -1735,7 +2049,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 158,
-    "partName": "Umarkui-III"
+    "partName": "Umarkui-III",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 866,
@@ -1746,7 +2062,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 159,
-    "partName": "Umarkui-IV"
+    "partName": "Umarkui-IV",
+    "lat": 20.30270307877698,
+    "lon": 72.98470413512189
   },
   {
     "partId": 867,
@@ -1757,7 +2075,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 160,
-    "partName": "Kilvani"
+    "partName": "Kilvani",
+    "lat": 20.2957869,
+    "lon": 73.0934851
   },
   {
     "partId": 868,
@@ -1768,7 +2088,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 161,
-    "partName": "Bonta-1"
+    "partName": "Bonta-1",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 869,
@@ -1779,7 +2101,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 162,
-    "partName": "Bonta-2"
+    "partName": "Bonta-2",
+    "lat": 20.30270307877698,
+    "lon": 72.98470413512189
   },
   {
     "partId": 870,
@@ -1790,7 +2114,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 163,
-    "partName": "Bonta-3"
+    "partName": "Bonta-3",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 871,
@@ -1801,7 +2127,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 164,
-    "partName": "Mota Randha-I"
+    "partName": "Mota Randha-I",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 872,
@@ -1812,7 +2140,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 165,
-    "partName": "Mota Randha-II"
+    "partName": "Mota Randha-II",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 873,
@@ -1823,7 +2153,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 166,
-    "partName": "Mota Randha-III"
+    "partName": "Mota Randha-III",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 874,
@@ -1834,7 +2166,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 167,
-    "partName": "Nana randha"
+    "partName": "Nana randha",
+    "lat": 20.2998913,
+    "lon": 73.1535421
   },
   {
     "partId": 875,
@@ -1845,7 +2179,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 168,
-    "partName": "Samarvarni-1"
+    "partName": "Samarvarni-1",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 876,
@@ -1856,7 +2192,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 169,
-    "partName": "Samarvarni-2"
+    "partName": "Samarvarni-2",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 877,
@@ -1867,7 +2205,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 170,
-    "partName": "Samarvarni-3"
+    "partName": "Samarvarni-3",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 878,
@@ -1878,7 +2218,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 171,
-    "partName": "Samarvarni-4"
+    "partName": "Samarvarni-4",
+    "lat": 20.30270307877698,
+    "lon": 72.98470413512189
   },
   {
     "partId": 879,
@@ -1889,7 +2231,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 172,
-    "partName": "Samarvarni-5"
+    "partName": "Samarvarni-5",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 880,
@@ -1900,7 +2244,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 173,
-    "partName": "Samarvarni-6"
+    "partName": "Samarvarni-6",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 1042,
@@ -1911,7 +2257,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 174,
-    "partName": "Samarvarni-7"
+    "partName": "Samarvarni-7",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 881,
@@ -1922,7 +2270,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 175,
-    "partName": "Samarvarni-8"
+    "partName": "Samarvarni-8",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 882,
@@ -1933,7 +2283,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 176,
-    "partName": "Samarvarni-9"
+    "partName": "Samarvarni-9",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 883,
@@ -1944,7 +2296,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 177,
-    "partName": "Samarvarni-10"
+    "partName": "Samarvarni-10",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 1043,
@@ -1955,7 +2309,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 178,
-    "partName": "Samarvarni-11"
+    "partName": "Samarvarni-11",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 884,
@@ -1966,7 +2322,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 179,
-    "partName": "Masat-1"
+    "partName": "Masat-1",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 885,
@@ -1977,7 +2335,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 180,
-    "partName": "Masat-2"
+    "partName": "Masat-2",
+    "lat": 20.30270307877698,
+    "lon": 72.98470413512189
   },
   {
     "partId": 886,
@@ -1988,7 +2348,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 181,
-    "partName": "Masat-3"
+    "partName": "Masat-3",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 887,
@@ -1999,7 +2361,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 182,
-    "partName": "Masat-4"
+    "partName": "Masat-4",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 888,
@@ -2010,7 +2374,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 183,
-    "partName": "Masat-5"
+    "partName": "Masat-5",
+    "lat": 20.30270307877698,
+    "lon": 72.98470413512189
   },
   {
     "partId": 1044,
@@ -2021,7 +2387,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 184,
-    "partName": "Masat-6"
+    "partName": "Masat-6",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 889,
@@ -2032,7 +2400,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 185,
-    "partName": "Masat-7"
+    "partName": "Masat-7",
+    "lat": 20.30270307877698,
+    "lon": 72.98470413512189
   },
   {
     "partId": 1045,
@@ -2043,7 +2413,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 186,
-    "partName": "Masat-8"
+    "partName": "Masat-8",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 890,
@@ -2054,7 +2426,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 187,
-    "partName": "Masat-9"
+    "partName": "Masat-9",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 891,
@@ -2065,7 +2439,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 188,
-    "partName": "Naroli-1"
+    "partName": "Naroli-1",
+    "lat": 20.275253,
+    "lon": 72.9423187
   },
   {
     "partId": 892,
@@ -2076,7 +2452,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 189,
-    "partName": "Naroli-2"
+    "partName": "Naroli-2",
+    "lat": 20.275253,
+    "lon": 72.9423187
   },
   {
     "partId": 893,
@@ -2087,7 +2465,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 190,
-    "partName": "Naroli-3"
+    "partName": "Naroli-3",
+    "lat": 20.275253,
+    "lon": 72.9423187
   },
   {
     "partId": 894,
@@ -2098,7 +2478,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 191,
-    "partName": "Naroli-4"
+    "partName": "Naroli-4",
+    "lat": 20.275253,
+    "lon": 72.9423187
   },
   {
     "partId": 895,
@@ -2109,7 +2491,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 192,
-    "partName": "Naroli-5"
+    "partName": "Naroli-5",
+    "lat": 20.275253,
+    "lon": 72.9423187
   },
   {
     "partId": 896,
@@ -2120,7 +2504,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 193,
-    "partName": "Naroli-6"
+    "partName": "Naroli-6",
+    "lat": 20.275253,
+    "lon": 72.9423187
   },
   {
     "partId": 897,
@@ -2131,7 +2517,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 194,
-    "partName": "Naroli-7"
+    "partName": "Naroli-7",
+    "lat": 20.275253,
+    "lon": 72.9423187
   },
   {
     "partId": 898,
@@ -2142,7 +2530,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 195,
-    "partName": "Naroli-8"
+    "partName": "Naroli-8",
+    "lat": 20.275253,
+    "lon": 72.9423187
   },
   {
     "partId": 899,
@@ -2153,7 +2543,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 196,
-    "partName": "Naroli-9"
+    "partName": "Naroli-9",
+    "lat": 20.275253,
+    "lon": 72.9423187
   },
   {
     "partId": 900,
@@ -2164,7 +2556,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 197,
-    "partName": "Naroli-10"
+    "partName": "Naroli-10",
+    "lat": 20.30270307877698,
+    "lon": 72.98470413512189
   },
   {
     "partId": 901,
@@ -2175,7 +2569,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 198,
-    "partName": "Naroli-11"
+    "partName": "Naroli-11",
+    "lat": 20.30270307877698,
+    "lon": 72.98470413512189
   },
   {
     "partId": 902,
@@ -2186,7 +2582,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 199,
-    "partName": "Naroli-12"
+    "partName": "Naroli-12",
+    "lat": 20.30270307877698,
+    "lon": 72.98470413512189
   },
   {
     "partId": 903,
@@ -2197,7 +2595,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 200,
-    "partName": "Naroli-13"
+    "partName": "Naroli-13",
+    "lat": 20.275253,
+    "lon": 72.9423187
   },
   {
     "partId": 904,
@@ -2208,7 +2608,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 201,
-    "partName": "Naroli-14"
+    "partName": "Naroli-14",
+    "lat": 20.275253,
+    "lon": 72.9423187
   },
   {
     "partId": 905,
@@ -2219,7 +2621,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 202,
-    "partName": "Naroli-15"
+    "partName": "Naroli-15",
+    "lat": 20.275253,
+    "lon": 72.9423187
   },
   {
     "partId": 906,
@@ -2230,7 +2634,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 203,
-    "partName": "Kharadpada-I"
+    "partName": "Kharadpada-I",
+    "lat": 20.2511173,
+    "lon": 72.9630577
   },
   {
     "partId": 907,
@@ -2241,7 +2647,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 204,
-    "partName": "Kharadpada-II"
+    "partName": "Kharadpada-II",
+    "lat": 20.2511173,
+    "lon": 72.9630577
   },
   {
     "partId": 908,
@@ -2252,7 +2660,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 205,
-    "partName": "Kharadpada-III"
+    "partName": "Kharadpada-III",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 909,
@@ -2263,7 +2673,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 206,
-    "partName": "Kanadi"
+    "partName": "Kanadi",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 910,
@@ -2274,7 +2686,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 207,
-    "partName": "Athal-I"
+    "partName": "Athal-I",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 911,
@@ -2285,7 +2699,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 208,
-    "partName": "Athal-II"
+    "partName": "Athal-II",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 912,
@@ -2296,7 +2712,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 209,
-    "partName": "Athal-III"
+    "partName": "Athal-III",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 913,
@@ -2307,7 +2725,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 210,
-    "partName": "Athal-IV"
+    "partName": "Athal-IV",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 914,
@@ -2318,7 +2738,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 211,
-    "partName": "Sayli-1"
+    "partName": "Sayli-1",
+    "lat": 20.23379195,
+    "lon": 73.04951729927411
   },
   {
     "partId": 915,
@@ -2329,7 +2751,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 212,
-    "partName": "Sayli-2"
+    "partName": "Sayli-2",
+    "lat": 20.30270307877698,
+    "lon": 72.98470413512189
   },
   {
     "partId": 916,
@@ -2340,7 +2764,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 213,
-    "partName": "Sayli-3"
+    "partName": "Sayli-3",
+    "lat": 20.2445828,
+    "lon": 73.0386727
   },
   {
     "partId": 917,
@@ -2351,7 +2777,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 214,
-    "partName": "Sayli-4"
+    "partName": "Sayli-4",
+    "lat": 20.30270307877698,
+    "lon": 72.98470413512189
   },
   {
     "partId": 918,
@@ -2362,7 +2790,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 215,
-    "partName": "Sayli-5"
+    "partName": "Sayli-5",
+    "lat": 20.2445828,
+    "lon": 73.0386727
   },
   {
     "partId": 919,
@@ -2373,7 +2803,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 216,
-    "partName": "Sayli-6"
+    "partName": "Sayli-6",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 920,
@@ -2384,7 +2816,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 217,
-    "partName": "Sayli-7"
+    "partName": "Sayli-7",
+    "lat": 20.2445828,
+    "lon": 73.0386727
   },
   {
     "partId": 921,
@@ -2395,7 +2829,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 218,
-    "partName": "Karad-I"
+    "partName": "Karad-I",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 922,
@@ -2406,7 +2842,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 219,
-    "partName": "Karad-II"
+    "partName": "Karad-II",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 923,
@@ -2417,7 +2855,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 220,
-    "partName": "Karad-III"
+    "partName": "Karad-III",
+    "lat": 20.30270307877698,
+    "lon": 72.98470413512189
   },
   {
     "partId": 924,
@@ -2428,7 +2868,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 221,
-    "partName": "Karad-IV"
+    "partName": "Karad-IV",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 925,
@@ -2439,7 +2881,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 222,
-    "partName": "Rakholi-I"
+    "partName": "Rakholi-I",
+    "lat": 20.2331647,
+    "lon": 73.0111084
   },
   {
     "partId": 926,
@@ -2450,7 +2894,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 223,
-    "partName": "Rakholi-II"
+    "partName": "Rakholi-II",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 927,
@@ -2461,7 +2907,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 224,
-    "partName": "Rakholi-III"
+    "partName": "Rakholi-III",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 928,
@@ -2472,7 +2920,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 225,
-    "partName": "Rakholi-IV"
+    "partName": "Rakholi-IV",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 929,
@@ -2483,7 +2933,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 226,
-    "partName": "Kudacha-I"
+    "partName": "Kudacha-I",
+    "lat": 20.2224523,
+    "lon": 73.0185549
   },
   {
     "partId": 930,
@@ -2494,7 +2946,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 227,
-    "partName": "Kudacha-II"
+    "partName": "Kudacha-II",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 931,
@@ -2505,7 +2959,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 228,
-    "partName": "Luhari-1"
+    "partName": "Luhari-1",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 932,
@@ -2516,7 +2972,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 229,
-    "partName": "Luhari-2"
+    "partName": "Luhari-2",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 933,
@@ -2527,7 +2985,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 230,
-    "partName": "Luhari-3"
+    "partName": "Luhari-3",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 934,
@@ -2538,7 +2998,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 231,
-    "partName": "Vasona-I"
+    "partName": "Vasona-I",
+    "lat": 20.2058003,
+    "lon": 73.0261214
   },
   {
     "partId": 935,
@@ -2549,7 +3011,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 232,
-    "partName": "Vasona-II"
+    "partName": "Vasona-II",
+    "lat": 20.2058003,
+    "lon": 73.0261214
   },
   {
     "partId": 936,
@@ -2560,7 +3024,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 233,
-    "partName": "Vasona-III"
+    "partName": "Vasona-III",
+    "lat": 20.30270307877698,
+    "lon": 72.98470413512189
   },
   {
     "partId": 937,
@@ -2571,7 +3037,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 234,
-    "partName": "Pati-I"
+    "partName": "Pati-I",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 938,
@@ -2582,7 +3050,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 235,
-    "partName": "Pati-II"
+    "partName": "Pati-II",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 939,
@@ -2593,7 +3063,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 236,
-    "partName": "Dapada-I"
+    "partName": "Dapada-I",
+    "lat": 20.1831171,
+    "lon": 73.027958
   },
   {
     "partId": 940,
@@ -2604,7 +3076,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 237,
-    "partName": "Dapada-II"
+    "partName": "Dapada-II",
+    "lat": 20.30270307877698,
+    "lon": 72.98470413512189
   },
   {
     "partId": 941,
@@ -2615,7 +3089,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 238,
-    "partName": "Dapada-III"
+    "partName": "Dapada-III",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 942,
@@ -2626,7 +3102,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 239,
-    "partName": "Dapada-IV"
+    "partName": "Dapada-IV",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 943,
@@ -2637,7 +3115,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 240,
-    "partName": "Dapada-V"
+    "partName": "Dapada-V",
+    "lat": 20.1831171,
+    "lon": 73.027958
   },
   {
     "partId": 944,
@@ -2648,7 +3128,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 241,
-    "partName": "Chinchpada-1"
+    "partName": "Chinchpada-1",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 945,
@@ -2659,7 +3141,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 242,
-    "partName": "Chinchpada-2"
+    "partName": "Chinchpada-2",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 946,
@@ -2670,7 +3154,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 243,
-    "partName": "Chinchpada-3"
+    "partName": "Chinchpada-3",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 947,
@@ -2681,7 +3167,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 244,
-    "partName": "Chikhli-I"
+    "partName": "Chikhli-I",
+    "lat": 20.30270307877698,
+    "lon": 72.98470413512189
   },
   {
     "partId": 948,
@@ -2692,7 +3180,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 245,
-    "partName": "Chikhli-II"
+    "partName": "Chikhli-II",
+    "lat": 20.30270307877698,
+    "lon": 72.98470413512189
   },
   {
     "partId": 949,
@@ -2703,7 +3193,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 246,
-    "partName": "Chikhli-III"
+    "partName": "Chikhli-III",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 950,
@@ -2714,7 +3206,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 247,
-    "partName": "Dudhni-I"
+    "partName": "Dudhni-I",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 951,
@@ -2725,7 +3219,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 248,
-    "partName": "Dudhni-II"
+    "partName": "Dudhni-II",
+    "lat": 20.30270307877698,
+    "lon": 72.98470413512189
   },
   {
     "partId": 952,
@@ -2736,7 +3232,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 249,
-    "partName": "Dudhani-III"
+    "partName": "Dudhani-III",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 953,
@@ -2747,7 +3245,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 250,
-    "partName": "Dudhani-IV/Ghodbari"
+    "partName": "Dudhani-IV/Ghodbari",
+    "lat": 20.30270307877698,
+    "lon": 72.98470413512189
   },
   {
     "partId": 954,
@@ -2758,7 +3258,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 251,
-    "partName": "Kauncha-I"
+    "partName": "Kauncha-I",
+    "lat": 20.1771889,
+    "lon": 73.1586
   },
   {
     "partId": 955,
@@ -2769,7 +3271,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 252,
-    "partName": "Kauncha-II"
+    "partName": "Kauncha-II",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 956,
@@ -2780,7 +3284,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 253,
-    "partName": "Bildhari"
+    "partName": "Bildhari",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 957,
@@ -2791,7 +3297,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 254,
-    "partName": "Gunsa"
+    "partName": "Gunsa",
+    "lat": 20.1666985,
+    "lon": 73.1835689
   },
   {
     "partId": 958,
@@ -2802,7 +3310,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 255,
-    "partName": "Ambabari"
+    "partName": "Ambabari",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 959,
@@ -2813,7 +3323,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 256,
-    "partName": "Karchond-I."
+    "partName": "Karchond-I.",
+    "lat": 20.1338528,
+    "lon": 73.1544131
   },
   {
     "partId": 960,
@@ -2824,7 +3336,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 257,
-    "partName": "Karchond-II."
+    "partName": "Karchond-II.",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 961,
@@ -2835,7 +3349,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 258,
-    "partName": "Karchond-III"
+    "partName": "Karchond-III",
+    "lat": 20.30270307877698,
+    "lon": 72.98470413512189
   },
   {
     "partId": 962,
@@ -2846,7 +3362,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 259,
-    "partName": "Karchond-IV"
+    "partName": "Karchond-IV",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 963,
@@ -2857,7 +3375,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 260,
-    "partName": "Vaghchaudha"
+    "partName": "Vaghchaudha",
+    "lat": 20.30270307877698,
+    "lon": 72.98470413512189
   },
   {
     "partId": 964,
@@ -2868,7 +3388,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 261,
-    "partName": "Khererbari"
+    "partName": "Khererbari",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 965,
@@ -2879,7 +3401,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 262,
-    "partName": "Surangi-I."
+    "partName": "Surangi-I.",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 966,
@@ -2890,7 +3414,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 263,
-    "partName": "Surangi-II"
+    "partName": "Surangi-II",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 967,
@@ -2901,7 +3427,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 264,
-    "partName": "Surangi-III."
+    "partName": "Surangi-III.",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 968,
@@ -2912,7 +3440,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 265,
-    "partName": "Surangi-IV."
+    "partName": "Surangi-IV.",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 969,
@@ -2923,7 +3453,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 266,
-    "partName": "Velugam-I."
+    "partName": "Velugam-I.",
+    "lat": 20.1285013,
+    "lon": 72.9766296
   },
   {
     "partId": 970,
@@ -2934,7 +3466,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 267,
-    "partName": "Velugam-II."
+    "partName": "Velugam-II.",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 971,
@@ -2945,7 +3479,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 268,
-    "partName": "Velugam-III."
+    "partName": "Velugam-III.",
+    "lat": 20.30270307877698,
+    "lon": 72.98470413512189
   },
   {
     "partId": 972,
@@ -2956,7 +3492,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 269,
-    "partName": "Velugam-IV."
+    "partName": "Velugam-IV.",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 973,
@@ -2967,7 +3505,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 270,
-    "partName": "Velugam-V."
+    "partName": "Velugam-V.",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 974,
@@ -2978,7 +3518,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 271,
-    "partName": "Apti-I"
+    "partName": "Apti-I",
+    "lat": 20.1587313,
+    "lon": 72.9939556
   },
   {
     "partId": 975,
@@ -2989,7 +3531,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 272,
-    "partName": "Apti-II"
+    "partName": "Apti-II",
+    "lat": 20.30270307877698,
+    "lon": 72.98470413512189
   },
   {
     "partId": 976,
@@ -3000,7 +3544,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 273,
-    "partName": "Amboli-I."
+    "partName": "Amboli-I.",
+    "lat": 20.30270307877698,
+    "lon": 72.98470413512189
   },
   {
     "partId": 977,
@@ -3011,7 +3557,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 274,
-    "partName": "Amboli-II."
+    "partName": "Amboli-II.",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 978,
@@ -3022,7 +3570,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 275,
-    "partName": "Amboli-III"
+    "partName": "Amboli-III",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 979,
@@ -3033,7 +3583,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 276,
-    "partName": "Tinoda"
+    "partName": "Tinoda",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 980,
@@ -3044,7 +3596,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 277,
-    "partName": "Bindrabin"
+    "partName": "Bindrabin",
+    "lat": 20.30270307877698,
+    "lon": 72.98470413512189
   },
   {
     "partId": 981,
@@ -3055,7 +3609,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 278,
-    "partName": "Khadoli-I"
+    "partName": "Khadoli-I",
+    "lat": 20.1639614,
+    "lon": 73.0309208
   },
   {
     "partId": 982,
@@ -3066,7 +3622,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 279,
-    "partName": "Khadoli-II"
+    "partName": "Khadoli-II",
+    "lat": 20.1639614,
+    "lon": 73.0309208
   },
   {
     "partId": 983,
@@ -3077,7 +3635,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 280,
-    "partName": "Khadoli-III"
+    "partName": "Khadoli-III",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 984,
@@ -3088,7 +3648,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 281,
-    "partName": "Shelti Goratpada"
+    "partName": "Shelti Goratpada",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 985,
@@ -3099,7 +3661,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 282,
-    "partName": "Shelti Patelpada-I"
+    "partName": "Shelti Patelpada-I",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 986,
@@ -3110,7 +3674,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 283,
-    "partName": "Shelti Patelpada-II"
+    "partName": "Shelti Patelpada-II",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 987,
@@ -3121,7 +3687,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 284,
-    "partName": "Vansda-I."
+    "partName": "Vansda-I.",
+    "lat": 20.30270307877698,
+    "lon": 72.98470413512189
   },
   {
     "partId": 988,
@@ -3132,7 +3700,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 285,
-    "partName": "Vasda-II."
+    "partName": "Vasda-II.",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 989,
@@ -3143,7 +3713,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 286,
-    "partName": "Vasda-III"
+    "partName": "Vasda-III",
+    "lat": 20.30270307877698,
+    "lon": 72.98470413512189
   },
   {
     "partId": 990,
@@ -3154,7 +3726,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 287,
-    "partName": "Vasda-IV"
+    "partName": "Vasda-IV",
+    "lat": 20.30270307877698,
+    "lon": 72.98470413512189
   },
   {
     "partId": 991,
@@ -3165,7 +3739,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 288,
-    "partName": "Bedpa-I"
+    "partName": "Bedpa-I",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 992,
@@ -3176,7 +3752,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 289,
-    "partName": "Bedpa-II"
+    "partName": "Bedpa-II",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 993,
@@ -3187,7 +3765,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 290,
-    "partName": "Bedpa-III"
+    "partName": "Bedpa-III",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 994,
@@ -3198,7 +3778,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 291,
-    "partName": "Khedpa-I"
+    "partName": "Khedpa-I",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 995,
@@ -3209,7 +3791,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 292,
-    "partName": "Khedpa-II"
+    "partName": "Khedpa-II",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 996,
@@ -3220,7 +3804,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 293,
-    "partName": "Sindoni-I"
+    "partName": "Sindoni-I",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 997,
@@ -3231,7 +3817,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 294,
-    "partName": "Sindoni-II"
+    "partName": "Sindoni-II",
+    "lat": 20.30270307877698,
+    "lon": 72.98470413512189
   },
   {
     "partId": 998,
@@ -3242,7 +3830,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 295,
-    "partName": "Sindoni-III"
+    "partName": "Sindoni-III",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 999,
@@ -3253,7 +3843,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 296,
-    "partName": "Mandoni -I"
+    "partName": "Mandoni -I",
+    "lat": 20.1122597,
+    "lon": 73.1488338
   },
   {
     "partId": 1000,
@@ -3264,7 +3856,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 297,
-    "partName": "Mandoni -II"
+    "partName": "Mandoni -II",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 1001,
@@ -3275,7 +3869,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 298,
-    "partName": "Chisda-I"
+    "partName": "Chisda-I",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 1002,
@@ -3286,7 +3882,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 299,
-    "partName": "Chisda-II"
+    "partName": "Chisda-II",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 1003,
@@ -3297,7 +3895,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 300,
-    "partName": "Chisda-III"
+    "partName": "Chisda-III",
+    "lat": 20.30270307877698,
+    "lon": 72.98470413512189
   },
   {
     "partId": 1004,
@@ -3308,7 +3908,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 301,
-    "partName": "Rudana-I."
+    "partName": "Rudana-I.",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 1005,
@@ -3319,7 +3921,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 302,
-    "partName": "Rudana-II."
+    "partName": "Rudana-II.",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 1006,
@@ -3330,7 +3934,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 303,
-    "partName": "Rudana-III."
+    "partName": "Rudana-III.",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 1007,
@@ -3341,7 +3947,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 304,
-    "partName": "Rudana-IV."
+    "partName": "Rudana-IV.",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 1008,
@@ -3352,7 +3960,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 305,
-    "partName": "Khutli-I."
+    "partName": "Khutli-I.",
+    "lat": 20.1666985,
+    "lon": 73.1835689
   },
   {
     "partId": 1009,
@@ -3363,7 +3973,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 306,
-    "partName": "Khutli-II."
+    "partName": "Khutli-II.",
+    "lat": 20.30270307877698,
+    "lon": 72.98470413512189
   },
   {
     "partId": 1010,
@@ -3374,7 +3986,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 307,
-    "partName": "Umarvarni"
+    "partName": "Umarvarni",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 1011,
@@ -3385,7 +3999,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 308,
-    "partName": "Khanvel-I"
+    "partName": "Khanvel-I",
+    "lat": 20.1272328,
+    "lon": 73.0700147
   },
   {
     "partId": 1012,
@@ -3396,7 +4012,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 309,
-    "partName": "Khanvel-II"
+    "partName": "Khanvel-II",
+    "lat": 20.1272328,
+    "lon": 73.0700147
   },
   {
     "partId": 1013,
@@ -3407,7 +4025,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 310,
-    "partName": "Khanvel-III."
+    "partName": "Khanvel-III.",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 1014,
@@ -3418,7 +4038,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 311,
-    "partName": "Khanvel-IV."
+    "partName": "Khanvel-IV.",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 1015,
@@ -3429,7 +4051,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 312,
-    "partName": "Khanvel-V."
+    "partName": "Khanvel-V.",
+    "lat": 20.1272328,
+    "lon": 73.0700147
   },
   {
     "partId": 1016,
@@ -3440,7 +4064,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 313,
-    "partName": "Khanvel-VI"
+    "partName": "Khanvel-VI",
+    "lat": 20.1272328,
+    "lon": 73.0700147
   },
   {
     "partId": 1017,
@@ -3451,7 +4077,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 314,
-    "partName": "Talavli."
+    "partName": "Talavli.",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 1018,
@@ -3462,7 +4090,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 315,
-    "partName": "Chauda"
+    "partName": "Chauda",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 1019,
@@ -3473,7 +4103,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 316,
-    "partName": "Karachgam-I"
+    "partName": "Karachgam-I",
+    "lat": 20.1237084,
+    "lon": 73.0134369
   },
   {
     "partId": 1020,
@@ -3484,7 +4116,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 317,
-    "partName": "Karachgam-II"
+    "partName": "Karachgam-II",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 1021,
@@ -3495,7 +4129,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 318,
-    "partName": "Kala"
+    "partName": "Kala",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 1022,
@@ -3506,7 +4142,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 319,
-    "partName": "Kherdi-I."
+    "partName": "Kherdi-I.",
+    "lat": 20.0997492,
+    "lon": 73.0166903
   },
   {
     "partId": 1023,
@@ -3517,7 +4155,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 320,
-    "partName": "Kherdi-II."
+    "partName": "Kherdi-II.",
+    "lat": 20.0997492,
+    "lon": 73.0166903
   },
   {
     "partId": 1024,
@@ -3528,7 +4168,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 321,
-    "partName": "Kherdi-III"
+    "partName": "Kherdi-III",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 1025,
@@ -3539,7 +4181,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 322,
-    "partName": "Parzai-I"
+    "partName": "Parzai-I",
+    "lat": 20.0990771,
+    "lon": 73.0406643
   },
   {
     "partId": 1026,
@@ -3550,7 +4194,9 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 323,
-    "partName": "Parzai-2"
+    "partName": "Parzai-2",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   },
   {
     "partId": 1027,
@@ -3561,6 +4207,8 @@
     "acNumber": 2,
     "acName": "DADRA & NAGAR HAVELI",
     "partNumber": 324,
-    "partName": "Dolara."
+    "partName": "Dolara.",
+    "lat": 20.33452875,
+    "lon": 72.9684764073099
   }
 ]

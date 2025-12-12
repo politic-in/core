@@ -8,7 +8,9 @@
     "acNumber": 56,
     "acName": "NOKLAK",
     "partNumber": 1,
-    "partName": "WAOSHU"
+    "partName": "WAOSHU",
+    "lat": 26.2692278,
+    "lon": 94.9533625
   },
   {
     "partId": 2193,
@@ -19,7 +21,9 @@
     "acNumber": 56,
     "acName": "NOKLAK",
     "partNumber": 2,
-    "partName": "TAKNYU"
+    "partName": "TAKNYU",
+    "lat": 26.3094069,
+    "lon": 95.0319426
   },
   {
     "partId": 2194,
@@ -30,7 +34,9 @@
     "acNumber": 56,
     "acName": "NOKLAK",
     "partNumber": 3,
-    "partName": "YIMPANG"
+    "partName": "YIMPANG",
+    "lat": 26.2847578,
+    "lon": 94.986527
   },
   {
     "partId": 2195,
@@ -41,7 +47,9 @@
     "acNumber": 56,
     "acName": "NOKLAK",
     "partNumber": 4,
-    "partName": "PANGSHA OLD"
+    "partName": "PANGSHA OLD",
+    "lat": 26.2652258,
+    "lon": 95.104159
   },
   {
     "partId": 2196,
@@ -52,7 +60,9 @@
     "acNumber": 56,
     "acName": "NOKLAK",
     "partNumber": 5,
-    "partName": "PANGSHA NEW"
+    "partName": "PANGSHA NEW",
+    "lat": 26.2607627,
+    "lon": 95.09792225
   },
   {
     "partId": 2197,
@@ -63,7 +73,9 @@
     "acNumber": 56,
     "acName": "NOKLAK",
     "partNumber": 6,
-    "partName": "NOKYAN"
+    "partName": "NOKYAN",
+    "lat": 26.2151805,
+    "lon": 95.0251526
   },
   {
     "partId": 2198,
@@ -74,7 +86,9 @@
     "acNumber": 56,
     "acName": "NOKLAK",
     "partNumber": 7,
-    "partName": "NOKLAK VILLAGE (A)"
+    "partName": "NOKLAK VILLAGE (A)",
+    "lat": 26.206458,
+    "lon": 95.06207502911545
   },
   {
     "partId": 2199,
@@ -85,7 +99,9 @@
     "acNumber": 56,
     "acName": "NOKLAK",
     "partNumber": 8,
-    "partName": "NOKLAK VILLAGE (B)"
+    "partName": "NOKLAK VILLAGE (B)",
+    "lat": 26.206458,
+    "lon": 95.06207502911545
   },
   {
     "partId": 2200,
@@ -96,7 +112,9 @@
     "acNumber": 56,
     "acName": "NOKLAK",
     "partNumber": 9,
-    "partName": "NOKLAK HQ"
+    "partName": "NOKLAK HQ",
+    "lat": 26.206458,
+    "lon": 95.06207502911545
   },
   {
     "partId": 2201,
@@ -107,7 +125,9 @@
     "acNumber": 56,
     "acName": "NOKLAK",
     "partNumber": 10,
-    "partName": "NOKLAK HQ"
+    "partName": "NOKLAK HQ",
+    "lat": 26.206458,
+    "lon": 95.06207502911545
   },
   {
     "partId": 2202,
@@ -118,7 +138,9 @@
     "acNumber": 56,
     "acName": "NOKLAK",
     "partNumber": 11,
-    "partName": "WONTHOI"
+    "partName": "WONTHOI",
+    "lat": 26.2238385,
+    "lon": 95.0863741
   },
   {
     "partId": 2203,
@@ -129,7 +151,9 @@
     "acNumber": 56,
     "acName": "NOKLAK",
     "partNumber": 12,
-    "partName": "CHINGMEI"
+    "partName": "CHINGMEI",
+    "lat": 26.2418557,
+    "lon": 94.9354874
   },
   {
     "partId": 2204,
@@ -140,7 +164,9 @@
     "acNumber": 56,
     "acName": "NOKLAK",
     "partNumber": 13,
-    "partName": "CHINGMEI"
+    "partName": "CHINGMEI",
+    "lat": 26.2418557,
+    "lon": 94.9354874
   },
   {
     "partId": 2205,
@@ -151,7 +177,9 @@
     "acNumber": 56,
     "acName": "NOKLAK",
     "partNumber": 14,
-    "partName": "CHENDANG SADDLE"
+    "partName": "CHENDANG SADDLE",
+    "lat": 26.206458,
+    "lon": 95.06207502911545
   },
   {
     "partId": 2206,
@@ -162,7 +190,9 @@
     "acNumber": 56,
     "acName": "NOKLAK",
     "partNumber": 15,
-    "partName": "LANGNOK"
+    "partName": "LANGNOK",
+    "lat": 26.1652891,
+    "lon": 95.0667768
   },
   {
     "partId": 2207,
@@ -173,7 +203,9 @@
     "acNumber": 56,
     "acName": "NOKLAK",
     "partNumber": 16,
-    "partName": "NOKHU VILLAGE A"
+    "partName": "NOKHU VILLAGE A",
+    "lat": 26.206458,
+    "lon": 95.06207502911545
   },
   {
     "partId": 2208,
@@ -184,7 +216,9 @@
     "acNumber": 56,
     "acName": "NOKLAK",
     "partNumber": 17,
-    "partName": "NOKHU VILLAGE B"
+    "partName": "NOKHU VILLAGE B",
+    "lat": 26.206458,
+    "lon": 95.06207502911545
   },
   {
     "partId": 2209,
@@ -195,7 +229,9 @@
     "acNumber": 56,
     "acName": "NOKLAK",
     "partNumber": 18,
-    "partName": "ANYAKSHU"
+    "partName": "ANYAKSHU",
+    "lat": 26.206458,
+    "lon": 95.06207502911545
   },
   {
     "partId": 2210,
@@ -206,7 +242,9 @@
     "acNumber": 56,
     "acName": "NOKLAK",
     "partNumber": 19,
-    "partName": "CHOKLANGAN VILLAGE"
+    "partName": "CHOKLANGAN VILLAGE",
+    "lat": 26.206458,
+    "lon": 95.06207502911545
   },
   {
     "partId": 2211,
@@ -217,7 +255,9 @@
     "acNumber": 56,
     "acName": "NOKLAK",
     "partNumber": 20,
-    "partName": "KINGPAO VILLAGE"
+    "partName": "KINGPAO VILLAGE",
+    "lat": 26.206458,
+    "lon": 95.06207502911545
   },
   {
     "partId": 2212,
@@ -228,7 +268,9 @@
     "acNumber": 56,
     "acName": "NOKLAK",
     "partNumber": 21,
-    "partName": "DAN VILLAGE"
+    "partName": "DAN VILLAGE",
+    "lat": 26.2765732,
+    "lon": 95.1223041
   },
   {
     "partId": 2213,
@@ -239,7 +281,9 @@
     "acNumber": 56,
     "acName": "NOKLAK",
     "partNumber": 22,
-    "partName": "KUSONG VILLAGE"
+    "partName": "KUSONG VILLAGE",
+    "lat": 26.206458,
+    "lon": 95.06207502911545
   },
   {
     "partId": 2214,
@@ -250,7 +294,9 @@
     "acNumber": 56,
     "acName": "NOKLAK",
     "partNumber": 23,
-    "partName": "CHINGMEI HQ"
+    "partName": "CHINGMEI HQ",
+    "lat": 26.206458,
+    "lon": 95.06207502911545
   },
   {
     "partId": 2215,
@@ -261,7 +307,9 @@
     "acNumber": 56,
     "acName": "NOKLAK",
     "partNumber": 24,
-    "partName": "NOKYAN -B"
+    "partName": "NOKYAN -B",
+    "lat": 26.212796,
+    "lon": 95.0321378
   },
   {
     "partId": 2216,
@@ -272,7 +320,9 @@
     "acNumber": 56,
     "acName": "NOKLAK",
     "partNumber": 25,
-    "partName": "NOKLAK HQ - A"
+    "partName": "NOKLAK HQ - A",
+    "lat": 26.206458,
+    "lon": 95.06207502911545
   },
   {
     "partId": 2217,
@@ -283,7 +333,9 @@
     "acNumber": 56,
     "acName": "NOKLAK",
     "partNumber": 26,
-    "partName": "NOKLAK HQ - B"
+    "partName": "NOKLAK HQ - B",
+    "lat": 26.206458,
+    "lon": 95.06207502911545
   },
   {
     "partId": 2218,
@@ -294,7 +346,9 @@
     "acNumber": 56,
     "acName": "NOKLAK",
     "partNumber": 27,
-    "partName": "PANGSHA NEW B"
+    "partName": "PANGSHA NEW B",
+    "lat": 26.2603538,
+    "lon": 95.0983868
   },
   {
     "partId": 2219,
@@ -305,7 +359,9 @@
     "acNumber": 56,
     "acName": "NOKLAK",
     "partNumber": 28,
-    "partName": "NOKLAK VILLAGE C"
+    "partName": "NOKLAK VILLAGE C",
+    "lat": 26.206458,
+    "lon": 95.06207502911545
   },
   {
     "partId": 2220,
@@ -316,7 +372,9 @@
     "acNumber": 56,
     "acName": "NOKLAK",
     "partNumber": 29,
-    "partName": "CHOKLANGAN VILLAGE - B"
+    "partName": "CHOKLANGAN VILLAGE - B",
+    "lat": 26.206458,
+    "lon": 95.06207502911545
   },
   {
     "partId": 2313,
@@ -327,7 +385,9 @@
     "acNumber": 56,
     "acName": "NOKLAK",
     "partNumber": 30,
-    "partName": "NOKLAK HQ"
+    "partName": "NOKLAK HQ",
+    "lat": 26.206458,
+    "lon": 95.06207502911545
   },
   {
     "partId": 2314,
@@ -338,7 +398,9 @@
     "acNumber": 56,
     "acName": "NOKLAK",
     "partNumber": 31,
-    "partName": "NOKHU EAC HQ"
+    "partName": "NOKHU EAC HQ",
+    "lat": 26.206458,
+    "lon": 95.06207502911545
   },
   {
     "partId": 2221,
@@ -349,7 +411,9 @@
     "acNumber": 57,
     "acName": "THONOKNYU",
     "partNumber": 1,
-    "partName": "TSAWAO"
+    "partName": "TSAWAO",
+    "lat": 25.991730150000002,
+    "lon": 95.00221358444588
   },
   {
     "partId": 2222,
@@ -360,7 +424,9 @@
     "acNumber": 57,
     "acName": "THONOKNYU",
     "partNumber": 2,
-    "partName": "PATHSO NOKENG VILLAGE"
+    "partName": "PATHSO NOKENG VILLAGE",
+    "lat": 25.991730150000002,
+    "lon": 95.00221358444588
   },
   {
     "partId": 2223,
@@ -371,7 +437,9 @@
     "acNumber": 57,
     "acName": "THONOKNYU",
     "partNumber": 3,
-    "partName": "PATHSO VILLAGE (E/WING)"
+    "partName": "PATHSO VILLAGE (E/WING)",
+    "lat": 25.991730150000002,
+    "lon": 95.00221358444588
   },
   {
     "partId": 2224,
@@ -382,7 +450,9 @@
     "acNumber": 57,
     "acName": "THONOKNYU",
     "partNumber": 4,
-    "partName": "PATHSO VILLAGE (W/WING)"
+    "partName": "PATHSO VILLAGE (W/WING)",
+    "lat": 25.991730150000002,
+    "lon": 95.00221358444588
   },
   {
     "partId": 2225,
@@ -393,7 +463,9 @@
     "acNumber": 57,
     "acName": "THONOKNYU",
     "partNumber": 5,
-    "partName": "YAKAO"
+    "partName": "YAKAO",
+    "lat": 25.991730150000002,
+    "lon": 95.00221358444588
   },
   {
     "partId": 2226,
@@ -404,7 +476,9 @@
     "acNumber": 57,
     "acName": "THONOKNYU",
     "partNumber": 6,
-    "partName": "LENGNYU"
+    "partName": "LENGNYU",
+    "lat": 26.1043313,
+    "lon": 94.9674243
   },
   {
     "partId": 2227,
@@ -415,7 +489,9 @@
     "acNumber": 57,
     "acName": "THONOKNYU",
     "partNumber": 7,
-    "partName": "KENGNYU"
+    "partName": "KENGNYU",
+    "lat": 25.991730150000002,
+    "lon": 95.00221358444588
   },
   {
     "partId": 2228,
@@ -426,7 +502,9 @@
     "acNumber": 57,
     "acName": "THONOKNYU",
     "partNumber": 8,
-    "partName": "SANGLAO (EAST)"
+    "partName": "SANGLAO (EAST)",
+    "lat": 26.0668853,
+    "lon": 95.0154385
   },
   {
     "partId": 2229,
@@ -437,7 +515,9 @@
     "acNumber": 57,
     "acName": "THONOKNYU",
     "partNumber": 9,
-    "partName": "SANGLAO (WEST)"
+    "partName": "SANGLAO (WEST)",
+    "lat": 26.062547,
+    "lon": 95.0039593
   },
   {
     "partId": 2230,
@@ -448,7 +528,9 @@
     "acNumber": 57,
     "acName": "THONOKNYU",
     "partNumber": 10,
-    "partName": "WUI"
+    "partName": "WUI",
+    "lat": 26.0355691,
+    "lon": 95.0662977
   },
   {
     "partId": 2231,
@@ -459,7 +541,9 @@
     "acNumber": 57,
     "acName": "THONOKNYU",
     "partNumber": 11,
-    "partName": "KENJONG"
+    "partName": "KENJONG",
+    "lat": 26.0110175,
+    "lon": 95.0317853
   },
   {
     "partId": 2232,
@@ -470,7 +554,9 @@
     "acNumber": 57,
     "acName": "THONOKNYU",
     "partNumber": 12,
-    "partName": "PESHU"
+    "partName": "PESHU",
+    "lat": 26.0425483,
+    "lon": 94.9922518
   },
   {
     "partId": 2233,
@@ -481,7 +567,9 @@
     "acNumber": 57,
     "acName": "THONOKNYU",
     "partNumber": 13,
-    "partName": "TOKCHUR"
+    "partName": "TOKCHUR",
+    "lat": 25.991730150000002,
+    "lon": 95.00221358444588
   },
   {
     "partId": 2234,
@@ -492,7 +580,9 @@
     "acNumber": 57,
     "acName": "THONOKNYU",
     "partNumber": 14,
-    "partName": "THONOKNYU VILLAGE"
+    "partName": "THONOKNYU VILLAGE",
+    "lat": 25.991730150000002,
+    "lon": 95.00221358444588
   },
   {
     "partId": 2235,
@@ -503,7 +593,9 @@
     "acNumber": 57,
     "acName": "THONOKNYU",
     "partNumber": 15,
-    "partName": "THONOKNYU HQ"
+    "partName": "THONOKNYU HQ",
+    "lat": 25.991730150000002,
+    "lon": 95.00221358444588
   },
   {
     "partId": 2236,
@@ -514,7 +606,9 @@
     "acNumber": 57,
     "acName": "THONOKNYU",
     "partNumber": 16,
-    "partName": "CHILLISO"
+    "partName": "CHILLISO",
+    "lat": 26.0003565,
+    "lon": 94.945073
   },
   {
     "partId": 2237,
@@ -525,7 +619,9 @@
     "acNumber": 57,
     "acName": "THONOKNYU",
     "partNumber": 17,
-    "partName": "CHIPUR"
+    "partName": "CHIPUR",
+    "lat": 25.978432,
+    "lon": 94.9953991
   },
   {
     "partId": 2238,
@@ -536,7 +632,9 @@
     "acNumber": 57,
     "acName": "THONOKNYU",
     "partNumber": 18,
-    "partName": "PANG"
+    "partName": "PANG",
+    "lat": 25.9392267,
+    "lon": 94.957812
   },
   {
     "partId": 2239,
@@ -547,7 +645,9 @@
     "acNumber": 57,
     "acName": "THONOKNYU",
     "partNumber": 19,
-    "partName": "THONGSONYU"
+    "partName": "THONGSONYU",
+    "lat": 25.8796389,
+    "lon": 94.9849338
   },
   {
     "partId": 2240,
@@ -558,7 +658,9 @@
     "acNumber": 57,
     "acName": "THONOKNYU",
     "partNumber": 20,
-    "partName": "KIUSAM"
+    "partName": "KIUSAM",
+    "lat": 25.991730150000002,
+    "lon": 95.00221358444588
   },
   {
     "partId": 2241,
@@ -569,7 +671,9 @@
     "acNumber": 57,
     "acName": "THONOKNYU",
     "partNumber": 21,
-    "partName": "METONGER"
+    "partName": "METONGER",
+    "lat": 25.991730150000002,
+    "lon": 95.00221358444588
   },
   {
     "partId": 2242,
@@ -580,7 +684,9 @@
     "acNumber": 57,
     "acName": "THONOKNYU",
     "partNumber": 22,
-    "partName": "SANGKUMTI"
+    "partName": "SANGKUMTI",
+    "lat": 25.991730150000002,
+    "lon": 95.00221358444588
   },
   {
     "partId": 2243,
@@ -591,7 +697,9 @@
     "acNumber": 57,
     "acName": "THONOKNYU",
     "partNumber": 23,
-    "partName": "LONGTSUNGER"
+    "partName": "LONGTSUNGER",
+    "lat": 25.991730150000002,
+    "lon": 95.00221358444588
   },
   {
     "partId": 2244,
@@ -602,7 +710,9 @@
     "acNumber": 57,
     "acName": "THONOKNYU",
     "partNumber": 24,
-    "partName": "PHOKPUR"
+    "partName": "PHOKPUR",
+    "lat": 25.991730150000002,
+    "lon": 95.00221358444588
   },
   {
     "partId": 2245,
@@ -613,7 +723,9 @@
     "acNumber": 57,
     "acName": "THONOKNYU",
     "partNumber": 25,
-    "partName": "SANGTSUNGER"
+    "partName": "SANGTSUNGER",
+    "lat": 25.991730150000002,
+    "lon": 95.00221358444588
   },
   {
     "partId": 2246,
@@ -624,7 +736,9 @@
     "acNumber": 57,
     "acName": "THONOKNYU",
     "partNumber": 26,
-    "partName": "NEW SANGLAO"
+    "partName": "NEW SANGLAO",
+    "lat": 25.991730150000002,
+    "lon": 95.00221358444588
   },
   {
     "partId": 2247,
@@ -635,7 +749,9 @@
     "acNumber": 57,
     "acName": "THONOKNYU",
     "partNumber": 27,
-    "partName": "CHIKIPONGER"
+    "partName": "CHIKIPONGER",
+    "lat": 25.991730150000002,
+    "lon": 95.00221358444588
   },
   {
     "partId": 2248,
@@ -646,7 +762,9 @@
     "acNumber": 57,
     "acName": "THONOKNYU",
     "partNumber": 28,
-    "partName": "PANSO TOWN"
+    "partName": "PANSO TOWN",
+    "lat": 25.991730150000002,
+    "lon": 95.00221358444588
   },
   {
     "partId": 2249,
@@ -657,7 +775,9 @@
     "acNumber": 57,
     "acName": "THONOKNYU",
     "partNumber": 29,
-    "partName": "EKHAO VILLAGE"
+    "partName": "EKHAO VILLAGE",
+    "lat": 25.991730150000002,
+    "lon": 95.00221358444588
   },
   {
     "partId": 2250,
@@ -668,7 +788,9 @@
     "acNumber": 57,
     "acName": "THONOKNYU",
     "partNumber": 30,
-    "partName": "PESSUE B"
+    "partName": "PESSUE B",
+    "lat": 25.991730150000002,
+    "lon": 95.00221358444588
   },
   {
     "partId": 2251,
@@ -679,7 +801,9 @@
     "acNumber": 57,
     "acName": "THONOKNYU",
     "partNumber": 31,
-    "partName": "PATHSO NOKENG LOWER"
+    "partName": "PATHSO NOKENG LOWER",
+    "lat": 25.991730150000002,
+    "lon": 95.00221358444588
   },
   {
     "partId": 2258,
@@ -690,7 +814,9 @@
     "acNumber": 57,
     "acName": "THONOKNYU",
     "partNumber": 32,
-    "partName": "PESHU NYUKYA"
+    "partName": "PESHU NYUKYA",
+    "lat": 25.991730150000002,
+    "lon": 95.00221358444588
   },
   {
     "partId": 2315,
@@ -701,6 +827,8 @@
     "acNumber": 57,
     "acName": "THONOKNYU",
     "partNumber": 33,
-    "partName": "THANGOUN"
+    "partName": "THANGOUN",
+    "lat": 25.991730150000002,
+    "lon": 95.00221358444588
   }
 ]

@@ -8,7 +8,9 @@
     "acNumber": 13,
     "acName": "AIZAWL EAST I",
     "partNumber": 1,
-    "partName": "SIHPHIR I"
+    "partName": "SIHPHIR I",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 277,
@@ -19,7 +21,9 @@
     "acNumber": 13,
     "acName": "AIZAWL EAST I",
     "partNumber": 2,
-    "partName": "Sihphir II"
+    "partName": "Sihphir II",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 278,
@@ -30,7 +34,9 @@
     "acNumber": 13,
     "acName": "AIZAWL EAST I",
     "partNumber": 3,
-    "partName": "SIHPHIR III"
+    "partName": "SIHPHIR III",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 279,
@@ -41,7 +47,9 @@
     "acNumber": 13,
     "acName": "AIZAWL EAST I",
     "partNumber": 4,
-    "partName": "SIHPHIR VENGHLUN I"
+    "partName": "SIHPHIR VENGHLUN I",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 280,
@@ -52,7 +60,9 @@
     "acNumber": 13,
     "acName": "AIZAWL EAST I",
     "partNumber": 5,
-    "partName": "SIHPHIR VENGHLUN II"
+    "partName": "SIHPHIR VENGHLUN II",
+    "lat": 23.84332613703704,
+    "lon": 92.85154136129846
   },
   {
     "partId": 281,
@@ -63,7 +73,9 @@
     "acNumber": 13,
     "acName": "AIZAWL EAST I",
     "partNumber": 6,
-    "partName": "NAUSEL"
+    "partName": "NAUSEL",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 282,
@@ -74,7 +86,9 @@
     "acNumber": 13,
     "acName": "AIZAWL EAST I",
     "partNumber": 7,
-    "partName": "MUTHI"
+    "partName": "MUTHI",
+    "lat": 23.7756545,
+    "lon": 92.7616463
   },
   {
     "partId": 283,
@@ -85,7 +99,9 @@
     "acNumber": 13,
     "acName": "AIZAWL EAST I",
     "partNumber": 8,
-    "partName": "MUANNA"
+    "partName": "MUANNA",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 284,
@@ -96,7 +112,9 @@
     "acNumber": 13,
     "acName": "AIZAWL EAST I",
     "partNumber": 9,
-    "partName": "ZUANGTUI I"
+    "partName": "ZUANGTUI I",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 285,
@@ -107,7 +125,9 @@
     "acNumber": 13,
     "acName": "AIZAWL EAST I",
     "partNumber": 10,
-    "partName": "ZUANGTUI II"
+    "partName": "ZUANGTUI II",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1234,
@@ -118,7 +138,9 @@
     "acNumber": 13,
     "acName": "AIZAWL EAST I",
     "partNumber": 11,
-    "partName": "ZUANGTUI III"
+    "partName": "ZUANGTUI III",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 286,
@@ -129,7 +151,9 @@
     "acNumber": 13,
     "acName": "AIZAWL EAST I",
     "partNumber": 12,
-    "partName": "THUAMPUI I"
+    "partName": "THUAMPUI I",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 287,
@@ -140,7 +164,9 @@
     "acNumber": 13,
     "acName": "AIZAWL EAST I",
     "partNumber": 13,
-    "partName": "THUAMPUI II"
+    "partName": "THUAMPUI II",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 573,
@@ -151,7 +177,9 @@
     "acNumber": 13,
     "acName": "AIZAWL EAST I",
     "partNumber": 14,
-    "partName": "THUAMPUI III"
+    "partName": "THUAMPUI III",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 288,
@@ -162,7 +190,9 @@
     "acNumber": 13,
     "acName": "AIZAWL EAST I",
     "partNumber": 15,
-    "partName": "FALKLAND I"
+    "partName": "FALKLAND I",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1162,
@@ -173,7 +203,9 @@
     "acNumber": 13,
     "acName": "AIZAWL EAST I",
     "partNumber": 16,
-    "partName": "FALKLAND II"
+    "partName": "FALKLAND II",
+    "lat": 23.84332613703704,
+    "lon": 92.85154136129846
   },
   {
     "partId": 289,
@@ -184,7 +216,9 @@
     "acNumber": 13,
     "acName": "AIZAWL EAST I",
     "partNumber": 17,
-    "partName": "ZEMABAWK I"
+    "partName": "ZEMABAWK I",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 574,
@@ -195,7 +229,9 @@
     "acNumber": 13,
     "acName": "AIZAWL EAST I",
     "partNumber": 18,
-    "partName": "ZEMABAWK SOUTH"
+    "partName": "ZEMABAWK SOUTH",
+    "lat": 23.7355277,
+    "lon": 92.7464132
   },
   {
     "partId": 290,
@@ -206,7 +242,9 @@
     "acNumber": 13,
     "acName": "AIZAWL EAST I",
     "partNumber": 19,
-    "partName": "ZEMABAWK II"
+    "partName": "ZEMABAWK II",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1126,
@@ -217,7 +255,9 @@
     "acNumber": 13,
     "acName": "AIZAWL EAST I",
     "partNumber": 20,
-    "partName": "ZEMABAWK III"
+    "partName": "ZEMABAWK III",
+    "lat": 23.84332613703704,
+    "lon": 92.85154136129846
   },
   {
     "partId": 291,
@@ -228,7 +268,9 @@
     "acNumber": 13,
     "acName": "AIZAWL EAST I",
     "partNumber": 21,
-    "partName": "ZEMABAWK IV"
+    "partName": "ZEMABAWK IV",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 292,
@@ -239,7 +281,9 @@
     "acNumber": 13,
     "acName": "AIZAWL EAST I",
     "partNumber": 22,
-    "partName": "ZEMABAWK V"
+    "partName": "ZEMABAWK V",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 575,
@@ -250,7 +294,9 @@
     "acNumber": 13,
     "acName": "AIZAWL EAST I",
     "partNumber": 23,
-    "partName": "ZEMABAWK VI"
+    "partName": "ZEMABAWK VI",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 570,
@@ -261,7 +307,9 @@
     "acNumber": 13,
     "acName": "AIZAWL EAST I",
     "partNumber": 24,
-    "partName": "ZEMABAWK VII"
+    "partName": "ZEMABAWK VII",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 568,
@@ -272,7 +320,9 @@
     "acNumber": 13,
     "acName": "AIZAWL EAST I",
     "partNumber": 25,
-    "partName": "ZEMABAWK NORTH I"
+    "partName": "ZEMABAWK NORTH I",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 569,
@@ -283,7 +333,9 @@
     "acNumber": 13,
     "acName": "AIZAWL EAST I",
     "partNumber": 26,
-    "partName": "ZEMABAWK NORTH II"
+    "partName": "ZEMABAWK NORTH II",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1212,
@@ -294,7 +346,9 @@
     "acNumber": 13,
     "acName": "AIZAWL EAST I",
     "partNumber": 27,
-    "partName": "ZEMABAWK NORTH III"
+    "partName": "ZEMABAWK NORTH III",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1213,
@@ -305,7 +359,9 @@
     "acNumber": 13,
     "acName": "AIZAWL EAST I",
     "partNumber": 28,
-    "partName": "ZEMABAWK NORTH IV"
+    "partName": "ZEMABAWK NORTH IV",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 571,
@@ -316,7 +372,9 @@
     "acNumber": 13,
     "acName": "AIZAWL EAST I",
     "partNumber": 29,
-    "partName": "TUIRIAL AIRFIELD"
+    "partName": "TUIRIAL AIRFIELD",
+    "lat": 23.7366702,
+    "lon": 92.7968776
   },
   {
     "partId": 572,
@@ -327,7 +385,9 @@
     "acNumber": 13,
     "acName": "AIZAWL EAST I",
     "partNumber": 30,
-    "partName": "TUIRIAL"
+    "partName": "TUIRIAL",
+    "lat": 23.7217409,
+    "lon": 92.7987188
   },
   {
     "partId": 1071,
@@ -338,7 +398,9 @@
     "acNumber": 14,
     "acName": "AIZAWL EAST II",
     "partNumber": 1,
-    "partName": "ARMED VENG  I"
+    "partName": "ARMED VENG  I",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1072,
@@ -349,7 +411,9 @@
     "acNumber": 14,
     "acName": "AIZAWL EAST II",
     "partNumber": 2,
-    "partName": "ARMED VENG  II"
+    "partName": "ARMED VENG  II",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1073,
@@ -360,7 +424,9 @@
     "acNumber": 14,
     "acName": "AIZAWL EAST II",
     "partNumber": 3,
-    "partName": "ARMED VENG  III"
+    "partName": "ARMED VENG  III",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1074,
@@ -371,7 +437,9 @@
     "acNumber": 14,
     "acName": "AIZAWL EAST II",
     "partNumber": 4,
-    "partName": "CHITE"
+    "partName": "CHITE",
+    "lat": 23.73548665,
+    "lon": 92.73446705
   },
   {
     "partId": 1075,
@@ -382,7 +450,9 @@
     "acNumber": 14,
     "acName": "AIZAWL EAST II",
     "partNumber": 5,
-    "partName": "ARMED VENG SOUTH I"
+    "partName": "ARMED VENG SOUTH I",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1076,
@@ -393,7 +463,9 @@
     "acNumber": 14,
     "acName": "AIZAWL EAST II",
     "partNumber": 6,
-    "partName": "ARMED VENG SOUTH II"
+    "partName": "ARMED VENG SOUTH II",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1077,
@@ -404,7 +476,9 @@
     "acNumber": 14,
     "acName": "AIZAWL EAST II",
     "partNumber": 7,
-    "partName": "ARMED VENG SOUTH III"
+    "partName": "ARMED VENG SOUTH III",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1087,
@@ -415,7 +489,9 @@
     "acNumber": 14,
     "acName": "AIZAWL EAST II",
     "partNumber": 8,
-    "partName": "ARMED VENG SOUTH IV"
+    "partName": "ARMED VENG SOUTH IV",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1078,
@@ -426,7 +502,9 @@
     "acNumber": 14,
     "acName": "AIZAWL EAST II",
     "partNumber": 9,
-    "partName": "CHHINGA VENG I"
+    "partName": "CHHINGA VENG I",
+    "lat": 23.85350279117647,
+    "lon": 92.85703354432464
   },
   {
     "partId": 1079,
@@ -437,7 +515,9 @@
     "acNumber": 14,
     "acName": "AIZAWL EAST II",
     "partNumber": 10,
-    "partName": "CHHINGA VENG II"
+    "partName": "CHHINGA VENG II",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1080,
@@ -448,7 +528,9 @@
     "acNumber": 14,
     "acName": "AIZAWL EAST II",
     "partNumber": 11,
-    "partName": "CHHINGA VENG III"
+    "partName": "CHHINGA VENG III",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1081,
@@ -459,7 +541,9 @@
     "acNumber": 14,
     "acName": "AIZAWL EAST II",
     "partNumber": 12,
-    "partName": "CHHINGA VENG IV"
+    "partName": "CHHINGA VENG IV",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1088,
@@ -470,7 +554,9 @@
     "acNumber": 14,
     "acName": "AIZAWL EAST II",
     "partNumber": 13,
-    "partName": "CHHINGA VENG V"
+    "partName": "CHHINGA VENG V",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1082,
@@ -481,7 +567,9 @@
     "acNumber": 14,
     "acName": "AIZAWL EAST II",
     "partNumber": 14,
-    "partName": "DAWRPUI I"
+    "partName": "DAWRPUI I",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1083,
@@ -492,7 +580,9 @@
     "acNumber": 14,
     "acName": "AIZAWL EAST II",
     "partNumber": 15,
-    "partName": "DAWRPUI II"
+    "partName": "DAWRPUI II",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1084,
@@ -503,7 +593,9 @@
     "acNumber": 14,
     "acName": "AIZAWL EAST II",
     "partNumber": 16,
-    "partName": "SARON VENG I"
+    "partName": "SARON VENG I",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1085,
@@ -514,7 +606,9 @@
     "acNumber": 14,
     "acName": "AIZAWL EAST II",
     "partNumber": 17,
-    "partName": "SARON VENG II"
+    "partName": "SARON VENG II",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1086,
@@ -525,7 +619,9 @@
     "acNumber": 14,
     "acName": "AIZAWL EAST II",
     "partNumber": 18,
-    "partName": "TUITHIANG I"
+    "partName": "TUITHIANG I",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 423,
@@ -536,7 +632,9 @@
     "acNumber": 14,
     "acName": "AIZAWL EAST II",
     "partNumber": 19,
-    "partName": "TUITHIANG II"
+    "partName": "TUITHIANG II",
+    "lat": 23.85350279117647,
+    "lon": 92.85703354432464
   },
   {
     "partId": 1306,
@@ -547,7 +645,9 @@
     "acNumber": 10,
     "acName": "AIZAWL NORTH I",
     "partNumber": 1,
-    "partName": "SELESIH"
+    "partName": "SELESIH",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1307,
@@ -558,7 +658,9 @@
     "acNumber": 10,
     "acName": "AIZAWL NORTH I",
     "partNumber": 2,
-    "partName": "DURTLANG NORTH I"
+    "partName": "DURTLANG NORTH I",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1327,
@@ -569,7 +671,9 @@
     "acNumber": 10,
     "acName": "AIZAWL NORTH I",
     "partNumber": 3,
-    "partName": "DURTLANG NORTH II"
+    "partName": "DURTLANG NORTH II",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1308,
@@ -580,7 +684,9 @@
     "acNumber": 10,
     "acName": "AIZAWL NORTH I",
     "partNumber": 4,
-    "partName": "DURTLANG I"
+    "partName": "DURTLANG I",
+    "lat": 23.7816239,
+    "lon": 92.7275973
   },
   {
     "partId": 1309,
@@ -591,7 +697,9 @@
     "acNumber": 10,
     "acName": "AIZAWL NORTH I",
     "partNumber": 5,
-    "partName": "DURTLANG II"
+    "partName": "DURTLANG II",
+    "lat": 23.7816239,
+    "lon": 92.7275973
   },
   {
     "partId": 1310,
@@ -602,7 +710,9 @@
     "acNumber": 10,
     "acName": "AIZAWL NORTH I",
     "partNumber": 6,
-    "partName": "DURTLANG III"
+    "partName": "DURTLANG III",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1335,
@@ -613,7 +723,9 @@
     "acNumber": 10,
     "acName": "AIZAWL NORTH I",
     "partNumber": 7,
-    "partName": "DURTLANG IV"
+    "partName": "DURTLANG IV",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1311,
@@ -624,7 +736,9 @@
     "acNumber": 10,
     "acName": "AIZAWL NORTH I",
     "partNumber": 8,
-    "partName": "LEITAN I"
+    "partName": "LEITAN I",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1329,
@@ -635,7 +749,9 @@
     "acNumber": 10,
     "acName": "AIZAWL NORTH I",
     "partNumber": 9,
-    "partName": "LEITAN II"
+    "partName": "LEITAN II",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1313,
@@ -646,7 +762,9 @@
     "acNumber": 10,
     "acName": "AIZAWL NORTH I",
     "partNumber": 10,
-    "partName": "LEITAN III"
+    "partName": "LEITAN III",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1312,
@@ -657,7 +775,9 @@
     "acNumber": 10,
     "acName": "AIZAWL NORTH I",
     "partNumber": 11,
-    "partName": "LEITAN RAMTHAR"
+    "partName": "LEITAN RAMTHAR",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1314,
@@ -668,7 +788,9 @@
     "acNumber": 10,
     "acName": "AIZAWL NORTH I",
     "partNumber": 12,
-    "partName": "BAWNGKAWN I"
+    "partName": "BAWNGKAWN I",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1315,
@@ -679,7 +801,9 @@
     "acNumber": 10,
     "acName": "AIZAWL NORTH I",
     "partNumber": 13,
-    "partName": "BAWNGKAWN II"
+    "partName": "BAWNGKAWN II",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1316,
@@ -690,7 +814,9 @@
     "acNumber": 10,
     "acName": "AIZAWL NORTH I",
     "partNumber": 14,
-    "partName": "BAWNGKAWN III"
+    "partName": "BAWNGKAWN III",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1317,
@@ -701,7 +827,9 @@
     "acNumber": 10,
     "acName": "AIZAWL NORTH I",
     "partNumber": 15,
-    "partName": "BAWNGKAWN IV"
+    "partName": "BAWNGKAWN IV",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1328,
@@ -712,7 +840,9 @@
     "acNumber": 10,
     "acName": "AIZAWL NORTH I",
     "partNumber": 16,
-    "partName": "BAWNGKAWN V"
+    "partName": "BAWNGKAWN V",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1326,
@@ -723,7 +853,9 @@
     "acNumber": 10,
     "acName": "AIZAWL NORTH I",
     "partNumber": 17,
-    "partName": "BAWNGKAWN VI"
+    "partName": "BAWNGKAWN VI",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1332,
@@ -734,7 +866,9 @@
     "acNumber": 10,
     "acName": "AIZAWL NORTH I",
     "partNumber": 18,
-    "partName": "BAWNGKAWN VII"
+    "partName": "BAWNGKAWN VII",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1333,
@@ -745,7 +879,9 @@
     "acNumber": 10,
     "acName": "AIZAWL NORTH I",
     "partNumber": 19,
-    "partName": "BAWNGKAWN VIII"
+    "partName": "BAWNGKAWN VIII",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1334,
@@ -756,7 +892,9 @@
     "acNumber": 10,
     "acName": "AIZAWL NORTH I",
     "partNumber": 20,
-    "partName": "BAWNGKAWN IX"
+    "partName": "BAWNGKAWN IX",
+    "lat": 23.855412944827588,
+    "lon": 92.85523900882545
   },
   {
     "partId": 1318,
@@ -767,7 +905,9 @@
     "acNumber": 10,
     "acName": "AIZAWL NORTH I",
     "partNumber": 21,
-    "partName": "BAWNGKAWN SOUTH I"
+    "partName": "BAWNGKAWN SOUTH I",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1319,
@@ -778,7 +918,9 @@
     "acNumber": 10,
     "acName": "AIZAWL NORTH I",
     "partNumber": 22,
-    "partName": "BAWNGKAWN SOUTH II"
+    "partName": "BAWNGKAWN SOUTH II",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1320,
@@ -789,7 +931,9 @@
     "acNumber": 10,
     "acName": "AIZAWL NORTH I",
     "partNumber": 23,
-    "partName": "CHALTLANG I"
+    "partName": "CHALTLANG I",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1321,
@@ -800,7 +944,9 @@
     "acNumber": 10,
     "acName": "AIZAWL NORTH I",
     "partNumber": 24,
-    "partName": "CHALTLANG II"
+    "partName": "CHALTLANG II",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1322,
@@ -811,7 +957,9 @@
     "acNumber": 10,
     "acName": "AIZAWL NORTH I",
     "partNumber": 25,
-    "partName": "CHALTLANG III"
+    "partName": "CHALTLANG III",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1323,
@@ -822,7 +970,9 @@
     "acNumber": 10,
     "acName": "AIZAWL NORTH I",
     "partNumber": 26,
-    "partName": "CHALTLANG IV"
+    "partName": "CHALTLANG IV",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1330,
@@ -833,7 +983,9 @@
     "acNumber": 10,
     "acName": "AIZAWL NORTH I",
     "partNumber": 27,
-    "partName": "CHALTLANG V"
+    "partName": "CHALTLANG V",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1331,
@@ -844,7 +996,9 @@
     "acNumber": 10,
     "acName": "AIZAWL NORTH I",
     "partNumber": 28,
-    "partName": "CHALTLANG VI"
+    "partName": "CHALTLANG VI",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1324,
@@ -855,7 +1009,9 @@
     "acNumber": 10,
     "acName": "AIZAWL NORTH I",
     "partNumber": 29,
-    "partName": "CHALTLANG LILY VENG - I"
+    "partName": "CHALTLANG LILY VENG - I",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1325,
@@ -866,7 +1022,9 @@
     "acNumber": 10,
     "acName": "AIZAWL NORTH I",
     "partNumber": 30,
-    "partName": "CHALTLANG LILY VENG - II"
+    "partName": "CHALTLANG LILY VENG - II",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1337,
@@ -877,7 +1035,9 @@
     "acNumber": 11,
     "acName": "AIZAWL NORTH II",
     "partNumber": 1,
-    "partName": "RAMHLUN NORTH I"
+    "partName": "RAMHLUN NORTH I",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1338,
@@ -888,7 +1048,9 @@
     "acNumber": 11,
     "acName": "AIZAWL NORTH II",
     "partNumber": 2,
-    "partName": "RAMHLUN NORTH II"
+    "partName": "RAMHLUN NORTH II",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1339,
@@ -899,7 +1061,9 @@
     "acNumber": 11,
     "acName": "AIZAWL NORTH II",
     "partNumber": 3,
-    "partName": "RAMHLUN NORTH III"
+    "partName": "RAMHLUN NORTH III",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1340,
@@ -910,7 +1074,9 @@
     "acNumber": 11,
     "acName": "AIZAWL NORTH II",
     "partNumber": 4,
-    "partName": "RAMHLUN NORTH IV"
+    "partName": "RAMHLUN NORTH IV",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1361,
@@ -921,7 +1087,9 @@
     "acNumber": 11,
     "acName": "AIZAWL NORTH II",
     "partNumber": 5,
-    "partName": "RAMHLUN NORTH V"
+    "partName": "RAMHLUN NORTH V",
+    "lat": 23.827317580952382,
+    "lon": 92.82429779305426
   },
   {
     "partId": 1362,
@@ -932,7 +1100,9 @@
     "acNumber": 11,
     "acName": "AIZAWL NORTH II",
     "partNumber": 6,
-    "partName": "RAMHLUN NORTH VI"
+    "partName": "RAMHLUN NORTH VI",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1341,
@@ -943,7 +1113,9 @@
     "acNumber": 11,
     "acName": "AIZAWL NORTH II",
     "partNumber": 7,
-    "partName": "RAMHLUN VENGTHAR I"
+    "partName": "RAMHLUN VENGTHAR I",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1342,
@@ -954,7 +1126,9 @@
     "acNumber": 11,
     "acName": "AIZAWL NORTH II",
     "partNumber": 8,
-    "partName": "RAMHLUN VENGTHAR II"
+    "partName": "RAMHLUN VENGTHAR II",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1343,
@@ -965,7 +1139,9 @@
     "acNumber": 11,
     "acName": "AIZAWL NORTH II",
     "partNumber": 9,
-    "partName": "RAMHLUN VENGLAI I"
+    "partName": "RAMHLUN VENGLAI I",
+    "lat": 23.7430955,
+    "lon": 92.7231677
   },
   {
     "partId": 1344,
@@ -976,7 +1152,9 @@
     "acNumber": 11,
     "acName": "AIZAWL NORTH II",
     "partNumber": 10,
-    "partName": "RAMHLUN VENGLAI II"
+    "partName": "RAMHLUN VENGLAI II",
+    "lat": 23.7430955,
+    "lon": 92.7231677
   },
   {
     "partId": 1356,
@@ -987,7 +1165,9 @@
     "acNumber": 11,
     "acName": "AIZAWL NORTH II",
     "partNumber": 11,
-    "partName": "RAMHLUN VENGLAI III"
+    "partName": "RAMHLUN VENGLAI III",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1345,
@@ -998,7 +1178,9 @@
     "acNumber": 11,
     "acName": "AIZAWL NORTH II",
     "partNumber": 12,
-    "partName": "RAMHLUN SPORTS COMPLEX"
+    "partName": "RAMHLUN SPORTS COMPLEX",
+    "lat": 23.7442293,
+    "lon": 92.72602090084035
   },
   {
     "partId": 1346,
@@ -1009,7 +1191,9 @@
     "acNumber": 11,
     "acName": "AIZAWL NORTH II",
     "partNumber": 13,
-    "partName": "LAIPUITLANG"
+    "partName": "LAIPUITLANG",
+    "lat": 23.7438759,
+    "lon": 92.7211527
   },
   {
     "partId": 1359,
@@ -1020,7 +1204,9 @@
     "acNumber": 11,
     "acName": "AIZAWL NORTH II",
     "partNumber": 14,
-    "partName": "LAIPUITLANG II"
+    "partName": "LAIPUITLANG II",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1347,
@@ -1031,7 +1217,9 @@
     "acNumber": 11,
     "acName": "AIZAWL NORTH II",
     "partNumber": 15,
-    "partName": "RAMHLUN SOUTH I"
+    "partName": "RAMHLUN SOUTH I",
+    "lat": 23.7430955,
+    "lon": 92.7231677
   },
   {
     "partId": 1348,
@@ -1042,7 +1230,9 @@
     "acNumber": 11,
     "acName": "AIZAWL NORTH II",
     "partNumber": 16,
-    "partName": "RAMHLUN SOUTH II"
+    "partName": "RAMHLUN SOUTH II",
+    "lat": 23.7430955,
+    "lon": 92.7231677
   },
   {
     "partId": 1349,
@@ -1053,7 +1243,9 @@
     "acNumber": 11,
     "acName": "AIZAWL NORTH II",
     "partNumber": 17,
-    "partName": "RAMHLUN SOUTH III"
+    "partName": "RAMHLUN SOUTH III",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1357,
@@ -1064,7 +1256,9 @@
     "acNumber": 11,
     "acName": "AIZAWL NORTH II",
     "partNumber": 18,
-    "partName": "RAMHLUN SOUTH IV"
+    "partName": "RAMHLUN SOUTH IV",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1350,
@@ -1075,7 +1269,9 @@
     "acNumber": 11,
     "acName": "AIZAWL NORTH II",
     "partNumber": 19,
-    "partName": "AIZAWL VENGLAI I"
+    "partName": "AIZAWL VENGLAI I",
+    "lat": 23.827317580952382,
+    "lon": 92.82429779305426
   },
   {
     "partId": 1351,
@@ -1086,7 +1282,9 @@
     "acNumber": 11,
     "acName": "AIZAWL NORTH II",
     "partNumber": 20,
-    "partName": "AIZAWL VENGLAI II"
+    "partName": "AIZAWL VENGLAI II",
+    "lat": 23.827317580952382,
+    "lon": 92.82429779305426
   },
   {
     "partId": 1352,
@@ -1097,7 +1295,9 @@
     "acNumber": 11,
     "acName": "AIZAWL NORTH II",
     "partNumber": 21,
-    "partName": "RAMTHAR VENG I"
+    "partName": "RAMTHAR VENG I",
+    "lat": 23.827317580952382,
+    "lon": 92.82429779305426
   },
   {
     "partId": 1353,
@@ -1108,7 +1308,9 @@
     "acNumber": 11,
     "acName": "AIZAWL NORTH II",
     "partNumber": 22,
-    "partName": "RAMTHAR VENG II"
+    "partName": "RAMTHAR VENG II",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1354,
@@ -1119,7 +1321,9 @@
     "acNumber": 11,
     "acName": "AIZAWL NORTH II",
     "partNumber": 23,
-    "partName": "RAMTHAR VENG III"
+    "partName": "RAMTHAR VENG III",
+    "lat": 23.827317580952382,
+    "lon": 92.82429779305426
   },
   {
     "partId": 1360,
@@ -1130,7 +1334,9 @@
     "acNumber": 11,
     "acName": "AIZAWL NORTH II",
     "partNumber": 24,
-    "partName": "RAMTHAR VENG IV"
+    "partName": "RAMTHAR VENG IV",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1355,
@@ -1141,7 +1347,9 @@
     "acNumber": 11,
     "acName": "AIZAWL NORTH II",
     "partNumber": 25,
-    "partName": "RAMTHAR NORTH I"
+    "partName": "RAMTHAR NORTH I",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1358,
@@ -1152,7 +1360,9 @@
     "acNumber": 11,
     "acName": "AIZAWL NORTH II",
     "partNumber": 26,
-    "partName": "RAMTHAR NORTH II"
+    "partName": "RAMTHAR NORTH II",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1652,
@@ -1163,7 +1373,9 @@
     "acNumber": 12,
     "acName": "AIZAWL NORTH III",
     "partNumber": 1,
-    "partName": "EDENTHAR I"
+    "partName": "EDENTHAR I",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1667,
@@ -1174,7 +1386,9 @@
     "acNumber": 12,
     "acName": "AIZAWL NORTH III",
     "partNumber": 2,
-    "partName": "EDENTHAR II"
+    "partName": "EDENTHAR II",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1672,
@@ -1185,7 +1399,9 @@
     "acNumber": 12,
     "acName": "AIZAWL NORTH III",
     "partNumber": 3,
-    "partName": "EDENTHAR III"
+    "partName": "EDENTHAR III",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1673,
@@ -1196,7 +1412,9 @@
     "acNumber": 12,
     "acName": "AIZAWL NORTH III",
     "partNumber": 4,
-    "partName": "EDENTHAR IV"
+    "partName": "EDENTHAR IV",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1653,
@@ -1207,7 +1425,9 @@
     "acNumber": 12,
     "acName": "AIZAWL NORTH III",
     "partNumber": 5,
-    "partName": "CHANMARI WEST I"
+    "partName": "CHANMARI WEST I",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1654,
@@ -1218,7 +1438,9 @@
     "acNumber": 12,
     "acName": "AIZAWL NORTH III",
     "partNumber": 6,
-    "partName": "CHANMARI WEST II"
+    "partName": "CHANMARI WEST II",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1655,
@@ -1229,7 +1451,9 @@
     "acNumber": 12,
     "acName": "AIZAWL NORTH III",
     "partNumber": 7,
-    "partName": "CHANMARI WEST III"
+    "partName": "CHANMARI WEST III",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1668,
@@ -1240,7 +1464,9 @@
     "acNumber": 12,
     "acName": "AIZAWL NORTH III",
     "partNumber": 8,
-    "partName": "CHANMARI WEST IV"
+    "partName": "CHANMARI WEST IV",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1669,
@@ -1251,7 +1477,9 @@
     "acNumber": 12,
     "acName": "AIZAWL NORTH III",
     "partNumber": 9,
-    "partName": "CHANMARI WEST V"
+    "partName": "CHANMARI WEST V",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1656,
@@ -1262,7 +1490,9 @@
     "acNumber": 12,
     "acName": "AIZAWL NORTH III",
     "partNumber": 10,
-    "partName": "CHANMARI I"
+    "partName": "CHANMARI I",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1657,
@@ -1273,7 +1503,9 @@
     "acNumber": 12,
     "acName": "AIZAWL NORTH III",
     "partNumber": 11,
-    "partName": "CHANMARI II"
+    "partName": "CHANMARI II",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1658,
@@ -1284,7 +1516,9 @@
     "acNumber": 12,
     "acName": "AIZAWL NORTH III",
     "partNumber": 12,
-    "partName": "CHANMARI III"
+    "partName": "CHANMARI III",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1670,
@@ -1295,7 +1529,9 @@
     "acNumber": 12,
     "acName": "AIZAWL NORTH III",
     "partNumber": 13,
-    "partName": "CHANMARI IV"
+    "partName": "CHANMARI IV",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1659,
@@ -1306,7 +1542,9 @@
     "acNumber": 12,
     "acName": "AIZAWL NORTH III",
     "partNumber": 14,
-    "partName": "HUNTHAR I"
+    "partName": "HUNTHAR I",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1660,
@@ -1317,7 +1555,9 @@
     "acNumber": 12,
     "acName": "AIZAWL NORTH III",
     "partNumber": 15,
-    "partName": "HUNTHAR II"
+    "partName": "HUNTHAR II",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1671,
@@ -1328,7 +1568,9 @@
     "acNumber": 12,
     "acName": "AIZAWL NORTH III",
     "partNumber": 16,
-    "partName": "HUNTHAR III"
+    "partName": "HUNTHAR III",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1661,
@@ -1339,7 +1581,9 @@
     "acNumber": 12,
     "acName": "AIZAWL NORTH III",
     "partNumber": 17,
-    "partName": "ZARKAWT I"
+    "partName": "ZARKAWT I",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1662,
@@ -1350,7 +1594,9 @@
     "acNumber": 12,
     "acName": "AIZAWL NORTH III",
     "partNumber": 18,
-    "partName": "ZARKAWT II"
+    "partName": "ZARKAWT II",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1663,
@@ -1361,7 +1607,9 @@
     "acNumber": 12,
     "acName": "AIZAWL NORTH III",
     "partNumber": 19,
-    "partName": "ELECTRIC I"
+    "partName": "ELECTRIC I",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1664,
@@ -1372,7 +1620,9 @@
     "acNumber": 12,
     "acName": "AIZAWL NORTH III",
     "partNumber": 20,
-    "partName": "ELECTRIC II"
+    "partName": "ELECTRIC II",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1665,
@@ -1383,7 +1633,9 @@
     "acNumber": 12,
     "acName": "AIZAWL NORTH III",
     "partNumber": 21,
-    "partName": "ELECTRIC III"
+    "partName": "ELECTRIC III",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1666,
@@ -1394,7 +1646,9 @@
     "acNumber": 12,
     "acName": "AIZAWL NORTH III",
     "partNumber": 22,
-    "partName": "ELECTRIC IV"
+    "partName": "ELECTRIC IV",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1089,
@@ -1405,7 +1659,9 @@
     "acNumber": 18,
     "acName": "AIZAWL SOUTH I",
     "partNumber": 1,
-    "partName": "BETHLEHEM I"
+    "partName": "BETHLEHEM I",
+    "lat": 23.7222462,
+    "lon": 92.718026
   },
   {
     "partId": 1217,
@@ -1416,7 +1672,9 @@
     "acNumber": 18,
     "acName": "AIZAWL SOUTH I",
     "partNumber": 2,
-    "partName": "BETHLEHEM II"
+    "partName": "BETHLEHEM II",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1090,
@@ -1427,7 +1685,9 @@
     "acNumber": 18,
     "acName": "AIZAWL SOUTH I",
     "partNumber": 3,
-    "partName": "BETHLEHEM III"
+    "partName": "BETHLEHEM III",
+    "lat": 23.7222462,
+    "lon": 92.718026
   },
   {
     "partId": 1091,
@@ -1438,7 +1698,9 @@
     "acNumber": 18,
     "acName": "AIZAWL SOUTH I",
     "partNumber": 4,
-    "partName": "BETHLEHEM IV"
+    "partName": "BETHLEHEM IV",
+    "lat": 23.7222462,
+    "lon": 92.718026
   },
   {
     "partId": 1092,
@@ -1449,7 +1711,9 @@
     "acNumber": 18,
     "acName": "AIZAWL SOUTH I",
     "partNumber": 5,
-    "partName": "BETHLEHEM VENGTHLANG I"
+    "partName": "BETHLEHEM VENGTHLANG I",
+    "lat": 23.7222462,
+    "lon": 92.718026
   },
   {
     "partId": 1093,
@@ -1460,7 +1724,9 @@
     "acNumber": 18,
     "acName": "AIZAWL SOUTH I",
     "partNumber": 6,
-    "partName": "BETHLEHEM VENGTHLANG II"
+    "partName": "BETHLEHEM VENGTHLANG II",
+    "lat": 23.7222462,
+    "lon": 92.718026
   },
   {
     "partId": 1094,
@@ -1471,7 +1737,9 @@
     "acNumber": 18,
     "acName": "AIZAWL SOUTH I",
     "partNumber": 7,
-    "partName": "BETHLEHEM VENGTHLANG III"
+    "partName": "BETHLEHEM VENGTHLANG III",
+    "lat": 23.7222462,
+    "lon": 92.718026
   },
   {
     "partId": 1095,
@@ -1482,7 +1750,9 @@
     "acNumber": 18,
     "acName": "AIZAWL SOUTH I",
     "partNumber": 8,
-    "partName": "BETHLEHEM VENGTHLANG IV"
+    "partName": "BETHLEHEM VENGTHLANG IV",
+    "lat": 23.7222462,
+    "lon": 92.718026
   },
   {
     "partId": 615,
@@ -1493,7 +1763,9 @@
     "acNumber": 18,
     "acName": "AIZAWL SOUTH I",
     "partNumber": 9,
-    "partName": "BETHLEHEM VENGTHLANG V"
+    "partName": "BETHLEHEM VENGTHLANG V",
+    "lat": 23.7222462,
+    "lon": 92.718026
   },
   {
     "partId": 1265,
@@ -1504,7 +1776,9 @@
     "acNumber": 18,
     "acName": "AIZAWL SOUTH I",
     "partNumber": 10,
-    "partName": "BETHLEHEM VENGTHLANG VI"
+    "partName": "BETHLEHEM VENGTHLANG VI",
+    "lat": 23.7222462,
+    "lon": 92.718026
   },
   {
     "partId": 1096,
@@ -1515,7 +1789,9 @@
     "acNumber": 18,
     "acName": "AIZAWL SOUTH I",
     "partNumber": 11,
-    "partName": "COLLEGE VENG I"
+    "partName": "COLLEGE VENG I",
+    "lat": 23.7222462,
+    "lon": 92.718026
   },
   {
     "partId": 1097,
@@ -1526,7 +1802,9 @@
     "acNumber": 18,
     "acName": "AIZAWL SOUTH I",
     "partNumber": 12,
-    "partName": "COLLEGE VENG II"
+    "partName": "COLLEGE VENG II",
+    "lat": 23.7222462,
+    "lon": 92.718026
   },
   {
     "partId": 1098,
@@ -1537,7 +1815,9 @@
     "acNumber": 18,
     "acName": "AIZAWL SOUTH I",
     "partNumber": 13,
-    "partName": "VENGHLUI I"
+    "partName": "VENGHLUI I",
+    "lat": 23.7241053,
+    "lon": 92.7198445
   },
   {
     "partId": 1099,
@@ -1548,7 +1828,9 @@
     "acNumber": 18,
     "acName": "AIZAWL SOUTH I",
     "partNumber": 14,
-    "partName": "VENGHLUI II"
+    "partName": "VENGHLUI II",
+    "lat": 23.7241053,
+    "lon": 92.7198445
   },
   {
     "partId": 1100,
@@ -1559,7 +1841,9 @@
     "acNumber": 18,
     "acName": "AIZAWL SOUTH I",
     "partNumber": 15,
-    "partName": "VENGHLUI III"
+    "partName": "VENGHLUI III",
+    "lat": 23.7222462,
+    "lon": 92.718026
   },
   {
     "partId": 1101,
@@ -1570,7 +1854,9 @@
     "acNumber": 18,
     "acName": "AIZAWL SOUTH I",
     "partNumber": 16,
-    "partName": "UPPER REPUBLIC I"
+    "partName": "UPPER REPUBLIC I",
+    "lat": 23.7222462,
+    "lon": 92.718026
   },
   {
     "partId": 1102,
@@ -1581,7 +1867,9 @@
     "acNumber": 18,
     "acName": "AIZAWL SOUTH I",
     "partNumber": 17,
-    "partName": "UPPER REPUBLIC II"
+    "partName": "UPPER REPUBLIC II",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1103,
@@ -1592,7 +1880,9 @@
     "acNumber": 18,
     "acName": "AIZAWL SOUTH I",
     "partNumber": 18,
-    "partName": "REPUBLIC I"
+    "partName": "REPUBLIC I",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1104,
@@ -1603,7 +1893,9 @@
     "acNumber": 18,
     "acName": "AIZAWL SOUTH I",
     "partNumber": 19,
-    "partName": "REPUBLIC II"
+    "partName": "REPUBLIC II",
+    "lat": 23.7222462,
+    "lon": 92.718026
   },
   {
     "partId": 1105,
@@ -1614,7 +1906,9 @@
     "acNumber": 18,
     "acName": "AIZAWL SOUTH I",
     "partNumber": 20,
-    "partName": "REPUBLIC III"
+    "partName": "REPUBLIC III",
+    "lat": 23.7222462,
+    "lon": 92.718026
   },
   {
     "partId": 1106,
@@ -1625,7 +1919,9 @@
     "acNumber": 18,
     "acName": "AIZAWL SOUTH I",
     "partNumber": 21,
-    "partName": "REPUBLIC VENGTHLANG I"
+    "partName": "REPUBLIC VENGTHLANG I",
+    "lat": 23.7222462,
+    "lon": 92.718026
   },
   {
     "partId": 1107,
@@ -1636,7 +1932,9 @@
     "acNumber": 18,
     "acName": "AIZAWL SOUTH I",
     "partNumber": 22,
-    "partName": "REPUBLIC VENGTHLANG II"
+    "partName": "REPUBLIC VENGTHLANG II",
+    "lat": 23.7222462,
+    "lon": 92.718026
   },
   {
     "partId": 416,
@@ -1647,7 +1945,9 @@
     "acNumber": 19,
     "acName": "AIZAWL SOUTH II",
     "partNumber": 1,
-    "partName": "TUIKHUAHTLANG I"
+    "partName": "TUIKHUAHTLANG I",
+    "lat": 23.7222462,
+    "lon": 92.718026
   },
   {
     "partId": 802,
@@ -1658,7 +1958,9 @@
     "acNumber": 19,
     "acName": "AIZAWL SOUTH II",
     "partNumber": 2,
-    "partName": "TUIKHUAHTLANG II"
+    "partName": "TUIKHUAHTLANG II",
+    "lat": 23.7222462,
+    "lon": 92.718026
   },
   {
     "partId": 417,
@@ -1669,7 +1971,9 @@
     "acNumber": 19,
     "acName": "AIZAWL SOUTH II",
     "partNumber": 3,
-    "partName": "MISSION VENG I"
+    "partName": "MISSION VENG I",
+    "lat": 23.7222462,
+    "lon": 92.718026
   },
   {
     "partId": 418,
@@ -1680,7 +1984,9 @@
     "acNumber": 19,
     "acName": "AIZAWL SOUTH II",
     "partNumber": 4,
-    "partName": "MISSION VENG II"
+    "partName": "MISSION VENG II",
+    "lat": 23.7222462,
+    "lon": 92.718026
   },
   {
     "partId": 419,
@@ -1691,7 +1997,9 @@
     "acNumber": 19,
     "acName": "AIZAWL SOUTH II",
     "partNumber": 5,
-    "partName": "MISSION VENG III"
+    "partName": "MISSION VENG III",
+    "lat": 23.7222462,
+    "lon": 92.718026
   },
   {
     "partId": 803,
@@ -1702,7 +2010,9 @@
     "acNumber": 19,
     "acName": "AIZAWL SOUTH II",
     "partNumber": 6,
-    "partName": "MISSION VENG IV"
+    "partName": "MISSION VENG IV",
+    "lat": 23.7222462,
+    "lon": 92.718026
   },
   {
     "partId": 420,
@@ -1713,7 +2023,9 @@
     "acNumber": 19,
     "acName": "AIZAWL SOUTH II",
     "partNumber": 7,
-    "partName": "I.T.I. VENG I"
+    "partName": "I.T.I. VENG I",
+    "lat": 23.7222462,
+    "lon": 92.718026
   },
   {
     "partId": 421,
@@ -1724,7 +2036,9 @@
     "acNumber": 19,
     "acName": "AIZAWL SOUTH II",
     "partNumber": 8,
-    "partName": "I.T.I. VENG II"
+    "partName": "I.T.I. VENG II",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 330,
@@ -1735,7 +2049,9 @@
     "acNumber": 19,
     "acName": "AIZAWL SOUTH II",
     "partNumber": 9,
-    "partName": "I.T.I. VENG III"
+    "partName": "I.T.I. VENG III",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 804,
@@ -1746,7 +2062,9 @@
     "acNumber": 19,
     "acName": "AIZAWL SOUTH II",
     "partNumber": 10,
-    "partName": "ITI VENG IV"
+    "partName": "ITI VENG IV",
+    "lat": 23.7222462,
+    "lon": 92.718026
   },
   {
     "partId": 1266,
@@ -1757,7 +2075,9 @@
     "acNumber": 19,
     "acName": "AIZAWL SOUTH II",
     "partNumber": 11,
-    "partName": "ITI VENG V"
+    "partName": "ITI VENG V",
+    "lat": 23.7222462,
+    "lon": 92.718026
   },
   {
     "partId": 331,
@@ -1768,7 +2088,9 @@
     "acNumber": 19,
     "acName": "AIZAWL SOUTH II",
     "partNumber": 12,
-    "partName": "THAKTHING"
+    "partName": "THAKTHING",
+    "lat": 23.7222462,
+    "lon": 92.718026
   },
   {
     "partId": 791,
@@ -1779,7 +2101,9 @@
     "acNumber": 19,
     "acName": "AIZAWL SOUTH II",
     "partNumber": 13,
-    "partName": "DAM VENG"
+    "partName": "DAM VENG",
+    "lat": 23.7222462,
+    "lon": 92.718026
   },
   {
     "partId": 792,
@@ -1790,7 +2114,9 @@
     "acNumber": 19,
     "acName": "AIZAWL SOUTH II",
     "partNumber": 14,
-    "partName": "VENGHNUAI I"
+    "partName": "VENGHNUAI I",
+    "lat": 23.7222462,
+    "lon": 92.718026
   },
   {
     "partId": 793,
@@ -1801,7 +2127,9 @@
     "acNumber": 19,
     "acName": "AIZAWL SOUTH II",
     "partNumber": 15,
-    "partName": "VENGHNUAI II"
+    "partName": "VENGHNUAI II",
+    "lat": 23.7222462,
+    "lon": 92.718026
   },
   {
     "partId": 794,
@@ -1812,7 +2140,9 @@
     "acNumber": 19,
     "acName": "AIZAWL SOUTH II",
     "partNumber": 16,
-    "partName": "SALEM VENG I"
+    "partName": "SALEM VENG I",
+    "lat": 23.7222462,
+    "lon": 92.718026
   },
   {
     "partId": 795,
@@ -1823,7 +2153,9 @@
     "acNumber": 19,
     "acName": "AIZAWL SOUTH II",
     "partNumber": 17,
-    "partName": "SALEM VENG II"
+    "partName": "SALEM VENG II",
+    "lat": 23.7222462,
+    "lon": 92.718026
   },
   {
     "partId": 1199,
@@ -1834,7 +2166,9 @@
     "acNumber": 19,
     "acName": "AIZAWL SOUTH II",
     "partNumber": 18,
-    "partName": "SALEM VENG III"
+    "partName": "SALEM VENG III",
+    "lat": 23.7222462,
+    "lon": 92.718026
   },
   {
     "partId": 805,
@@ -1845,7 +2179,9 @@
     "acNumber": 19,
     "acName": "AIZAWL SOUTH II",
     "partNumber": 19,
-    "partName": "SALEM VENG IV"
+    "partName": "SALEM VENG IV",
+    "lat": 23.7222462,
+    "lon": 92.718026
   },
   {
     "partId": 1275,
@@ -1856,7 +2192,9 @@
     "acNumber": 19,
     "acName": "AIZAWL SOUTH II",
     "partNumber": 20,
-    "partName": "SALEM VENG V"
+    "partName": "SALEM VENG V",
+    "lat": 23.7222462,
+    "lon": 92.718026
   },
   {
     "partId": 796,
@@ -1867,7 +2205,9 @@
     "acNumber": 19,
     "acName": "AIZAWL SOUTH II",
     "partNumber": 21,
-    "partName": "MODEL VENG"
+    "partName": "MODEL VENG",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 797,
@@ -1878,7 +2218,9 @@
     "acNumber": 19,
     "acName": "AIZAWL SOUTH II",
     "partNumber": 22,
-    "partName": "KULIKAWN I"
+    "partName": "KULIKAWN I",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1168,
@@ -1889,7 +2231,9 @@
     "acNumber": 19,
     "acName": "AIZAWL SOUTH II",
     "partNumber": 23,
-    "partName": "KULIKAWN II"
+    "partName": "KULIKAWN II",
+    "lat": 23.7222462,
+    "lon": 92.718026
   },
   {
     "partId": 798,
@@ -1900,7 +2244,9 @@
     "acNumber": 19,
     "acName": "AIZAWL SOUTH II",
     "partNumber": 24,
-    "partName": "KULIKAWN III"
+    "partName": "KULIKAWN III",
+    "lat": 23.7222462,
+    "lon": 92.718026
   },
   {
     "partId": 799,
@@ -1911,7 +2257,9 @@
     "acNumber": 19,
     "acName": "AIZAWL SOUTH II",
     "partNumber": 25,
-    "partName": "KULIKAWN IV"
+    "partName": "KULIKAWN IV",
+    "lat": 23.7222462,
+    "lon": 92.718026
   },
   {
     "partId": 1221,
@@ -1922,7 +2270,9 @@
     "acNumber": 19,
     "acName": "AIZAWL SOUTH II",
     "partNumber": 26,
-    "partName": "KULIKAWN V"
+    "partName": "KULIKAWN V",
+    "lat": 23.7222462,
+    "lon": 92.718026
   },
   {
     "partId": 800,
@@ -1933,7 +2283,9 @@
     "acNumber": 19,
     "acName": "AIZAWL SOUTH II",
     "partNumber": 27,
-    "partName": "TLANGNUAM I"
+    "partName": "TLANGNUAM I",
+    "lat": 23.7080773,
+    "lon": 92.716906
   },
   {
     "partId": 1240,
@@ -1944,7 +2296,9 @@
     "acNumber": 19,
     "acName": "AIZAWL SOUTH II",
     "partNumber": 28,
-    "partName": "TLANGNUAM II"
+    "partName": "TLANGNUAM II",
+    "lat": 23.7080773,
+    "lon": 92.716906
   },
   {
     "partId": 801,
@@ -1955,7 +2309,9 @@
     "acNumber": 19,
     "acName": "AIZAWL SOUTH II",
     "partNumber": 29,
-    "partName": "TLANGNUAM VENGTHAR I"
+    "partName": "TLANGNUAM VENGTHAR I",
+    "lat": 23.7222462,
+    "lon": 92.718026
   },
   {
     "partId": 1241,
@@ -1966,7 +2322,9 @@
     "acNumber": 19,
     "acName": "AIZAWL SOUTH II",
     "partNumber": 30,
-    "partName": "TLANGNUAM VENGTHAR II"
+    "partName": "TLANGNUAM VENGTHAR II",
+    "lat": 23.7222462,
+    "lon": 92.718026
   },
   {
     "partId": 806,
@@ -1977,7 +2335,9 @@
     "acNumber": 19,
     "acName": "AIZAWL SOUTH II",
     "partNumber": 31,
-    "partName": "TLANGNUAM III"
+    "partName": "TLANGNUAM III",
+    "lat": 23.7222462,
+    "lon": 92.718026
   },
   {
     "partId": 461,
@@ -1988,7 +2348,9 @@
     "acNumber": 20,
     "acName": "AIZAWL SOUTH III",
     "partNumber": 1,
-    "partName": "SAIKHAMAKAWN"
+    "partName": "SAIKHAMAKAWN",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 462,
@@ -1999,7 +2361,9 @@
     "acNumber": 20,
     "acName": "AIZAWL SOUTH III",
     "partNumber": 2,
-    "partName": "MELTHUM"
+    "partName": "MELTHUM",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 463,
@@ -2010,7 +2374,9 @@
     "acNumber": 20,
     "acName": "AIZAWL SOUTH III",
     "partNumber": 3,
-    "partName": "HLIMEN I"
+    "partName": "HLIMEN I",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 464,
@@ -2021,7 +2387,9 @@
     "acNumber": 20,
     "acName": "AIZAWL SOUTH III",
     "partNumber": 4,
-    "partName": "HLIMEN II"
+    "partName": "HLIMEN II",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1236,
@@ -2032,7 +2400,9 @@
     "acNumber": 20,
     "acName": "AIZAWL SOUTH III",
     "partNumber": 5,
-    "partName": "HLIMEN III"
+    "partName": "HLIMEN III",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 465,
@@ -2043,7 +2413,9 @@
     "acNumber": 20,
     "acName": "AIZAWL SOUTH III",
     "partNumber": 6,
-    "partName": "LUNGLENG"
+    "partName": "LUNGLENG",
+    "lat": 23.6596519,
+    "lon": 92.6718114
   },
   {
     "partId": 466,
@@ -2054,7 +2426,9 @@
     "acNumber": 20,
     "acName": "AIZAWL SOUTH III",
     "partNumber": 7,
-    "partName": "N. LUNGLENG"
+    "partName": "N. LUNGLENG",
+    "lat": 23.6596519,
+    "lon": 92.6718114
   },
   {
     "partId": 467,
@@ -2065,7 +2439,9 @@
     "acNumber": 20,
     "acName": "AIZAWL SOUTH III",
     "partNumber": 8,
-    "partName": "SAMTLANG"
+    "partName": "SAMTLANG",
+    "lat": 23.6542107,
+    "lon": 92.7180943
   },
   {
     "partId": 468,
@@ -2076,7 +2452,9 @@
     "acNumber": 20,
     "acName": "AIZAWL SOUTH III",
     "partNumber": 9,
-    "partName": "HUALNGOHMUN"
+    "partName": "HUALNGOHMUN",
+    "lat": 23.6542107,
+    "lon": 92.7180943
   },
   {
     "partId": 469,
@@ -2087,7 +2465,9 @@
     "acNumber": 20,
     "acName": "AIZAWL SOUTH III",
     "partNumber": 10,
-    "partName": "MELRIAT"
+    "partName": "MELRIAT",
+    "lat": 23.6467088,
+    "lon": 92.7253963
   },
   {
     "partId": 470,
@@ -2098,7 +2478,9 @@
     "acNumber": 20,
     "acName": "AIZAWL SOUTH III",
     "partNumber": 11,
-    "partName": "KELSIH"
+    "partName": "KELSIH",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 471,
@@ -2109,7 +2491,9 @@
     "acNumber": 20,
     "acName": "AIZAWL SOUTH III",
     "partNumber": 12,
-    "partName": "FALKAWN"
+    "partName": "FALKAWN",
+    "lat": 23.6242176,
+    "lon": 92.7281633
   },
   {
     "partId": 472,
@@ -2120,7 +2504,9 @@
     "acNumber": 20,
     "acName": "AIZAWL SOUTH III",
     "partNumber": 13,
-    "partName": "MUALLUNGTHU"
+    "partName": "MUALLUNGTHU",
+    "lat": 23.613375,
+    "lon": 92.7186227
   },
   {
     "partId": 473,
@@ -2131,7 +2517,9 @@
     "acNumber": 20,
     "acName": "AIZAWL SOUTH III",
     "partNumber": 14,
-    "partName": "TACHHIP"
+    "partName": "TACHHIP",
+    "lat": 23.5852955,
+    "lon": 92.7176269
   },
   {
     "partId": 474,
@@ -2142,7 +2530,9 @@
     "acNumber": 20,
     "acName": "AIZAWL SOUTH III",
     "partNumber": 15,
-    "partName": "AIBAWK"
+    "partName": "AIBAWK",
+    "lat": 23.48344005,
+    "lon": 92.7162583776682
   },
   {
     "partId": 475,
@@ -2153,7 +2543,9 @@
     "acNumber": 20,
     "acName": "AIZAWL SOUTH III",
     "partNumber": 16,
-    "partName": "PHULPUI"
+    "partName": "PHULPUI",
+    "lat": 23.5620114,
+    "lon": 92.7608331
   },
   {
     "partId": 476,
@@ -2164,7 +2556,9 @@
     "acNumber": 20,
     "acName": "AIZAWL SOUTH III",
     "partNumber": 17,
-    "partName": "SATEEK"
+    "partName": "SATEEK",
+    "lat": 23.5465816,
+    "lon": 92.70355
   },
   {
     "partId": 477,
@@ -2175,7 +2569,9 @@
     "acNumber": 20,
     "acName": "AIZAWL SOUTH III",
     "partNumber": 18,
-    "partName": "MAUBUANG"
+    "partName": "MAUBUANG",
+    "lat": 23.4909488,
+    "lon": 92.7073658
   },
   {
     "partId": 478,
@@ -2186,7 +2582,9 @@
     "acNumber": 20,
     "acName": "AIZAWL SOUTH III",
     "partNumber": 19,
-    "partName": "THIAK"
+    "partName": "THIAK",
+    "lat": 23.4755528,
+    "lon": 92.7123678
   },
   {
     "partId": 479,
@@ -2197,7 +2595,9 @@
     "acNumber": 20,
     "acName": "AIZAWL SOUTH III",
     "partNumber": 20,
-    "partName": "LUNGSEI"
+    "partName": "LUNGSEI",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 498,
@@ -2208,7 +2608,9 @@
     "acNumber": 20,
     "acName": "AIZAWL SOUTH III",
     "partNumber": 21,
-    "partName": "SUMSUIH"
+    "partName": "SUMSUIH",
+    "lat": 23.4720919,
+    "lon": 92.7444685
   },
   {
     "partId": 499,
@@ -2219,7 +2621,9 @@
     "acNumber": 20,
     "acName": "AIZAWL SOUTH III",
     "partNumber": 22,
-    "partName": "SAMLUKHAI"
+    "partName": "SAMLUKHAI",
+    "lat": 23.4137458,
+    "lon": 92.729322
   },
   {
     "partId": 500,
@@ -2230,7 +2634,9 @@
     "acNumber": 20,
     "acName": "AIZAWL SOUTH III",
     "partNumber": 23,
-    "partName": "HMUIFANG"
+    "partName": "HMUIFANG",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 501,
@@ -2241,7 +2647,9 @@
     "acNumber": 20,
     "acName": "AIZAWL SOUTH III",
     "partNumber": 24,
-    "partName": "CHAWILUNG"
+    "partName": "CHAWILUNG",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 502,
@@ -2252,7 +2660,9 @@
     "acNumber": 20,
     "acName": "AIZAWL SOUTH III",
     "partNumber": 25,
-    "partName": "LAMCHHIP"
+    "partName": "LAMCHHIP",
+    "lat": 23.4371463,
+    "lon": 92.7798676
   },
   {
     "partId": 503,
@@ -2263,7 +2673,9 @@
     "acNumber": 20,
     "acName": "AIZAWL SOUTH III",
     "partNumber": 26,
-    "partName": "CHAMRING"
+    "partName": "CHAMRING",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 504,
@@ -2274,7 +2686,9 @@
     "acNumber": 20,
     "acName": "AIZAWL SOUTH III",
     "partNumber": 27,
-    "partName": "SIALSUK I"
+    "partName": "SIALSUK I",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 505,
@@ -2285,7 +2699,9 @@
     "acNumber": 20,
     "acName": "AIZAWL SOUTH III",
     "partNumber": 28,
-    "partName": "SIALSUK II"
+    "partName": "SIALSUK II",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 506,
@@ -2296,7 +2712,9 @@
     "acNumber": 20,
     "acName": "AIZAWL SOUTH III",
     "partNumber": 29,
-    "partName": "SAILAM"
+    "partName": "SAILAM",
+    "lat": 23.3513407,
+    "lon": 92.7967725
   },
   {
     "partId": 866,
@@ -2307,7 +2725,9 @@
     "acNumber": 15,
     "acName": "AIZAWL WEST I",
     "partNumber": 1,
-    "partName": "SAIRANG DINTHAR"
+    "partName": "SAIRANG DINTHAR",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 867,
@@ -2318,7 +2738,9 @@
     "acNumber": 15,
     "acName": "AIZAWL WEST I",
     "partNumber": 2,
-    "partName": "SAIRANG I"
+    "partName": "SAIRANG I",
+    "lat": 23.810344,
+    "lon": 92.652259
   },
   {
     "partId": 1214,
@@ -2329,7 +2751,9 @@
     "acNumber": 15,
     "acName": "AIZAWL WEST I",
     "partNumber": 3,
-    "partName": "SAIRANG II"
+    "partName": "SAIRANG II",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 868,
@@ -2340,7 +2764,9 @@
     "acNumber": 15,
     "acName": "AIZAWL WEST I",
     "partNumber": 4,
-    "partName": "SAIRANG III"
+    "partName": "SAIRANG III",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 869,
@@ -2351,7 +2777,9 @@
     "acNumber": 15,
     "acName": "AIZAWL WEST I",
     "partNumber": 5,
-    "partName": "SIHHMUI"
+    "partName": "SIHHMUI",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 870,
@@ -2362,7 +2790,9 @@
     "acNumber": 15,
     "acName": "AIZAWL WEST I",
     "partNumber": 6,
-    "partName": "P.T.C. LUNGVERH"
+    "partName": "P.T.C. LUNGVERH",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 871,
@@ -2373,7 +2803,9 @@
     "acNumber": 15,
     "acName": "AIZAWL WEST I",
     "partNumber": 7,
-    "partName": "TANHRIL I"
+    "partName": "TANHRIL I",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 872,
@@ -2384,7 +2816,9 @@
     "acNumber": 15,
     "acName": "AIZAWL WEST I",
     "partNumber": 8,
-    "partName": "TANHRIL II"
+    "partName": "TANHRIL II",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1259,
@@ -2395,7 +2829,9 @@
     "acNumber": 15,
     "acName": "AIZAWL WEST I",
     "partNumber": 9,
-    "partName": "TANHRIL III"
+    "partName": "TANHRIL III",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 873,
@@ -2406,7 +2842,9 @@
     "acNumber": 15,
     "acName": "AIZAWL WEST I",
     "partNumber": 10,
-    "partName": "SAKAWRTUICHHUN"
+    "partName": "SAKAWRTUICHHUN",
+    "lat": 23.7606986,
+    "lon": 92.6734027
   },
   {
     "partId": 874,
@@ -2417,7 +2855,9 @@
     "acNumber": 15,
     "acName": "AIZAWL WEST I",
     "partNumber": 11,
-    "partName": "CENTRAL JAIL VENG"
+    "partName": "CENTRAL JAIL VENG",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 875,
@@ -2428,7 +2868,9 @@
     "acNumber": 15,
     "acName": "AIZAWL WEST I",
     "partNumber": 12,
-    "partName": "TUIVAMIT"
+    "partName": "TUIVAMIT",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 424,
@@ -2439,7 +2881,9 @@
     "acNumber": 15,
     "acName": "AIZAWL WEST I",
     "partNumber": 13,
-    "partName": "CHAWLHHMUN I"
+    "partName": "CHAWLHHMUN I",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1215,
@@ -2450,7 +2894,9 @@
     "acNumber": 15,
     "acName": "AIZAWL WEST I",
     "partNumber": 14,
-    "partName": "CHAWLHHMUN II"
+    "partName": "CHAWLHHMUN II",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 425,
@@ -2461,7 +2907,9 @@
     "acNumber": 15,
     "acName": "AIZAWL WEST I",
     "partNumber": 15,
-    "partName": "CHAWLHHMUN III"
+    "partName": "CHAWLHHMUN III",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1216,
@@ -2472,7 +2920,9 @@
     "acNumber": 15,
     "acName": "AIZAWL WEST I",
     "partNumber": 16,
-    "partName": "CHAWLHHMUN IV"
+    "partName": "CHAWLHHMUN IV",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 426,
@@ -2483,7 +2933,9 @@
     "acNumber": 15,
     "acName": "AIZAWL WEST I",
     "partNumber": 17,
-    "partName": "AINAWN VENG I"
+    "partName": "AINAWN VENG I",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 585,
@@ -2494,7 +2946,9 @@
     "acNumber": 15,
     "acName": "AIZAWL WEST I",
     "partNumber": 18,
-    "partName": "AINAWN VENG II"
+    "partName": "AINAWN VENG II",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 427,
@@ -2505,7 +2959,9 @@
     "acNumber": 15,
     "acName": "AIZAWL WEST I",
     "partNumber": 19,
-    "partName": "LUANGMUAL I"
+    "partName": "LUANGMUAL I",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 428,
@@ -2516,7 +2972,9 @@
     "acNumber": 15,
     "acName": "AIZAWL WEST I",
     "partNumber": 20,
-    "partName": "LUANGMUAL II"
+    "partName": "LUANGMUAL II",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 586,
@@ -2527,7 +2985,9 @@
     "acNumber": 15,
     "acName": "AIZAWL WEST I",
     "partNumber": 21,
-    "partName": "LUANGMUAL III"
+    "partName": "LUANGMUAL III",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 429,
@@ -2538,7 +2998,9 @@
     "acNumber": 15,
     "acName": "AIZAWL WEST I",
     "partNumber": 22,
-    "partName": "PHUNCHAWNG"
+    "partName": "PHUNCHAWNG",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 430,
@@ -2549,7 +3011,9 @@
     "acNumber": 15,
     "acName": "AIZAWL WEST I",
     "partNumber": 23,
-    "partName": "ZONUAM I"
+    "partName": "ZONUAM I",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 431,
@@ -2560,7 +3024,9 @@
     "acNumber": 15,
     "acName": "AIZAWL WEST I",
     "partNumber": 24,
-    "partName": "ZONUAM II"
+    "partName": "ZONUAM II",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1267,
@@ -2571,7 +3037,9 @@
     "acNumber": 15,
     "acName": "AIZAWL WEST I",
     "partNumber": 25,
-    "partName": "ZONUAM III"
+    "partName": "ZONUAM III",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 432,
@@ -2582,7 +3050,9 @@
     "acNumber": 15,
     "acName": "AIZAWL WEST I",
     "partNumber": 26,
-    "partName": "RANGVAMUAL"
+    "partName": "RANGVAMUAL",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 433,
@@ -2593,7 +3063,9 @@
     "acNumber": 15,
     "acName": "AIZAWL WEST I",
     "partNumber": 27,
-    "partName": "ZOTLANG I"
+    "partName": "ZOTLANG I",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 434,
@@ -2604,7 +3076,9 @@
     "acNumber": 15,
     "acName": "AIZAWL WEST I",
     "partNumber": 28,
-    "partName": "ZOTLANG II"
+    "partName": "ZOTLANG II",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1235,
@@ -2615,7 +3089,9 @@
     "acNumber": 15,
     "acName": "AIZAWL WEST I",
     "partNumber": 29,
-    "partName": "ZOTLANG III"
+    "partName": "ZOTLANG III",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 435,
@@ -2626,7 +3102,9 @@
     "acNumber": 15,
     "acName": "AIZAWL WEST I",
     "partNumber": 30,
-    "partName": "CHAWNPUI I"
+    "partName": "CHAWNPUI I",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 584,
@@ -2637,7 +3115,9 @@
     "acNumber": 15,
     "acName": "AIZAWL WEST I",
     "partNumber": 31,
-    "partName": "CHAWNPUI II"
+    "partName": "CHAWNPUI II",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 587,
@@ -2648,7 +3128,9 @@
     "acNumber": 15,
     "acName": "AIZAWL WEST I",
     "partNumber": 32,
-    "partName": "CHAWNPUI III"
+    "partName": "CHAWNPUI III",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1260,
@@ -2659,7 +3141,9 @@
     "acNumber": 15,
     "acName": "AIZAWL WEST I",
     "partNumber": 33,
-    "partName": "CHAWNPUI IV"
+    "partName": "CHAWNPUI IV",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 588,
@@ -2670,7 +3154,9 @@
     "acNumber": 16,
     "acName": "AIZAWL WEST II",
     "partNumber": 1,
-    "partName": "VAIVAKAWN I"
+    "partName": "VAIVAKAWN I",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 589,
@@ -2681,7 +3167,9 @@
     "acNumber": 16,
     "acName": "AIZAWL WEST II",
     "partNumber": 2,
-    "partName": "VAIVAKAWN II"
+    "partName": "VAIVAKAWN II",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 605,
@@ -2692,7 +3180,9 @@
     "acNumber": 16,
     "acName": "AIZAWL WEST II",
     "partNumber": 3,
-    "partName": "VAIVAKAWN III"
+    "partName": "VAIVAKAWN III",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 590,
@@ -2703,7 +3193,9 @@
     "acNumber": 16,
     "acName": "AIZAWL WEST II",
     "partNumber": 4,
-    "partName": "KANAN I"
+    "partName": "KANAN I",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 591,
@@ -2714,7 +3206,9 @@
     "acNumber": 16,
     "acName": "AIZAWL WEST II",
     "partNumber": 5,
-    "partName": "KANAN II"
+    "partName": "KANAN II",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1198,
@@ -2725,7 +3219,9 @@
     "acNumber": 16,
     "acName": "AIZAWL WEST II",
     "partNumber": 6,
-    "partName": "KANAN III"
+    "partName": "KANAN III",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 606,
@@ -2736,7 +3232,9 @@
     "acNumber": 16,
     "acName": "AIZAWL WEST II",
     "partNumber": 7,
-    "partName": "KANAN IV"
+    "partName": "KANAN IV",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 592,
@@ -2747,7 +3245,9 @@
     "acNumber": 16,
     "acName": "AIZAWL WEST II",
     "partNumber": 8,
-    "partName": "DINTHAR I"
+    "partName": "DINTHAR I",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1220,
@@ -2758,7 +3258,9 @@
     "acNumber": 16,
     "acName": "AIZAWL WEST II",
     "partNumber": 9,
-    "partName": "DINTHAR II"
+    "partName": "DINTHAR II",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 593,
@@ -2769,7 +3271,9 @@
     "acNumber": 16,
     "acName": "AIZAWL WEST II",
     "partNumber": 10,
-    "partName": "DINTHAR III"
+    "partName": "DINTHAR III",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1167,
@@ -2780,7 +3284,9 @@
     "acNumber": 16,
     "acName": "AIZAWL WEST II",
     "partNumber": 11,
-    "partName": "DINTHAR IV"
+    "partName": "DINTHAR IV",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 594,
@@ -2791,7 +3297,9 @@
     "acNumber": 16,
     "acName": "AIZAWL WEST II",
     "partNumber": 12,
-    "partName": "DINTHAR V"
+    "partName": "DINTHAR V",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1239,
@@ -2802,7 +3310,9 @@
     "acNumber": 16,
     "acName": "AIZAWL WEST II",
     "partNumber": 13,
-    "partName": "DINTHAR VI"
+    "partName": "DINTHAR VI",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 595,
@@ -2813,7 +3323,9 @@
     "acNumber": 16,
     "acName": "AIZAWL WEST II",
     "partNumber": 14,
-    "partName": "DINTHAR VII"
+    "partName": "DINTHAR VII",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1263,
@@ -2824,7 +3336,9 @@
     "acNumber": 16,
     "acName": "AIZAWL WEST II",
     "partNumber": 15,
-    "partName": "DINTHAR VIII"
+    "partName": "DINTHAR VIII",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 596,
@@ -2835,7 +3349,9 @@
     "acNumber": 16,
     "acName": "AIZAWL WEST II",
     "partNumber": 16,
-    "partName": "DAWRPUI VENGTHAR I"
+    "partName": "DAWRPUI VENGTHAR I",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 597,
@@ -2846,7 +3362,9 @@
     "acNumber": 16,
     "acName": "AIZAWL WEST II",
     "partNumber": 17,
-    "partName": "DAWRPUI VENGTHAR II"
+    "partName": "DAWRPUI VENGTHAR II",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 607,
@@ -2857,7 +3375,9 @@
     "acNumber": 16,
     "acName": "AIZAWL WEST II",
     "partNumber": 18,
-    "partName": "DAWRPUI VENGTHAR III"
+    "partName": "DAWRPUI VENGTHAR III",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1264,
@@ -2868,7 +3388,9 @@
     "acNumber": 16,
     "acName": "AIZAWL WEST II",
     "partNumber": 19,
-    "partName": "DAWRPUI VENGTHAR IV"
+    "partName": "DAWRPUI VENGTHAR IV",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 598,
@@ -2879,7 +3401,9 @@
     "acNumber": 16,
     "acName": "AIZAWL WEST II",
     "partNumber": 20,
-    "partName": "TUIKUAL SOUTH I"
+    "partName": "TUIKUAL SOUTH I",
+    "lat": 23.7305607,
+    "lon": 92.7074467
   },
   {
     "partId": 599,
@@ -2890,7 +3414,9 @@
     "acNumber": 16,
     "acName": "AIZAWL WEST II",
     "partNumber": 21,
-    "partName": "TUIKUAL SOUTH II"
+    "partName": "TUIKUAL SOUTH II",
+    "lat": 23.7305607,
+    "lon": 92.7074467
   },
   {
     "partId": 600,
@@ -2901,7 +3427,9 @@
     "acNumber": 16,
     "acName": "AIZAWL WEST II",
     "partNumber": 22,
-    "partName": "TUIKUAL SOUTH III"
+    "partName": "TUIKUAL SOUTH III",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 601,
@@ -2912,7 +3440,9 @@
     "acNumber": 16,
     "acName": "AIZAWL WEST II",
     "partNumber": 23,
-    "partName": "TUIKUAL SOUTH IV"
+    "partName": "TUIKUAL SOUTH IV",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 602,
@@ -2923,7 +3453,9 @@
     "acNumber": 16,
     "acName": "AIZAWL WEST II",
     "partNumber": 24,
-    "partName": "TUIKUAL NORTH I"
+    "partName": "TUIKUAL NORTH I",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 603,
@@ -2934,7 +3466,9 @@
     "acNumber": 16,
     "acName": "AIZAWL WEST II",
     "partNumber": 25,
-    "partName": "TUIKUAL NORTH II"
+    "partName": "TUIKUAL NORTH II",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 604,
@@ -2945,7 +3479,9 @@
     "acNumber": 16,
     "acName": "AIZAWL WEST II",
     "partNumber": 26,
-    "partName": "TUIKUAL NORTH III"
+    "partName": "TUIKUAL NORTH III",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1000,
@@ -2956,7 +3492,9 @@
     "acNumber": 17,
     "acName": "AIZAWL WEST III",
     "partNumber": 1,
-    "partName": "LAWIPU"
+    "partName": "LAWIPU",
+    "lat": 23.7266425,
+    "lon": 92.6871531
   },
   {
     "partId": 1001,
@@ -2967,7 +3505,9 @@
     "acNumber": 17,
     "acName": "AIZAWL WEST III",
     "partNumber": 2,
-    "partName": "MAUBAWK I"
+    "partName": "MAUBAWK I",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1002,
@@ -2978,7 +3518,9 @@
     "acNumber": 17,
     "acName": "AIZAWL WEST III",
     "partNumber": 3,
-    "partName": "MAUBAWK II"
+    "partName": "MAUBAWK II",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 414,
@@ -2989,7 +3531,9 @@
     "acNumber": 17,
     "acName": "AIZAWL WEST III",
     "partNumber": 4,
-    "partName": "MAUBAWK III"
+    "partName": "MAUBAWK III",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1261,
@@ -3000,7 +3544,9 @@
     "acNumber": 17,
     "acName": "AIZAWL WEST III",
     "partNumber": 5,
-    "partName": "MAUBAWK IV"
+    "partName": "MAUBAWK IV",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1124,
@@ -3011,7 +3557,9 @@
     "acNumber": 17,
     "acName": "AIZAWL WEST III",
     "partNumber": 6,
-    "partName": "BUNGKAWN I"
+    "partName": "BUNGKAWN I",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1003,
@@ -3022,7 +3570,9 @@
     "acNumber": 17,
     "acName": "AIZAWL WEST III",
     "partNumber": 7,
-    "partName": "BUNGKAWN II"
+    "partName": "BUNGKAWN II",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1004,
@@ -3033,7 +3583,9 @@
     "acNumber": 17,
     "acName": "AIZAWL WEST III",
     "partNumber": 8,
-    "partName": "BUNGKAWN III"
+    "partName": "BUNGKAWN III",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1005,
@@ -3044,7 +3596,9 @@
     "acNumber": 17,
     "acName": "AIZAWL WEST III",
     "partNumber": 9,
-    "partName": "BUNGKAWN IV"
+    "partName": "BUNGKAWN IV",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1006,
@@ -3055,7 +3609,9 @@
     "acNumber": 17,
     "acName": "AIZAWL WEST III",
     "partNumber": 10,
-    "partName": "BUNGKAWN VENGTHAR I"
+    "partName": "BUNGKAWN VENGTHAR I",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1007,
@@ -3066,7 +3622,9 @@
     "acNumber": 17,
     "acName": "AIZAWL WEST III",
     "partNumber": 11,
-    "partName": "BUNGKAWN VENGTHAR II"
+    "partName": "BUNGKAWN VENGTHAR II",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1008,
@@ -3077,7 +3635,9 @@
     "acNumber": 17,
     "acName": "AIZAWL WEST III",
     "partNumber": 12,
-    "partName": "NURSERY VENG I"
+    "partName": "NURSERY VENG I",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1009,
@@ -3088,7 +3648,9 @@
     "acNumber": 17,
     "acName": "AIZAWL WEST III",
     "partNumber": 13,
-    "partName": "NURSERY VENG II"
+    "partName": "NURSERY VENG II",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1010,
@@ -3099,7 +3661,9 @@
     "acNumber": 17,
     "acName": "AIZAWL WEST III",
     "partNumber": 14,
-    "partName": "KHATLA I"
+    "partName": "KHATLA I",
+    "lat": 23.734536900000002,
+    "lon": 92.71534195810229
   },
   {
     "partId": 1011,
@@ -3110,7 +3674,9 @@
     "acNumber": 17,
     "acName": "AIZAWL WEST III",
     "partNumber": 15,
-    "partName": "KHATLA II"
+    "partName": "KHATLA II",
+    "lat": 23.734536900000002,
+    "lon": 92.71534195810229
   },
   {
     "partId": 407,
@@ -3121,7 +3687,9 @@
     "acNumber": 17,
     "acName": "AIZAWL WEST III",
     "partNumber": 16,
-    "partName": "KHATLA III"
+    "partName": "KHATLA III",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 408,
@@ -3132,7 +3700,9 @@
     "acNumber": 17,
     "acName": "AIZAWL WEST III",
     "partNumber": 17,
-    "partName": "KHATLA IV"
+    "partName": "KHATLA IV",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 415,
@@ -3143,7 +3713,9 @@
     "acNumber": 17,
     "acName": "AIZAWL WEST III",
     "partNumber": 18,
-    "partName": "KHATLA V"
+    "partName": "KHATLA V",
+    "lat": 23.734536900000002,
+    "lon": 92.71534195810229
   },
   {
     "partId": 1237,
@@ -3154,7 +3726,9 @@
     "acNumber": 17,
     "acName": "AIZAWL WEST III",
     "partNumber": 19,
-    "partName": "KHATLA VI"
+    "partName": "KHATLA VI",
+    "lat": 23.734536900000002,
+    "lon": 92.71534195810229
   },
   {
     "partId": 1125,
@@ -3165,7 +3739,9 @@
     "acNumber": 17,
     "acName": "AIZAWL WEST III",
     "partNumber": 20,
-    "partName": "KHATLA EAST"
+    "partName": "KHATLA EAST",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 409,
@@ -3176,7 +3752,9 @@
     "acNumber": 17,
     "acName": "AIZAWL WEST III",
     "partNumber": 21,
-    "partName": "KHATLA SOUTH I"
+    "partName": "KHATLA SOUTH I",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 410,
@@ -3187,7 +3765,9 @@
     "acNumber": 17,
     "acName": "AIZAWL WEST III",
     "partNumber": 22,
-    "partName": "KHATLA SOUTH II"
+    "partName": "KHATLA SOUTH II",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 411,
@@ -3198,7 +3778,9 @@
     "acNumber": 17,
     "acName": "AIZAWL WEST III",
     "partNumber": 23,
-    "partName": "MISSION  VENGTHLANG I"
+    "partName": "MISSION  VENGTHLANG I",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1238,
@@ -3209,7 +3791,9 @@
     "acNumber": 17,
     "acName": "AIZAWL WEST III",
     "partNumber": 24,
-    "partName": "MISSION VENGTHLANG II"
+    "partName": "MISSION VENGTHLANG II",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 412,
@@ -3220,7 +3804,9 @@
     "acNumber": 17,
     "acName": "AIZAWL WEST III",
     "partNumber": 25,
-    "partName": "MISSION  VENGTHLANG III"
+    "partName": "MISSION  VENGTHLANG III",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 413,
@@ -3231,7 +3817,9 @@
     "acNumber": 17,
     "acName": "AIZAWL WEST III",
     "partNumber": 26,
-    "partName": "MISSION  VENGTHLANG IV"
+    "partName": "MISSION  VENGTHLANG IV",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 1262,
@@ -3242,7 +3830,9 @@
     "acNumber": 17,
     "acName": "AIZAWL WEST III",
     "partNumber": 27,
-    "partName": "MISSION VENGTHLANG V"
+    "partName": "MISSION VENGTHLANG V",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 995,
@@ -3253,7 +3843,9 @@
     "acNumber": 7,
     "acName": "TUIVAWL",
     "partNumber": 1,
-    "partName": "MAUCHAR"
+    "partName": "MAUCHAR",
+    "lat": 24.353797,
+    "lon": 92.9207647
   },
   {
     "partId": 996,
@@ -3264,7 +3856,9 @@
     "acNumber": 7,
     "acName": "TUIVAWL",
     "partNumber": 2,
-    "partName": "ZOKHAWTHIANG"
+    "partName": "ZOKHAWTHIANG",
+    "lat": 23.8391509,
+    "lon": 93.0078781
   },
   {
     "partId": 997,
@@ -3275,7 +3869,9 @@
     "acNumber": 7,
     "acName": "TUIVAWL",
     "partNumber": 3,
-    "partName": "TINGHMUN"
+    "partName": "TINGHMUN",
+    "lat": 24.3163133,
+    "lon": 92.9894166
   },
   {
     "partId": 998,
@@ -3286,7 +3882,9 @@
     "acNumber": 7,
     "acName": "TUIVAWL",
     "partNumber": 4,
-    "partName": "ZOHMUN"
+    "partName": "ZOHMUN",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 999,
@@ -3297,7 +3895,9 @@
     "acNumber": 7,
     "acName": "TUIVAWL",
     "partNumber": 5,
-    "partName": "UPPER SAKAWRDAI"
+    "partName": "UPPER SAKAWRDAI",
+    "lat": 23.8391509,
+    "lon": 93.0078781
   },
   {
     "partId": 253,
@@ -3308,7 +3908,9 @@
     "acNumber": 7,
     "acName": "TUIVAWL",
     "partNumber": 6,
-    "partName": "PALSANG"
+    "partName": "PALSANG",
+    "lat": 24.2849512,
+    "lon": 92.9142174
   },
   {
     "partId": 254,
@@ -3319,7 +3921,9 @@
     "acNumber": 7,
     "acName": "TUIVAWL",
     "partNumber": 7,
-    "partName": "SAKAWRDAI I"
+    "partName": "SAKAWRDAI I",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 255,
@@ -3330,7 +3934,9 @@
     "acNumber": 7,
     "acName": "TUIVAWL",
     "partNumber": 8,
-    "partName": "SAKAWRDAI II"
+    "partName": "SAKAWRDAI II",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 256,
@@ -3341,7 +3947,9 @@
     "acNumber": 7,
     "acName": "TUIVAWL",
     "partNumber": 9,
-    "partName": "KHAWPUAR"
+    "partName": "KHAWPUAR",
+    "lat": 23.8391509,
+    "lon": 93.0078781
   },
   {
     "partId": 257,
@@ -3352,7 +3960,9 @@
     "acNumber": 7,
     "acName": "TUIVAWL",
     "partNumber": 10,
-    "partName": "VAITIN"
+    "partName": "VAITIN",
+    "lat": 24.2245077,
+    "lon": 92.9768319
   },
   {
     "partId": 258,
@@ -3363,7 +3973,9 @@
     "acNumber": 7,
     "acName": "TUIVAWL",
     "partNumber": 11,
-    "partName": "N. KHAWDUNGSEI"
+    "partName": "N. KHAWDUNGSEI",
+    "lat": 23.8391509,
+    "lon": 93.0078781
   },
   {
     "partId": 259,
@@ -3374,7 +3986,9 @@
     "acNumber": 7,
     "acName": "TUIVAWL",
     "partNumber": 12,
-    "partName": "Thingsat"
+    "partName": "Thingsat",
+    "lat": 24.2293495,
+    "lon": 92.9551609
   },
   {
     "partId": 260,
@@ -3385,7 +3999,9 @@
     "acNumber": 7,
     "acName": "TUIVAWL",
     "partNumber": 13,
-    "partName": "NEW VERVEK"
+    "partName": "NEW VERVEK",
+    "lat": 23.860878800000002,
+    "lon": 92.86469395021993
   },
   {
     "partId": 261,
@@ -3396,7 +4012,9 @@
     "acNumber": 7,
     "acName": "TUIVAWL",
     "partNumber": 14,
-    "partName": "VERVEK"
+    "partName": "VERVEK",
+    "lat": 24.185378,
+    "lon": 92.9455233
   },
   {
     "partId": 262,
@@ -3407,7 +4025,9 @@
     "acNumber": 7,
     "acName": "TUIVAWL",
     "partNumber": 15,
-    "partName": "LUNGSUM"
+    "partName": "LUNGSUM",
+    "lat": 23.8391509,
+    "lon": 93.0078781
   },
   {
     "partId": 263,
@@ -3418,7 +4038,9 @@
     "acNumber": 7,
     "acName": "TUIVAWL",
     "partNumber": 16,
-    "partName": "RATU I"
+    "partName": "RATU I",
+    "lat": 24.10942,
+    "lon": 92.9222345
   },
   {
     "partId": 264,
@@ -3429,7 +4051,9 @@
     "acNumber": 7,
     "acName": "TUIVAWL",
     "partNumber": 17,
-    "partName": "RATU II"
+    "partName": "RATU II",
+    "lat": 24.10942,
+    "lon": 92.9222345
   },
   {
     "partId": 265,
@@ -3440,7 +4064,9 @@
     "acNumber": 7,
     "acName": "TUIVAWL",
     "partNumber": 18,
-    "partName": "SUNHLUCHHIP"
+    "partName": "SUNHLUCHHIP",
+    "lat": 23.8391509,
+    "lon": 93.0078781
   },
   {
     "partId": 266,
@@ -3451,7 +4077,9 @@
     "acNumber": 7,
     "acName": "TUIVAWL",
     "partNumber": 19,
-    "partName": "SAILUTAR"
+    "partName": "SAILUTAR",
+    "lat": 24.0676346,
+    "lon": 92.9196918
   },
   {
     "partId": 267,
@@ -3462,7 +4090,9 @@
     "acNumber": 7,
     "acName": "TUIVAWL",
     "partNumber": 20,
-    "partName": "N. SERZAWL"
+    "partName": "N. SERZAWL",
+    "lat": 24.0281979,
+    "lon": 92.8903109
   },
   {
     "partId": 268,
@@ -3473,7 +4103,9 @@
     "acNumber": 7,
     "acName": "TUIVAWL",
     "partNumber": 21,
-    "partName": "DARLAWN I"
+    "partName": "DARLAWN I",
+    "lat": 24.0173427,
+    "lon": 92.9287021
   },
   {
     "partId": 269,
@@ -3484,7 +4116,9 @@
     "acNumber": 7,
     "acName": "TUIVAWL",
     "partNumber": 22,
-    "partName": "Darlawn II"
+    "partName": "Darlawn II",
+    "lat": 24.0173427,
+    "lon": 92.9287021
   },
   {
     "partId": 270,
@@ -3495,7 +4129,9 @@
     "acNumber": 7,
     "acName": "TUIVAWL",
     "partNumber": 23,
-    "partName": "DARLAWN III"
+    "partName": "DARLAWN III",
+    "lat": 23.8391509,
+    "lon": 93.0078781
   },
   {
     "partId": 271,
@@ -3506,7 +4142,9 @@
     "acNumber": 7,
     "acName": "TUIVAWL",
     "partNumber": 24,
-    "partName": "SAWLENG I"
+    "partName": "SAWLENG I",
+    "lat": 23.8391509,
+    "lon": 93.0078781
   },
   {
     "partId": 1197,
@@ -3517,7 +4155,9 @@
     "acNumber": 7,
     "acName": "TUIVAWL",
     "partNumber": 25,
-    "partName": "SAWLENG II"
+    "partName": "SAWLENG II",
+    "lat": 23.8391509,
+    "lon": 93.0078781
   },
   {
     "partId": 272,
@@ -3528,7 +4168,9 @@
     "acNumber": 7,
     "acName": "TUIVAWL",
     "partNumber": 26,
-    "partName": "CHHANCHHUAHNA"
+    "partName": "CHHANCHHUAHNA",
+    "lat": 23.8391509,
+    "lon": 93.0078781
   },
   {
     "partId": 273,
@@ -3539,7 +4181,9 @@
     "acNumber": 7,
     "acName": "TUIVAWL",
     "partNumber": 27,
-    "partName": "KEPRAN"
+    "partName": "KEPRAN",
+    "lat": 23.9438415,
+    "lon": 92.9348389
   },
   {
     "partId": 274,
@@ -3550,7 +4194,9 @@
     "acNumber": 7,
     "acName": "TUIVAWL",
     "partNumber": 28,
-    "partName": "E. PHAILENG"
+    "partName": "E. PHAILENG",
+    "lat": 23.9130936,
+    "lon": 92.92432
   },
   {
     "partId": 275,
@@ -3561,6 +4207,8 @@
     "acNumber": 7,
     "acName": "TUIVAWL",
     "partNumber": 29,
-    "partName": "PEHLAWN"
+    "partName": "PEHLAWN",
+    "lat": 23.8391509,
+    "lon": 93.0078781
   }
 ]

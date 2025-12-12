@@ -8,7 +8,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 1,
-    "partName": "KHIRKHIRI"
+    "partName": "KHIRKHIRI",
+    "lat": 25.979389599999998,
+    "lon": 76.82234903351873
   },
   {
     "partId": 67282,
@@ -19,7 +21,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 2,
-    "partName": "BILONY"
+    "partName": "BILONY",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67284,
@@ -30,7 +34,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 3,
-    "partName": "DHODHAR"
+    "partName": "DHODHAR",
+    "lat": 25.9419919,
+    "lon": 76.8588455
   },
   {
     "partId": 67488,
@@ -41,7 +47,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 4,
-    "partName": "DHODHAR"
+    "partName": "DHODHAR",
+    "lat": 25.9419919,
+    "lon": 76.8588455
   },
   {
     "partId": 67560,
@@ -52,7 +60,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 5,
-    "partName": "DHODHAR"
+    "partName": "DHODHAR",
+    "lat": 25.9419919,
+    "lon": 76.8588455
   },
   {
     "partId": 67285,
@@ -63,7 +73,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 6,
-    "partName": "KHOJIPURA"
+    "partName": "KHOJIPURA",
+    "lat": 25.9440527,
+    "lon": 76.84127786634744
   },
   {
     "partId": 67487,
@@ -74,7 +86,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 7,
-    "partName": "KHOJIPURA"
+    "partName": "KHOJIPURA",
+    "lat": 25.9440527,
+    "lon": 76.84127786634744
   },
   {
     "partId": 67489,
@@ -85,7 +99,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 8,
-    "partName": "BAGADARI"
+    "partName": "BAGADARI",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67286,
@@ -96,7 +112,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 9,
-    "partName": "HANSILPUR"
+    "partName": "HANSILPUR",
+    "lat": 25.92950335,
+    "lon": 76.8632579694177
   },
   {
     "partId": 67559,
@@ -107,7 +125,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 10,
-    "partName": "HANSILPUR"
+    "partName": "HANSILPUR",
+    "lat": 25.92950335,
+    "lon": 76.8632579694177
   },
   {
     "partId": 67287,
@@ -118,7 +138,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 11,
-    "partName": "BAGADIYA"
+    "partName": "BAGADIYA",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67288,
@@ -129,7 +151,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 12,
-    "partName": "BAGADIYA"
+    "partName": "BAGADIYA",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67289,
@@ -140,7 +164,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 13,
-    "partName": "BAGADIYA"
+    "partName": "BAGADIYA",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67532,
@@ -151,7 +177,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 14,
-    "partName": "BAGADIYA"
+    "partName": "BAGADIYA",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67558,
@@ -162,7 +190,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 15,
-    "partName": "BAGADIYA"
+    "partName": "BAGADIYA",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67486,
@@ -173,7 +203,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 16,
-    "partName": "TILLIDERA"
+    "partName": "TILLIDERA",
+    "lat": 25.8845737,
+    "lon": 76.8075979
   },
   {
     "partId": 67533,
@@ -184,7 +216,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 17,
-    "partName": "MAKADOD"
+    "partName": "MAKADOD",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67534,
@@ -195,7 +229,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 18,
-    "partName": "KASHIPUR"
+    "partName": "KASHIPUR",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67535,
@@ -206,7 +242,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 19,
-    "partName": "DHIROLI"
+    "partName": "DHIROLI",
+    "lat": 25.8728453,
+    "lon": 76.7664635
   },
   {
     "partId": 67485,
@@ -217,7 +255,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 20,
-    "partName": "DHIROLI"
+    "partName": "DHIROLI",
+    "lat": 25.8728453,
+    "lon": 76.7664635
   },
   {
     "partId": 67536,
@@ -228,7 +268,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 21,
-    "partName": "SEMALDA"
+    "partName": "SEMALDA",
+    "lat": 25.6302493,
+    "lon": 76.72228375561329
   },
   {
     "partId": 67592,
@@ -239,7 +281,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 22,
-    "partName": "PHOOLDA"
+    "partName": "PHOOLDA",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67557,
@@ -250,7 +294,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 23,
-    "partName": "NASIRPURA"
+    "partName": "NASIRPURA",
+    "lat": 25.861627650000003,
+    "lon": 76.81092225830386
   },
   {
     "partId": 67490,
@@ -261,7 +307,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 24,
-    "partName": "LADPURA"
+    "partName": "LADPURA",
+    "lat": 26.0561134,
+    "lon": 77.34652460424263
   },
   {
     "partId": 67442,
@@ -272,7 +320,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 25,
-    "partName": "KYARPURA"
+    "partName": "KYARPURA",
+    "lat": 25.8545507,
+    "lon": 76.7813873
   },
   {
     "partId": 67593,
@@ -283,7 +333,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 26,
-    "partName": "GOTHARA"
+    "partName": "GOTHARA",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67594,
@@ -294,7 +346,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 27,
-    "partName": "MANPUR"
+    "partName": "MANPUR",
+    "lat": 25.8593186,
+    "lon": 76.70724586798379
   },
   {
     "partId": 67556,
@@ -305,7 +359,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 28,
-    "partName": "MANPUR"
+    "partName": "MANPUR",
+    "lat": 25.8593186,
+    "lon": 76.70724586798379
   },
   {
     "partId": 67595,
@@ -316,7 +372,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 29,
-    "partName": "MANAPUR"
+    "partName": "MANAPUR",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67464,
@@ -327,7 +385,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 30,
-    "partName": "MANAPUR"
+    "partName": "MANAPUR",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67596,
@@ -338,7 +398,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 31,
-    "partName": "JAINI"
+    "partName": "JAINI",
+    "lat": 25.87681265,
+    "lon": 76.68712900037585
   },
   {
     "partId": 67597,
@@ -349,7 +411,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 32,
-    "partName": "JAINI"
+    "partName": "JAINI",
+    "lat": 25.87681265,
+    "lon": 76.68712900037585
   },
   {
     "partId": 67598,
@@ -360,7 +424,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 33,
-    "partName": "JAINI"
+    "partName": "JAINI",
+    "lat": 25.87681265,
+    "lon": 76.68712900037585
   },
   {
     "partId": 67599,
@@ -371,7 +437,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 34,
-    "partName": "SEVAPUR"
+    "partName": "SEVAPUR",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67500,
@@ -382,7 +450,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 35,
-    "partName": "JAVASA"
+    "partName": "JAVASA",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67501,
@@ -393,7 +463,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 36,
-    "partName": "AVANI"
+    "partName": "AVANI",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67491,
@@ -404,7 +476,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 37,
-    "partName": "TOGANI"
+    "partName": "TOGANI",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67502,
@@ -415,7 +489,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 38,
-    "partName": "TALAVADA"
+    "partName": "TALAVADA",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67503,
@@ -426,7 +502,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 39,
-    "partName": "UNCHAKHEDA"
+    "partName": "UNCHAKHEDA",
+    "lat": 25.8566952,
+    "lon": 76.6157113
   },
   {
     "partId": 67504,
@@ -437,7 +515,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 40,
-    "partName": "SAMARASA"
+    "partName": "SAMARASA",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67505,
@@ -448,7 +528,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 41,
-    "partName": "DANTARADAKALAN"
+    "partName": "DANTARADAKALAN",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67484,
@@ -459,7 +541,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 42,
-    "partName": "DANTARADAKALAN"
+    "partName": "DANTARADAKALAN",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67483,
@@ -470,7 +554,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 43,
-    "partName": "SADA KA PADA"
+    "partName": "SADA KA PADA",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67506,
@@ -481,7 +567,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 44,
-    "partName": "JAVADESHVAR"
+    "partName": "JAVADESHVAR",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67507,
@@ -492,7 +580,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 45,
-    "partName": "CHOPANA"
+    "partName": "CHOPANA",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67508,
@@ -503,7 +593,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 46,
-    "partName": "KACHARAMULI"
+    "partName": "KACHARAMULI",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67509,
@@ -514,7 +606,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 47,
-    "partName": "BAHARAVADA"
+    "partName": "BAHARAVADA",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67555,
@@ -525,7 +619,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 48,
-    "partName": "DHIMCHOTARA"
+    "partName": "DHIMCHOTARA",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67510,
@@ -536,7 +632,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 49,
-    "partName": "MEVADA"
+    "partName": "MEVADA",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67511,
@@ -547,7 +645,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 50,
-    "partName": "MEVADA"
+    "partName": "MEVADA",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67512,
@@ -558,7 +658,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 51,
-    "partName": "KOTARA"
+    "partName": "KOTARA",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67482,
@@ -569,7 +671,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 52,
-    "partName": "MATHURA KA SAHARANA"
+    "partName": "MATHURA KA SAHARANA",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67481,
@@ -580,7 +684,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 53,
-    "partName": "JAMURDI"
+    "partName": "JAMURDI",
+    "lat": 25.802869450000003,
+    "lon": 76.70457555621154
   },
   {
     "partId": 67513,
@@ -591,7 +697,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 54,
-    "partName": "CHAKABAMULYA"
+    "partName": "CHAKABAMULYA",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67492,
@@ -602,7 +710,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 55,
-    "partName": "GURUNAVADA"
+    "partName": "GURUNAVADA",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67480,
@@ -613,7 +723,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 56,
-    "partName": "SHOGAGYPURA"
+    "partName": "SHOGAGYPURA",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67514,
@@ -624,7 +736,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 57,
-    "partName": "RAMAVADI"
+    "partName": "RAMAVADI",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67554,
@@ -635,7 +749,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 58,
-    "partName": "CHAKDOLAPURA"
+    "partName": "CHAKDOLAPURA",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67515,
@@ -646,7 +762,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 59,
-    "partName": "DADUNI"
+    "partName": "DADUNI",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67516,
@@ -657,7 +775,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 60,
-    "partName": "BAGADUA"
+    "partName": "BAGADUA",
+    "lat": 25.7932067,
+    "lon": 76.6382646
   },
   {
     "partId": 67517,
@@ -668,7 +788,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 61,
-    "partName": "BANAVADA"
+    "partName": "BANAVADA",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67518,
@@ -679,7 +801,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 62,
-    "partName": "LAHACHOUDA"
+    "partName": "LAHACHOUDA",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67260,
@@ -690,7 +814,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 63,
-    "partName": "Adusa"
+    "partName": "Adusa",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67519,
@@ -701,7 +827,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 64,
-    "partName": "BADAUDARAM"
+    "partName": "BADAUDARAM",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67520,
@@ -712,7 +840,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 65,
-    "partName": "KARIRIYA"
+    "partName": "KARIRIYA",
+    "lat": 25.8115205,
+    "lon": 76.5796852
   },
   {
     "partId": 67521,
@@ -723,7 +853,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 66,
-    "partName": "SISAVALI"
+    "partName": "SISAVALI",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67522,
@@ -734,7 +866,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 67,
-    "partName": "DALARANAKALAN"
+    "partName": "DALARANAKALAN",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67523,
@@ -745,7 +879,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 68,
-    "partName": "ICHHANAKHEDALI"
+    "partName": "ICHHANAKHEDALI",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67493,
@@ -756,7 +892,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 69,
-    "partName": "JVAD"
+    "partName": "JVAD",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67524,
@@ -767,7 +905,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 70,
-    "partName": "MAKHANA KHEDALI"
+    "partName": "MAKHANA KHEDALI",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67553,
@@ -778,7 +918,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 71,
-    "partName": "CHAKAASAN"
+    "partName": "CHAKAASAN",
+    "lat": 25.686347227244585,
+    "lon": 76.71536230886328
   },
   {
     "partId": 67525,
@@ -789,7 +931,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 72,
-    "partName": "SAUTHVAN"
+    "partName": "SAUTHVAN",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67479,
@@ -800,7 +944,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 73,
-    "partName": "SAUTHVAN"
+    "partName": "SAUTHVAN",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67526,
@@ -811,7 +957,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 74,
-    "partName": "FATEHPUR"
+    "partName": "FATEHPUR",
+    "lat": 25.76150115,
+    "lon": 76.56724953045367
   },
   {
     "partId": 67527,
@@ -822,7 +970,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 75,
-    "partName": "NAGAR GANVADA"
+    "partName": "NAGAR GANVADA",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67528,
@@ -833,7 +983,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 76,
-    "partName": "RANNAUD"
+    "partName": "RANNAUD",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67466,
@@ -844,7 +996,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 77,
-    "partName": "CHAROD"
+    "partName": "CHAROD",
+    "lat": 25.76839905,
+    "lon": 76.6175124127561
   },
   {
     "partId": 67529,
@@ -855,7 +1009,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 78,
-    "partName": "TILLIPUR"
+    "partName": "TILLIPUR",
+    "lat": 25.7317617,
+    "lon": 76.61350907736
   },
   {
     "partId": 67530,
@@ -866,7 +1022,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 79,
-    "partName": "MATASULA"
+    "partName": "MATASULA",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67531,
@@ -877,7 +1035,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 80,
-    "partName": "SONIKALAN"
+    "partName": "SONIKALAN",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67478,
@@ -888,7 +1048,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 81,
-    "partName": "SONIKALAN"
+    "partName": "SONIKALAN",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67230,
@@ -899,7 +1061,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 82,
-    "partName": "SONIKALAN"
+    "partName": "SONIKALAN",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67463,
@@ -910,7 +1074,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 83,
-    "partName": "SONIKALAN"
+    "partName": "SONIKALAN",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67231,
@@ -921,7 +1087,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 84,
-    "partName": "SOIKALAN"
+    "partName": "SOIKALAN",
+    "lat": 25.7541262,
+    "lon": 76.6693616
   },
   {
     "partId": 67259,
@@ -932,7 +1100,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 85,
-    "partName": "SONIKALAN EKATAPURA"
+    "partName": "SONIKALAN EKATAPURA",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67465,
@@ -943,7 +1113,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 86,
-    "partName": "ROOPNAGAR"
+    "partName": "ROOPNAGAR",
+    "lat": 25.725278,
+    "lon": 76.6634559
   },
   {
     "partId": 67258,
@@ -954,7 +1126,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 87,
-    "partName": "MALHOTRA"
+    "partName": "MALHOTRA",
+    "lat": 25.7414067,
+    "lon": 76.71846320223047
   },
   {
     "partId": 67232,
@@ -965,7 +1139,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 88,
-    "partName": "JVALAPUR"
+    "partName": "JVALAPUR",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67494,
@@ -976,7 +1152,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 89,
-    "partName": "NANDAPUR"
+    "partName": "NANDAPUR",
+    "lat": 25.74961115,
+    "lon": 76.68371051838685
   },
   {
     "partId": 67233,
@@ -987,7 +1165,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 90,
-    "partName": "BHIKHAPUR"
+    "partName": "BHIKHAPUR",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67234,
@@ -998,7 +1178,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 91,
-    "partName": "BARDHABUJURG"
+    "partName": "BARDHABUJURG",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67462,
@@ -1009,7 +1191,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 92,
-    "partName": "BARDHABUJURG"
+    "partName": "BARDHABUJURG",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67235,
@@ -1020,7 +1204,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 93,
-    "partName": "DANTARADAKHURD"
+    "partName": "DANTARADAKHURD",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67236,
@@ -1031,7 +1217,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 94,
-    "partName": "DHENGADA"
+    "partName": "DHENGADA",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67941,
@@ -1042,7 +1230,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 95,
-    "partName": "DHENGADA"
+    "partName": "DHENGADA",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67237,
@@ -1053,7 +1243,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 96,
-    "partName": "BAGAVAJ"
+    "partName": "BAGAVAJ",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67472,
@@ -1064,7 +1256,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 97,
-    "partName": "BAGAVAJ"
+    "partName": "BAGAVAJ",
+    "lat": 25.686347227244585,
+    "lon": 76.71536230886328
   },
   {
     "partId": 67461,
@@ -1075,7 +1269,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 98,
-    "partName": "BAGAVAJ"
+    "partName": "BAGAVAJ",
+    "lat": 25.686347227244585,
+    "lon": 76.71536230886328
   },
   {
     "partId": 67238,
@@ -1086,7 +1282,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 99,
-    "partName": "BAGAVAJ"
+    "partName": "BAGAVAJ",
+    "lat": 25.686347227244585,
+    "lon": 76.71536230886328
   },
   {
     "partId": 67547,
@@ -1097,7 +1295,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 100,
-    "partName": "CHAINPURA"
+    "partName": "CHAINPURA",
+    "lat": 25.74992665,
+    "lon": 76.9212944875333
   },
   {
     "partId": 67239,
@@ -1108,7 +1308,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 101,
-    "partName": "KALARANA"
+    "partName": "KALARANA",
+    "lat": 25.686347227244585,
+    "lon": 76.71536230886328
   },
   {
     "partId": 67240,
@@ -1119,7 +1321,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 102,
-    "partName": "RAYAPURA"
+    "partName": "RAYAPURA",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67241,
@@ -1130,7 +1334,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 103,
-    "partName": "JATAKHEDA"
+    "partName": "JATAKHEDA",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67257,
@@ -1141,7 +1347,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 104,
-    "partName": "DALARANA KHURD"
+    "partName": "DALARANA KHURD",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67242,
@@ -1152,7 +1360,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 105,
-    "partName": "NAGADA"
+    "partName": "NAGADA",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67460,
@@ -1163,7 +1373,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 106,
-    "partName": "NAGADA"
+    "partName": "NAGADA",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67243,
@@ -1174,7 +1386,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 107,
-    "partName": "NAGADI"
+    "partName": "NAGADI",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67281,
@@ -1185,7 +1399,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 108,
-    "partName": "KILGANWADI"
+    "partName": "KILGANWADI",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67244,
@@ -1196,7 +1412,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 109,
-    "partName": "VITATHLAPUR"
+    "partName": "VITATHLAPUR",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67245,
@@ -1207,7 +1425,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 110,
-    "partName": "JALERA"
+    "partName": "JALERA",
+    "lat": 25.7418197,
+    "lon": 76.5796256850833
   },
   {
     "partId": 67246,
@@ -1218,7 +1438,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 111,
-    "partName": "GOHEDA"
+    "partName": "GOHEDA",
+    "lat": 25.7209672,
+    "lon": 76.5854787
   },
   {
     "partId": 67247,
@@ -1229,7 +1451,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 112,
-    "partName": "KAVANRASALI"
+    "partName": "KAVANRASALI",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67248,
@@ -1240,7 +1464,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 113,
-    "partName": "BAMULIGUNSAI"
+    "partName": "BAMULIGUNSAI",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67249,
@@ -1251,7 +1477,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 114,
-    "partName": "ASIDA"
+    "partName": "ASIDA",
+    "lat": 25.6890058,
+    "lon": 76.5842378056835
   },
   {
     "partId": 67250,
@@ -1262,7 +1490,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 115,
-    "partName": "BILVADA"
+    "partName": "BILVADA",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67548,
@@ -1273,7 +1503,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 116,
-    "partName": "PREMASAR"
+    "partName": "PREMASAR",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67280,
@@ -1284,7 +1516,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 117,
-    "partName": "PREMASAR"
+    "partName": "PREMASAR",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67251,
@@ -1295,7 +1529,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 118,
-    "partName": "PREMASAR"
+    "partName": "PREMASAR",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67562,
@@ -1306,7 +1542,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 119,
-    "partName": "Ghandi Nagar"
+    "partName": "Ghandi Nagar",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67252,
@@ -1317,7 +1555,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 120,
-    "partName": "ADAVAD"
+    "partName": "ADAVAD",
+    "lat": 25.74992665,
+    "lon": 76.9212944875333
   },
   {
     "partId": 67499,
@@ -1328,7 +1568,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 121,
-    "partName": "ADAVAD"
+    "partName": "ADAVAD",
+    "lat": 25.686347227244585,
+    "lon": 76.71536230886328
   },
   {
     "partId": 67896,
@@ -1339,7 +1581,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 122,
-    "partName": "DABARASA"
+    "partName": "DABARASA",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67561,
@@ -1350,7 +1594,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 123,
-    "partName": "SUNDI"
+    "partName": "SUNDI",
+    "lat": 25.72365195,
+    "lon": 76.50602337841177
   },
   {
     "partId": 67897,
@@ -1361,7 +1607,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 124,
-    "partName": "JALALAPURA"
+    "partName": "JALALAPURA",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67459,
@@ -1372,7 +1620,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 125,
-    "partName": "JALALAPURA"
+    "partName": "JALALAPURA",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67898,
@@ -1383,7 +1633,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 126,
-    "partName": "PANADI"
+    "partName": "PANADI",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67899,
@@ -1394,7 +1646,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 127,
-    "partName": "AMALDA"
+    "partName": "AMALDA",
+    "lat": 25.65082375,
+    "lon": 76.51677719392063
   },
   {
     "partId": 67458,
@@ -1405,7 +1659,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 128,
-    "partName": "GUDHA"
+    "partName": "GUDHA",
+    "lat": 25.844296200000002,
+    "lon": 76.75504929047204
   },
   {
     "partId": 67611,
@@ -1416,7 +1672,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 129,
-    "partName": "PATPADA"
+    "partName": "PATPADA",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67900,
@@ -1427,7 +1685,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 130,
-    "partName": "NANAVAD"
+    "partName": "NANAVAD",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67457,
@@ -1438,7 +1698,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 131,
-    "partName": "NANAVAD"
+    "partName": "NANAVAD",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67901,
@@ -1449,7 +1711,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 132,
-    "partName": "MAVADA"
+    "partName": "MAVADA",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67902,
@@ -1460,7 +1724,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 133,
-    "partName": "VIJARAPUR"
+    "partName": "VIJARAPUR",
+    "lat": 25.74992665,
+    "lon": 76.9212944875333
   },
   {
     "partId": 67456,
@@ -1471,7 +1737,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 134,
-    "partName": "MALIBADI"
+    "partName": "MALIBADI",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67566,
@@ -1482,7 +1750,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 135,
-    "partName": "PACHIPURA"
+    "partName": "PACHIPURA",
+    "lat": 25.64245545,
+    "lon": 76.58597175203283
   },
   {
     "partId": 67610,
@@ -1493,7 +1763,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 136,
-    "partName": "KIRORACH"
+    "partName": "KIRORACH",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67253,
@@ -1504,7 +1776,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 137,
-    "partName": "KANAPUR"
+    "partName": "KANAPUR",
+    "lat": 25.646249400000002,
+    "lon": 76.63069415160746
   },
   {
     "partId": 67549,
@@ -1515,7 +1789,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 138,
-    "partName": "KANAPUR"
+    "partName": "KANAPUR",
+    "lat": 25.74992665,
+    "lon": 76.9212944875333
   },
   {
     "partId": 67254,
@@ -1526,7 +1802,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 139,
-    "partName": "DHOTI"
+    "partName": "DHOTI",
+    "lat": 25.6686152,
+    "lon": 76.59179525355617
   },
   {
     "partId": 67279,
@@ -1537,7 +1815,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 140,
-    "partName": "TARRAMAFI"
+    "partName": "TARRAMAFI",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67255,
@@ -1548,7 +1828,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 141,
-    "partName": "BAGAVADA"
+    "partName": "BAGAVADA",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67256,
@@ -1559,7 +1841,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 142,
-    "partName": "JAIDA"
+    "partName": "JAIDA",
+    "lat": 25.66000295,
+    "lon": 76.66134213048748
   },
   {
     "partId": 67885,
@@ -1570,7 +1854,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 143,
-    "partName": "ICHHAPURA"
+    "partName": "ICHHAPURA",
+    "lat": 25.67533345,
+    "lon": 76.663365013675
   },
   {
     "partId": 67886,
@@ -1581,7 +1867,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 144,
-    "partName": "GUVADI"
+    "partName": "GUVADI",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67455,
@@ -1592,7 +1880,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 145,
-    "partName": "MATHEPURA"
+    "partName": "MATHEPURA",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67546,
@@ -1603,7 +1893,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 146,
-    "partName": "HASANPUR HAVELI"
+    "partName": "HASANPUR HAVELI",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67454,
@@ -1614,7 +1906,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 147,
-    "partName": "MALPURA"
+    "partName": "MALPURA",
+    "lat": 25.65446485,
+    "lon": 76.69072431831921
   },
   {
     "partId": 67887,
@@ -1625,7 +1919,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 148,
-    "partName": "SHEOPUR"
+    "partName": "SHEOPUR",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67453,
@@ -1636,7 +1932,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 149,
-    "partName": "SHEOPUR"
+    "partName": "SHEOPUR",
+    "lat": 25.74992665,
+    "lon": 76.9212944875333
   },
   {
     "partId": 67890,
@@ -1647,7 +1945,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 150,
-    "partName": "SHEOPUR"
+    "partName": "SHEOPUR",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67278,
@@ -1658,7 +1958,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 151,
-    "partName": "SHEOPUR"
+    "partName": "SHEOPUR",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67891,
@@ -1669,7 +1971,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 152,
-    "partName": "SHEOPUR"
+    "partName": "SHEOPUR",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67277,
@@ -1680,7 +1984,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 153,
-    "partName": "SHEOPUR"
+    "partName": "SHEOPUR",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67892,
@@ -1691,7 +1997,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 154,
-    "partName": "SHEOPUR"
+    "partName": "SHEOPUR",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67893,
@@ -1702,7 +2010,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 155,
-    "partName": "SHEOPUR"
+    "partName": "SHEOPUR",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67550,
@@ -1713,7 +2023,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 156,
-    "partName": "SHEOPUR"
+    "partName": "SHEOPUR",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67894,
@@ -1724,7 +2036,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 157,
-    "partName": "SHEOPUR"
+    "partName": "SHEOPUR",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67884,
@@ -1735,7 +2049,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 158,
-    "partName": "SHEOPUR"
+    "partName": "SHEOPUR",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67587,
@@ -1746,7 +2062,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 159,
-    "partName": "SHEOPUR"
+    "partName": "SHEOPUR",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67883,
@@ -1757,7 +2075,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 160,
-    "partName": "SHEOPUR"
+    "partName": "SHEOPUR",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67588,
@@ -1768,7 +2088,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 161,
-    "partName": "SHEOPUR"
+    "partName": "SHEOPUR",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67882,
@@ -1779,7 +2101,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 162,
-    "partName": "SHEOPUR"
+    "partName": "SHEOPUR",
+    "lat": 25.74992665,
+    "lon": 76.9212944875333
   },
   {
     "partId": 67589,
@@ -1790,7 +2114,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 163,
-    "partName": "SHEOPUR"
+    "partName": "SHEOPUR",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67881,
@@ -1801,7 +2127,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 164,
-    "partName": "SHEOPUR"
+    "partName": "SHEOPUR",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67590,
@@ -1812,7 +2140,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 165,
-    "partName": "SHEOPUR"
+    "partName": "SHEOPUR",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67880,
@@ -1823,7 +2153,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 166,
-    "partName": "SHEOPUR"
+    "partName": "SHEOPUR",
+    "lat": 25.74992665,
+    "lon": 76.9212944875333
   },
   {
     "partId": 67942,
@@ -1834,7 +2166,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 167,
-    "partName": "SHEOPUR"
+    "partName": "SHEOPUR",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67591,
@@ -1845,7 +2179,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 168,
-    "partName": "SHEOPUR"
+    "partName": "SHEOPUR",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67272,
@@ -1856,7 +2192,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 169,
-    "partName": "SHEOPUR"
+    "partName": "SHEOPUR",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67271,
@@ -1867,7 +2205,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 170,
-    "partName": "SHEOPUR"
+    "partName": "SHEOPUR",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67270,
@@ -1878,7 +2218,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 171,
-    "partName": "SHEOPUR"
+    "partName": "SHEOPUR",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67292,
@@ -1889,7 +2231,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 172,
-    "partName": "SHEOPUR"
+    "partName": "SHEOPUR",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67879,
@@ -1900,7 +2244,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 173,
-    "partName": "SHEOPUR"
+    "partName": "SHEOPUR",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67421,
@@ -1911,7 +2257,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 174,
-    "partName": "SHEOPUR"
+    "partName": "SHEOPUR",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67422,
@@ -1922,7 +2270,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 175,
-    "partName": "SHEOPUR"
+    "partName": "SHEOPUR",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67423,
@@ -1933,7 +2283,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 176,
-    "partName": "SHEOPUR"
+    "partName": "SHEOPUR",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67878,
@@ -1944,7 +2296,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 177,
-    "partName": "SHEOPUR"
+    "partName": "SHEOPUR",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67276,
@@ -1955,7 +2309,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 178,
-    "partName": "SHEOPUR"
+    "partName": "SHEOPUR",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67567,
@@ -1966,7 +2322,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 179,
-    "partName": "SHEOPUR"
+    "partName": "SHEOPUR",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67877,
@@ -1977,7 +2335,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 180,
-    "partName": "SHEOPUR"
+    "partName": "SHEOPUR",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67604,
@@ -1988,7 +2348,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 181,
-    "partName": "SHEOPUR"
+    "partName": "SHEOPUR",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67424,
@@ -1999,7 +2361,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 182,
-    "partName": "SHEOPUR"
+    "partName": "SHEOPUR",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67603,
@@ -2010,7 +2374,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 183,
-    "partName": "SHEOPUR"
+    "partName": "SHEOPUR",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67498,
@@ -2021,7 +2387,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 184,
-    "partName": "SHEOPUR"
+    "partName": "SHEOPUR",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67425,
@@ -2032,7 +2400,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 185,
-    "partName": "SHEOPUR"
+    "partName": "SHEOPUR",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67441,
@@ -2043,7 +2413,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 186,
-    "partName": "SHEOPUR"
+    "partName": "SHEOPUR",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67426,
@@ -2054,7 +2426,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 187,
-    "partName": "SHEOPUR"
+    "partName": "SHEOPUR",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67269,
@@ -2065,7 +2439,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 188,
-    "partName": "SHEOPUR"
+    "partName": "SHEOPUR",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67427,
@@ -2076,7 +2452,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 189,
-    "partName": "SHEOPUR"
+    "partName": "SHEOPUR",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67428,
@@ -2087,7 +2465,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 190,
-    "partName": "SHEOPUR"
+    "partName": "SHEOPUR",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67602,
@@ -2098,7 +2478,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 191,
-    "partName": "SHEOPUR"
+    "partName": "SHEOPUR",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67429,
@@ -2109,7 +2491,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 192,
-    "partName": "SHEOPUR"
+    "partName": "SHEOPUR",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67268,
@@ -2120,7 +2504,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 193,
-    "partName": "SHEOPUR"
+    "partName": "SHEOPUR",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67440,
@@ -2131,7 +2517,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 194,
-    "partName": "SHEOPUR"
+    "partName": "SHEOPUR",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67601,
@@ -2142,7 +2530,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 195,
-    "partName": "SHEOPUR"
+    "partName": "SHEOPUR",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67430,
@@ -2153,7 +2543,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 196,
-    "partName": "SHEOPUR"
+    "partName": "SHEOPUR",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67431,
@@ -2164,7 +2556,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 197,
-    "partName": "SHEOPUR"
+    "partName": "SHEOPUR",
+    "lat": 25.74992665,
+    "lon": 76.9212944875333
   },
   {
     "partId": 67432,
@@ -2175,7 +2569,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 198,
-    "partName": "SHEOPUR"
+    "partName": "SHEOPUR",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67433,
@@ -2186,7 +2582,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 199,
-    "partName": "SHEOPUR"
+    "partName": "SHEOPUR",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67467,
@@ -2197,7 +2595,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 200,
-    "partName": "SHEOPUR"
+    "partName": "SHEOPUR",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67600,
@@ -2208,7 +2608,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 201,
-    "partName": "SHEOPUR"
+    "partName": "SHEOPUR",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67434,
@@ -2219,7 +2621,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 202,
-    "partName": "SHEOPUR"
+    "partName": "SHEOPUR",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67267,
@@ -2230,7 +2634,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 203,
-    "partName": "SHEOPUR"
+    "partName": "SHEOPUR",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67435,
@@ -2241,7 +2647,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 204,
-    "partName": "SHEOPUR"
+    "partName": "SHEOPUR",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67436,
@@ -2252,7 +2660,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 205,
-    "partName": "SHEOPUR"
+    "partName": "SHEOPUR",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67450,
@@ -2263,7 +2673,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 206,
-    "partName": "SHEOPUR"
+    "partName": "SHEOPUR",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67437,
@@ -2274,7 +2686,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 207,
-    "partName": "SHEOPUR"
+    "partName": "SHEOPUR",
+    "lat": 25.74992665,
+    "lon": 76.9212944875333
   },
   {
     "partId": 67449,
@@ -2285,7 +2699,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 208,
-    "partName": "SHEOPUR"
+    "partName": "SHEOPUR",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67438,
@@ -2296,7 +2712,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 209,
-    "partName": "SHEOPUR"
+    "partName": "SHEOPUR",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67903,
@@ -2307,7 +2725,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 210,
-    "partName": "SEMALDA HAVELI"
+    "partName": "SEMALDA HAVELI",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67538,
@@ -2318,7 +2738,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 211,
-    "partName": "ABHAYPURA"
+    "partName": "ABHAYPURA",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67904,
@@ -2329,7 +2751,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 212,
-    "partName": "JANAPURA"
+    "partName": "JANAPURA",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67568,
@@ -2340,7 +2764,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 213,
-    "partName": "MAHARAJAPURA"
+    "partName": "MAHARAJAPURA",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67905,
@@ -2351,7 +2777,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 214,
-    "partName": "MAYAPUR"
+    "partName": "MAYAPUR",
+    "lat": 25.609383450000003,
+    "lon": 76.73460363732117
   },
   {
     "partId": 67266,
@@ -2362,7 +2790,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 215,
-    "partName": "HANUMAN KHEDA"
+    "partName": "HANUMAN KHEDA",
+    "lat": 25.6887659,
+    "lon": 76.6883853
   },
   {
     "partId": 67906,
@@ -2373,7 +2803,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 216,
-    "partName": "FATEHPUR"
+    "partName": "FATEHPUR",
+    "lat": 25.76150115,
+    "lon": 76.56724953045367
   },
   {
     "partId": 67907,
@@ -2384,7 +2816,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 217,
-    "partName": "SHAHPURA"
+    "partName": "SHAHPURA",
+    "lat": 25.948288050000002,
+    "lon": 77.2595078845357
   },
   {
     "partId": 67468,
@@ -2395,7 +2829,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 218,
-    "partName": "AJAPURA"
+    "partName": "AJAPURA",
+    "lat": 25.6135217,
+    "lon": 76.67940954121269
   },
   {
     "partId": 67497,
@@ -2406,7 +2842,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 219,
-    "partName": "AJAPURA"
+    "partName": "AJAPURA",
+    "lat": 25.6135217,
+    "lon": 76.67940954121269
   },
   {
     "partId": 67265,
@@ -2417,7 +2855,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 220,
-    "partName": "BHAIROOKHEDI"
+    "partName": "BHAIROOKHEDI",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67908,
@@ -2428,7 +2868,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 221,
-    "partName": "MAU"
+    "partName": "MAU",
+    "lat": 25.6167435,
+    "lon": 76.6995048
   },
   {
     "partId": 67909,
@@ -2439,7 +2881,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 222,
-    "partName": "KUND HAVELI"
+    "partName": "KUND HAVELI",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67910,
@@ -2450,7 +2894,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 223,
-    "partName": "KISHORAPURA"
+    "partName": "KISHORAPURA",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67609,
@@ -2461,7 +2907,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 224,
-    "partName": "PIPALDI"
+    "partName": "PIPALDI",
+    "lat": 25.6219675,
+    "lon": 76.6200685
   },
   {
     "partId": 67911,
@@ -2472,7 +2920,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 225,
-    "partName": "FILOJPURA"
+    "partName": "FILOJPURA",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67912,
@@ -2483,7 +2933,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 226,
-    "partName": "CHANDRAPURA"
+    "partName": "CHANDRAPURA",
+    "lat": 25.58159655,
+    "lon": 76.65667114531078
   },
   {
     "partId": 67913,
@@ -2494,7 +2946,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 227,
-    "partName": "HALAGANVADA BUJURG"
+    "partName": "HALAGANVADA BUJURG",
+    "lat": 25.74992665,
+    "lon": 76.9212944875333
   },
   {
     "partId": 67586,
@@ -2505,7 +2959,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 228,
-    "partName": "BAMORIHALA"
+    "partName": "BAMORIHALA",
+    "lat": 25.5929231,
+    "lon": 76.6752576
   },
   {
     "partId": 67914,
@@ -2516,7 +2972,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 229,
-    "partName": "TULASEPH"
+    "partName": "TULASEPH",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67578,
@@ -2527,7 +2985,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 230,
-    "partName": "TULASEPH"
+    "partName": "TULASEPH",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67579,
@@ -2538,7 +2998,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 231,
-    "partName": "SHRI JI KI GANVADI"
+    "partName": "SHRI JI KI GANVADI",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67915,
@@ -2549,7 +3011,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 232,
-    "partName": "RAMGANVADI"
+    "partName": "RAMGANVADI",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67916,
@@ -2560,7 +3024,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 233,
-    "partName": "DUBADI"
+    "partName": "DUBADI",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67469,
@@ -2571,7 +3037,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 234,
-    "partName": "CHHOTAKHEDA"
+    "partName": "CHHOTAKHEDA",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67917,
@@ -2582,7 +3050,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 235,
-    "partName": "GURUNAVADA"
+    "partName": "GURUNAVADA",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67608,
@@ -2593,7 +3063,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 236,
-    "partName": "SAKUDI"
+    "partName": "SAKUDI",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67918,
@@ -2604,7 +3076,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 237,
-    "partName": "BADAKHEDA"
+    "partName": "BADAKHEDA",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67919,
@@ -2615,7 +3089,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 238,
-    "partName": "UTANAVAD"
+    "partName": "UTANAVAD",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67448,
@@ -2626,7 +3102,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 239,
-    "partName": "UTANAVAD"
+    "partName": "UTANAVAD",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67264,
@@ -2637,7 +3115,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 240,
-    "partName": "UTANAVAD"
+    "partName": "UTANAVAD",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67920,
@@ -2648,7 +3128,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 241,
-    "partName": "BANDIKHEDA"
+    "partName": "BANDIKHEDA",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67577,
@@ -2659,7 +3141,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 242,
-    "partName": "THIKARIYA"
+    "partName": "THIKARIYA",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67607,
@@ -2670,7 +3154,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 243,
-    "partName": "RAJORA"
+    "partName": "RAJORA",
+    "lat": 25.56371905,
+    "lon": 76.52630618067798
   },
   {
     "partId": 67921,
@@ -2681,7 +3167,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 244,
-    "partName": "NARAYANAPURA"
+    "partName": "NARAYANAPURA",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67922,
@@ -2692,7 +3180,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 245,
-    "partName": "BAMORIJAT"
+    "partName": "BAMORIJAT",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67923,
@@ -2703,7 +3193,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 246,
-    "partName": "HIRANIKHEDA"
+    "partName": "HIRANIKHEDA",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67924,
@@ -2714,7 +3206,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 247,
-    "partName": "ALAPURA"
+    "partName": "ALAPURA",
+    "lat": 25.5378406,
+    "lon": 76.57709129187432
   },
   {
     "partId": 67925,
@@ -2725,7 +3219,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 248,
-    "partName": "BALAPURA"
+    "partName": "BALAPURA",
+    "lat": 25.5157403,
+    "lon": 76.5753078
   },
   {
     "partId": 67926,
@@ -2736,7 +3232,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 249,
-    "partName": "BAJARALI"
+    "partName": "BAJARALI",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67470,
@@ -2747,7 +3245,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 250,
-    "partName": "PAHADALI"
+    "partName": "PAHADALI",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67927,
@@ -2758,7 +3258,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 251,
-    "partName": "PANVAD"
+    "partName": "PANVAD",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67576,
@@ -2769,7 +3271,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 252,
-    "partName": "RUNDI"
+    "partName": "RUNDI",
+    "lat": 25.530217399999998,
+    "lon": 76.53044654250954
   },
   {
     "partId": 67928,
@@ -2780,7 +3284,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 253,
-    "partName": "BAHADAVAD"
+    "partName": "BAHADAVAD",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67263,
@@ -2791,7 +3297,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 254,
-    "partName": "KALUKHEDALI"
+    "partName": "KALUKHEDALI",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67929,
@@ -2802,7 +3310,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 255,
-    "partName": "BICHAGANVADI"
+    "partName": "BICHAGANVADI",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67930,
@@ -2813,7 +3323,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 256,
-    "partName": "BANSOUD"
+    "partName": "BANSOUD",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67931,
@@ -2824,7 +3336,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 257,
-    "partName": "INDRAPURA"
+    "partName": "INDRAPURA",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67447,
@@ -2835,7 +3349,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 258,
-    "partName": "PIPALDA"
+    "partName": "PIPALDA",
+    "lat": 25.74992665,
+    "lon": 76.9212944875333
   },
   {
     "partId": 67932,
@@ -2846,7 +3362,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 259,
-    "partName": "LUHAD"
+    "partName": "LUHAD",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67575,
@@ -2857,7 +3375,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 260,
-    "partName": "LUHAD"
+    "partName": "LUHAD",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67933,
@@ -2868,7 +3388,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 261,
-    "partName": "MUDALA"
+    "partName": "MUDALA",
+    "lat": 25.817592949999998,
+    "lon": 76.55512802401518
   },
   {
     "partId": 67934,
@@ -2879,7 +3401,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 262,
-    "partName": "KARANYAKHEDALI"
+    "partName": "KARANYAKHEDALI",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67935,
@@ -2890,7 +3414,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 263,
-    "partName": "GALAMANYA"
+    "partName": "GALAMANYA",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67936,
@@ -2901,7 +3427,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 264,
-    "partName": "PANDOLI"
+    "partName": "PANDOLI",
+    "lat": 25.53383615,
+    "lon": 76.62228486456092
   },
   {
     "partId": 67937,
@@ -2912,7 +3440,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 265,
-    "partName": "PANDOLA"
+    "partName": "PANDOLA",
+    "lat": 25.54106385,
+    "lon": 76.66357435587838
   },
   {
     "partId": 67446,
@@ -2923,7 +3453,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 266,
-    "partName": "PANDOLA"
+    "partName": "PANDOLA",
+    "lat": 25.54106385,
+    "lon": 76.66357435587838
   },
   {
     "partId": 67471,
@@ -2934,7 +3466,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 267,
-    "partName": "PANDOLA"
+    "partName": "PANDOLA",
+    "lat": 25.54106385,
+    "lon": 76.66357435587838
   },
   {
     "partId": 67445,
@@ -2945,7 +3479,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 268,
-    "partName": "PANDOLA"
+    "partName": "PANDOLA",
+    "lat": 25.54106385,
+    "lon": 76.66357435587838
   },
   {
     "partId": 67938,
@@ -2956,7 +3492,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 269,
-    "partName": "PANDOLA"
+    "partName": "PANDOLA",
+    "lat": 25.54106385,
+    "lon": 76.66357435587838
   },
   {
     "partId": 67574,
@@ -2967,7 +3505,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 270,
-    "partName": "PANDOLA"
+    "partName": "PANDOLA",
+    "lat": 25.54106385,
+    "lon": 76.66357435587838
   },
   {
     "partId": 67939,
@@ -2978,7 +3518,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 271,
-    "partName": "BHASUNDAR"
+    "partName": "BHASUNDAR",
+    "lat": 25.5698794,
+    "lon": 76.63179165632911
   },
   {
     "partId": 67573,
@@ -2989,7 +3531,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 272,
-    "partName": "LUND"
+    "partName": "LUND",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67940,
@@ -3000,7 +3544,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 273,
-    "partName": "TALAVADA"
+    "partName": "TALAVADA",
+    "lat": 25.74992665,
+    "lon": 76.9212944875333
   },
   {
     "partId": 67580,
@@ -3011,7 +3557,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 274,
-    "partName": "DHODHAPUR"
+    "partName": "DHODHAPUR",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67581,
@@ -3022,7 +3570,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 275,
-    "partName": "LATH"
+    "partName": "LATH",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67582,
@@ -3033,7 +3583,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 276,
-    "partName": "NAYAGANV"
+    "partName": "NAYAGANV",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67496,
@@ -3044,7 +3596,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 277,
-    "partName": "NAYAGANV SAHARANA"
+    "partName": "NAYAGANV SAHARANA",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67583,
@@ -3055,7 +3609,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 278,
-    "partName": "RADEP"
+    "partName": "RADEP",
+    "lat": 25.5296629,
+    "lon": 76.7153406
   },
   {
     "partId": 67444,
@@ -3066,7 +3622,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 279,
-    "partName": "RADEP"
+    "partName": "RADEP",
+    "lat": 25.5296629,
+    "lon": 76.7153406
   },
   {
     "partId": 67584,
@@ -3077,7 +3635,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 280,
-    "partName": "RADEP"
+    "partName": "RADEP",
+    "lat": 25.5296629,
+    "lon": 76.7153406
   },
   {
     "partId": 67443,
@@ -3088,7 +3648,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 281,
-    "partName": "RADEP"
+    "partName": "RADEP",
+    "lat": 25.5296629,
+    "lon": 76.7153406
   },
   {
     "partId": 67585,
@@ -3099,7 +3661,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 282,
-    "partName": "MEKHADAHEDI"
+    "partName": "MEKHADAHEDI",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67612,
@@ -3110,7 +3674,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 283,
-    "partName": "SARASILLI"
+    "partName": "SARASILLI",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67551,
@@ -3121,7 +3687,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 284,
-    "partName": "BADOUDA"
+    "partName": "BADOUDA",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67452,
@@ -3132,7 +3700,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 285,
-    "partName": "BADOUDA"
+    "partName": "BADOUDA",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67869,
@@ -3143,7 +3713,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 286,
-    "partName": "BADOUDA"
+    "partName": "BADOUDA",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67451,
@@ -3154,7 +3726,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 287,
-    "partName": "BADOUDA"
+    "partName": "BADOUDA",
+    "lat": 25.74992665,
+    "lon": 76.9212944875333
   },
   {
     "partId": 67870,
@@ -3165,7 +3739,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 288,
-    "partName": "BADOUDA"
+    "partName": "BADOUDA",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67545,
@@ -3176,7 +3752,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 289,
-    "partName": "BADOUDA"
+    "partName": "BADOUDA",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67871,
@@ -3187,7 +3765,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 290,
-    "partName": "BADOUDA"
+    "partName": "BADOUDA",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67872,
@@ -3198,7 +3778,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 291,
-    "partName": "BADOUDA"
+    "partName": "BADOUDA",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67873,
@@ -3209,7 +3791,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 292,
-    "partName": "BADOUDA"
+    "partName": "BADOUDA",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67544,
@@ -3220,7 +3804,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 293,
-    "partName": "BADOUDA"
+    "partName": "BADOUDA",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67874,
@@ -3231,7 +3817,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 294,
-    "partName": "BADOUDA"
+    "partName": "BADOUDA",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67543,
@@ -3242,7 +3830,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 295,
-    "partName": "BADOUDA"
+    "partName": "BADOUDA",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67875,
@@ -3253,7 +3843,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 296,
-    "partName": "BADOUDA"
+    "partName": "BADOUDA",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67542,
@@ -3264,7 +3856,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 297,
-    "partName": "BADOUDA"
+    "partName": "BADOUDA",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67876,
@@ -3275,7 +3869,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 298,
-    "partName": "LALITAPURA"
+    "partName": "LALITAPURA",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67541,
@@ -3286,7 +3882,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 299,
-    "partName": "DHANOD"
+    "partName": "DHANOD",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67473,
@@ -3297,7 +3895,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 300,
-    "partName": "PREMAPURA"
+    "partName": "PREMAPURA",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67474,
@@ -3308,7 +3908,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 301,
-    "partName": "KUHANJAPUR"
+    "partName": "KUHANJAPUR",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67475,
@@ -3319,7 +3921,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 302,
-    "partName": "UDOTAPURA"
+    "partName": "UDOTAPURA",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67262,
@@ -3330,7 +3934,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 303,
-    "partName": "BARKHEDA"
+    "partName": "BARKHEDA",
+    "lat": 26.0414184,
+    "lon": 77.3516464
   },
   {
     "partId": 67476,
@@ -3341,7 +3947,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 304,
-    "partName": "BADODIYA BINDI"
+    "partName": "BADODIYA BINDI",
+    "lat": 25.4075391,
+    "lon": 76.6057348
   },
   {
     "partId": 67477,
@@ -3352,7 +3960,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 305,
-    "partName": "RADHAPURA"
+    "partName": "RADHAPURA",
+    "lat": 25.43060075,
+    "lon": 76.60263689368081
   },
   {
     "partId": 67273,
@@ -3363,7 +3973,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 306,
-    "partName": "KALAMUNDA"
+    "partName": "KALAMUNDA",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67552,
@@ -3374,7 +3986,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 307,
-    "partName": "MAKADAVADA KALAN"
+    "partName": "MAKADAVADA KALAN",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67572,
@@ -3385,7 +3999,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 308,
-    "partName": "MAKADAVADA KALAN"
+    "partName": "MAKADAVADA KALAN",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67274,
@@ -3396,7 +4012,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 309,
-    "partName": "KUDAYATHA"
+    "partName": "KUDAYATHA",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67275,
@@ -3407,7 +4025,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 310,
-    "partName": "BHILAVADIYA"
+    "partName": "BHILAVADIYA",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67895,
@@ -3418,7 +4038,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 311,
-    "partName": "BORADADEV"
+    "partName": "BORADADEV",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67606,
@@ -3429,7 +4051,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 312,
-    "partName": "THIKARIYA"
+    "partName": "THIKARIYA",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67290,
@@ -3440,7 +4064,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 313,
-    "partName": "COLONY"
+    "partName": "COLONY",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67605,
@@ -3451,7 +4077,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 314,
-    "partName": "MAKDAWADA KHURD"
+    "partName": "MAKDAWADA KHURD",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67291,
@@ -3462,7 +4090,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 315,
-    "partName": "MAHARAJAPURA"
+    "partName": "MAHARAJAPURA",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67888,
@@ -3473,7 +4103,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 316,
-    "partName": "HALAGANVADA KHURD"
+    "partName": "HALAGANVADA KHURD",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67571,
@@ -3484,7 +4116,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 317,
-    "partName": "BANADI"
+    "partName": "BANADI",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67889,
@@ -3495,7 +4129,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 318,
-    "partName": "SHAHPURA"
+    "partName": "SHAHPURA",
+    "lat": 25.948288050000002,
+    "lon": 77.2595078845357
   },
   {
     "partId": 67537,
@@ -3506,7 +4142,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 319,
-    "partName": "SIRASOUD"
+    "partName": "SIRASOUD",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67563,
@@ -3517,7 +4155,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 320,
-    "partName": "RATODAN"
+    "partName": "RATODAN",
+    "lat": 25.43846285,
+    "lon": 76.70689495896727
   },
   {
     "partId": 67570,
@@ -3528,7 +4168,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 321,
-    "partName": "RATODAN"
+    "partName": "RATODAN",
+    "lat": 25.43846285,
+    "lon": 76.70689495896727
   },
   {
     "partId": 67564,
@@ -3539,7 +4181,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 322,
-    "partName": "RATODAN"
+    "partName": "RATODAN",
+    "lat": 25.43846285,
+    "lon": 76.70689495896727
   },
   {
     "partId": 67495,
@@ -3550,7 +4194,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 323,
-    "partName": "HEERAPUR"
+    "partName": "HEERAPUR",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67565,
@@ -3561,7 +4207,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 324,
-    "partName": "NAYAGANVATEHAKHAND"
+    "partName": "NAYAGANVATEHAKHAND",
+    "lat": 25.67704665,
+    "lon": 76.70457459649388
   },
   {
     "partId": 67540,
@@ -3572,7 +4220,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 325,
-    "partName": "PATNA"
+    "partName": "PATNA",
+    "lat": 25.372574,
+    "lon": 76.6804833705945
   },
   {
     "partId": 67439,
@@ -3583,7 +4233,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 326,
-    "partName": "BAGALDA"
+    "partName": "BAGALDA",
+    "lat": 25.3947388,
+    "lon": 76.69126035240959
   },
   {
     "partId": 67569,
@@ -3594,7 +4246,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 327,
-    "partName": "BAGALDA"
+    "partName": "BAGALDA",
+    "lat": 25.3947388,
+    "lon": 76.69126035240959
   },
   {
     "partId": 67261,
@@ -3605,7 +4259,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 328,
-    "partName": "PREMAPURA"
+    "partName": "PREMAPURA",
+    "lat": 25.74992665,
+    "lon": 76.9212944875333
   },
   {
     "partId": 67539,
@@ -3616,7 +4272,9 @@
     "acNumber": 1,
     "acName": "SHEOPUR",
     "partNumber": 329,
-    "partName": "HANUMAN KHEDA"
+    "partName": "HANUMAN KHEDA",
+    "lat": 25.6887659,
+    "lon": 76.6883853
   },
   {
     "partId": 136292,
@@ -3627,7 +4285,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 1,
-    "partName": "DANTETI"
+    "partName": "DANTETI",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136293,
@@ -3638,7 +4298,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 2,
-    "partName": "BHUREDI"
+    "partName": "BHUREDI",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136310,
@@ -3649,7 +4311,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 3,
-    "partName": "BALAVANI"
+    "partName": "BALAVANI",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136336,
@@ -3660,7 +4324,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 4,
-    "partName": "KEM KA HAAR"
+    "partName": "KEM KA HAAR",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136165,
@@ -3671,7 +4337,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 5,
-    "partName": "BALAVANI"
+    "partName": "BALAVANI",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136311,
@@ -3682,7 +4350,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 6,
-    "partName": "BALAVANI"
+    "partName": "BALAVANI",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136312,
@@ -3693,7 +4363,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 7,
-    "partName": "TARRAKHURD"
+    "partName": "TARRAKHURD",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136313,
@@ -3704,7 +4376,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 8,
-    "partName": "SUKHAVAS"
+    "partName": "SUKHAVAS",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136314,
@@ -3715,7 +4389,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 9,
-    "partName": "CHANDUPURA"
+    "partName": "CHANDUPURA",
+    "lat": 25.947798300000002,
+    "lon": 76.8812601184582
   },
   {
     "partId": 136164,
@@ -3726,7 +4402,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 10,
-    "partName": "AAMLI KA SAHARANA"
+    "partName": "AAMLI KA SAHARANA",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136315,
@@ -3737,7 +4415,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 11,
-    "partName": "DHANAYACHA"
+    "partName": "DHANAYACHA",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136163,
@@ -3748,7 +4428,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 12,
-    "partName": "DOKERKA"
+    "partName": "DOKERKA",
+    "lat": 25.74992665,
+    "lon": 76.9212944875333
   },
   {
     "partId": 136166,
@@ -3759,7 +4441,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 13,
-    "partName": "KHADI NO 2"
+    "partName": "KHADI NO 2",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136162,
@@ -3770,7 +4454,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 14,
-    "partName": "SIRONI"
+    "partName": "SIRONI",
+    "lat": 25.8199424,
+    "lon": 76.9819736
   },
   {
     "partId": 136316,
@@ -3781,7 +4467,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 15,
-    "partName": "TARRAKALA"
+    "partName": "TARRAKALA",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136339,
@@ -3792,7 +4480,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 16,
-    "partName": "TARRAKALA"
+    "partName": "TARRAKALA",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136161,
@@ -3803,7 +4493,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 17,
-    "partName": "MAHUAMAR"
+    "partName": "MAHUAMAR",
+    "lat": 25.998846999999998,
+    "lon": 76.92192743199871
   },
   {
     "partId": 136317,
@@ -3814,7 +4506,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 18,
-    "partName": "KINNAPURA"
+    "partName": "KINNAPURA",
+    "lat": 25.9964313,
+    "lon": 76.9023656
   },
   {
     "partId": 136157,
@@ -3825,7 +4519,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 19,
-    "partName": "LAXMANPURA"
+    "partName": "LAXMANPURA",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136318,
@@ -3836,7 +4532,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 20,
-    "partName": "KHERODAKALA"
+    "partName": "KHERODAKALA",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136319,
@@ -3847,7 +4545,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 21,
-    "partName": "SUTHARA"
+    "partName": "SUTHARA",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136338,
@@ -3858,7 +4558,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 22,
-    "partName": "BADDAN"
+    "partName": "BADDAN",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136320,
@@ -3869,7 +4571,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 23,
-    "partName": "MILAVALI"
+    "partName": "MILAVALI",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136321,
@@ -3880,7 +4584,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 24,
-    "partName": "ARRODARI"
+    "partName": "ARRODARI",
+    "lat": 26.0410521,
+    "lon": 76.9085455
   },
   {
     "partId": 136160,
@@ -3891,7 +4597,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 25,
-    "partName": "ARRODARI"
+    "partName": "ARRODARI",
+    "lat": 26.0410521,
+    "lon": 76.9085455
   },
   {
     "partId": 136322,
@@ -3902,7 +4610,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 26,
-    "partName": "SUMARERA"
+    "partName": "SUMARERA",
+    "lat": 25.74992665,
+    "lon": 76.9212944875333
   },
   {
     "partId": 136337,
@@ -3913,7 +4623,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 27,
-    "partName": "SUMARERA  KI JHHOPADI"
+    "partName": "SUMARERA  KI JHHOPADI",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136323,
@@ -3924,7 +4636,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 28,
-    "partName": "SUMARERA"
+    "partName": "SUMARERA",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136324,
@@ -3935,7 +4649,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 29,
-    "partName": "HIRAPURA"
+    "partName": "HIRAPURA",
+    "lat": 26.0627043,
+    "lon": 76.94100571915232
   },
   {
     "partId": 136325,
@@ -3946,7 +4662,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 30,
-    "partName": "NIMACH"
+    "partName": "NIMACH",
+    "lat": 26.066922,
+    "lon": 76.9099187
   },
   {
     "partId": 136326,
@@ -3957,7 +4675,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 31,
-    "partName": "RIJHETA"
+    "partName": "RIJHETA",
+    "lat": 26.090425349999997,
+    "lon": 76.92295706178066
   },
   {
     "partId": 136327,
@@ -3968,7 +4688,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 32,
-    "partName": "BAROLI"
+    "partName": "BAROLI",
+    "lat": 26.084361100000002,
+    "lon": 76.94494878986873
   },
   {
     "partId": 136359,
@@ -3979,7 +4701,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 33,
-    "partName": "PARASALI"
+    "partName": "PARASALI",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136167,
@@ -3990,7 +4714,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 34,
-    "partName": "KISHANAPURA"
+    "partName": "KISHANAPURA",
+    "lat": 25.74992665,
+    "lon": 76.9212944875333
   },
   {
     "partId": 136159,
@@ -4001,7 +4727,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 35,
-    "partName": "CHAINPUR"
+    "partName": "CHAINPUR",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136328,
@@ -4012,7 +4740,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 36,
-    "partName": "JAMURDI"
+    "partName": "JAMURDI",
+    "lat": 25.74992665,
+    "lon": 76.9212944875333
   },
   {
     "partId": 136329,
@@ -4023,7 +4753,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 37,
-    "partName": "DUBAVALI"
+    "partName": "DUBAVALI",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136330,
@@ -4034,7 +4766,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 38,
-    "partName": "DHOURIBAVADI"
+    "partName": "DHOURIBAVADI",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136158,
@@ -4045,7 +4779,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 39,
-    "partName": "BHAIROPURA"
+    "partName": "BHAIROPURA",
+    "lat": 26.1253108,
+    "lon": 77.0942401
   },
   {
     "partId": 136331,
@@ -4056,7 +4792,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 40,
-    "partName": "RAGHUNATHAPUR"
+    "partName": "RAGHUNATHAPUR",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136250,
@@ -4067,7 +4805,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 41,
-    "partName": "RAGHUNATHAPUR"
+    "partName": "RAGHUNATHAPUR",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136190,
@@ -4078,7 +4818,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 42,
-    "partName": "RAWATPURA"
+    "partName": "RAWATPURA",
+    "lat": 26.02527345,
+    "lon": 76.98092607983617
   },
   {
     "partId": 136332,
@@ -4089,7 +4831,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 43,
-    "partName": "RAGHUNATHAPUR"
+    "partName": "RAGHUNATHAPUR",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136371,
@@ -4100,7 +4844,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 44,
-    "partName": "RAGHUNATHAPUR"
+    "partName": "RAGHUNATHAPUR",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136294,
@@ -4111,7 +4857,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 45,
-    "partName": "RAGHUNATHAPUR"
+    "partName": "RAGHUNATHAPUR",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136370,
@@ -4122,7 +4870,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 46,
-    "partName": "BHAMPURA"
+    "partName": "BHAMPURA",
+    "lat": 26.0177704,
+    "lon": 77.01694976911358
   },
   {
     "partId": 136295,
@@ -4133,7 +4883,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 47,
-    "partName": "MOREKA"
+    "partName": "MOREKA",
+    "lat": 25.97309305,
+    "lon": 76.96592871510387
   },
   {
     "partId": 136296,
@@ -4144,7 +4896,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 48,
-    "partName": "PURA"
+    "partName": "PURA",
+    "lat": 25.95539315,
+    "lon": 76.98196355643049
   },
   {
     "partId": 136249,
@@ -4155,7 +4909,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 49,
-    "partName": "PURA"
+    "partName": "PURA",
+    "lat": 25.95539315,
+    "lon": 76.98196355643049
   },
   {
     "partId": 136297,
@@ -4166,7 +4922,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 50,
-    "partName": "PURA"
+    "partName": "PURA",
+    "lat": 25.95539315,
+    "lon": 76.98196355643049
   },
   {
     "partId": 136434,
@@ -4177,7 +4935,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 51,
-    "partName": "JHANGARD"
+    "partName": "JHANGARD",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136298,
@@ -4188,7 +4948,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 52,
-    "partName": "OCHHA"
+    "partName": "OCHHA",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136248,
@@ -4199,7 +4961,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 53,
-    "partName": "OCHHA"
+    "partName": "OCHHA",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136433,
@@ -4210,7 +4974,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 54,
-    "partName": "OCHHA"
+    "partName": "OCHHA",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136452,
@@ -4221,7 +4987,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 55,
-    "partName": "SHYAMAPUR"
+    "partName": "SHYAMAPUR",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136432,
@@ -4232,7 +5000,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 56,
-    "partName": "SHYAMAPUR"
+    "partName": "SHYAMAPUR",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136191,
@@ -4243,7 +5013,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 57,
-    "partName": "SHYAMAPUR"
+    "partName": "SHYAMAPUR",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136431,
@@ -4254,7 +5026,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 58,
-    "partName": "SHYAMAPUR"
+    "partName": "SHYAMAPUR",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136453,
@@ -4265,7 +5039,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 59,
-    "partName": "GHUGHAS"
+    "partName": "GHUGHAS",
+    "lat": 26.119435850000002,
+    "lon": 77.06031676018043
   },
   {
     "partId": 136430,
@@ -4276,7 +5052,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 60,
-    "partName": "GHUGHAS"
+    "partName": "GHUGHAS",
+    "lat": 26.119435850000002,
+    "lon": 77.06031676018043
   },
   {
     "partId": 136419,
@@ -4287,7 +5065,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 61,
-    "partName": "NADIGANV"
+    "partName": "NADIGANV",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136335,
@@ -4298,7 +5078,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 62,
-    "partName": "KAUPURA"
+    "partName": "KAUPURA",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136429,
@@ -4309,7 +5091,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 63,
-    "partName": "NADI GAO"
+    "partName": "NADI GAO",
+    "lat": 25.74992665,
+    "lon": 76.9212944875333
   },
   {
     "partId": 136420,
@@ -4320,7 +5104,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 64,
-    "partName": "JIMARACHHA"
+    "partName": "JIMARACHHA",
+    "lat": 25.74992665,
+    "lon": 76.9212944875333
   },
   {
     "partId": 136369,
@@ -4331,7 +5117,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 65,
-    "partName": "SATHER"
+    "partName": "SATHER",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136421,
@@ -4342,7 +5130,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 66,
-    "partName": "GOUHAR"
+    "partName": "GOUHAR",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136220,
@@ -4353,7 +5143,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 67,
-    "partName": "GOUHAR"
+    "partName": "GOUHAR",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136422,
@@ -4364,7 +5156,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 68,
-    "partName": "JAKHER (BHAIROPURA)"
+    "partName": "JAKHER (BHAIROPURA)",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136251,
@@ -4375,7 +5169,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 69,
-    "partName": "NITANAVAS"
+    "partName": "NITANAVAS",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136368,
@@ -4386,7 +5182,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 70,
-    "partName": "NITANAVAS"
+    "partName": "NITANAVAS",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136252,
@@ -4397,7 +5195,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 71,
-    "partName": "MOHANPURA"
+    "partName": "MOHANPURA",
+    "lat": 26.060767,
+    "lon": 77.36770598144983
   },
   {
     "partId": 136253,
@@ -4408,7 +5208,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 72,
-    "partName": "SIKHEDA"
+    "partName": "SIKHEDA",
+    "lat": 26.1412614,
+    "lon": 77.1104514
   },
   {
     "partId": 136254,
@@ -4419,7 +5221,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 73,
-    "partName": "PANCHO COLONY"
+    "partName": "PANCHO COLONY",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136219,
@@ -4430,7 +5234,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 74,
-    "partName": "PANCHON"
+    "partName": "PANCHON",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136255,
@@ -4441,7 +5247,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 75,
-    "partName": "VEERPUR"
+    "partName": "VEERPUR",
+    "lat": 25.74992665,
+    "lon": 76.9212944875333
   },
   {
     "partId": 136342,
@@ -4452,7 +5260,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 76,
-    "partName": "VEERPUR"
+    "partName": "VEERPUR",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136148,
@@ -4463,7 +5273,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 77,
-    "partName": "VEERPUR"
+    "partName": "VEERPUR",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136192,
@@ -4474,7 +5286,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 78,
-    "partName": "VEERPUR"
+    "partName": "VEERPUR",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136367,
@@ -4485,7 +5299,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 79,
-    "partName": "VEERPUR"
+    "partName": "VEERPUR",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136256,
@@ -4496,7 +5312,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 80,
-    "partName": "SHYARADA"
+    "partName": "SHYARADA",
+    "lat": 25.74992665,
+    "lon": 76.9212944875333
   },
   {
     "partId": 136257,
@@ -4507,7 +5325,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 81,
-    "partName": "CHAKASITARAM"
+    "partName": "CHAKASITARAM",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136258,
@@ -4518,7 +5338,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 82,
-    "partName": "BADAGANV"
+    "partName": "BADAGANV",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136247,
@@ -4529,7 +5351,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 83,
-    "partName": "BADAGANV"
+    "partName": "BADAGANV",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136259,
@@ -4540,7 +5364,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 84,
-    "partName": "HARKUI"
+    "partName": "HARKUI",
+    "lat": 26.159994349999998,
+    "lon": 77.17783348583626
   },
   {
     "partId": 136260,
@@ -4551,7 +5377,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 85,
-    "partName": "GADHI"
+    "partName": "GADHI",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136358,
@@ -4562,7 +5390,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 86,
-    "partName": "GADHI"
+    "partName": "GADHI",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136261,
@@ -4573,7 +5403,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 87,
-    "partName": "GADHI"
+    "partName": "GADHI",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136246,
@@ -4584,7 +5416,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 88,
-    "partName": "TILANGAPURA"
+    "partName": "TILANGAPURA",
+    "lat": 26.1132307,
+    "lon": 77.2976911
   },
   {
     "partId": 136262,
@@ -4595,7 +5429,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 89,
-    "partName": "UPACHA"
+    "partName": "UPACHA",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136357,
@@ -4606,7 +5442,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 90,
-    "partName": "BHOJPAHADIYA"
+    "partName": "BHOJPAHADIYA",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136263,
@@ -4617,7 +5455,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 91,
-    "partName": "MADHA"
+    "partName": "MADHA",
+    "lat": 26.092148350000002,
+    "lon": 77.31471007320692
   },
   {
     "partId": 136366,
@@ -4628,7 +5468,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 92,
-    "partName": "MADHA"
+    "partName": "MADHA",
+    "lat": 26.092148350000002,
+    "lon": 77.31471007320692
   },
   {
     "partId": 136264,
@@ -4639,7 +5481,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 93,
-    "partName": "JOMA KA PURA"
+    "partName": "JOMA KA PURA",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136428,
@@ -4650,7 +5494,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 94,
-    "partName": "ITAWAI"
+    "partName": "ITAWAI",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136341,
@@ -4661,7 +5507,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 95,
-    "partName": "BHAINSAI"
+    "partName": "BHAINSAI",
+    "lat": 26.0802596,
+    "lon": 77.3584914
   },
   {
     "partId": 136265,
@@ -4672,7 +5520,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 96,
-    "partName": "BANGAROD"
+    "partName": "BANGAROD",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136356,
@@ -4683,7 +5533,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 97,
-    "partName": "BANGAROD"
+    "partName": "BANGAROD",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136193,
@@ -4694,7 +5546,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 98,
-    "partName": "GOUHARA"
+    "partName": "GOUHARA",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136245,
@@ -4705,7 +5559,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 99,
-    "partName": "GOUHARA"
+    "partName": "GOUHARA",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136266,
@@ -4716,7 +5572,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 100,
-    "partName": "RANAVAD"
+    "partName": "RANAVAD",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136267,
@@ -4727,7 +5585,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 101,
-    "partName": "SUNAVAI"
+    "partName": "SUNAVAI",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136268,
@@ -4738,7 +5598,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 102,
-    "partName": "SUNAVAI"
+    "partName": "SUNAVAI",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136269,
@@ -4749,7 +5611,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 103,
-    "partName": "ANDHUPURA"
+    "partName": "ANDHUPURA",
+    "lat": 26.0967708,
+    "lon": 77.37783473856729
   },
   {
     "partId": 136270,
@@ -4760,7 +5624,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 104,
-    "partName": "BARADULA"
+    "partName": "BARADULA",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136271,
@@ -4771,7 +5637,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 105,
-    "partName": "DOURD"
+    "partName": "DOURD",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136365,
@@ -4782,7 +5650,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 106,
-    "partName": "DOURD"
+    "partName": "DOURD",
+    "lat": 25.74992665,
+    "lon": 76.9212944875333
   },
   {
     "partId": 136272,
@@ -4793,7 +5663,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 107,
-    "partName": "DOURD"
+    "partName": "DOURD",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136273,
@@ -4804,7 +5676,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 108,
-    "partName": "MEVARA"
+    "partName": "MEVARA",
+    "lat": 25.74992665,
+    "lon": 76.9212944875333
   },
   {
     "partId": 136274,
@@ -4815,7 +5689,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 109,
-    "partName": "BICHAPURI"
+    "partName": "BICHAPURI",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136355,
@@ -4826,7 +5702,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 110,
-    "partName": "BICHAPURI"
+    "partName": "BICHAPURI",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136275,
@@ -4837,7 +5715,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 111,
-    "partName": "BARAKALA"
+    "partName": "BARAKALA",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136194,
@@ -4848,7 +5728,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 112,
-    "partName": "KATHOUN"
+    "partName": "KATHOUN",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136340,
@@ -4859,7 +5741,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 113,
-    "partName": "KATHOUN"
+    "partName": "KATHOUN",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136276,
@@ -4870,7 +5754,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 114,
-    "partName": "GOUHATA"
+    "partName": "GOUHATA",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136377,
@@ -4881,7 +5767,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 115,
-    "partName": "GOUHATA"
+    "partName": "GOUHATA",
+    "lat": 25.74992665,
+    "lon": 76.9212944875333
   },
   {
     "partId": 136277,
@@ -4892,7 +5780,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 116,
-    "partName": "GOUHATA"
+    "partName": "GOUHATA",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136156,
@@ -4903,7 +5793,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 117,
-    "partName": "GOUHATA"
+    "partName": "GOUHATA",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136278,
@@ -4914,7 +5806,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 118,
-    "partName": "PACHANAYA"
+    "partName": "PACHANAYA",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136376,
@@ -4925,7 +5819,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 119,
-    "partName": "BEESA"
+    "partName": "BEESA",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136279,
@@ -4936,7 +5832,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 120,
-    "partName": "IKALOUD"
+    "partName": "IKALOUD",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136280,
@@ -4947,7 +5845,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 121,
-    "partName": "IKALOUD"
+    "partName": "IKALOUD",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136281,
@@ -4958,7 +5858,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 122,
-    "partName": "IKALOUD"
+    "partName": "IKALOUD",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136149,
@@ -4969,7 +5871,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 123,
-    "partName": "IKALOUD"
+    "partName": "IKALOUD",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136282,
@@ -4980,7 +5884,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 124,
-    "partName": "IKALOUD (MADHOPURA)"
+    "partName": "IKALOUD (MADHOPURA)",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136244,
@@ -4991,7 +5897,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 125,
-    "partName": "IKALOUD (GOLIPURA)"
+    "partName": "IKALOUD (GOLIPURA)",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136283,
@@ -5002,7 +5910,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 126,
-    "partName": "MANDI VIJAYAPUR"
+    "partName": "MANDI VIJAYAPUR",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136243,
@@ -5013,7 +5923,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 127,
-    "partName": "MANDI VIJAYAPUR"
+    "partName": "MANDI VIJAYAPUR",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136284,
@@ -5024,7 +5936,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 128,
-    "partName": "MANDI VIJAYAPUR"
+    "partName": "MANDI VIJAYAPUR",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136218,
@@ -5035,7 +5949,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 129,
-    "partName": "MANDI VIJAYAPUR"
+    "partName": "MANDI VIJAYAPUR",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136285,
@@ -5046,7 +5962,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 130,
-    "partName": "MANDI VIJAYAPUR"
+    "partName": "MANDI VIJAYAPUR",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136217,
@@ -5057,7 +5975,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 131,
-    "partName": "MANDI VIJAYAPUR"
+    "partName": "MANDI VIJAYAPUR",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136286,
@@ -5068,7 +5988,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 132,
-    "partName": "LADAPURA"
+    "partName": "LADAPURA",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136287,
@@ -5079,7 +6001,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 133,
-    "partName": "KHITARAPAL"
+    "partName": "KHITARAPAL",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136364,
@@ -5090,7 +6014,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 134,
-    "partName": "RAMPURA (KHITARAPAL)"
+    "partName": "RAMPURA (KHITARAPAL)",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136288,
@@ -5101,7 +6027,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 135,
-    "partName": "ARROD"
+    "partName": "ARROD",
+    "lat": 25.9769309,
+    "lon": 77.2955346
   },
   {
     "partId": 136216,
@@ -5112,7 +6040,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 136,
-    "partName": "ARROD"
+    "partName": "ARROD",
+    "lat": 25.9769309,
+    "lon": 77.2955346
   },
   {
     "partId": 136289,
@@ -5123,7 +6053,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 137,
-    "partName": "ARROD"
+    "partName": "ARROD",
+    "lat": 25.9769309,
+    "lon": 77.2955346
   },
   {
     "partId": 136451,
@@ -5134,7 +6066,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 138,
-    "partName": "KISHANPURA"
+    "partName": "KISHANPURA",
+    "lat": 26.07130995,
+    "lon": 76.99953453279909
   },
   {
     "partId": 136128,
@@ -5145,7 +6079,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 139,
-    "partName": "AGARA"
+    "partName": "AGARA",
+    "lat": 25.9297579,
+    "lon": 77.258048
   },
   {
     "partId": 136215,
@@ -5156,7 +6092,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 140,
-    "partName": "AGARA"
+    "partName": "AGARA",
+    "lat": 25.9297579,
+    "lon": 77.258048
   },
   {
     "partId": 136450,
@@ -5167,7 +6105,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 141,
-    "partName": "AGARA"
+    "partName": "AGARA",
+    "lat": 25.74992665,
+    "lon": 76.9212944875333
   },
   {
     "partId": 136129,
@@ -5178,7 +6118,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 142,
-    "partName": "CHETIKHEDA"
+    "partName": "CHETIKHEDA",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136214,
@@ -5189,7 +6131,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 143,
-    "partName": "DANGPURA"
+    "partName": "DANGPURA",
+    "lat": 25.9568678,
+    "lon": 77.2757506
   },
   {
     "partId": 136189,
@@ -5200,7 +6144,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 144,
-    "partName": "BARRED"
+    "partName": "BARRED",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136195,
@@ -5211,7 +6157,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 145,
-    "partName": "BAVANAVAS"
+    "partName": "BAVANAVAS",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136130,
@@ -5222,7 +6170,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 146,
-    "partName": "UMARIKALA"
+    "partName": "UMARIKALA",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136213,
@@ -5233,7 +6183,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 147,
-    "partName": "PIPAL BAVADI LARDEH"
+    "partName": "PIPAL BAVADI LARDEH",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136188,
@@ -5244,7 +6196,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 148,
-    "partName": "UMARIKALAN"
+    "partName": "UMARIKALAN",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136131,
@@ -5255,7 +6209,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 149,
-    "partName": "KADAVAI"
+    "partName": "KADAVAI",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136132,
@@ -5266,7 +6222,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 150,
-    "partName": "MAGARADEH"
+    "partName": "MAGARADEH",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136133,
@@ -5277,7 +6235,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 151,
-    "partName": "DHORERA"
+    "partName": "DHORERA",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136134,
@@ -5288,7 +6248,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 152,
-    "partName": "PARVATI BADOUDA"
+    "partName": "PARVATI BADOUDA",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136354,
@@ -5299,7 +6261,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 153,
-    "partName": "PARVATI BADOUDA"
+    "partName": "PARVATI BADOUDA",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136135,
@@ -5310,7 +6274,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 154,
-    "partName": "DHAMINI"
+    "partName": "DHAMINI",
+    "lat": 25.9711632,
+    "lon": 77.3250389
   },
   {
     "partId": 136136,
@@ -5321,7 +6287,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 155,
-    "partName": "JHARABADOUDA"
+    "partName": "JHARABADOUDA",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136137,
@@ -5332,7 +6300,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 156,
-    "partName": "BENIPURA"
+    "partName": "BENIPURA",
+    "lat": 25.99264415,
+    "lon": 77.35357940110484
   },
   {
     "partId": 136212,
@@ -5343,7 +6313,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 157,
-    "partName": "NATHOLIPURA (BENIPURA)"
+    "partName": "NATHOLIPURA (BENIPURA)",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136138,
@@ -5354,7 +6326,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 158,
-    "partName": "ARODA"
+    "partName": "ARODA",
+    "lat": 26.01522305,
+    "lon": 77.35155022618062
   },
   {
     "partId": 136139,
@@ -5365,7 +6339,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 159,
-    "partName": "CHHAPAR"
+    "partName": "CHHAPAR",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136140,
@@ -5376,7 +6352,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 160,
-    "partName": "HULLAPUR"
+    "partName": "HULLAPUR",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136363,
@@ -5387,7 +6365,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 161,
-    "partName": "HULLAPUR"
+    "partName": "HULLAPUR",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136391,
@@ -5398,7 +6378,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 162,
-    "partName": "LOSAGHANI"
+    "partName": "LOSAGHANI",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136196,
@@ -5409,7 +6391,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 163,
-    "partName": "VIJAYPUR"
+    "partName": "VIJAYPUR",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136392,
@@ -5420,7 +6404,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 164,
-    "partName": "VIJAYPUR"
+    "partName": "VIJAYPUR",
+    "lat": 25.74992665,
+    "lon": 76.9212944875333
   },
   {
     "partId": 136393,
@@ -5431,7 +6417,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 165,
-    "partName": "VIJAYAPUR"
+    "partName": "VIJAYAPUR",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136394,
@@ -5442,7 +6430,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 166,
-    "partName": "VIJAYPUR"
+    "partName": "VIJAYPUR",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136211,
@@ -5453,7 +6443,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 167,
-    "partName": "DABIPURA VIJAYPUR"
+    "partName": "DABIPURA VIJAYPUR",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136397,
@@ -5464,7 +6456,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 168,
-    "partName": "VIJAYPUR"
+    "partName": "VIJAYPUR",
+    "lat": 25.74992665,
+    "lon": 76.9212944875333
   },
   {
     "partId": 136187,
@@ -5475,7 +6469,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 169,
-    "partName": "VIJAYPUR"
+    "partName": "VIJAYPUR",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136398,
@@ -5486,7 +6482,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 170,
-    "partName": "VIJAYPUR"
+    "partName": "VIJAYPUR",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136399,
@@ -5497,7 +6495,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 171,
-    "partName": "VIJAYPUR"
+    "partName": "VIJAYPUR",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136400,
@@ -5508,7 +6508,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 172,
-    "partName": "VIJAYPUR"
+    "partName": "VIJAYPUR",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136401,
@@ -5519,7 +6521,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 173,
-    "partName": "MAIDAVALI"
+    "partName": "MAIDAVALI",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136449,
@@ -5530,7 +6534,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 174,
-    "partName": "MAKANA KA PURA"
+    "partName": "MAKANA KA PURA",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136402,
@@ -5541,7 +6547,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 175,
-    "partName": "DAUDAPUR"
+    "partName": "DAUDAPUR",
+    "lat": 25.74992665,
+    "lon": 76.9212944875333
   },
   {
     "partId": 136362,
@@ -5552,7 +6560,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 176,
-    "partName": "SHIVLALPURA"
+    "partName": "SHIVLALPURA",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136427,
@@ -5563,7 +6573,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 177,
-    "partName": "PACHYAPURA"
+    "partName": "PACHYAPURA",
+    "lat": 26.0713937,
+    "lon": 77.3961925
   },
   {
     "partId": 136403,
@@ -5574,7 +6586,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 178,
-    "partName": "GOPALAPUR"
+    "partName": "GOPALAPUR",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136210,
@@ -5585,7 +6599,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 179,
-    "partName": "CHANDERI"
+    "partName": "CHANDERI",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136209,
@@ -5596,7 +6612,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 180,
-    "partName": "KHURDBARA"
+    "partName": "KHURDBARA",
+    "lat": 25.74992665,
+    "lon": 76.9212944875333
   },
   {
     "partId": 136221,
@@ -5607,7 +6625,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 181,
-    "partName": "GANVADI"
+    "partName": "GANVADI",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136361,
@@ -5618,7 +6638,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 182,
-    "partName": "GANVADI"
+    "partName": "GANVADI",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136222,
@@ -5629,7 +6651,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 183,
-    "partName": "GOBAR"
+    "partName": "GOBAR",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136197,
@@ -5640,7 +6664,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 184,
-    "partName": "BADOUDAKALA"
+    "partName": "BADOUDAKALA",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136150,
@@ -5651,7 +6677,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 185,
-    "partName": "BADOUDAKALAN"
+    "partName": "BADOUDAKALAN",
+    "lat": 25.74992665,
+    "lon": 76.9212944875333
   },
   {
     "partId": 136186,
@@ -5662,7 +6690,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 186,
-    "partName": "NAYA GAOW"
+    "partName": "NAYA GAOW",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136223,
@@ -5673,7 +6703,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 187,
-    "partName": "SIDHPURA"
+    "partName": "SIDHPURA",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136155,
@@ -5684,7 +6716,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 188,
-    "partName": "NEHARAKHEDA"
+    "partName": "NEHARAKHEDA",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136224,
@@ -5695,7 +6729,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 189,
-    "partName": "PHARARA"
+    "partName": "PHARARA",
+    "lat": 25.87958715,
+    "lon": 77.57849009116
   },
   {
     "partId": 136225,
@@ -5706,7 +6742,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 190,
-    "partName": "BEHATA"
+    "partName": "BEHATA",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136226,
@@ -5717,7 +6755,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 191,
-    "partName": "KHURRAKA"
+    "partName": "KHURRAKA",
+    "lat": 25.86468345,
+    "lon": 77.57026969437325
   },
   {
     "partId": 136227,
@@ -5728,7 +6768,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 192,
-    "partName": "SAHASARAM"
+    "partName": "SAHASARAM",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136185,
@@ -5739,7 +6781,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 193,
-    "partName": "SAHASARAM"
+    "partName": "SAHASARAM",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136154,
@@ -5750,7 +6794,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 194,
-    "partName": "SAHASARAM"
+    "partName": "SAHASARAM",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136184,
@@ -5761,7 +6807,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 195,
-    "partName": "SAHASARAM"
+    "partName": "SAHASARAM",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136228,
@@ -5772,7 +6820,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 196,
-    "partName": "GASAVANI"
+    "partName": "GASAVANI",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136208,
@@ -5783,7 +6833,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 197,
-    "partName": "GASAVANI"
+    "partName": "GASAVANI",
+    "lat": 25.74992665,
+    "lon": 76.9212944875333
   },
   {
     "partId": 136229,
@@ -5794,7 +6846,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 198,
-    "partName": "GASAVANI"
+    "partName": "GASAVANI",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136230,
@@ -5805,7 +6859,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 199,
-    "partName": "KINJARI"
+    "partName": "KINJARI",
+    "lat": 25.86662465,
+    "lon": 77.4886748190699
   },
   {
     "partId": 136231,
@@ -5816,7 +6872,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 200,
-    "partName": "SARANGAPUR"
+    "partName": "SARANGAPUR",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136380,
@@ -5827,7 +6885,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 201,
-    "partName": "AITA"
+    "partName": "AITA",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136183,
@@ -5838,7 +6898,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 202,
-    "partName": "SIMRAI"
+    "partName": "SIMRAI",
+    "lat": 25.918820349999997,
+    "lon": 77.49344795058184
   },
   {
     "partId": 136334,
@@ -5849,7 +6911,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 203,
-    "partName": "BAGWANI"
+    "partName": "BAGWANI",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136381,
@@ -5860,7 +6924,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 204,
-    "partName": "CHIMALAVANI"
+    "partName": "CHIMALAVANI",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136207,
@@ -5871,7 +6937,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 205,
-    "partName": "DEVARI"
+    "partName": "DEVARI",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136182,
@@ -5882,7 +6950,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 206,
-    "partName": "CHIMALAVANI"
+    "partName": "CHIMALAVANI",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136382,
@@ -5893,7 +6963,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 207,
-    "partName": "BUDHERA"
+    "partName": "BUDHERA",
+    "lat": 25.7463392,
+    "lon": 76.94054009670798
   },
   {
     "partId": 136426,
@@ -5904,7 +6976,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 208,
-    "partName": "PATAPARA"
+    "partName": "PATAPARA",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136198,
@@ -5915,7 +6989,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 209,
-    "partName": "NAYAGAV PALAPUR"
+    "partName": "NAYAGAV PALAPUR",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136383,
@@ -5926,7 +7002,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 210,
-    "partName": "PIPARAVAS"
+    "partName": "PIPARAVAS",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136448,
@@ -5937,7 +7015,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 211,
-    "partName": "KHADI NO. 1"
+    "partName": "KHADI NO. 1",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136384,
@@ -5948,7 +7028,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 212,
-    "partName": "KHURAJAN"
+    "partName": "KHURAJAN",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136385,
@@ -5959,7 +7041,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 213,
-    "partName": "NITANAVAS"
+    "partName": "NITANAVAS",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136386,
@@ -5970,7 +7054,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 214,
-    "partName": "BECHAI"
+    "partName": "BECHAI",
+    "lat": 25.7812278,
+    "lon": 77.4285078
   },
   {
     "partId": 136425,
@@ -5981,7 +7067,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 215,
-    "partName": "SILPURA"
+    "partName": "SILPURA",
+    "lat": 25.810464099999997,
+    "lon": 77.3516814233657
   },
   {
     "partId": 136387,
@@ -5992,7 +7080,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 216,
-    "partName": "PAROND"
+    "partName": "PAROND",
+    "lat": 25.7090205,
+    "lon": 77.26012235855708
   },
   {
     "partId": 136424,
@@ -6003,7 +7093,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 217,
-    "partName": "ahirwani"
+    "partName": "ahirwani",
+    "lat": 25.680334350000003,
+    "lon": 77.11288983292793
   },
   {
     "partId": 136349,
@@ -6014,7 +7106,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 218,
-    "partName": "PALAPUR"
+    "partName": "PALAPUR",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136181,
@@ -6025,7 +7119,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 219,
-    "partName": "PALAPUR"
+    "partName": "PALAPUR",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136395,
@@ -6036,7 +7132,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 220,
-    "partName": "basantpura"
+    "partName": "basantpura",
+    "lat": 25.8180001,
+    "lon": 77.21698222143034
   },
   {
     "partId": 136350,
@@ -6047,7 +7145,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 221,
-    "partName": "PAIRA"
+    "partName": "PAIRA",
+    "lat": 25.81617335,
+    "lon": 77.16210842030608
   },
   {
     "partId": 136360,
@@ -6058,7 +7158,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 222,
-    "partName": "KHAJURIKALAN"
+    "partName": "KHAJURIKALAN",
+    "lat": 25.74992665,
+    "lon": 76.9212944875333
   },
   {
     "partId": 136351,
@@ -6069,7 +7171,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 223,
-    "partName": "HIRAPUR"
+    "partName": "HIRAPUR",
+    "lat": 25.8313762,
+    "lon": 76.76980044067147
   },
   {
     "partId": 136206,
@@ -6080,7 +7184,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 224,
-    "partName": "HIRAPUR"
+    "partName": "HIRAPUR",
+    "lat": 25.8313762,
+    "lon": 76.76980044067147
   },
   {
     "partId": 136180,
@@ -6091,7 +7197,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 225,
-    "partName": "GIRDHARPUR"
+    "partName": "GIRDHARPUR",
+    "lat": 25.82161345,
+    "lon": 76.7773435544449
   },
   {
     "partId": 136352,
@@ -6102,7 +7210,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 226,
-    "partName": "JHARER"
+    "partName": "JHARER",
+    "lat": 25.77557995,
+    "lon": 76.85589982803003
   },
   {
     "partId": 136353,
@@ -6113,7 +7223,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 227,
-    "partName": "PATALAGADH"
+    "partName": "PATALAGADH",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136199,
@@ -6124,7 +7236,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 228,
-    "partName": "DAVALI"
+    "partName": "DAVALI",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136333,
@@ -6135,7 +7249,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 229,
-    "partName": "AJNOI"
+    "partName": "AJNOI",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136372,
@@ -6146,7 +7262,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 230,
-    "partName": "BUDHERA"
+    "partName": "BUDHERA",
+    "lat": 25.7463392,
+    "lon": 76.94054009670798
   },
   {
     "partId": 136205,
@@ -6157,7 +7275,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 231,
-    "partName": "BUDHERA"
+    "partName": "BUDHERA",
+    "lat": 25.7463392,
+    "lon": 76.94054009670798
   },
   {
     "partId": 136373,
@@ -6168,7 +7288,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 232,
-    "partName": "KAKARADHA"
+    "partName": "KAKARADHA",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136374,
@@ -6179,7 +7301,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 233,
-    "partName": "BHELA"
+    "partName": "BHELA",
+    "lat": 25.6930583,
+    "lon": 76.84997539198363
   },
   {
     "partId": 136375,
@@ -6190,7 +7314,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 234,
-    "partName": "KALAMI"
+    "partName": "KALAMI",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136440,
@@ -6201,7 +7327,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 235,
-    "partName": "BANDHALI"
+    "partName": "BANDHALI",
+    "lat": 25.74992665,
+    "lon": 76.9212944875333
   },
   {
     "partId": 136423,
@@ -6212,7 +7340,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 236,
-    "partName": "nimodamath"
+    "partName": "nimodamath",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136441,
@@ -6223,7 +7353,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 237,
-    "partName": "BHOJAKA"
+    "partName": "BHOJAKA",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136179,
@@ -6234,7 +7366,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 238,
-    "partName": "SABDI"
+    "partName": "SABDI",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136442,
@@ -6245,7 +7379,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 239,
-    "partName": "AVADA"
+    "partName": "AVADA",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136204,
@@ -6256,7 +7392,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 240,
-    "partName": "AVADA"
+    "partName": "AVADA",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136443,
@@ -6267,7 +7405,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 241,
-    "partName": "AVADA"
+    "partName": "AVADA",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136236,
@@ -6278,7 +7418,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 242,
-    "partName": "sarjupura"
+    "partName": "sarjupura",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136414,
@@ -6289,7 +7431,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 243,
-    "partName": "MALIPURA"
+    "partName": "MALIPURA",
+    "lat": 25.74992665,
+    "lon": 76.9212944875333
   },
   {
     "partId": 136415,
@@ -6300,7 +7444,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 244,
-    "partName": "BAVADICHAPA"
+    "partName": "BAVADICHAPA",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136416,
@@ -6311,7 +7457,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 245,
-    "partName": "NAYAGANVALAKHA"
+    "partName": "NAYAGANVALAKHA",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136200,
@@ -6322,7 +7470,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 246,
-    "partName": "SALAMANYA"
+    "partName": "SALAMANYA",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136203,
@@ -6333,7 +7483,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 247,
-    "partName": "SALAMANYA"
+    "partName": "SALAMANYA",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136417,
@@ -6344,7 +7496,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 248,
-    "partName": "MASAVANI"
+    "partName": "MASAVANI",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136418,
@@ -6355,7 +7509,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 249,
-    "partName": "BARDHAKHURD"
+    "partName": "BARDHAKHURD",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136291,
@@ -6366,7 +7522,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 250,
-    "partName": "BARDHAKHURD"
+    "partName": "BARDHAKHURD",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136439,
@@ -6377,7 +7535,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 251,
-    "partName": "BUKHARI"
+    "partName": "BUKHARI",
+    "lat": 25.4207812,
+    "lon": 76.81052525300828
   },
   {
     "partId": 136388,
@@ -6388,7 +7548,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 252,
-    "partName": "CHAKAMAJIDAPUR"
+    "partName": "CHAKAMAJIDAPUR",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136299,
@@ -6399,7 +7561,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 253,
-    "partName": "SUVAKARA"
+    "partName": "SUVAKARA",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136242,
@@ -6410,7 +7574,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 254,
-    "partName": "PYARIPURA"
+    "partName": "PYARIPURA",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136178,
@@ -6421,7 +7587,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 255,
-    "partName": "MUNJHARI"
+    "partName": "MUNJHARI",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136235,
@@ -6432,7 +7600,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 256,
-    "partName": "jakhada jageer"
+    "partName": "jakhada jageer",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136300,
@@ -6443,7 +7613,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 257,
-    "partName": "SUNSAVADA"
+    "partName": "SUNSAVADA",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136241,
@@ -6454,7 +7626,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 258,
-    "partName": "RAJPURA"
+    "partName": "RAJPURA",
+    "lat": 25.44194085,
+    "lon": 76.58939213715894
   },
   {
     "partId": 136177,
@@ -6465,7 +7639,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 259,
-    "partName": "JHIRNYA"
+    "partName": "JHIRNYA",
+    "lat": 25.3746622,
+    "lon": 76.8675653
   },
   {
     "partId": 136301,
@@ -6476,7 +7652,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 260,
-    "partName": "PAHELA"
+    "partName": "PAHELA",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136240,
@@ -6487,7 +7665,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 261,
-    "partName": "PAHELA"
+    "partName": "PAHELA",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136176,
@@ -6498,7 +7678,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 262,
-    "partName": "BHURWADA"
+    "partName": "BHURWADA",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136302,
@@ -6509,7 +7691,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 263,
-    "partName": "RINCHHI"
+    "partName": "RINCHHI",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136303,
@@ -6520,7 +7704,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 264,
-    "partName": "PANAR"
+    "partName": "PANAR",
+    "lat": 25.55026425,
+    "lon": 76.8641951257874
   },
   {
     "partId": 136304,
@@ -6531,7 +7717,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 265,
-    "partName": "GORAS"
+    "partName": "GORAS",
+    "lat": 25.5458372,
+    "lon": 76.94743683032378
   },
   {
     "partId": 136447,
@@ -6542,7 +7730,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 266,
-    "partName": "GORAS"
+    "partName": "GORAS",
+    "lat": 25.5458372,
+    "lon": 76.94743683032378
   },
   {
     "partId": 136175,
@@ -6553,7 +7743,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 267,
-    "partName": "GORAS"
+    "partName": "GORAS",
+    "lat": 25.5458372,
+    "lon": 76.94743683032378
   },
   {
     "partId": 136151,
@@ -6564,7 +7756,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 268,
-    "partName": "GORAS"
+    "partName": "GORAS",
+    "lat": 25.5458372,
+    "lon": 76.94743683032378
   },
   {
     "partId": 136305,
@@ -6575,7 +7769,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 269,
-    "partName": "PIPARANI"
+    "partName": "PIPARANI",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136446,
@@ -6586,7 +7782,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 270,
-    "partName": "KARRAI"
+    "partName": "KARRAI",
+    "lat": 25.6618564,
+    "lon": 76.97492818005747
   },
   {
     "partId": 136306,
@@ -6597,7 +7795,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 271,
-    "partName": "DOB"
+    "partName": "DOB",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136307,
@@ -6608,7 +7808,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 272,
-    "partName": "GADALA"
+    "partName": "GADALA",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136389,
@@ -6619,7 +7821,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 273,
-    "partName": "CHITARA"
+    "partName": "CHITARA",
+    "lat": 25.681574050000002,
+    "lon": 77.06639809126764
   },
   {
     "partId": 136239,
@@ -6630,7 +7834,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 274,
-    "partName": "DUNDIKHEDA"
+    "partName": "DUNDIKHEDA",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136390,
@@ -6641,7 +7847,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 275,
-    "partName": "BARAGAVAN"
+    "partName": "BARAGAVAN",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136238,
@@ -6652,7 +7860,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 276,
-    "partName": "BARAGAVAN"
+    "partName": "BARAGAVAN",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136174,
@@ -6663,7 +7873,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 277,
-    "partName": "CHAK BARAGAVAN"
+    "partName": "CHAK BARAGAVAN",
+    "lat": 25.74992665,
+    "lon": 76.9212944875333
   },
   {
     "partId": 136343,
@@ -6674,7 +7886,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 278,
-    "partName": "LALDAH KANKARA"
+    "partName": "LALDAH KANKARA",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136237,
@@ -6685,7 +7899,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 279,
-    "partName": "MADANPUR"
+    "partName": "MADANPUR",
+    "lat": 25.663937349999998,
+    "lon": 77.10644336524183
   },
   {
     "partId": 136344,
@@ -6696,7 +7912,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 280,
-    "partName": "bamauri"
+    "partName": "bamauri",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136345,
@@ -6707,7 +7925,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 281,
-    "partName": "GOTHARA"
+    "partName": "GOTHARA",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136346,
@@ -6718,7 +7938,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 282,
-    "partName": "JAKHADA"
+    "partName": "JAKHADA",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136290,
@@ -6729,7 +7951,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 283,
-    "partName": "PALAMPUR"
+    "partName": "PALAMPUR",
+    "lat": 25.6605809,
+    "lon": 77.05637646847178
   },
   {
     "partId": 136347,
@@ -6740,7 +7964,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 284,
-    "partName": "SARARIKHURD"
+    "partName": "SARARIKHURD",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136348,
@@ -6751,7 +7977,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 285,
-    "partName": "LAHARONI"
+    "partName": "LAHARONI",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136201,
@@ -6762,7 +7990,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 286,
-    "partName": "PARTAVADA"
+    "partName": "PARTAVADA",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136173,
@@ -6773,7 +8003,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 287,
-    "partName": "AMET"
+    "partName": "AMET",
+    "lat": 25.59111445,
+    "lon": 77.12041682759346
   },
   {
     "partId": 136152,
@@ -6784,7 +8016,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 288,
-    "partName": "SILAPURI"
+    "partName": "SILAPURI",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136172,
@@ -6795,7 +8029,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 289,
-    "partName": "SILAPURI"
+    "partName": "SILAPURI",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136404,
@@ -6806,7 +8042,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 290,
-    "partName": "PANAVADA"
+    "partName": "PANAVADA",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136405,
@@ -6817,7 +8055,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 291,
-    "partName": "KARAHAL"
+    "partName": "KARAHAL",
+    "lat": 25.4906869,
+    "lon": 77.0510297
   },
   {
     "partId": 136445,
@@ -6828,7 +8068,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 292,
-    "partName": "KARAHAL"
+    "partName": "KARAHAL",
+    "lat": 25.74992665,
+    "lon": 76.9212944875333
   },
   {
     "partId": 136406,
@@ -6839,7 +8081,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 293,
-    "partName": "KARAHAL"
+    "partName": "KARAHAL",
+    "lat": 25.4906869,
+    "lon": 77.0510297
   },
   {
     "partId": 136438,
@@ -6850,7 +8094,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 294,
-    "partName": "KARAHAL"
+    "partName": "KARAHAL",
+    "lat": 25.4906869,
+    "lon": 77.0510297
   },
   {
     "partId": 136407,
@@ -6861,7 +8107,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 295,
-    "partName": "KARAHAL"
+    "partName": "KARAHAL",
+    "lat": 25.4906869,
+    "lon": 77.0510297
   },
   {
     "partId": 136379,
@@ -6872,7 +8120,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 296,
-    "partName": "KARAHAL"
+    "partName": "KARAHAL",
+    "lat": 25.4906869,
+    "lon": 77.0510297
   },
   {
     "partId": 136171,
@@ -6883,7 +8133,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 297,
-    "partName": "KARAHAL"
+    "partName": "KARAHAL",
+    "lat": 25.4906869,
+    "lon": 77.0510297
   },
   {
     "partId": 136444,
@@ -6894,7 +8146,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 298,
-    "partName": "PAROND KARAHAL"
+    "partName": "PAROND KARAHAL",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136408,
@@ -6905,7 +8159,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 299,
-    "partName": "KARAHAL"
+    "partName": "KARAHAL",
+    "lat": 25.4906869,
+    "lon": 77.0510297
   },
   {
     "partId": 136234,
@@ -6916,7 +8172,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 300,
-    "partName": "KARAHAL"
+    "partName": "KARAHAL",
+    "lat": 25.4906869,
+    "lon": 77.0510297
   },
   {
     "partId": 136153,
@@ -6927,7 +8185,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 301,
-    "partName": "KARAHAL"
+    "partName": "KARAHAL",
+    "lat": 25.4906869,
+    "lon": 77.0510297
   },
   {
     "partId": 136409,
@@ -6938,7 +8198,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 302,
-    "partName": "KARAHAL"
+    "partName": "KARAHAL",
+    "lat": 25.4906869,
+    "lon": 77.0510297
   },
   {
     "partId": 136437,
@@ -6949,7 +8211,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 303,
-    "partName": "RANIPURA"
+    "partName": "RANIPURA",
+    "lat": 25.532147000000002,
+    "lon": 77.16128317853605
   },
   {
     "partId": 136410,
@@ -6960,7 +8224,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 304,
-    "partName": "KARAHAL"
+    "partName": "KARAHAL",
+    "lat": 25.74992665,
+    "lon": 76.9212944875333
   },
   {
     "partId": 136170,
@@ -6971,7 +8237,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 305,
-    "partName": "BHOTUPURA"
+    "partName": "BHOTUPURA",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136378,
@@ -6982,7 +8250,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 306,
-    "partName": "SONIPURA"
+    "partName": "SONIPURA",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136411,
@@ -6993,7 +8263,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 307,
-    "partName": "SESAIPURA"
+    "partName": "SESAIPURA",
+    "lat": 25.54279,
+    "lon": 77.1787834
   },
   {
     "partId": 136233,
@@ -7004,7 +8276,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 308,
-    "partName": "SESAIPURA"
+    "partName": "SESAIPURA",
+    "lat": 25.54279,
+    "lon": 77.1787834
   },
   {
     "partId": 136169,
@@ -7015,7 +8289,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 309,
-    "partName": "TAPARIYA"
+    "partName": "TAPARIYA",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136412,
@@ -7026,7 +8302,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 310,
-    "partName": "MORAVAN"
+    "partName": "MORAVAN",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136202,
@@ -7037,7 +8315,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 311,
-    "partName": "TIKATOULI"
+    "partName": "TIKATOULI",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136413,
@@ -7048,7 +8328,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 312,
-    "partName": "BASED"
+    "partName": "BASED",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136436,
@@ -7059,7 +8341,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 313,
-    "partName": "BANSARAIYA"
+    "partName": "BANSARAIYA",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136308,
@@ -7070,7 +8354,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 314,
-    "partName": "KATILA"
+    "partName": "KATILA",
+    "lat": 25.51756285,
+    "lon": 77.17330217288341
   },
   {
     "partId": 136309,
@@ -7081,7 +8367,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 315,
-    "partName": "MEHARAVANI"
+    "partName": "MEHARAVANI",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136232,
@@ -7092,7 +8380,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 316,
-    "partName": "MEHARAVANI"
+    "partName": "MEHARAVANI",
+    "lat": 25.74992665,
+    "lon": 76.9212944875333
   },
   {
     "partId": 136141,
@@ -7103,7 +8393,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 317,
-    "partName": "NIMANIYA"
+    "partName": "NIMANIYA",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136142,
@@ -7114,7 +8406,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 318,
-    "partName": "MORAI"
+    "partName": "MORAI",
+    "lat": 25.3922171,
+    "lon": 77.10220347944701
   },
   {
     "partId": 136143,
@@ -7125,7 +8419,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 319,
-    "partName": "KHIRAKHIRI"
+    "partName": "KHIRAKHIRI",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136396,
@@ -7136,7 +8432,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 320,
-    "partName": "KHIRAKHIRI"
+    "partName": "KHIRAKHIRI",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136144,
@@ -7147,7 +8445,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 321,
-    "partName": "KANARKHEDA"
+    "partName": "KANARKHEDA",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136435,
@@ -7158,7 +8458,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 322,
-    "partName": "RAHRON"
+    "partName": "RAHRON",
+    "lat": 25.6217044,
+    "lon": 77.068857840374
   },
   {
     "partId": 136145,
@@ -7169,7 +8471,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 323,
-    "partName": "KHAIRI"
+    "partName": "KHAIRI",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136146,
@@ -7180,7 +8484,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 324,
-    "partName": "PATONDA"
+    "partName": "PATONDA",
+    "lat": 26.0563684,
+    "lon": 77.366184
   },
   {
     "partId": 136168,
@@ -7191,7 +8497,9 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 325,
-    "partName": "KARIYADEH"
+    "partName": "KARIYADEH",
+    "lat": 25.3233907,
+    "lon": 77.0135164
   },
   {
     "partId": 136147,
@@ -7202,6 +8510,8 @@
     "acNumber": 2,
     "acName": "VIJAYPUR",
     "partNumber": 326,
-    "partName": "KUND"
+    "partName": "KUND",
+    "lat": 25.61892905,
+    "lon": 76.65173775356998
   }
 ]

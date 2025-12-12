@@ -8,7 +8,9 @@
     "acNumber": 2,
     "acName": "DAMPA",
     "partNumber": 1,
-    "partName": "W.Phaileng-I"
+    "partName": "W.Phaileng-I",
+    "lat": 23.4097359,
+    "lon": 92.4313581
   },
   {
     "partId": 1781,
@@ -19,7 +21,9 @@
     "acNumber": 2,
     "acName": "DAMPA",
     "partNumber": 2,
-    "partName": "W.Phaileng-II"
+    "partName": "W.Phaileng-II",
+    "lat": 23.4097359,
+    "lon": 92.4313581
   },
   {
     "partId": 1817,
@@ -30,7 +34,9 @@
     "acNumber": 2,
     "acName": "DAMPA",
     "partNumber": 3,
-    "partName": "W Phaileng III"
+    "partName": "W Phaileng III",
+    "lat": 23.56300865,
+    "lon": 92.36804784382285
   },
   {
     "partId": 1782,
@@ -41,7 +47,9 @@
     "acNumber": 2,
     "acName": "DAMPA",
     "partNumber": 4,
-    "partName": "W.Phaileng Dinthar Veng-I"
+    "partName": "W.Phaileng Dinthar Veng-I",
+    "lat": 23.56300865,
+    "lon": 92.36804784382285
   },
   {
     "partId": 1808,
@@ -52,7 +60,9 @@
     "acNumber": 2,
     "acName": "DAMPA",
     "partNumber": 5,
-    "partName": "W.Phaileng Dinthar Veng-II"
+    "partName": "W.Phaileng Dinthar Veng-II",
+    "lat": 23.56300865,
+    "lon": 92.36804784382285
   },
   {
     "partId": 1813,
@@ -63,7 +73,9 @@
     "acNumber": 2,
     "acName": "DAMPA",
     "partNumber": 6,
-    "partName": "W.Phaileng Dinthar Veng-III"
+    "partName": "W.Phaileng Dinthar Veng-III",
+    "lat": 23.56300865,
+    "lon": 92.36804784382285
   },
   {
     "partId": 1783,
@@ -74,7 +86,9 @@
     "acNumber": 2,
     "acName": "DAMPA",
     "partNumber": 7,
-    "partName": "Kawnmawi"
+    "partName": "Kawnmawi",
+    "lat": 23.6579279,
+    "lon": 92.4774943
   },
   {
     "partId": 1814,
@@ -85,7 +99,9 @@
     "acNumber": 2,
     "acName": "DAMPA",
     "partNumber": 8,
-    "partName": "Chhippui"
+    "partName": "Chhippui",
+    "lat": 23.56300865,
+    "lon": 92.36804784382285
   },
   {
     "partId": 1784,
@@ -96,7 +112,9 @@
     "acNumber": 2,
     "acName": "DAMPA",
     "partNumber": 9,
-    "partName": "Lallen"
+    "partName": "Lallen",
+    "lat": 23.654638,
+    "lon": 92.6065561
   },
   {
     "partId": 1785,
@@ -107,7 +125,9 @@
     "acNumber": 2,
     "acName": "DAMPA",
     "partNumber": 10,
-    "partName": "Saithah"
+    "partName": "Saithah",
+    "lat": 23.56300865,
+    "lon": 92.36804784382285
   },
   {
     "partId": 1786,
@@ -118,7 +138,9 @@
     "acNumber": 2,
     "acName": "DAMPA",
     "partNumber": 11,
-    "partName": "Parvatui"
+    "partName": "Parvatui",
+    "lat": 23.4998771,
+    "lon": 92.4887218
   },
   {
     "partId": 1812,
@@ -129,7 +151,9 @@
     "acNumber": 2,
     "acName": "DAMPA",
     "partNumber": 12,
-    "partName": "Zopui"
+    "partName": "Zopui",
+    "lat": 23.56300865,
+    "lon": 92.36804784382285
   },
   {
     "partId": 1787,
@@ -140,7 +164,9 @@
     "acNumber": 2,
     "acName": "DAMPA",
     "partNumber": 13,
-    "partName": "Phuldungsei-I"
+    "partName": "Phuldungsei-I",
+    "lat": 23.4745218,
+    "lon": 92.4200704
   },
   {
     "partId": 1777,
@@ -151,7 +177,9 @@
     "acNumber": 2,
     "acName": "DAMPA",
     "partNumber": 14,
-    "partName": "Phuldungsei-II"
+    "partName": "Phuldungsei-II",
+    "lat": 23.4745218,
+    "lon": 92.4200704
   },
   {
     "partId": 1809,
@@ -162,7 +190,9 @@
     "acNumber": 2,
     "acName": "DAMPA",
     "partNumber": 15,
-    "partName": "Phuldungsei-III"
+    "partName": "Phuldungsei-III",
+    "lat": 23.56300865,
+    "lon": 92.36804784382285
   },
   {
     "partId": 1788,
@@ -173,7 +203,9 @@
     "acNumber": 2,
     "acName": "DAMPA",
     "partNumber": 16,
-    "partName": "West Phulpui"
+    "partName": "West Phulpui",
+    "lat": 23.56300865,
+    "lon": 92.36804784382285
   },
   {
     "partId": 1789,
@@ -184,7 +216,9 @@
     "acNumber": 2,
     "acName": "DAMPA",
     "partNumber": 17,
-    "partName": "Silsuri-I"
+    "partName": "Silsuri-I",
+    "lat": 23.3815692,
+    "lon": 92.365247
   },
   {
     "partId": 1778,
@@ -195,7 +229,9 @@
     "acNumber": 2,
     "acName": "DAMPA",
     "partNumber": 18,
-    "partName": "Silsury-II"
+    "partName": "Silsury-II",
+    "lat": 23.56300865,
+    "lon": 92.36804784382285
   },
   {
     "partId": 1815,
@@ -206,7 +242,9 @@
     "acNumber": 2,
     "acName": "DAMPA",
     "partNumber": 19,
-    "partName": "Silsury - III"
+    "partName": "Silsury - III",
+    "lat": 23.56300865,
+    "lon": 92.36804784382285
   },
   {
     "partId": 1790,
@@ -217,7 +255,9 @@
     "acNumber": 2,
     "acName": "DAMPA",
     "partNumber": 20,
-    "partName": "Hnahva"
+    "partName": "Hnahva",
+    "lat": 23.56300865,
+    "lon": 92.36804784382285
   },
   {
     "partId": 1791,
@@ -228,7 +268,9 @@
     "acNumber": 2,
     "acName": "DAMPA",
     "partNumber": 21,
-    "partName": "Pukzing"
+    "partName": "Pukzing",
+    "lat": 23.3453834,
+    "lon": 92.4288429
   },
   {
     "partId": 1792,
@@ -239,7 +281,9 @@
     "acNumber": 2,
     "acName": "DAMPA",
     "partNumber": 22,
-    "partName": "Pukzing Vengthar"
+    "partName": "Pukzing Vengthar",
+    "lat": 23.56300865,
+    "lon": 92.36804784382285
   },
   {
     "partId": 1793,
@@ -250,7 +294,9 @@
     "acNumber": 2,
     "acName": "DAMPA",
     "partNumber": 23,
-    "partName": "Hruiduk"
+    "partName": "Hruiduk",
+    "lat": 23.56300865,
+    "lon": 92.36804784382285
   },
   {
     "partId": 1794,
@@ -261,7 +307,9 @@
     "acNumber": 2,
     "acName": "DAMPA",
     "partNumber": 24,
-    "partName": "Marpara N"
+    "partName": "Marpara N",
+    "lat": 23.56300865,
+    "lon": 92.36804784382285
   },
   {
     "partId": 1810,
@@ -272,7 +320,9 @@
     "acNumber": 2,
     "acName": "DAMPA",
     "partNumber": 25,
-    "partName": "Marpara Mizoveng"
+    "partName": "Marpara Mizoveng",
+    "lat": 23.56300865,
+    "lon": 92.36804784382285
   },
   {
     "partId": 1811,
@@ -283,7 +333,9 @@
     "acNumber": 2,
     "acName": "DAMPA",
     "partNumber": 26,
-    "partName": "Lianbuang"
+    "partName": "Lianbuang",
+    "lat": 23.56300865,
+    "lon": 92.36804784382285
   },
   {
     "partId": 1795,
@@ -294,7 +346,9 @@
     "acNumber": 2,
     "acName": "DAMPA",
     "partNumber": 27,
-    "partName": "Tuahzawl"
+    "partName": "Tuahzawl",
+    "lat": 23.56300865,
+    "lon": 92.36804784382285
   },
   {
     "partId": 1796,
@@ -305,7 +359,9 @@
     "acNumber": 2,
     "acName": "DAMPA",
     "partNumber": 28,
-    "partName": "Rulpuihlim"
+    "partName": "Rulpuihlim",
+    "lat": 23.7102384,
+    "lon": 92.5600361
   },
   {
     "partId": 1797,
@@ -316,7 +372,9 @@
     "acNumber": 2,
     "acName": "DAMPA",
     "partNumber": 29,
-    "partName": "Chungtlang"
+    "partName": "Chungtlang",
+    "lat": 23.56300865,
+    "lon": 92.36804784382285
   },
   {
     "partId": 1798,
@@ -327,7 +385,9 @@
     "acNumber": 2,
     "acName": "DAMPA",
     "partNumber": 30,
-    "partName": "Reiek-I"
+    "partName": "Reiek-I",
+    "lat": 23.6992949,
+    "lon": 92.6069355
   },
   {
     "partId": 1779,
@@ -338,7 +398,9 @@
     "acNumber": 2,
     "acName": "DAMPA",
     "partNumber": 31,
-    "partName": "Reiek-II"
+    "partName": "Reiek-II",
+    "lat": 23.6992949,
+    "lon": 92.6069355
   },
   {
     "partId": 1799,
@@ -349,7 +411,9 @@
     "acNumber": 2,
     "acName": "DAMPA",
     "partNumber": 32,
-    "partName": "Ailawng"
+    "partName": "Ailawng",
+    "lat": 23.6902024,
+    "lon": 92.6211344
   },
   {
     "partId": 1800,
@@ -360,7 +424,9 @@
     "acNumber": 2,
     "acName": "DAMPA",
     "partNumber": 33,
-    "partName": "W.Lungdar"
+    "partName": "W.Lungdar",
+    "lat": 23.6416218,
+    "lon": 92.5952136
   },
   {
     "partId": 1801,
@@ -371,7 +437,9 @@
     "acNumber": 2,
     "acName": "DAMPA",
     "partNumber": 34,
-    "partName": "Khawrihnim"
+    "partName": "Khawrihnim",
+    "lat": 23.6244562,
+    "lon": 92.6229739
   },
   {
     "partId": 1802,
@@ -382,7 +450,9 @@
     "acNumber": 2,
     "acName": "DAMPA",
     "partNumber": 35,
-    "partName": "Lungphun"
+    "partName": "Lungphun",
+    "lat": 23.56300865,
+    "lon": 92.36804784382285
   },
   {
     "partId": 1816,
@@ -393,7 +463,9 @@
     "acNumber": 2,
     "acName": "DAMPA",
     "partNumber": 36,
-    "partName": "Hreichuk"
+    "partName": "Hreichuk",
+    "lat": 23.5973036,
+    "lon": 92.5989167
   },
   {
     "partId": 1803,
@@ -404,7 +476,9 @@
     "acNumber": 2,
     "acName": "DAMPA",
     "partNumber": 37,
-    "partName": "Kanghmun"
+    "partName": "Kanghmun",
+    "lat": 23.5580717,
+    "lon": 92.5758903
   },
   {
     "partId": 1804,
@@ -415,7 +489,9 @@
     "acNumber": 2,
     "acName": "DAMPA",
     "partNumber": 38,
-    "partName": "Bawngthah"
+    "partName": "Bawngthah",
+    "lat": 23.56300865,
+    "lon": 92.36804784382285
   },
   {
     "partId": 1805,
@@ -426,7 +502,9 @@
     "acNumber": 2,
     "acName": "DAMPA",
     "partNumber": 39,
-    "partName": "Bawlte"
+    "partName": "Bawlte",
+    "lat": 23.56300865,
+    "lon": 92.36804784382285
   },
   {
     "partId": 1806,
@@ -437,7 +515,9 @@
     "acNumber": 2,
     "acName": "DAMPA",
     "partNumber": 40,
-    "partName": "Darlung"
+    "partName": "Darlung",
+    "lat": 23.4601277,
+    "lon": 92.6011346
   },
   {
     "partId": 1807,
@@ -448,7 +528,9 @@
     "acNumber": 2,
     "acName": "DAMPA",
     "partNumber": 41,
-    "partName": "S.Sabual"
+    "partName": "S.Sabual",
+    "lat": 23.454343,
+    "lon": 92.6005344
   },
   {
     "partId": 50,
@@ -459,7 +541,9 @@
     "acNumber": 1,
     "acName": "HACHHEK",
     "partNumber": 1,
-    "partName": "Kanhmun-I"
+    "partName": "Kanhmun-I",
+    "lat": 24.2388156,
+    "lon": 92.2968936
   },
   {
     "partId": 176,
@@ -470,7 +554,9 @@
     "acNumber": 1,
     "acName": "HACHHEK",
     "partNumber": 2,
-    "partName": "Kanhmun-II"
+    "partName": "Kanhmun-II",
+    "lat": 24.2388156,
+    "lon": 92.2968936
   },
   {
     "partId": 51,
@@ -481,7 +567,9 @@
     "acNumber": 1,
     "acName": "HACHHEK",
     "partNumber": 3,
-    "partName": "Luimawi"
+    "partName": "Luimawi",
+    "lat": 24.07892528,
+    "lon": 92.35826812
   },
   {
     "partId": 52,
@@ -492,7 +580,9 @@
     "acNumber": 1,
     "acName": "HACHHEK",
     "partNumber": 4,
-    "partName": "Thinghlun"
+    "partName": "Thinghlun",
+    "lat": 24.2477912,
+    "lon": 92.3829871
   },
   {
     "partId": 162,
@@ -503,7 +593,9 @@
     "acNumber": 1,
     "acName": "HACHHEK",
     "partNumber": 5,
-    "partName": "Bajirungpa"
+    "partName": "Bajirungpa",
+    "lat": 24.07892528,
+    "lon": 92.35826812
   },
   {
     "partId": 53,
@@ -514,7 +606,9 @@
     "acNumber": 1,
     "acName": "HACHHEK",
     "partNumber": 6,
-    "partName": "Bungthuam"
+    "partName": "Bungthuam",
+    "lat": 24.1880528,
+    "lon": 92.3307944
   },
   {
     "partId": 54,
@@ -525,7 +619,9 @@
     "acNumber": 1,
     "acName": "HACHHEK",
     "partNumber": 7,
-    "partName": "Hriphaw"
+    "partName": "Hriphaw",
+    "lat": 24.07892528,
+    "lon": 92.35826812
   },
   {
     "partId": 622,
@@ -536,7 +632,9 @@
     "acNumber": 1,
     "acName": "HACHHEK",
     "partNumber": 8,
-    "partName": "Kolalian"
+    "partName": "Kolalian",
+    "lat": 24.07892528,
+    "lon": 92.35826812
   },
   {
     "partId": 55,
@@ -547,7 +645,9 @@
     "acNumber": 1,
     "acName": "HACHHEK",
     "partNumber": 9,
-    "partName": "Bawrai"
+    "partName": "Bawrai",
+    "lat": 24.07892528,
+    "lon": 92.35826812
   },
   {
     "partId": 56,
@@ -558,7 +658,9 @@
     "acNumber": 1,
     "acName": "HACHHEK",
     "partNumber": 10,
-    "partName": "Zawlnuam Vengpui-I"
+    "partName": "Zawlnuam Vengpui-I",
+    "lat": 24.07892528,
+    "lon": 92.35826812
   },
   {
     "partId": 163,
@@ -569,7 +671,9 @@
     "acNumber": 1,
     "acName": "HACHHEK",
     "partNumber": 11,
-    "partName": "Zawlnuam Vengpui-II"
+    "partName": "Zawlnuam Vengpui-II",
+    "lat": 24.07892528,
+    "lon": 92.35826812
   },
   {
     "partId": 57,
@@ -580,7 +684,9 @@
     "acNumber": 1,
     "acName": "HACHHEK",
     "partNumber": 12,
-    "partName": "Zawlnuam Thuampui"
+    "partName": "Zawlnuam Thuampui",
+    "lat": 24.07892528,
+    "lon": 92.35826812
   },
   {
     "partId": 144,
@@ -591,7 +697,9 @@
     "acNumber": 1,
     "acName": "HACHHEK",
     "partNumber": 13,
-    "partName": "Zawlpui"
+    "partName": "Zawlpui",
+    "lat": 24.07892528,
+    "lon": 92.35826812
   },
   {
     "partId": 145,
@@ -602,7 +710,9 @@
     "acNumber": 1,
     "acName": "HACHHEK",
     "partNumber": 14,
-    "partName": "Zamuang"
+    "partName": "Zamuang",
+    "lat": 24.1002815,
+    "lon": 92.3977178
   },
   {
     "partId": 146,
@@ -613,7 +723,9 @@
     "acNumber": 1,
     "acName": "HACHHEK",
     "partNumber": 15,
-    "partName": "Rengdil-I"
+    "partName": "Rengdil-I",
+    "lat": 24.0659404,
+    "lon": 92.3877829
   },
   {
     "partId": 164,
@@ -624,7 +736,9 @@
     "acNumber": 1,
     "acName": "HACHHEK",
     "partNumber": 16,
-    "partName": "Rengdil-II"
+    "partName": "Rengdil-II",
+    "lat": 24.0659404,
+    "lon": 92.3877829
   },
   {
     "partId": 147,
@@ -635,7 +749,9 @@
     "acNumber": 1,
     "acName": "HACHHEK",
     "partNumber": 17,
-    "partName": "Sihthiang"
+    "partName": "Sihthiang",
+    "lat": 24.07892528,
+    "lon": 92.35826812
   },
   {
     "partId": 148,
@@ -646,7 +762,9 @@
     "acNumber": 1,
     "acName": "HACHHEK",
     "partNumber": 18,
-    "partName": "Chuhvel"
+    "partName": "Chuhvel",
+    "lat": 24.07892528,
+    "lon": 92.35826812
   },
   {
     "partId": 666,
@@ -657,7 +775,9 @@
     "acNumber": 1,
     "acName": "HACHHEK",
     "partNumber": 19,
-    "partName": "Kananthar"
+    "partName": "Kananthar",
+    "lat": 24.07892528,
+    "lon": 92.35826812
   },
   {
     "partId": 149,
@@ -668,7 +788,9 @@
     "acNumber": 1,
     "acName": "HACHHEK",
     "partNumber": 20,
-    "partName": "Saikhawthlir"
+    "partName": "Saikhawthlir",
+    "lat": 24.07892528,
+    "lon": 92.35826812
   },
   {
     "partId": 150,
@@ -679,7 +801,9 @@
     "acNumber": 1,
     "acName": "HACHHEK",
     "partNumber": 21,
-    "partName": "Kawrthah-I"
+    "partName": "Kawrthah-I",
+    "lat": 24.07892528,
+    "lon": 92.35826812
   },
   {
     "partId": 165,
@@ -690,7 +814,9 @@
     "acNumber": 1,
     "acName": "HACHHEK",
     "partNumber": 22,
-    "partName": "Kawrthah-II"
+    "partName": "Kawrthah-II",
+    "lat": 24.07892528,
+    "lon": 92.35826812
   },
   {
     "partId": 151,
@@ -701,7 +827,9 @@
     "acNumber": 1,
     "acName": "HACHHEK",
     "partNumber": 23,
-    "partName": "Kawrthah-III"
+    "partName": "Kawrthah-III",
+    "lat": 24.07892528,
+    "lon": 92.35826812
   },
   {
     "partId": 152,
@@ -712,7 +840,9 @@
     "acNumber": 1,
     "acName": "HACHHEK",
     "partNumber": 24,
-    "partName": "K.Sarali"
+    "partName": "K.Sarali",
+    "lat": 24.07892528,
+    "lon": 92.35826812
   },
   {
     "partId": 153,
@@ -723,7 +853,9 @@
     "acNumber": 1,
     "acName": "HACHHEK",
     "partNumber": 25,
-    "partName": "Tuidam-I"
+    "partName": "Tuidam-I",
+    "lat": 24.07892528,
+    "lon": 92.35826812
   },
   {
     "partId": 154,
@@ -734,7 +866,9 @@
     "acNumber": 1,
     "acName": "HACHHEK",
     "partNumber": 26,
-    "partName": "Tuidam-II"
+    "partName": "Tuidam-II",
+    "lat": 24.07892528,
+    "lon": 92.35826812
   },
   {
     "partId": 618,
@@ -745,7 +879,9 @@
     "acNumber": 1,
     "acName": "HACHHEK",
     "partNumber": 27,
-    "partName": "Tumpanglui"
+    "partName": "Tumpanglui",
+    "lat": 24.07892528,
+    "lon": 92.35826812
   },
   {
     "partId": 619,
@@ -756,7 +892,9 @@
     "acNumber": 1,
     "acName": "HACHHEK",
     "partNumber": 28,
-    "partName": "New Eden"
+    "partName": "New Eden",
+    "lat": 23.9351944,
+    "lon": 92.3212078
   },
   {
     "partId": 155,
@@ -767,7 +905,9 @@
     "acNumber": 1,
     "acName": "HACHHEK",
     "partNumber": 29,
-    "partName": "Darlak"
+    "partName": "Darlak",
+    "lat": 23.90444,
+    "lon": 92.4171618
   },
   {
     "partId": 156,
@@ -778,7 +918,9 @@
     "acNumber": 1,
     "acName": "HACHHEK",
     "partNumber": 30,
-    "partName": "Mualthuam"
+    "partName": "Mualthuam",
+    "lat": 24.07892528,
+    "lon": 92.35826812
   },
   {
     "partId": 620,
@@ -789,7 +931,9 @@
     "acNumber": 1,
     "acName": "HACHHEK",
     "partNumber": 31,
-    "partName": "Sotapa"
+    "partName": "Sotapa",
+    "lat": 24.07892528,
+    "lon": 92.35826812
   },
   {
     "partId": 157,
@@ -800,7 +944,9 @@
     "acNumber": 1,
     "acName": "HACHHEK",
     "partNumber": 32,
-    "partName": "Kawrtethawveng-I"
+    "partName": "Kawrtethawveng-I",
+    "lat": 24.07892528,
+    "lon": 92.35826812
   },
   {
     "partId": 158,
@@ -811,7 +957,9 @@
     "acNumber": 1,
     "acName": "HACHHEK",
     "partNumber": 33,
-    "partName": "Kawrtethawveng-II"
+    "partName": "Kawrtethawveng-II",
+    "lat": 24.07892528,
+    "lon": 92.35826812
   },
   {
     "partId": 159,
@@ -822,7 +970,9 @@
     "acNumber": 1,
     "acName": "HACHHEK",
     "partNumber": 34,
-    "partName": "Bunghmun"
+    "partName": "Bunghmun",
+    "lat": 23.8039809,
+    "lon": 92.3634593
   },
   {
     "partId": 160,
@@ -833,7 +983,9 @@
     "acNumber": 1,
     "acName": "HACHHEK",
     "partNumber": 35,
-    "partName": "Thaidawr"
+    "partName": "Thaidawr",
+    "lat": 24.07892528,
+    "lon": 92.35826812
   },
   {
     "partId": 623,
@@ -844,7 +996,9 @@
     "acNumber": 1,
     "acName": "HACHHEK",
     "partNumber": 36,
-    "partName": "Belkhai"
+    "partName": "Belkhai",
+    "lat": 24.07892528,
+    "lon": 92.35826812
   },
   {
     "partId": 621,
@@ -855,7 +1009,9 @@
     "acNumber": 1,
     "acName": "HACHHEK",
     "partNumber": 37,
-    "partName": "Zomuantlang"
+    "partName": "Zomuantlang",
+    "lat": 24.07892528,
+    "lon": 92.35826812
   },
   {
     "partId": 1224,
@@ -866,7 +1022,9 @@
     "acNumber": 1,
     "acName": "HACHHEK",
     "partNumber": 38,
-    "partName": "Phuldungsei Zampui"
+    "partName": "Phuldungsei Zampui",
+    "lat": 24.07892528,
+    "lon": 92.35826812
   },
   {
     "partId": 166,
@@ -877,7 +1035,9 @@
     "acNumber": 3,
     "acName": "MAMIT",
     "partNumber": 1,
-    "partName": "Suarhliap"
+    "partName": "Suarhliap",
+    "lat": 23.9160087,
+    "lon": 92.4935815
   },
   {
     "partId": 167,
@@ -888,7 +1048,9 @@
     "acNumber": 3,
     "acName": "MAMIT",
     "partNumber": 2,
-    "partName": "Chilui"
+    "partName": "Chilui",
+    "lat": 23.9160087,
+    "lon": 92.4935815
   },
   {
     "partId": 353,
@@ -899,7 +1061,9 @@
     "acNumber": 3,
     "acName": "MAMIT",
     "partNumber": 3,
-    "partName": "Tlangkhang"
+    "partName": "Tlangkhang",
+    "lat": 23.9160087,
+    "lon": 92.4935815
   },
   {
     "partId": 361,
@@ -910,7 +1074,9 @@
     "acNumber": 3,
     "acName": "MAMIT",
     "partNumber": 4,
-    "partName": "Damdiai"
+    "partName": "Damdiai",
+    "lat": 23.9160087,
+    "lon": 92.4935815
   },
   {
     "partId": 362,
@@ -921,7 +1087,9 @@
     "acNumber": 3,
     "acName": "MAMIT",
     "partNumber": 5,
-    "partName": "Vawngawnzo"
+    "partName": "Vawngawnzo",
+    "lat": 23.9160087,
+    "lon": 92.4935815
   },
   {
     "partId": 363,
@@ -932,7 +1100,9 @@
     "acNumber": 3,
     "acName": "MAMIT",
     "partNumber": 6,
-    "partName": "N.Sabual"
+    "partName": "N.Sabual",
+    "lat": 23.4604451,
+    "lon": 92.5974324
   },
   {
     "partId": 364,
@@ -943,7 +1113,9 @@
     "acNumber": 3,
     "acName": "MAMIT",
     "partNumber": 7,
-    "partName": "Mamit Hmarveng I"
+    "partName": "Mamit Hmarveng I",
+    "lat": 23.9160087,
+    "lon": 92.4935815
   },
   {
     "partId": 175,
@@ -954,7 +1126,9 @@
     "acNumber": 3,
     "acName": "MAMIT",
     "partNumber": 8,
-    "partName": "Mamit Hmarveng II"
+    "partName": "Mamit Hmarveng II",
+    "lat": 23.9160087,
+    "lon": 92.4935815
   },
   {
     "partId": 365,
@@ -965,7 +1139,9 @@
     "acNumber": 3,
     "acName": "MAMIT",
     "partNumber": 9,
-    "partName": "Mamit Venghlun"
+    "partName": "Mamit Venghlun",
+    "lat": 23.9160087,
+    "lon": 92.4935815
   },
   {
     "partId": 366,
@@ -976,7 +1152,9 @@
     "acNumber": 3,
     "acName": "MAMIT",
     "partNumber": 10,
-    "partName": "Mamit Bazar Veng"
+    "partName": "Mamit Bazar Veng",
+    "lat": 23.9160087,
+    "lon": 92.4935815
   },
   {
     "partId": 1146,
@@ -987,7 +1165,9 @@
     "acNumber": 3,
     "acName": "MAMIT",
     "partNumber": 11,
-    "partName": "Mamit Hmunsam"
+    "partName": "Mamit Hmunsam",
+    "lat": 23.9160087,
+    "lon": 92.4935815
   },
   {
     "partId": 367,
@@ -998,7 +1178,9 @@
     "acNumber": 3,
     "acName": "MAMIT",
     "partNumber": 12,
-    "partName": "Mamit H/S Veng"
+    "partName": "Mamit H/S Veng",
+    "lat": 23.9160087,
+    "lon": 92.4935815
   },
   {
     "partId": 368,
@@ -1009,7 +1191,9 @@
     "acNumber": 3,
     "acName": "MAMIT",
     "partNumber": 13,
-    "partName": "New Mamit"
+    "partName": "New Mamit",
+    "lat": 23.9351944,
+    "lon": 92.3212078
   },
   {
     "partId": 356,
@@ -1020,7 +1204,9 @@
     "acNumber": 3,
     "acName": "MAMIT",
     "partNumber": 14,
-    "partName": "Mamit Luangpawl"
+    "partName": "Mamit Luangpawl",
+    "lat": 23.9160087,
+    "lon": 92.4935815
   },
   {
     "partId": 369,
@@ -1031,7 +1217,9 @@
     "acNumber": 3,
     "acName": "MAMIT",
     "partNumber": 15,
-    "partName": "Phaizau"
+    "partName": "Phaizau",
+    "lat": 23.9160087,
+    "lon": 92.4935815
   },
   {
     "partId": 370,
@@ -1042,7 +1230,9 @@
     "acNumber": 3,
     "acName": "MAMIT",
     "partNumber": 16,
-    "partName": "Bawngva"
+    "partName": "Bawngva",
+    "lat": 23.9160087,
+    "lon": 92.4935815
   },
   {
     "partId": 371,
@@ -1053,7 +1243,9 @@
     "acNumber": 3,
     "acName": "MAMIT",
     "partNumber": 17,
-    "partName": "Nalzawl"
+    "partName": "Nalzawl",
+    "lat": 23.8655256,
+    "lon": 92.4254817
   },
   {
     "partId": 1138,
@@ -1064,7 +1256,9 @@
     "acNumber": 3,
     "acName": "MAMIT",
     "partNumber": 18,
-    "partName": "Dampui"
+    "partName": "Dampui",
+    "lat": 23.8157274,
+    "lon": 92.5003616
   },
   {
     "partId": 1150,
@@ -1075,7 +1269,9 @@
     "acNumber": 3,
     "acName": "MAMIT",
     "partNumber": 19,
-    "partName": "Khanthuam"
+    "partName": "Khanthuam",
+    "lat": 23.890219486486487,
+    "lon": 92.50259506216217
   },
   {
     "partId": 1139,
@@ -1086,7 +1282,9 @@
     "acNumber": 3,
     "acName": "MAMIT",
     "partNumber": 20,
-    "partName": "Dapchhuah"
+    "partName": "Dapchhuah",
+    "lat": 23.9160087,
+    "lon": 92.4935815
   },
   {
     "partId": 372,
@@ -1097,7 +1295,9 @@
     "acNumber": 3,
     "acName": "MAMIT",
     "partNumber": 21,
-    "partName": "Tuirum"
+    "partName": "Tuirum",
+    "lat": 23.890219486486487,
+    "lon": 92.50259506216217
   },
   {
     "partId": 373,
@@ -1108,7 +1308,9 @@
     "acNumber": 3,
     "acName": "MAMIT",
     "partNumber": 22,
-    "partName": "Damparengpui - I"
+    "partName": "Damparengpui - I",
+    "lat": 23.9160087,
+    "lon": 92.4935815
   },
   {
     "partId": 357,
@@ -1119,7 +1321,9 @@
     "acNumber": 3,
     "acName": "MAMIT",
     "partNumber": 23,
-    "partName": "Damparengpui - II"
+    "partName": "Damparengpui - II",
+    "lat": 23.9160087,
+    "lon": 92.4935815
   },
   {
     "partId": 374,
@@ -1130,7 +1334,9 @@
     "acNumber": 3,
     "acName": "MAMIT",
     "partNumber": 24,
-    "partName": "Hruaitluang"
+    "partName": "Hruaitluang",
+    "lat": 23.890219486486487,
+    "lon": 92.50259506216217
   },
   {
     "partId": 1127,
@@ -1141,7 +1347,9 @@
     "acNumber": 3,
     "acName": "MAMIT",
     "partNumber": 25,
-    "partName": "Tuipuibari - I"
+    "partName": "Tuipuibari - I",
+    "lat": 23.9160087,
+    "lon": 92.4935815
   },
   {
     "partId": 1132,
@@ -1152,7 +1360,9 @@
     "acNumber": 3,
     "acName": "MAMIT",
     "partNumber": 26,
-    "partName": "Tuipuibari - II"
+    "partName": "Tuipuibari - II",
+    "lat": 23.9160087,
+    "lon": 92.4935815
   },
   {
     "partId": 1133,
@@ -1163,7 +1373,9 @@
     "acNumber": 3,
     "acName": "MAMIT",
     "partNumber": 27,
-    "partName": "Rajiv Nagar - I"
+    "partName": "Rajiv Nagar - I",
+    "lat": 23.9160087,
+    "lon": 92.4935815
   },
   {
     "partId": 1147,
@@ -1174,7 +1386,9 @@
     "acNumber": 3,
     "acName": "MAMIT",
     "partNumber": 28,
-    "partName": "Rajiv Nagar - II"
+    "partName": "Rajiv Nagar - II",
+    "lat": 23.9160087,
+    "lon": 92.4935815
   },
   {
     "partId": 1134,
@@ -1185,7 +1399,9 @@
     "acNumber": 3,
     "acName": "MAMIT",
     "partNumber": 29,
-    "partName": "Rajiv Nagar - III"
+    "partName": "Rajiv Nagar - III",
+    "lat": 23.9160087,
+    "lon": 92.4935815
   },
   {
     "partId": 358,
@@ -1196,7 +1412,9 @@
     "acNumber": 3,
     "acName": "MAMIT",
     "partNumber": 30,
-    "partName": "Khantlang"
+    "partName": "Khantlang",
+    "lat": 23.9160087,
+    "lon": 92.4935815
   },
   {
     "partId": 1135,
@@ -1207,7 +1425,9 @@
     "acNumber": 3,
     "acName": "MAMIT",
     "partNumber": 31,
-    "partName": "Andermanik"
+    "partName": "Andermanik",
+    "lat": 23.9160087,
+    "lon": 92.4935815
   },
   {
     "partId": 1136,
@@ -1218,7 +1438,9 @@
     "acNumber": 3,
     "acName": "MAMIT",
     "partNumber": 32,
-    "partName": "Khawhnai"
+    "partName": "Khawhnai",
+    "lat": 23.9160087,
+    "lon": 92.4935815
   },
   {
     "partId": 1140,
@@ -1229,7 +1451,9 @@
     "acNumber": 3,
     "acName": "MAMIT",
     "partNumber": 33,
-    "partName": "Rawpuichhip"
+    "partName": "Rawpuichhip",
+    "lat": 23.890219486486487,
+    "lon": 92.50259506216217
   },
   {
     "partId": 355,
@@ -1240,7 +1464,9 @@
     "acNumber": 3,
     "acName": "MAMIT",
     "partNumber": 34,
-    "partName": "Rawpuichhip-II"
+    "partName": "Rawpuichhip-II",
+    "lat": 23.890219486486487,
+    "lon": 92.50259506216217
   },
   {
     "partId": 1141,
@@ -1251,7 +1477,9 @@
     "acNumber": 3,
     "acName": "MAMIT",
     "partNumber": 35,
-    "partName": "Hmunpui"
+    "partName": "Hmunpui",
+    "lat": 23.8613596,
+    "lon": 92.5813258
   },
   {
     "partId": 359,
@@ -1262,7 +1490,9 @@
     "acNumber": 3,
     "acName": "MAMIT",
     "partNumber": 36,
-    "partName": "Dilzawl"
+    "partName": "Dilzawl",
+    "lat": 23.890219486486487,
+    "lon": 92.50259506216217
   },
   {
     "partId": 1142,
@@ -1273,7 +1503,9 @@
     "acNumber": 3,
     "acName": "MAMIT",
     "partNumber": 37,
-    "partName": "W. Serzawl"
+    "partName": "W. Serzawl",
+    "lat": 23.9160087,
+    "lon": 92.4935815
   },
   {
     "partId": 1143,
@@ -1284,7 +1516,9 @@
     "acNumber": 3,
     "acName": "MAMIT",
     "partNumber": 38,
-    "partName": "Lengpui-I"
+    "partName": "Lengpui-I",
+    "lat": 23.8314147,
+    "lon": 92.6287719
   },
   {
     "partId": 360,
@@ -1295,7 +1529,9 @@
     "acNumber": 3,
     "acName": "MAMIT",
     "partNumber": 39,
-    "partName": "Lengpui-II"
+    "partName": "Lengpui-II",
+    "lat": 23.8314147,
+    "lon": 92.6287719
   },
   {
     "partId": 1144,
@@ -1306,7 +1542,9 @@
     "acNumber": 3,
     "acName": "MAMIT",
     "partNumber": 40,
-    "partName": "Lengpui-III"
+    "partName": "Lengpui-III",
+    "lat": 23.9160087,
+    "lon": 92.4935815
   },
   {
     "partId": 1254,
@@ -1317,7 +1555,9 @@
     "acNumber": 3,
     "acName": "MAMIT",
     "partNumber": 41,
-    "partName": "Lengpui - IV"
+    "partName": "Lengpui - IV",
+    "lat": 23.9160087,
+    "lon": 92.4935815
   },
   {
     "partId": 1145,
@@ -1328,7 +1568,9 @@
     "acNumber": 3,
     "acName": "MAMIT",
     "partNumber": 42,
-    "partName": "Lengte"
+    "partName": "Lengte",
+    "lat": 23.7727872,
+    "lon": 92.5988007
   },
   {
     "partId": 354,
@@ -1339,6 +1581,8 @@
     "acNumber": 3,
     "acName": "MAMIT",
     "partNumber": 43,
-    "partName": "Nghalchawm"
+    "partName": "Nghalchawm",
+    "lat": 23.9160087,
+    "lon": 92.4935815
   }
 ]

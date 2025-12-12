@@ -8,7 +8,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 1,
-    "partName": "Ranau"
+    "partName": "Ranau",
+    "lat": 27.6548601,
+    "lon": 70.460075
   },
   {
     "partId": 93744,
@@ -19,7 +21,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 2,
-    "partName": "Ramgarh i"
+    "partName": "Ramgarh i",
+    "lat": 27.3729109,
+    "lon": 70.4966738
   },
   {
     "partId": 93745,
@@ -30,7 +34,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 3,
-    "partName": "Ramgarh ii"
+    "partName": "Ramgarh ii",
+    "lat": 27.3729109,
+    "lon": 70.4966738
   },
   {
     "partId": 93848,
@@ -41,7 +47,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 4,
-    "partName": "Ramgarh iii"
+    "partName": "Ramgarh iii",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93849,
@@ -52,7 +60,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 5,
-    "partName": "Ramgarh iv"
+    "partName": "Ramgarh iv",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93850,
@@ -63,7 +73,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 6,
-    "partName": "Naval singh Ki Dhani"
+    "partName": "Naval singh Ki Dhani",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93851,
@@ -74,7 +86,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 7,
-    "partName": "Netasi"
+    "partName": "Netasi",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93852,
@@ -85,7 +99,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 8,
-    "partName": "Hema"
+    "partName": "Hema",
+    "lat": 27.2712431,
+    "lon": 70.5173027
   },
   {
     "partId": 93853,
@@ -96,7 +112,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 9,
-    "partName": "Unrai"
+    "partName": "Unrai",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93854,
@@ -107,7 +125,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 10,
-    "partName": "Drablapar"
+    "partName": "Drablapar",
+    "lat": 27.232662,
+    "lon": 70.4216552
   },
   {
     "partId": 93855,
@@ -118,7 +138,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 11,
-    "partName": "Satarwali"
+    "partName": "Satarwali",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93856,
@@ -129,7 +151,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 12,
-    "partName": "Asutala"
+    "partName": "Asutala",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93857,
@@ -140,7 +164,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 13,
-    "partName": "Bandha"
+    "partName": "Bandha",
+    "lat": 27.1789125,
+    "lon": 70.351274
   },
   {
     "partId": 93858,
@@ -151,7 +177,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 14,
-    "partName": "Kunde ki Dhani"
+    "partName": "Kunde ki Dhani",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93859,
@@ -162,7 +190,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 15,
-    "partName": "Meerwala"
+    "partName": "Meerwala",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93860,
@@ -173,7 +203,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 16,
-    "partName": "Khuiyala i"
+    "partName": "Khuiyala i",
+    "lat": 27.1476122,
+    "lon": 70.4264242
   },
   {
     "partId": 93861,
@@ -184,7 +216,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 17,
-    "partName": "Khuiyala ii"
+    "partName": "Khuiyala ii",
+    "lat": 27.1476122,
+    "lon": 70.4264242
   },
   {
     "partId": 94102,
@@ -195,7 +229,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 18,
-    "partName": "Ratan ka Ganv"
+    "partName": "Ratan ka Ganv",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93862,
@@ -206,7 +242,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 19,
-    "partName": "Alam Ka Gaon"
+    "partName": "Alam Ka Gaon",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93863,
@@ -217,7 +255,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 20,
-    "partName": "Siyambar"
+    "partName": "Siyambar",
+    "lat": 27.0401564,
+    "lon": 70.4294302
   },
   {
     "partId": 93864,
@@ -228,7 +268,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 21,
-    "partName": "Marakh Ki Dhani"
+    "partName": "Marakh Ki Dhani",
+    "lat": 27.0271617,
+    "lon": 70.4890752
   },
   {
     "partId": 93865,
@@ -239,7 +281,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 22,
-    "partName": "Mohammad Ka Gaon"
+    "partName": "Mohammad Ka Gaon",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93866,
@@ -250,7 +294,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 23,
-    "partName": "Tibansar"
+    "partName": "Tibansar",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93867,
@@ -261,7 +307,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 24,
-    "partName": "Kuchhadi"
+    "partName": "Kuchhadi",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93868,
@@ -272,7 +320,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 25,
-    "partName": "Mandhalaniyon Ka Gaon"
+    "partName": "Mandhalaniyon Ka Gaon",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93869,
@@ -283,7 +333,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 26,
-    "partName": "Bage khan ki dhani"
+    "partName": "Bage khan ki dhani",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93870,
@@ -294,7 +346,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 27,
-    "partName": "Dilavar Ka Gaon"
+    "partName": "Dilavar Ka Gaon",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93871,
@@ -305,7 +359,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 28,
-    "partName": "Suro Ka Gaon"
+    "partName": "Suro Ka Gaon",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93872,
@@ -316,7 +372,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 29,
-    "partName": "Poonam nagar i"
+    "partName": "Poonam nagar i",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93873,
@@ -327,7 +385,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 30,
-    "partName": "Poonam nagar ii"
+    "partName": "Poonam nagar ii",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93874,
@@ -338,7 +398,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 31,
-    "partName": "Serawa"
+    "partName": "Serawa",
+    "lat": 27.2153273,
+    "lon": 70.5997324
   },
   {
     "partId": 93875,
@@ -349,7 +411,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 32,
-    "partName": "Sonu i"
+    "partName": "Sonu i",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93876,
@@ -360,7 +424,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 33,
-    "partName": "Sonu ii"
+    "partName": "Sonu ii",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93877,
@@ -371,7 +437,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 34,
-    "partName": "Joga"
+    "partName": "Joga",
+    "lat": 27.3172271,
+    "lon": 70.6346706
   },
   {
     "partId": 93878,
@@ -382,7 +450,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 35,
-    "partName": "Seuva"
+    "partName": "Seuva",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93879,
@@ -393,7 +463,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 36,
-    "partName": "Raghawa"
+    "partName": "Raghawa",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93880,
@@ -404,7 +476,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 37,
-    "partName": "Rayamala"
+    "partName": "Rayamala",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93881,
@@ -415,7 +489,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 38,
-    "partName": "Sadhana"
+    "partName": "Sadhana",
+    "lat": 27.4838679,
+    "lon": 70.6933282
   },
   {
     "partId": 93882,
@@ -426,7 +502,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 39,
-    "partName": "Nago ki Dhani"
+    "partName": "Nago ki Dhani",
+    "lat": 27.4189573,
+    "lon": 70.7180285
   },
   {
     "partId": 93883,
@@ -437,7 +515,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 40,
-    "partName": "Kakab"
+    "partName": "Kakab",
+    "lat": 27.4040042,
+    "lon": 70.7483482
   },
   {
     "partId": 93884,
@@ -448,7 +528,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 41,
-    "partName": "Naga"
+    "partName": "Naga",
+    "lat": 27.3889849,
+    "lon": 70.7976212
   },
   {
     "partId": 93885,
@@ -459,7 +541,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 42,
-    "partName": "Tejpala"
+    "partName": "Tejpala",
+    "lat": 27.4145723,
+    "lon": 70.8185521
   },
   {
     "partId": 93886,
@@ -470,7 +554,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 43,
-    "partName": "Bada"
+    "partName": "Bada",
+    "lat": 27.4042468,
+    "lon": 70.8403414
   },
   {
     "partId": 93887,
@@ -481,7 +567,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 44,
-    "partName": "Sultana"
+    "partName": "Sultana",
+    "lat": 27.4255383,
+    "lon": 70.8953048
   },
   {
     "partId": 93888,
@@ -492,7 +580,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 45,
-    "partName": "Raj singh ki dhani"
+    "partName": "Raj singh ki dhani",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93889,
@@ -503,7 +593,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 46,
-    "partName": "2 PTM Sultana"
+    "partName": "2 PTM Sultana",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93890,
@@ -514,7 +606,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 47,
-    "partName": "45 RD SLD"
+    "partName": "45 RD SLD",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93891,
@@ -525,7 +619,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 48,
-    "partName": "Munna Tibba"
+    "partName": "Munna Tibba",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93892,
@@ -536,7 +632,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 49,
-    "partName": "135 RD Sada"
+    "partName": "135 RD Sada",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93893,
@@ -547,7 +645,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 50,
-    "partName": "113 RD SBS"
+    "partName": "113 RD SBS",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93894,
@@ -558,7 +658,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 51,
-    "partName": "Javahar nagar 10 BD"
+    "partName": "Javahar nagar 10 BD",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93895,
@@ -569,7 +671,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 52,
-    "partName": "Shashtrinagar"
+    "partName": "Shashtrinagar",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93896,
@@ -580,7 +684,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 53,
-    "partName": "Digga"
+    "partName": "Digga",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93897,
@@ -591,7 +697,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 54,
-    "partName": "Arjana"
+    "partName": "Arjana",
+    "lat": 27.4087759,
+    "lon": 70.920658
   },
   {
     "partId": 93898,
@@ -602,7 +710,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 55,
-    "partName": "Mandha"
+    "partName": "Mandha",
+    "lat": 27.3312232,
+    "lon": 70.9076608
   },
   {
     "partId": 93899,
@@ -613,7 +723,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 56,
-    "partName": "Khinya"
+    "partName": "Khinya",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93900,
@@ -624,7 +736,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 57,
-    "partName": "Kabir Basti"
+    "partName": "Kabir Basti",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93901,
@@ -635,7 +749,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 58,
-    "partName": "Leela Parevar"
+    "partName": "Leela Parevar",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93902,
@@ -646,7 +762,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 59,
-    "partName": "Parevar"
+    "partName": "Parevar",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93903,
@@ -657,7 +775,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 60,
-    "partName": "Khinvsar"
+    "partName": "Khinvsar",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93904,
@@ -668,7 +788,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 61,
-    "partName": "Selat"
+    "partName": "Selat",
+    "lat": 27.1709714,
+    "lon": 70.8197594
   },
   {
     "partId": 93905,
@@ -679,7 +801,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 62,
-    "partName": "Kathodi"
+    "partName": "Kathodi",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93906,
@@ -690,7 +814,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 63,
-    "partName": "Choudhariya"
+    "partName": "Choudhariya",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93907,
@@ -701,7 +827,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 64,
-    "partName": "Deva"
+    "partName": "Deva",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93908,
@@ -712,7 +840,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 65,
-    "partName": "Deva"
+    "partName": "Deva",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93909,
@@ -723,7 +853,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 66,
-    "partName": "Lakha"
+    "partName": "Lakha",
+    "lat": 26.1469631,
+    "lon": 70.9810781
   },
   {
     "partId": 93910,
@@ -734,7 +866,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 67,
-    "partName": "ASADE KI DHANI"
+    "partName": "ASADE KI DHANI",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93911,
@@ -745,7 +879,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 68,
-    "partName": "Gogade"
+    "partName": "Gogade",
+    "lat": 27.2073269,
+    "lon": 70.9182242
   },
   {
     "partId": 93912,
@@ -756,7 +892,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 69,
-    "partName": "Boha"
+    "partName": "Boha",
+    "lat": 27.2749177,
+    "lon": 70.9585829
   },
   {
     "partId": 93913,
@@ -767,7 +905,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 70,
-    "partName": "Nehdai"
+    "partName": "Nehdai",
+    "lat": 27.3547411,
+    "lon": 70.9820154
   },
   {
     "partId": 93914,
@@ -778,7 +918,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 71,
-    "partName": "Sankhala"
+    "partName": "Sankhala",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93915,
@@ -789,7 +931,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 72,
-    "partName": "54 RD"
+    "partName": "54 RD",
+    "lat": 27.873371,
+    "lon": 71.5088026
   },
   {
     "partId": 93916,
@@ -800,7 +944,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 73,
-    "partName": "Mandau"
+    "partName": "Mandau",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93917,
@@ -811,7 +957,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 74,
-    "partName": "2 M D Mahadevnagar"
+    "partName": "2 M D Mahadevnagar",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 94125,
@@ -822,7 +970,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 75,
-    "partName": "3 M D BAKALSAR"
+    "partName": "3 M D BAKALSAR",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93918,
@@ -833,7 +983,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 76,
-    "partName": "sadrau"
+    "partName": "sadrau",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93919,
@@ -844,7 +996,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 77,
-    "partName": "Bahala i"
+    "partName": "Bahala i",
+    "lat": 27.7726,
+    "lon": 71.4045
   },
   {
     "partId": 93920,
@@ -855,7 +1009,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 78,
-    "partName": "Bahala ii"
+    "partName": "Bahala ii",
+    "lat": 27.7726,
+    "lon": 71.4045
   },
   {
     "partId": 93921,
@@ -866,7 +1022,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 79,
-    "partName": "80 RD PD"
+    "partName": "80 RD PD",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93922,
@@ -877,7 +1035,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 80,
-    "partName": "Mohangarh"
+    "partName": "Mohangarh",
+    "lat": 27.3069123,
+    "lon": 71.2214433
   },
   {
     "partId": 93923,
@@ -888,7 +1048,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 81,
-    "partName": "Mohangarh"
+    "partName": "Mohangarh",
+    "lat": 27.3069123,
+    "lon": 71.2214433
   },
   {
     "partId": 93924,
@@ -899,7 +1061,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 82,
-    "partName": "Mohangarh"
+    "partName": "Mohangarh",
+    "lat": 27.3069123,
+    "lon": 71.2214433
   },
   {
     "partId": 93925,
@@ -910,7 +1074,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 83,
-    "partName": "Hameer Nada"
+    "partName": "Hameer Nada",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 94123,
@@ -921,7 +1087,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 84,
-    "partName": "Janipura"
+    "partName": "Janipura",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93926,
@@ -932,7 +1100,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 85,
-    "partName": "CHHE DHANI"
+    "partName": "CHHE DHANI",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93927,
@@ -943,7 +1113,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 86,
-    "partName": "Mohangarh"
+    "partName": "Mohangarh",
+    "lat": 27.3069123,
+    "lon": 71.2214433
   },
   {
     "partId": 93928,
@@ -954,7 +1126,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 87,
-    "partName": "Mohangarh"
+    "partName": "Mohangarh",
+    "lat": 27.3069123,
+    "lon": 71.2214433
   },
   {
     "partId": 93929,
@@ -965,7 +1139,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 88,
-    "partName": "Mohangarh"
+    "partName": "Mohangarh",
+    "lat": 27.3069123,
+    "lon": 71.2214433
   },
   {
     "partId": 93930,
@@ -976,7 +1152,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 89,
-    "partName": "Mohangarh"
+    "partName": "Mohangarh",
+    "lat": 27.3069123,
+    "lon": 71.2214433
   },
   {
     "partId": 93931,
@@ -987,7 +1165,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 90,
-    "partName": "Mohangarh"
+    "partName": "Mohangarh",
+    "lat": 27.3069123,
+    "lon": 71.2214433
   },
   {
     "partId": 93932,
@@ -998,7 +1178,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 91,
-    "partName": "Toba"
+    "partName": "Toba",
+    "lat": 27.3838477,
+    "lon": 70.1141667
   },
   {
     "partId": 93933,
@@ -1009,7 +1191,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 92,
-    "partName": "Reharud"
+    "partName": "Reharud",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93934,
@@ -1020,7 +1204,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 93,
-    "partName": "Tadana"
+    "partName": "Tadana",
+    "lat": 27.3268067,
+    "lon": 71.5423894
   },
   {
     "partId": 93935,
@@ -1031,7 +1217,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 94,
-    "partName": "Deunga"
+    "partName": "Deunga",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93936,
@@ -1042,7 +1230,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 95,
-    "partName": "Kanod"
+    "partName": "Kanod",
+    "lat": 27.1251351,
+    "lon": 71.1097007
   },
   {
     "partId": 93937,
@@ -1053,7 +1243,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 96,
-    "partName": "Dam Pura"
+    "partName": "Dam Pura",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93938,
@@ -1064,7 +1256,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 97,
-    "partName": "Hadda"
+    "partName": "Hadda",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93939,
@@ -1075,7 +1269,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 98,
-    "partName": "Birma Kanod"
+    "partName": "Birma Kanod",
+    "lat": 26.888030167582414,
+    "lon": 70.9192692195055
   },
   {
     "partId": 93940,
@@ -1086,7 +1282,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 99,
-    "partName": "Jesurana"
+    "partName": "Jesurana",
+    "lat": 26.888030167582414,
+    "lon": 70.9192692195055
   },
   {
     "partId": 93941,
@@ -1097,7 +1295,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 100,
-    "partName": "Bhojasar"
+    "partName": "Bhojasar",
+    "lat": 26.888030167582414,
+    "lon": 70.9192692195055
   },
   {
     "partId": 93942,
@@ -1108,7 +1308,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 101,
-    "partName": "Hameera i"
+    "partName": "Hameera i",
+    "lat": 26.999672,
+    "lon": 71.0767537
   },
   {
     "partId": 93943,
@@ -1119,7 +1321,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 102,
-    "partName": "Hameera ii"
+    "partName": "Hameera ii",
+    "lat": 26.999672,
+    "lon": 71.0767537
   },
   {
     "partId": 93944,
@@ -1130,7 +1334,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 103,
-    "partName": "Ridawa"
+    "partName": "Ridawa",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93945,
@@ -1141,7 +1347,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 104,
-    "partName": "Thaiyat"
+    "partName": "Thaiyat",
+    "lat": 26.935297,
+    "lon": 71.068594
   },
   {
     "partId": 93946,
@@ -1152,7 +1360,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 105,
-    "partName": "Basanpeer Dakshini"
+    "partName": "Basanpeer Dakshini",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93947,
@@ -1163,7 +1373,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 106,
-    "partName": "Basanpeer Juni"
+    "partName": "Basanpeer Juni",
+    "lat": 26.9201501,
+    "lon": 71.1076908
   },
   {
     "partId": 93948,
@@ -1174,7 +1386,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 107,
-    "partName": "Bhagu Ka Gaon"
+    "partName": "Bhagu Ka Gaon",
+    "lat": 26.9178799,
+    "lon": 71.1690044
   },
   {
     "partId": 94103,
@@ -1185,7 +1399,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 108,
-    "partName": "Bambaro Ki Dhani"
+    "partName": "Bambaro Ki Dhani",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93949,
@@ -1196,7 +1412,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 109,
-    "partName": "Sanwala"
+    "partName": "Sanwala",
+    "lat": 26.9861636,
+    "lon": 71.2327552
   },
   {
     "partId": 93950,
@@ -1207,7 +1425,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 110,
-    "partName": "Sagra"
+    "partName": "Sagra",
+    "lat": 26.9936015,
+    "lon": 71.2783098
   },
   {
     "partId": 93951,
@@ -1218,7 +1438,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 111,
-    "partName": "Chandhan i"
+    "partName": "Chandhan i",
+    "lat": 26.994,
+    "lon": 71.3086
   },
   {
     "partId": 93952,
@@ -1229,7 +1451,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 112,
-    "partName": "Chandhan ii"
+    "partName": "Chandhan ii",
+    "lat": 26.994,
+    "lon": 71.3086
   },
   {
     "partId": 94104,
@@ -1240,7 +1464,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 113,
-    "partName": "Sujiyo Ki Dhani"
+    "partName": "Sujiyo Ki Dhani",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93953,
@@ -1251,7 +1477,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 114,
-    "partName": "Karamon Ki Dhani"
+    "partName": "Karamon Ki Dhani",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93954,
@@ -1262,7 +1490,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 115,
-    "partName": "SodhaKor"
+    "partName": "SodhaKor",
+    "lat": 26.888030167582414,
+    "lon": 70.9192692195055
   },
   {
     "partId": 93955,
@@ -1273,7 +1503,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 116,
-    "partName": "Delasar"
+    "partName": "Delasar",
+    "lat": 26.9631105,
+    "lon": 71.4261317
   },
   {
     "partId": 93956,
@@ -1284,7 +1516,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 117,
-    "partName": "Delasar"
+    "partName": "Delasar",
+    "lat": 26.9631105,
+    "lon": 71.4261317
   },
   {
     "partId": 93957,
@@ -1295,7 +1529,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 118,
-    "partName": "Dhaysar"
+    "partName": "Dhaysar",
+    "lat": 26.9061317,
+    "lon": 71.3594413
   },
   {
     "partId": 93958,
@@ -1306,7 +1542,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 119,
-    "partName": "Jawandh Jooni"
+    "partName": "Jawandh Jooni",
+    "lat": 26.8859426,
+    "lon": 71.3074922
   },
   {
     "partId": 93959,
@@ -1317,7 +1555,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 120,
-    "partName": "Jawandh Nai"
+    "partName": "Jawandh Nai",
+    "lat": 26.9006782,
+    "lon": 71.291871
   },
   {
     "partId": 93960,
@@ -1328,7 +1568,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 121,
-    "partName": "Bherawa"
+    "partName": "Bherawa",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93961,
@@ -1339,7 +1581,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 122,
-    "partName": "Bhojka"
+    "partName": "Bhojka",
+    "lat": 26.9547812,
+    "lon": 71.1880267
   },
   {
     "partId": 94105,
@@ -1350,7 +1594,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 123,
-    "partName": "Beldaro Ki Dhani Jhabra"
+    "partName": "Beldaro Ki Dhani Jhabra",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93962,
@@ -1361,7 +1607,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 124,
-    "partName": "Badoda Gaon"
+    "partName": "Badoda Gaon",
+    "lat": 26.860215,
+    "lon": 71.1757247
   },
   {
     "partId": 93963,
@@ -1372,7 +1620,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 125,
-    "partName": "Badoda Gaon"
+    "partName": "Badoda Gaon",
+    "lat": 26.860215,
+    "lon": 71.1757247
   },
   {
     "partId": 93964,
@@ -1383,7 +1633,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 126,
-    "partName": "Badoda Gaon"
+    "partName": "Badoda Gaon",
+    "lat": 26.860215,
+    "lon": 71.1757247
   },
   {
     "partId": 93965,
@@ -1394,7 +1646,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 127,
-    "partName": "Asayach"
+    "partName": "Asayach",
+    "lat": 26.8415714,
+    "lon": 71.1299085
   },
   {
     "partId": 93966,
@@ -1405,7 +1659,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 128,
-    "partName": "Akal"
+    "partName": "Akal",
+    "lat": 26.888030167582414,
+    "lon": 70.9192692195055
   },
   {
     "partId": 94106,
@@ -1416,7 +1672,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 129,
-    "partName": "Jodha"
+    "partName": "Jodha",
+    "lat": 26.458721,
+    "lon": 70.7946324
   },
   {
     "partId": 93967,
@@ -1427,7 +1685,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 130,
-    "partName": "Dabala"
+    "partName": "Dabala",
+    "lat": 26.848826,
+    "lon": 71.0101852
   },
   {
     "partId": 93968,
@@ -1438,7 +1698,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 131,
-    "partName": "Darbari Ka Gaon"
+    "partName": "Darbari Ka Gaon",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93969,
@@ -1449,7 +1711,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 132,
-    "partName": "Dhanwa"
+    "partName": "Dhanwa",
+    "lat": 26.8040969,
+    "lon": 70.9907555
   },
   {
     "partId": 93970,
@@ -1460,7 +1724,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 133,
-    "partName": "Bhoo"
+    "partName": "Bhoo",
+    "lat": 26.7676829,
+    "lon": 70.9472179
   },
   {
     "partId": 93971,
@@ -1471,7 +1737,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 134,
-    "partName": "Polji Ki Dehari"
+    "partName": "Polji Ki Dehari",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93972,
@@ -1482,7 +1750,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 135,
-    "partName": "Hansuva"
+    "partName": "Hansuva",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93973,
@@ -1493,7 +1763,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 136,
-    "partName": "Kayam ki Dhani"
+    "partName": "Kayam ki Dhani",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93974,
@@ -1504,7 +1776,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 137,
-    "partName": "Sata"
+    "partName": "Sata",
+    "lat": 26.7970778,
+    "lon": 70.8347499
   },
   {
     "partId": 93975,
@@ -1515,7 +1789,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 138,
-    "partName": "Pithala"
+    "partName": "Pithala",
+    "lat": 26.7427744,
+    "lon": 70.7937097
   },
   {
     "partId": 93976,
@@ -1526,7 +1802,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 139,
-    "partName": "Kuldhara"
+    "partName": "Kuldhara",
+    "lat": 26.8698766,
+    "lon": 70.7851226
   },
   {
     "partId": 93977,
@@ -1537,7 +1815,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 140,
-    "partName": "Dhauva"
+    "partName": "Dhauva",
+    "lat": 26.8444815,
+    "lon": 70.8718157
   },
   {
     "partId": 93978,
@@ -1548,7 +1828,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 141,
-    "partName": "Amar sagar"
+    "partName": "Amar sagar",
+    "lat": 26.9320341,
+    "lon": 70.8731686
   },
   {
     "partId": 93979,
@@ -1559,7 +1841,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 142,
-    "partName": "Moolsagar"
+    "partName": "Moolsagar",
+    "lat": 26.9189705,
+    "lon": 70.8431375
   },
   {
     "partId": 93980,
@@ -1570,7 +1854,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 143,
-    "partName": "Badabag"
+    "partName": "Badabag",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93981,
@@ -1581,7 +1867,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 144,
-    "partName": "Jaisalmer"
+    "partName": "Jaisalmer",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93982,
@@ -1592,7 +1880,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 145,
-    "partName": "Jaisalmer"
+    "partName": "Jaisalmer",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93983,
@@ -1603,7 +1893,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 146,
-    "partName": "Jaisalmer"
+    "partName": "Jaisalmer",
+    "lat": 26.888030167582414,
+    "lon": 70.9192692195055
   },
   {
     "partId": 93984,
@@ -1614,7 +1906,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 147,
-    "partName": "Jaisalmer"
+    "partName": "Jaisalmer",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93985,
@@ -1625,7 +1919,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 148,
-    "partName": "Jaisalmer"
+    "partName": "Jaisalmer",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 94126,
@@ -1636,7 +1932,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 149,
-    "partName": "JANTA CLINIC BABAR MAGRA"
+    "partName": "JANTA CLINIC BABAR MAGRA",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93986,
@@ -1647,7 +1945,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 150,
-    "partName": "Jaisalmer"
+    "partName": "Jaisalmer",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93987,
@@ -1658,7 +1958,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 151,
-    "partName": "Jaisalmer"
+    "partName": "Jaisalmer",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93988,
@@ -1669,7 +1971,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 152,
-    "partName": "Jaisalmer"
+    "partName": "Jaisalmer",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93989,
@@ -1680,7 +1984,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 153,
-    "partName": "Jaisalmer"
+    "partName": "Jaisalmer",
+    "lat": 26.888030167582414,
+    "lon": 70.9192692195055
   },
   {
     "partId": 93990,
@@ -1691,7 +1997,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 154,
-    "partName": "Jaisalmer"
+    "partName": "Jaisalmer",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93991,
@@ -1702,7 +2010,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 155,
-    "partName": "Jaisalmer"
+    "partName": "Jaisalmer",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93992,
@@ -1713,7 +2023,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 156,
-    "partName": "Jaisalmer"
+    "partName": "Jaisalmer",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93993,
@@ -1724,7 +2036,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 157,
-    "partName": "Jaisalmer"
+    "partName": "Jaisalmer",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93994,
@@ -1735,7 +2049,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 158,
-    "partName": "Jaisalmer"
+    "partName": "Jaisalmer",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93995,
@@ -1746,7 +2062,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 159,
-    "partName": "Jaisalmer"
+    "partName": "Jaisalmer",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93996,
@@ -1757,7 +2075,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 160,
-    "partName": "Jaisalmer"
+    "partName": "Jaisalmer",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93997,
@@ -1768,7 +2088,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 161,
-    "partName": "Jaisalmer"
+    "partName": "Jaisalmer",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 94107,
@@ -1779,7 +2101,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 162,
-    "partName": "Jaisalmer"
+    "partName": "Jaisalmer",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93998,
@@ -1790,7 +2114,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 163,
-    "partName": "Jaisalmer"
+    "partName": "Jaisalmer",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93999,
@@ -1801,7 +2127,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 164,
-    "partName": "Jaisalmer"
+    "partName": "Jaisalmer",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 94124,
@@ -1812,7 +2140,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 165,
-    "partName": "Jaisalmer"
+    "partName": "Jaisalmer",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 94000,
@@ -1823,7 +2153,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 166,
-    "partName": "Jaisalmer"
+    "partName": "Jaisalmer",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 94001,
@@ -1834,7 +2166,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 167,
-    "partName": "Jaisalmer"
+    "partName": "Jaisalmer",
+    "lat": 26.888030167582414,
+    "lon": 70.9192692195055
   },
   {
     "partId": 94002,
@@ -1845,7 +2179,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 168,
-    "partName": "Jaisalmer"
+    "partName": "Jaisalmer",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 94003,
@@ -1856,7 +2192,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 169,
-    "partName": "Jaisalmer"
+    "partName": "Jaisalmer",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 94004,
@@ -1867,7 +2205,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 170,
-    "partName": "Jaisalmer"
+    "partName": "Jaisalmer",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 94005,
@@ -1878,7 +2218,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 171,
-    "partName": "Jaisalmer"
+    "partName": "Jaisalmer",
+    "lat": 26.888030167582414,
+    "lon": 70.9192692195055
   },
   {
     "partId": 94006,
@@ -1889,7 +2231,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 172,
-    "partName": "Jaisalmer"
+    "partName": "Jaisalmer",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 94127,
@@ -1900,7 +2244,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 173,
-    "partName": "ITI"
+    "partName": "ITI",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 94007,
@@ -1911,7 +2257,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 174,
-    "partName": "Jaisalmer"
+    "partName": "Jaisalmer",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 94128,
@@ -1922,7 +2270,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 175,
-    "partName": "SANSKRIT SCHOOL JETHWAI ROAD"
+    "partName": "SANSKRIT SCHOOL JETHWAI ROAD",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 94008,
@@ -1933,7 +2283,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 176,
-    "partName": "Kishanghat"
+    "partName": "Kishanghat",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 94129,
@@ -1944,7 +2296,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 177,
-    "partName": "Kishanghat"
+    "partName": "Kishanghat",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 94009,
@@ -1955,7 +2309,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 178,
-    "partName": "Jethwai"
+    "partName": "Jethwai",
+    "lat": 26.9953223,
+    "lon": 70.9521854
   },
   {
     "partId": 94010,
@@ -1966,7 +2322,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 179,
-    "partName": "Pohada"
+    "partName": "Pohada",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 94011,
@@ -1977,7 +2335,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 180,
-    "partName": "Baramsar"
+    "partName": "Baramsar",
+    "lat": 27.7130617,
+    "lon": 72.0038688
   },
   {
     "partId": 94012,
@@ -1988,7 +2348,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 181,
-    "partName": "Lanela"
+    "partName": "Lanela",
+    "lat": 27.0836836,
+    "lon": 70.8184073
   },
   {
     "partId": 94013,
@@ -1999,7 +2361,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 182,
-    "partName": "Bhadasar"
+    "partName": "Bhadasar",
+    "lat": 27.0981821,
+    "lon": 70.787366
   },
   {
     "partId": 94014,
@@ -2010,7 +2374,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 183,
-    "partName": "Mokala"
+    "partName": "Mokala",
+    "lat": 27.1297532,
+    "lon": 70.7600918
   },
   {
     "partId": 94015,
@@ -2021,7 +2387,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 184,
-    "partName": "Roopsi"
+    "partName": "Roopsi",
+    "lat": 27.0044707,
+    "lon": 70.8117127
   },
   {
     "partId": 94016,
@@ -2032,7 +2400,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 185,
-    "partName": "Jogiyo ki dhani"
+    "partName": "Jogiyo ki dhani",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 94017,
@@ -2043,7 +2413,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 186,
-    "partName": "Lodrawa"
+    "partName": "Lodrawa",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 94108,
@@ -2054,7 +2426,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 187,
-    "partName": "Chundhi"
+    "partName": "Chundhi",
+    "lat": 26.9618387,
+    "lon": 70.824244
   },
   {
     "partId": 94018,
@@ -2065,7 +2439,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 188,
-    "partName": "Chhatrail i"
+    "partName": "Chhatrail i",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 94019,
@@ -2076,7 +2452,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 189,
-    "partName": "Chhatrail ii"
+    "partName": "Chhatrail ii",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 94020,
@@ -2087,7 +2465,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 190,
-    "partName": "Kahala"
+    "partName": "Kahala",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 94021,
@@ -2098,7 +2478,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 191,
-    "partName": "Meghwalo Ki Dhani"
+    "partName": "Meghwalo Ki Dhani",
+    "lat": 26.6452052,
+    "lon": 70.3723991
   },
   {
     "partId": 94022,
@@ -2109,7 +2491,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 192,
-    "partName": "Damodara"
+    "partName": "Damodara",
+    "lat": 26.9051941,
+    "lon": 70.7192838
   },
   {
     "partId": 94023,
@@ -2120,7 +2504,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 193,
-    "partName": "Dujasar"
+    "partName": "Dujasar",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 94024,
@@ -2131,7 +2517,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 194,
-    "partName": "Salakha"
+    "partName": "Salakha",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 94025,
@@ -2142,7 +2530,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 195,
-    "partName": "Kanoi  i"
+    "partName": "Kanoi  i",
+    "lat": 26.8773109,
+    "lon": 70.5799484
   },
   {
     "partId": 94026,
@@ -2153,7 +2543,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 196,
-    "partName": "Kanoi  ii"
+    "partName": "Kanoi  ii",
+    "lat": 26.8773109,
+    "lon": 70.5799484
   },
   {
     "partId": 94027,
@@ -2164,7 +2556,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 197,
-    "partName": "Kesuo Ki Basti"
+    "partName": "Kesuo Ki Basti",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 94028,
@@ -2175,7 +2569,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 198,
-    "partName": "Siyalo Ki Basti"
+    "partName": "Siyalo Ki Basti",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 94029,
@@ -2186,7 +2582,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 199,
-    "partName": "Mangaliyawas"
+    "partName": "Mangaliyawas",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 94030,
@@ -2197,7 +2595,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 200,
-    "partName": "Malingada"
+    "partName": "Malingada",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 94031,
@@ -2208,7 +2608,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 201,
-    "partName": "Turke Ki Basti"
+    "partName": "Turke Ki Basti",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 94032,
@@ -2219,7 +2621,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 202,
-    "partName": "Lakhamano Ki Basti"
+    "partName": "Lakhamano Ki Basti",
+    "lat": 26.8932245,
+    "lon": 70.5165946
   },
   {
     "partId": 94033,
@@ -2230,7 +2634,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 203,
-    "partName": "Hamiro Ki Basti"
+    "partName": "Hamiro Ki Basti",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 94034,
@@ -2241,7 +2647,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 204,
-    "partName": "Rojaniyo Ki Basti"
+    "partName": "Rojaniyo Ki Basti",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 94035,
@@ -2252,7 +2660,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 205,
-    "partName": "Luno Ki Basti"
+    "partName": "Luno Ki Basti",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 94036,
@@ -2263,7 +2673,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 206,
-    "partName": "Sam"
+    "partName": "Sam",
+    "lat": 26.8283951,
+    "lon": 70.507509
   },
   {
     "partId": 94037,
@@ -2274,7 +2686,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 207,
-    "partName": "Gango ki Basti"
+    "partName": "Gango ki Basti",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 94038,
@@ -2285,7 +2699,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 208,
-    "partName": "Sagaro Ki Basti"
+    "partName": "Sagaro Ki Basti",
+    "lat": 26.8281686,
+    "lon": 70.4808998
   },
   {
     "partId": 94109,
@@ -2296,7 +2712,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 209,
-    "partName": "Manuvo Ki Basti"
+    "partName": "Manuvo Ki Basti",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 94039,
@@ -2307,7 +2725,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 210,
-    "partName": "BALIDAD KI BASTI"
+    "partName": "BALIDAD KI BASTI",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 94040,
@@ -2318,7 +2738,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 211,
-    "partName": "Rahu Ka Paar"
+    "partName": "Rahu Ka Paar",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 94041,
@@ -2329,7 +2751,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 212,
-    "partName": "Bhuvana"
+    "partName": "Bhuvana",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 94042,
@@ -2340,7 +2764,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 213,
-    "partName": "Harnau"
+    "partName": "Harnau",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 94043,
@@ -2351,7 +2777,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 214,
-    "partName": "Rablau fakirowala"
+    "partName": "Rablau fakirowala",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 94044,
@@ -2362,7 +2790,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 215,
-    "partName": "MENAU"
+    "partName": "MENAU",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 94045,
@@ -2373,7 +2803,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 216,
-    "partName": "Nayatala"
+    "partName": "Nayatala",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 94046,
@@ -2384,7 +2816,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 217,
-    "partName": "Adkiya"
+    "partName": "Adkiya",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 94047,
@@ -2395,7 +2829,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 218,
-    "partName": "Shahgarh"
+    "partName": "Shahgarh",
+    "lat": 26.888030167582414,
+    "lon": 70.9192692195055
   },
   {
     "partId": 94048,
@@ -2406,7 +2842,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 219,
-    "partName": "Langtala"
+    "partName": "Langtala",
+    "lat": 27.3857181,
+    "lon": 70.09734
   },
   {
     "partId": 94049,
@@ -2417,7 +2855,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 220,
-    "partName": "Khariya jethvi"
+    "partName": "Khariya jethvi",
+    "lat": 26.888030167582414,
+    "lon": 70.9192692195055
   },
   {
     "partId": 94050,
@@ -2428,7 +2868,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 221,
-    "partName": "Ganeshiya"
+    "partName": "Ganeshiya",
+    "lat": 26.888030167582414,
+    "lon": 70.9192692195055
   },
   {
     "partId": 94051,
@@ -2439,7 +2881,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 222,
-    "partName": "Mehrana"
+    "partName": "Mehrana",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 94052,
@@ -2450,7 +2894,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 223,
-    "partName": "Mandhala"
+    "partName": "Mandhala",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 94053,
@@ -2461,7 +2907,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 224,
-    "partName": "Murar ka Tala"
+    "partName": "Murar ka Tala",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 94054,
@@ -2472,7 +2920,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 225,
-    "partName": "Loonar"
+    "partName": "Loonar",
+    "lat": 26.595972,
+    "lon": 70.267117
   },
   {
     "partId": 94055,
@@ -2483,7 +2933,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 226,
-    "partName": "Gunjangarh"
+    "partName": "Gunjangarh",
+    "lat": 26.4826927,
+    "lon": 70.2660978
   },
   {
     "partId": 94056,
@@ -2494,7 +2946,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 227,
-    "partName": "Karda"
+    "partName": "Karda",
+    "lat": 26.4189128,
+    "lon": 70.250587
   },
   {
     "partId": 94057,
@@ -2505,7 +2959,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 228,
-    "partName": "Pochhina"
+    "partName": "Pochhina",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 94058,
@@ -2516,7 +2972,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 229,
-    "partName": "Binjraj Ka Tala"
+    "partName": "Binjraj Ka Tala",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 94059,
@@ -2527,7 +2985,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 230,
-    "partName": "Mithrau"
+    "partName": "Mithrau",
+    "lat": 26.1643552,
+    "lon": 70.1685834
   },
   {
     "partId": 94060,
@@ -2538,7 +2998,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 231,
-    "partName": "Kerla"
+    "partName": "Kerla",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 94061,
@@ -2549,7 +3011,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 232,
-    "partName": "Myajlar i"
+    "partName": "Myajlar i",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 94062,
@@ -2560,7 +3024,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 233,
-    "partName": "Myajlar ii"
+    "partName": "Myajlar ii",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 94063,
@@ -2571,7 +3037,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 234,
-    "partName": "Keshar singh Ka Tala"
+    "partName": "Keshar singh Ka Tala",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 94064,
@@ -2582,7 +3050,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 235,
-    "partName": "Dav"
+    "partName": "Dav",
+    "lat": 26.4282659,
+    "lon": 70.4427779
   },
   {
     "partId": 94065,
@@ -2593,7 +3063,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 236,
-    "partName": "Hatar"
+    "partName": "Hatar",
+    "lat": 26.888030167582414,
+    "lon": 70.9192692195055
   },
   {
     "partId": 94066,
@@ -2604,7 +3076,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 237,
-    "partName": "Chouhani"
+    "partName": "Chouhani",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 94067,
@@ -2615,7 +3089,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 238,
-    "partName": "Koriya"
+    "partName": "Koriya",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 94068,
@@ -2626,7 +3102,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 239,
-    "partName": "Phaledi Masuriya"
+    "partName": "Phaledi Masuriya",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 94069,
@@ -2637,7 +3115,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 240,
-    "partName": "Samad Fakir ki Dhani"
+    "partName": "Samad Fakir ki Dhani",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 94130,
@@ -2648,7 +3128,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 241,
-    "partName": "MEERWALI KI DHANI PARTANIYO KI BASTI"
+    "partName": "MEERWALI KI DHANI PARTANIYO KI BASTI",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 94070,
@@ -2659,7 +3141,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 242,
-    "partName": "Dabadi"
+    "partName": "Dabadi",
+    "lat": 26.6286239,
+    "lon": 70.3941035
   },
   {
     "partId": 94071,
@@ -2670,7 +3154,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 243,
-    "partName": "Gajuon Ki Basti"
+    "partName": "Gajuon Ki Basti",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 94072,
@@ -2681,7 +3167,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 244,
-    "partName": "Bida"
+    "partName": "Bida",
+    "lat": 26.888030167582414,
+    "lon": 70.9192692195055
   },
   {
     "partId": 94073,
@@ -2692,7 +3180,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 245,
-    "partName": "Nimba"
+    "partName": "Nimba",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 94074,
@@ -2703,7 +3193,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 246,
-    "partName": "Khabha"
+    "partName": "Khabha",
+    "lat": 26.80967,
+    "lon": 70.6761861
   },
   {
     "partId": 94075,
@@ -2714,7 +3206,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 247,
-    "partName": "Khabhiya"
+    "partName": "Khabhiya",
+    "lat": 26.806633,
+    "lon": 70.6930859
   },
   {
     "partId": 94076,
@@ -2725,7 +3219,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 248,
-    "partName": "Dedha"
+    "partName": "Dedha",
+    "lat": 26.82326,
+    "lon": 70.7131773
   },
   {
     "partId": 94077,
@@ -2736,7 +3232,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 249,
-    "partName": "Dhuliya"
+    "partName": "Dhuliya",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 94078,
@@ -2747,7 +3245,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 250,
-    "partName": "Sipala"
+    "partName": "Sipala",
+    "lat": 26.7161546,
+    "lon": 70.7083619
   },
   {
     "partId": 94110,
@@ -2758,7 +3258,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 251,
-    "partName": "Kumbhar Kotha"
+    "partName": "Kumbhar Kotha",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 94079,
@@ -2769,7 +3271,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 252,
-    "partName": "Dhoba"
+    "partName": "Dhoba",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 94111,
@@ -2780,7 +3284,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 253,
-    "partName": "Ratadiya Ki Dhani"
+    "partName": "Ratadiya Ki Dhani",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 94080,
@@ -2791,7 +3297,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 254,
-    "partName": "Khuhari  i"
+    "partName": "Khuhari  i",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 94081,
@@ -2802,7 +3310,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 255,
-    "partName": "Khuhari  ii"
+    "partName": "Khuhari  ii",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 94082,
@@ -2813,7 +3323,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 256,
-    "partName": "Maneri"
+    "partName": "Maneri",
+    "lat": 26.5131496,
+    "lon": 70.6295156
   },
   {
     "partId": 94083,
@@ -2824,7 +3336,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 257,
-    "partName": "Tejsi"
+    "partName": "Tejsi",
+    "lat": 26.6227781,
+    "lon": 70.6682897
   },
   {
     "partId": 94084,
@@ -2835,7 +3349,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 258,
-    "partName": "Barna"
+    "partName": "Barna",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 94085,
@@ -2846,7 +3362,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 259,
-    "partName": "Dhaneli"
+    "partName": "Dhaneli",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 94086,
@@ -2857,7 +3375,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 260,
-    "partName": "Bersiyala"
+    "partName": "Bersiyala",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 94087,
@@ -2868,7 +3388,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 261,
-    "partName": "Khariya"
+    "partName": "Khariya",
+    "lat": 27.7425731,
+    "lon": 71.7069724
   },
   {
     "partId": 94088,
@@ -2879,7 +3401,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 262,
-    "partName": "Phuliya"
+    "partName": "Phuliya",
+    "lat": 26.3649664,
+    "lon": 70.4837429
   },
   {
     "partId": 94089,
@@ -2890,7 +3414,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 263,
-    "partName": "Satto"
+    "partName": "Satto",
+    "lat": 26.2521487,
+    "lon": 70.4657444
   },
   {
     "partId": 94090,
@@ -2901,7 +3427,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 264,
-    "partName": "Satto"
+    "partName": "Satto",
+    "lat": 26.2521487,
+    "lon": 70.4657444
   },
   {
     "partId": 94091,
@@ -2912,7 +3440,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 265,
-    "partName": "Dohato Ki Dhani, satto"
+    "partName": "Dohato Ki Dhani, satto",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 94092,
@@ -2923,7 +3453,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 266,
-    "partName": "Tejrawa"
+    "partName": "Tejrawa",
+    "lat": 26.2402396,
+    "lon": 70.6420958
   },
   {
     "partId": 94093,
@@ -2934,7 +3466,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 267,
-    "partName": "Sihadar"
+    "partName": "Sihadar",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 94094,
@@ -2945,7 +3479,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 268,
-    "partName": "Baiya"
+    "partName": "Baiya",
+    "lat": 26.238113,
+    "lon": 70.7628536
   },
   {
     "partId": 94095,
@@ -2956,7 +3492,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 269,
-    "partName": "Bhu ki Dhani"
+    "partName": "Bhu ki Dhani",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 94112,
@@ -2967,7 +3505,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 270,
-    "partName": "Halaniyo Ki Dhani"
+    "partName": "Halaniyo Ki Dhani",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 94096,
@@ -2978,7 +3518,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 271,
-    "partName": "Lakhaniyo Ki Dhanni"
+    "partName": "Lakhaniyo Ki Dhanni",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 94097,
@@ -2989,7 +3531,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 272,
-    "partName": "Magra"
+    "partName": "Magra",
+    "lat": 26.3136897,
+    "lon": 70.797143
   },
   {
     "partId": 94098,
@@ -3000,7 +3544,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 273,
-    "partName": "Gale Ki Basti"
+    "partName": "Gale Ki Basti",
+    "lat": 26.3016603,
+    "lon": 70.7747383
   },
   {
     "partId": 94099,
@@ -3011,7 +3557,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 274,
-    "partName": "Basda"
+    "partName": "Basda",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 94100,
@@ -3022,7 +3570,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 275,
-    "partName": "Bhambhara"
+    "partName": "Bhambhara",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 94101,
@@ -3033,7 +3583,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 276,
-    "partName": "Suhare ki Basti"
+    "partName": "Suhare ki Basti",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93746,
@@ -3044,7 +3596,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 277,
-    "partName": "Chanane Ki Basti"
+    "partName": "Chanane Ki Basti",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93747,
@@ -3055,7 +3609,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 278,
-    "partName": "Chhatagar"
+    "partName": "Chhatagar",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93748,
@@ -3066,7 +3622,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 279,
-    "partName": "Janra"
+    "partName": "Janra",
+    "lat": 26.584747,
+    "lon": 70.8179998
   },
   {
     "partId": 93749,
@@ -3077,7 +3635,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 280,
-    "partName": "Asloi"
+    "partName": "Asloi",
+    "lat": 26.6226774,
+    "lon": 70.8363247
   },
   {
     "partId": 93750,
@@ -3088,7 +3648,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 281,
-    "partName": "Kotadi"
+    "partName": "Kotadi",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93751,
@@ -3099,7 +3661,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 282,
-    "partName": "Soda"
+    "partName": "Soda",
+    "lat": 26.6572873,
+    "lon": 70.8655071
   },
   {
     "partId": 93752,
@@ -3110,7 +3674,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 283,
-    "partName": "Bhopa"
+    "partName": "Bhopa",
+    "lat": 26.888030167582414,
+    "lon": 70.9192692195055
   },
   {
     "partId": 93753,
@@ -3121,7 +3687,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 284,
-    "partName": "Pithodai"
+    "partName": "Pithodai",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93754,
@@ -3132,7 +3700,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 285,
-    "partName": "Keeta"
+    "partName": "Keeta",
+    "lat": 26.7131454,
+    "lon": 71.0217189
   },
   {
     "partId": 94113,
@@ -3143,7 +3713,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 286,
-    "partName": "Achala Ram Ki Dhani"
+    "partName": "Achala Ram Ki Dhani",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93755,
@@ -3154,7 +3726,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 287,
-    "partName": "Keeta"
+    "partName": "Keeta",
+    "lat": 26.7131454,
+    "lon": 71.0217189
   },
   {
     "partId": 93756,
@@ -3165,7 +3739,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 288,
-    "partName": "Ugawa"
+    "partName": "Ugawa",
+    "lat": 26.6502971,
+    "lon": 70.9591484
   },
   {
     "partId": 93757,
@@ -3176,7 +3752,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 289,
-    "partName": "Narsingo Ki Dhani"
+    "partName": "Narsingo Ki Dhani",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93758,
@@ -3187,7 +3765,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 290,
-    "partName": "Korwa"
+    "partName": "Korwa",
+    "lat": 26.6164621,
+    "lon": 70.9113836
   },
   {
     "partId": 93759,
@@ -3198,7 +3778,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 291,
-    "partName": "Shobh"
+    "partName": "Shobh",
+    "lat": 26.590446,
+    "lon": 70.8928227
   },
   {
     "partId": 93760,
@@ -3209,7 +3791,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 292,
-    "partName": "Muliya"
+    "partName": "Muliya",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93761,
@@ -3220,7 +3804,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 293,
-    "partName": "Geraja"
+    "partName": "Geraja",
+    "lat": 26.5432912,
+    "lon": 70.8341574
   },
   {
     "partId": 93762,
@@ -3231,7 +3817,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 294,
-    "partName": "Adbala"
+    "partName": "Adbala",
+    "lat": 26.5137832,
+    "lon": 70.8510446
   },
   {
     "partId": 93763,
@@ -3242,7 +3830,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 295,
-    "partName": "Adroi"
+    "partName": "Adroi",
+    "lat": 26.4134243,
+    "lon": 70.8535337
   },
   {
     "partId": 93764,
@@ -3253,7 +3843,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 296,
-    "partName": "Nagraja"
+    "partName": "Nagraja",
+    "lat": 26.4669936,
+    "lon": 70.8955577
   },
   {
     "partId": 93765,
@@ -3264,7 +3856,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 297,
-    "partName": "Chelak"
+    "partName": "Chelak",
+    "lat": 26.510135,
+    "lon": 70.9251809
   },
   {
     "partId": 93766,
@@ -3275,7 +3869,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 298,
-    "partName": "Binjota"
+    "partName": "Binjota",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93767,
@@ -3286,7 +3882,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 299,
-    "partName": "Digadi"
+    "partName": "Digadi",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93768,
@@ -3297,7 +3895,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 300,
-    "partName": "Sitodai"
+    "partName": "Sitodai",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93769,
@@ -3308,7 +3908,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 301,
-    "partName": "Kathoda"
+    "partName": "Kathoda",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93770,
@@ -3319,7 +3921,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 302,
-    "partName": "Megha"
+    "partName": "Megha",
+    "lat": 26.5517755,
+    "lon": 70.9892642
   },
   {
     "partId": 93771,
@@ -3330,7 +3934,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 303,
-    "partName": "Rama"
+    "partName": "Rama",
+    "lat": 26.888030167582414,
+    "lon": 70.9192692195055
   },
   {
     "partId": 93772,
@@ -3341,7 +3947,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 304,
-    "partName": "Sumaliyai"
+    "partName": "Sumaliyai",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93773,
@@ -3352,7 +3960,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 305,
-    "partName": "Khyala"
+    "partName": "Khyala",
+    "lat": 26.5106534,
+    "lon": 71.06148
   },
   {
     "partId": 93774,
@@ -3363,7 +3973,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 306,
-    "partName": "Koda"
+    "partName": "Koda",
+    "lat": 26.5581671,
+    "lon": 71.087079
   },
   {
     "partId": 93775,
@@ -3374,7 +3986,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 307,
-    "partName": "Unda"
+    "partName": "Unda",
+    "lat": 26.5891412,
+    "lon": 71.1497783
   },
   {
     "partId": 93776,
@@ -3385,7 +3999,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 308,
-    "partName": "Bhakhrani"
+    "partName": "Bhakhrani",
+    "lat": 26.6210661,
+    "lon": 71.0753631
   },
   {
     "partId": 93777,
@@ -3396,7 +4012,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 309,
-    "partName": "Sirwa"
+    "partName": "Sirwa",
+    "lat": 26.649319,
+    "lon": 71.0946965
   },
   {
     "partId": 93778,
@@ -3407,7 +4025,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 310,
-    "partName": "Modha Gunesh Pura"
+    "partName": "Modha Gunesh Pura",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93779,
@@ -3418,7 +4038,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 311,
-    "partName": "Chhod"
+    "partName": "Chhod",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 94114,
@@ -3429,7 +4051,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 312,
-    "partName": "Sadak Ki Dhani"
+    "partName": "Sadak Ki Dhani",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93780,
@@ -3440,7 +4064,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 313,
-    "partName": "Moolana"
+    "partName": "Moolana",
+    "lat": 26.8038479,
+    "lon": 71.3077497
   },
   {
     "partId": 93781,
@@ -3451,7 +4077,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 314,
-    "partName": "Moolana"
+    "partName": "Moolana",
+    "lat": 26.8038479,
+    "lon": 71.3077497
   },
   {
     "partId": 93782,
@@ -3462,7 +4090,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 315,
-    "partName": "Bhimsar"
+    "partName": "Bhimsar",
+    "lat": 26.7654605,
+    "lon": 71.3165474
   },
   {
     "partId": 93783,
@@ -3473,7 +4103,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 316,
-    "partName": "Dawada"
+    "partName": "Dawada",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93784,
@@ -3484,7 +4116,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 317,
-    "partName": "Rasala"
+    "partName": "Rasala",
+    "lat": 26.7170729,
+    "lon": 71.336568
   },
   {
     "partId": 94115,
@@ -3495,7 +4129,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 318,
-    "partName": "Hingolo Ki Dhani Rasla"
+    "partName": "Hingolo Ki Dhani Rasla",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93785,
@@ -3506,7 +4142,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 319,
-    "partName": "Achala"
+    "partName": "Achala",
+    "lat": 26.7072416,
+    "lon": 71.3562226
   },
   {
     "partId": 93786,
@@ -3517,7 +4155,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 320,
-    "partName": "Naya Achala"
+    "partName": "Naya Achala",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93787,
@@ -3528,7 +4168,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 321,
-    "partName": "Mehrajot"
+    "partName": "Mehrajot",
+    "lat": 26.6650728,
+    "lon": 71.3956404
   },
   {
     "partId": 93788,
@@ -3539,7 +4181,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 322,
-    "partName": "Karada"
+    "partName": "Karada",
+    "lat": 26.888030167582414,
+    "lon": 70.9192692195055
   },
   {
     "partId": 93789,
@@ -3550,7 +4194,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 323,
-    "partName": "Bhikhasar"
+    "partName": "Bhikhasar",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93790,
@@ -3561,7 +4207,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 324,
-    "partName": "Sanvata"
+    "partName": "Sanvata",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93791,
@@ -3572,7 +4220,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 325,
-    "partName": "Bhopa"
+    "partName": "Bhopa",
+    "lat": 26.7047689,
+    "lon": 70.9280348
   },
   {
     "partId": 93792,
@@ -3583,7 +4233,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 326,
-    "partName": "Devikot"
+    "partName": "Devikot",
+    "lat": 26.6998712,
+    "lon": 71.1982822
   },
   {
     "partId": 94116,
@@ -3594,7 +4246,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 327,
-    "partName": "Gamno Ki Dhani"
+    "partName": "Gamno Ki Dhani",
+    "lat": 26.888030167582414,
+    "lon": 70.9192692195055
   },
   {
     "partId": 93793,
@@ -3605,7 +4259,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 328,
-    "partName": "Devikot"
+    "partName": "Devikot",
+    "lat": 26.6998712,
+    "lon": 71.1982822
   },
   {
     "partId": 93794,
@@ -3616,7 +4272,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 329,
-    "partName": "Amar Pura"
+    "partName": "Amar Pura",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 94117,
@@ -3627,7 +4285,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 330,
-    "partName": "Ajij Ki Dhani"
+    "partName": "Ajij Ki Dhani",
+    "lat": 27.1452355,
+    "lon": 70.4034591
   },
   {
     "partId": 93795,
@@ -3638,7 +4298,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 331,
-    "partName": "Lakhmana"
+    "partName": "Lakhmana",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 94118,
@@ -3649,7 +4311,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 332,
-    "partName": "Punasar"
+    "partName": "Punasar",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93796,
@@ -3660,7 +4324,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 333,
-    "partName": "Chhodiya"
+    "partName": "Chhodiya",
+    "lat": 26.888030167582414,
+    "lon": 70.9192692195055
   },
   {
     "partId": 93797,
@@ -3671,7 +4337,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 334,
-    "partName": "Laxmansar"
+    "partName": "Laxmansar",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93798,
@@ -3682,7 +4350,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 335,
-    "partName": "Dangari"
+    "partName": "Dangari",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93799,
@@ -3693,7 +4363,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 336,
-    "partName": "Dangari"
+    "partName": "Dangari",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93800,
@@ -3704,7 +4376,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 337,
-    "partName": "Dangari"
+    "partName": "Dangari",
+    "lat": 26.888030167582414,
+    "lon": 70.9192692195055
   },
   {
     "partId": 93801,
@@ -3715,7 +4389,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 338,
-    "partName": "Ramsar"
+    "partName": "Ramsar",
+    "lat": 26.888030167582414,
+    "lon": 70.9192692195055
   },
   {
     "partId": 93802,
@@ -3726,7 +4402,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 339,
-    "partName": "Mehareri"
+    "partName": "Mehareri",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93803,
@@ -3737,7 +4415,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 340,
-    "partName": "Samelnagar"
+    "partName": "Samelnagar",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93804,
@@ -3748,7 +4428,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 341,
-    "partName": "Nagana"
+    "partName": "Nagana",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93805,
@@ -3759,7 +4441,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 342,
-    "partName": "Pabanasar"
+    "partName": "Pabanasar",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 94119,
@@ -3770,7 +4454,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 343,
-    "partName": "Jananiyo Ki Dhani Pabnasar"
+    "partName": "Jananiyo Ki Dhani Pabnasar",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93806,
@@ -3781,7 +4467,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 344,
-    "partName": "Sandha"
+    "partName": "Sandha",
+    "lat": 26.4793892,
+    "lon": 71.2968921
   },
   {
     "partId": 93807,
@@ -3792,7 +4480,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 345,
-    "partName": "Kodiyasar"
+    "partName": "Kodiyasar",
+    "lat": 26.4918537,
+    "lon": 71.2699413
   },
   {
     "partId": 94120,
@@ -3803,7 +4493,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 346,
-    "partName": "Choudhariyo Ki Dhani"
+    "partName": "Choudhariyo Ki Dhani",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93808,
@@ -3814,7 +4506,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 347,
-    "partName": "Sandhuva"
+    "partName": "Sandhuva",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93809,
@@ -3825,7 +4519,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 348,
-    "partName": "Fatehgarh"
+    "partName": "Fatehgarh",
+    "lat": 26.4946689,
+    "lon": 71.2072439
   },
   {
     "partId": 93810,
@@ -3836,7 +4532,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 349,
-    "partName": "Fatehgarh"
+    "partName": "Fatehgarh",
+    "lat": 26.4946689,
+    "lon": 71.2072439
   },
   {
     "partId": 93811,
@@ -3847,7 +4545,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 350,
-    "partName": "Lordisar"
+    "partName": "Lordisar",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93812,
@@ -3858,7 +4558,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 351,
-    "partName": "Bhelani"
+    "partName": "Bhelani",
+    "lat": 26.5622552,
+    "lon": 71.2118125
   },
   {
     "partId": 93813,
@@ -3869,7 +4571,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 352,
-    "partName": "Sangar"
+    "partName": "Sangar",
+    "lat": 26.5294903,
+    "lon": 71.1588326
   },
   {
     "partId": 93814,
@@ -3880,7 +4584,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 353,
-    "partName": "Bhiyasar"
+    "partName": "Bhiyasar",
+    "lat": 26.4538031,
+    "lon": 71.1645198
   },
   {
     "partId": 93815,
@@ -3891,7 +4597,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 354,
-    "partName": "Rivadi"
+    "partName": "Rivadi",
+    "lat": 26.4537263,
+    "lon": 71.1085796
   },
   {
     "partId": 94121,
@@ -3902,7 +4610,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 355,
-    "partName": "Badal Ki Dhani"
+    "partName": "Badal Ki Dhani",
+    "lat": 26.6136386,
+    "lon": 70.7148159
   },
   {
     "partId": 93816,
@@ -3913,7 +4623,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 356,
-    "partName": "Sagram Ki Dhani"
+    "partName": "Sagram Ki Dhani",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93817,
@@ -3924,7 +4636,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 357,
-    "partName": "Sajit"
+    "partName": "Sajit",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93818,
@@ -3935,7 +4649,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 358,
-    "partName": "Mandai"
+    "partName": "Mandai",
+    "lat": 26.3797981,
+    "lon": 71.1422681
   },
   {
     "partId": 93819,
@@ -3946,7 +4662,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 359,
-    "partName": "Ravadi Chak"
+    "partName": "Ravadi Chak",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93820,
@@ -3957,7 +4675,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 360,
-    "partName": "Nimba"
+    "partName": "Nimba",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93821,
@@ -3968,7 +4688,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 361,
-    "partName": "Toga"
+    "partName": "Toga",
+    "lat": 26.3179019,
+    "lon": 71.0481119
   },
   {
     "partId": 94122,
@@ -3979,7 +4701,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 362,
-    "partName": "Nuraniyo Ki Dhani"
+    "partName": "Nuraniyo Ki Dhani",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93822,
@@ -3990,7 +4714,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 363,
-    "partName": "Harbha"
+    "partName": "Harbha",
+    "lat": 26.3584487,
+    "lon": 71.0292506
   },
   {
     "partId": 93823,
@@ -4001,7 +4727,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 364,
-    "partName": "Nanda"
+    "partName": "Nanda",
+    "lat": 26.4043772,
+    "lon": 71.0677081
   },
   {
     "partId": 93824,
@@ -4012,7 +4740,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 365,
-    "partName": "Kapuriya"
+    "partName": "Kapuriya",
+    "lat": 26.4635427,
+    "lon": 71.0133075
   },
   {
     "partId": 93825,
@@ -4023,7 +4753,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 366,
-    "partName": "Kotha"
+    "partName": "Kotha",
+    "lat": 26.3383069,
+    "lon": 70.9639978
   },
   {
     "partId": 93826,
@@ -4034,7 +4766,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 367,
-    "partName": "Devda"
+    "partName": "Devda",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93827,
@@ -4045,7 +4779,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 368,
-    "partName": "Devda"
+    "partName": "Devda",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93828,
@@ -4056,7 +4792,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 369,
-    "partName": "Sodhat"
+    "partName": "Sodhat",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93829,
@@ -4067,7 +4805,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 370,
-    "partName": "Gajsingh Ka Gaon"
+    "partName": "Gajsingh Ka Gaon",
+    "lat": 26.2798036,
+    "lon": 70.8361208
   },
   {
     "partId": 93830,
@@ -4078,7 +4818,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 371,
-    "partName": "Guhada"
+    "partName": "Guhada",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93831,
@@ -4089,7 +4831,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 372,
-    "partName": "Jhijhaniyali"
+    "partName": "Jhijhaniyali",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93832,
@@ -4100,7 +4844,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 373,
-    "partName": "Jhijhaniyali"
+    "partName": "Jhijhaniyali",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93833,
@@ -4111,7 +4857,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 374,
-    "partName": "Jogidas Ka Gaon"
+    "partName": "Jogidas Ka Gaon",
+    "lat": 26.2705777,
+    "lon": 70.9220481
   },
   {
     "partId": 93834,
@@ -4122,7 +4870,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 375,
-    "partName": "Tejmalata"
+    "partName": "Tejmalata",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93835,
@@ -4133,7 +4883,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 376,
-    "partName": "TAG SINGH KI DHANI TEJMALATA"
+    "partName": "TAG SINGH KI DHANI TEJMALATA",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93836,
@@ -4144,7 +4896,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 377,
-    "partName": "Boganiyai"
+    "partName": "Boganiyai",
+    "lat": 26.2955985,
+    "lon": 71.0197449
   },
   {
     "partId": 93837,
@@ -4155,7 +4909,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 378,
-    "partName": "Modha"
+    "partName": "Modha",
+    "lat": 26.888030167582414,
+    "lon": 70.9192692195055
   },
   {
     "partId": 93838,
@@ -4166,7 +4922,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 379,
-    "partName": "Veermani"
+    "partName": "Veermani",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93839,
@@ -4177,7 +4935,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 380,
-    "partName": "Randha"
+    "partName": "Randha",
+    "lat": 26.2046573,
+    "lon": 70.9624529
   },
   {
     "partId": 93840,
@@ -4188,7 +4948,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 381,
-    "partName": "Kohara"
+    "partName": "Kohara",
+    "lat": 26.1890234,
+    "lon": 70.9210395
   },
   {
     "partId": 93841,
@@ -4199,7 +4961,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 382,
-    "partName": "Kunda"
+    "partName": "Kunda",
+    "lat": 26.1718467,
+    "lon": 70.896846
   },
   {
     "partId": 93842,
@@ -4210,7 +4974,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 383,
-    "partName": "Nimbali"
+    "partName": "Nimbali",
+    "lat": 26.888030167582414,
+    "lon": 70.9192692195055
   },
   {
     "partId": 93843,
@@ -4221,7 +4987,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 384,
-    "partName": "Meharo Ki Dhani"
+    "partName": "Meharo Ki Dhani",
+    "lat": 26.888030167582414,
+    "lon": 70.9192692195055
   },
   {
     "partId": 93844,
@@ -4232,7 +5000,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 385,
-    "partName": "Lakha"
+    "partName": "Lakha",
+    "lat": 26.1469631,
+    "lon": 70.9810781
   },
   {
     "partId": 93845,
@@ -4243,7 +5013,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 386,
-    "partName": "Lakha"
+    "partName": "Lakha",
+    "lat": 26.1469631,
+    "lon": 70.9810781
   },
   {
     "partId": 93846,
@@ -4254,7 +5026,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 387,
-    "partName": "Bhadali"
+    "partName": "Bhadali",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 93847,
@@ -4265,7 +5039,9 @@
     "acNumber": 132,
     "acName": "Jaisalmer",
     "partNumber": 388,
-    "partName": "Chhipasariya"
+    "partName": "Chhipasariya",
+    "lat": 26.921761,
+    "lon": 70.9191144
   },
   {
     "partId": 97829,
@@ -4276,7 +5052,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 1,
-    "partName": "Malasar"
+    "partName": "Malasar",
+    "lat": 27.8608943,
+    "lon": 71.7849255
   },
   {
     "partId": 97830,
@@ -4287,7 +5065,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 2,
-    "partName": "Rayachandavala"
+    "partName": "Rayachandavala",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97831,
@@ -4298,7 +5078,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 3,
-    "partName": "Jaluvala"
+    "partName": "Jaluvala",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97832,
@@ -4309,7 +5091,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 4,
-    "partName": "Karanevala"
+    "partName": "Karanevala",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97833,
@@ -4320,7 +5104,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 5,
-    "partName": "Panna"
+    "partName": "Panna",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97834,
@@ -4331,7 +5117,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 6,
-    "partName": "Tavari Wala"
+    "partName": "Tavari Wala",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97835,
@@ -4342,7 +5130,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 7,
-    "partName": "Baron Ki Dhani Tarpura"
+    "partName": "Baron Ki Dhani Tarpura",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97836,
@@ -4353,7 +5143,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 8,
-    "partName": "Akal Ka Tala"
+    "partName": "Akal Ka Tala",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97837,
@@ -4364,7 +5156,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 9,
-    "partName": "Dhankalwala"
+    "partName": "Dhankalwala",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97838,
@@ -4375,7 +5169,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 10,
-    "partName": "Mohammad Nagar"
+    "partName": "Mohammad Nagar",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97839,
@@ -4386,7 +5182,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 11,
-    "partName": "Bharevala"
+    "partName": "Bharevala",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97840,
@@ -4397,7 +5195,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 12,
-    "partName": "Khariya"
+    "partName": "Khariya",
+    "lat": 27.7425731,
+    "lon": 71.7069724
   },
   {
     "partId": 97841,
@@ -4408,7 +5208,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 13,
-    "partName": "Panche Ka Tala"
+    "partName": "Panche Ka Tala",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 98131,
@@ -4419,7 +5221,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 14,
-    "partName": "19 SKD"
+    "partName": "19 SKD",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97842,
@@ -4430,7 +5234,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 15,
-    "partName": "Shekhon ka Tala"
+    "partName": "Shekhon ka Tala",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97843,
@@ -4441,7 +5247,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 16,
-    "partName": "Aadhat Ki Dhani"
+    "partName": "Aadhat Ki Dhani",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97844,
@@ -4452,7 +5260,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 17,
-    "partName": "Hariyar"
+    "partName": "Hariyar",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97845,
@@ -4463,7 +5273,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 18,
-    "partName": "Ghantiyali"
+    "partName": "Ghantiyali",
+    "lat": 27.4571279,
+    "lon": 71.4743285
   },
   {
     "partId": 97846,
@@ -4474,7 +5286,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 19,
-    "partName": "Satyaya I"
+    "partName": "Satyaya I",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97847,
@@ -4485,7 +5299,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 20,
-    "partName": "Satyaya II"
+    "partName": "Satyaya II",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97848,
@@ -4496,7 +5312,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 21,
-    "partName": "Sakadiya"
+    "partName": "Sakadiya",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97849,
@@ -4507,7 +5325,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 22,
-    "partName": "Nachana I"
+    "partName": "Nachana I",
+    "lat": 27.5094375,
+    "lon": 71.7227378
   },
   {
     "partId": 97850,
@@ -4518,7 +5338,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 23,
-    "partName": "Nachana II"
+    "partName": "Nachana II",
+    "lat": 27.5094375,
+    "lon": 71.7227378
   },
   {
     "partId": 98132,
@@ -4529,7 +5351,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 24,
-    "partName": "SUMAR KHAN KI DHANI"
+    "partName": "SUMAR KHAN KI DHANI",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97851,
@@ -4540,7 +5364,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 25,
-    "partName": "Nachana III"
+    "partName": "Nachana III",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97852,
@@ -4551,7 +5377,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 26,
-    "partName": "Nachana IV"
+    "partName": "Nachana IV",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97853,
@@ -4562,7 +5390,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 27,
-    "partName": "Nachana V"
+    "partName": "Nachana V",
+    "lat": 27.5094375,
+    "lon": 71.7227378
   },
   {
     "partId": 98133,
@@ -4573,7 +5403,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 28,
-    "partName": "DEWADO KI DHANI"
+    "partName": "DEWADO KI DHANI",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97854,
@@ -4584,7 +5416,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 29,
-    "partName": "Khara"
+    "partName": "Khara",
+    "lat": 26.1643552,
+    "lon": 70.1685834
   },
   {
     "partId": 97855,
@@ -4595,7 +5429,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 30,
-    "partName": "Bharamasar I"
+    "partName": "Bharamasar I",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97856,
@@ -4606,7 +5442,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 31,
-    "partName": "Bharmsar, Bhawanipura"
+    "partName": "Bharmsar, Bhawanipura",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 98134,
@@ -4617,7 +5455,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 32,
-    "partName": "3-4 MDM CHINNU"
+    "partName": "3-4 MDM CHINNU",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97857,
@@ -4628,7 +5468,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 33,
-    "partName": "Madasar"
+    "partName": "Madasar",
+    "lat": 27.6836041,
+    "lon": 72.0296716
   },
   {
     "partId": 97858,
@@ -4639,7 +5481,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 34,
-    "partName": "Bodana I"
+    "partName": "Bodana I",
+    "lat": 27.6449988,
+    "lon": 72.1260621
   },
   {
     "partId": 97859,
@@ -4650,7 +5494,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 35,
-    "partName": "Bodana II"
+    "partName": "Bodana II",
+    "lat": 27.6449988,
+    "lon": 72.1260621
   },
   {
     "partId": 97860,
@@ -4661,7 +5507,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 36,
-    "partName": "Thakaraba"
+    "partName": "Thakaraba",
+    "lat": 27.6778085,
+    "lon": 72.3047161
   },
   {
     "partId": 97861,
@@ -4672,7 +5520,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 37,
-    "partName": "Nokh I"
+    "partName": "Nokh I",
+    "lat": 27.5648278,
+    "lon": 72.2546894
   },
   {
     "partId": 97862,
@@ -4683,7 +5533,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 38,
-    "partName": "Nokh II"
+    "partName": "Nokh II",
+    "lat": 27.5648278,
+    "lon": 72.2546894
   },
   {
     "partId": 97863,
@@ -4694,7 +5546,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 39,
-    "partName": "Nokh III"
+    "partName": "Nokh III",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97864,
@@ -4705,7 +5559,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 40,
-    "partName": "Nokh IV"
+    "partName": "Nokh IV",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97865,
@@ -4716,7 +5572,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 41,
-    "partName": "Bithe Ka Gaon"
+    "partName": "Bithe Ka Gaon",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97866,
@@ -4727,7 +5585,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 42,
-    "partName": "Talariya"
+    "partName": "Talariya",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97867,
@@ -4738,7 +5598,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 43,
-    "partName": "Chinnu I"
+    "partName": "Chinnu I",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97868,
@@ -4749,7 +5611,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 44,
-    "partName": "Chinnu II"
+    "partName": "Chinnu II",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97869,
@@ -4760,7 +5624,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 45,
-    "partName": "Chinnu III"
+    "partName": "Chinnu III",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97870,
@@ -4771,7 +5637,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 46,
-    "partName": "Jamesar"
+    "partName": "Jamesar",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97871,
@@ -4782,7 +5650,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 47,
-    "partName": "Avay I"
+    "partName": "Avay I",
+    "lat": 26.94225549202128,
+    "lon": 71.88394073576383
   },
   {
     "partId": 97872,
@@ -4793,7 +5663,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 48,
-    "partName": "Avay II"
+    "partName": "Avay II",
+    "lat": 26.94225549202128,
+    "lon": 71.88394073576383
   },
   {
     "partId": 97873,
@@ -4804,7 +5676,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 49,
-    "partName": "Bhadadiya"
+    "partName": "Bhadadiya",
+    "lat": 27.4825185,
+    "lon": 71.7823934
   },
   {
     "partId": 97874,
@@ -4815,7 +5689,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 50,
-    "partName": "Asakandra I"
+    "partName": "Asakandra I",
+    "lat": 26.94225549202128,
+    "lon": 71.88394073576383
   },
   {
     "partId": 97875,
@@ -4826,7 +5702,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 51,
-    "partName": "Asakandra II"
+    "partName": "Asakandra II",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97876,
@@ -4837,7 +5715,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 52,
-    "partName": "SEVADO KI DHANI"
+    "partName": "SEVADO KI DHANI",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97877,
@@ -4848,7 +5728,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 53,
-    "partName": "Didhu"
+    "partName": "Didhu",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97878,
@@ -4859,7 +5741,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 54,
-    "partName": "Ajasar I"
+    "partName": "Ajasar I",
+    "lat": 27.2626411,
+    "lon": 71.7042445
   },
   {
     "partId": 97879,
@@ -4870,7 +5754,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 55,
-    "partName": "Ajasar II"
+    "partName": "Ajasar II",
+    "lat": 27.2626411,
+    "lon": 71.7042445
   },
   {
     "partId": 97880,
@@ -4881,7 +5767,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 56,
-    "partName": "Tota"
+    "partName": "Tota",
+    "lat": 27.2414191,
+    "lon": 71.7234707
   },
   {
     "partId": 97881,
@@ -4892,7 +5780,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 57,
-    "partName": "Chhayan I"
+    "partName": "Chhayan I",
+    "lat": 27.2564609,
+    "lon": 71.8173694
   },
   {
     "partId": 98112,
@@ -4903,7 +5793,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 58,
-    "partName": "KANERA"
+    "partName": "KANERA",
+    "lat": 26.94225549202128,
+    "lon": 71.88394073576383
   },
   {
     "partId": 98113,
@@ -4914,7 +5806,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 59,
-    "partName": "KHARINA GOVINDSINGH PURA"
+    "partName": "KHARINA GOVINDSINGH PURA",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97882,
@@ -4925,7 +5819,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 60,
-    "partName": "Chhayan II"
+    "partName": "Chhayan II",
+    "lat": 27.2099841,
+    "lon": 71.8405223
   },
   {
     "partId": 97883,
@@ -4936,7 +5832,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 61,
-    "partName": "Chhayan III"
+    "partName": "Chhayan III",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97884,
@@ -4947,7 +5845,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 62,
-    "partName": "Sada"
+    "partName": "Sada",
+    "lat": 27.1810313,
+    "lon": 71.9505787
   },
   {
     "partId": 97885,
@@ -4958,7 +5858,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 63,
-    "partName": "Rathouda"
+    "partName": "Rathouda",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97886,
@@ -4969,7 +5871,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 64,
-    "partName": "Mava"
+    "partName": "Mava",
+    "lat": 27.048883,
+    "lon": 71.8951964
   },
   {
     "partId": 97887,
@@ -4980,7 +5884,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 65,
-    "partName": "Loharaki I"
+    "partName": "Loharaki I",
+    "lat": 27.1467248,
+    "lon": 71.7672014
   },
   {
     "partId": 97888,
@@ -4991,7 +5897,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 66,
-    "partName": "Loharaki II"
+    "partName": "Loharaki II",
+    "lat": 27.1467248,
+    "lon": 71.7672014
   },
   {
     "partId": 97889,
@@ -5002,7 +5910,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 67,
-    "partName": "Baradana"
+    "partName": "Baradana",
+    "lat": 27.1846961,
+    "lon": 71.7238569
   },
   {
     "partId": 97890,
@@ -5013,7 +5923,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 68,
-    "partName": "Chandasar"
+    "partName": "Chandasar",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97891,
@@ -5024,7 +5936,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 69,
-    "partName": "Bhadariya"
+    "partName": "Bhadariya",
+    "lat": 27.4825185,
+    "lon": 71.7823934
   },
   {
     "partId": 97892,
@@ -5035,7 +5949,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 70,
-    "partName": "Lathi I"
+    "partName": "Lathi I",
+    "lat": 27.0384212,
+    "lon": 71.5174413
   },
   {
     "partId": 97893,
@@ -5046,7 +5962,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 71,
-    "partName": "Lathi II"
+    "partName": "Lathi II",
+    "lat": 27.0384212,
+    "lon": 71.5174413
   },
   {
     "partId": 97894,
@@ -5057,7 +5975,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 72,
-    "partName": "Lathi III"
+    "partName": "Lathi III",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97895,
@@ -5068,7 +5988,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 73,
-    "partName": "Ratan Ki Bassi"
+    "partName": "Ratan Ki Bassi",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97896,
@@ -5079,7 +6001,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 74,
-    "partName": "Dholiya I"
+    "partName": "Dholiya I",
+    "lat": 27.0323702,
+    "lon": 71.5657138
   },
   {
     "partId": 97897,
@@ -5090,7 +6014,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 75,
-    "partName": "Dholiya II"
+    "partName": "Dholiya II",
+    "lat": 27.0323702,
+    "lon": 71.5657138
   },
   {
     "partId": 97898,
@@ -5101,7 +6027,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 76,
-    "partName": "Khetolai I"
+    "partName": "Khetolai I",
+    "lat": 27.0221453,
+    "lon": 71.7122127
   },
   {
     "partId": 97899,
@@ -5112,7 +6040,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 77,
-    "partName": "Khetolai II"
+    "partName": "Khetolai II",
+    "lat": 27.0221453,
+    "lon": 71.7122127
   },
   {
     "partId": 97900,
@@ -5123,7 +6053,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 78,
-    "partName": "Chacha"
+    "partName": "Chacha",
+    "lat": 26.9748049,
+    "lon": 71.7514976
   },
   {
     "partId": 97901,
@@ -5134,7 +6066,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 79,
-    "partName": "Selavi"
+    "partName": "Selavi",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97902,
@@ -5145,7 +6079,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 80,
-    "partName": "Ramadevara I"
+    "partName": "Ramadevara I",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97903,
@@ -5156,7 +6092,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 81,
-    "partName": "Ramadevara II"
+    "partName": "Ramadevara II",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97904,
@@ -5167,7 +6105,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 82,
-    "partName": "Ramadevara III"
+    "partName": "Ramadevara III",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97905,
@@ -5178,7 +6118,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 83,
-    "partName": "Ramadevara IV"
+    "partName": "Ramadevara IV",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97906,
@@ -5189,7 +6131,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 84,
-    "partName": "Ramadevara V"
+    "partName": "Ramadevara V",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97907,
@@ -5200,7 +6144,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 85,
-    "partName": "Sujasar"
+    "partName": "Sujasar",
+    "lat": 27.0410665,
+    "lon": 71.9951248
   },
   {
     "partId": 97908,
@@ -5211,7 +6157,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 86,
-    "partName": "Biramadevara"
+    "partName": "Biramadevara",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97909,
@@ -5222,7 +6170,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 87,
-    "partName": "Ekan"
+    "partName": "Ekan",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97910,
@@ -5233,7 +6183,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 88,
-    "partName": "Gomat I"
+    "partName": "Gomat I",
+    "lat": 26.95415,
+    "lon": 71.909337
   },
   {
     "partId": 97911,
@@ -5244,7 +6196,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 89,
-    "partName": "Gomat II"
+    "partName": "Gomat II",
+    "lat": 26.95415,
+    "lon": 71.909337
   },
   {
     "partId": 97912,
@@ -5255,7 +6209,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 90,
-    "partName": "Gomat III"
+    "partName": "Gomat III",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97913,
@@ -5266,7 +6222,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 91,
-    "partName": "Pokaran I"
+    "partName": "Pokaran I",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97914,
@@ -5277,7 +6235,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 92,
-    "partName": "Pokaran II"
+    "partName": "Pokaran II",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97915,
@@ -5288,7 +6248,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 93,
-    "partName": "Pokaran III"
+    "partName": "Pokaran III",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97916,
@@ -5299,7 +6261,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 94,
-    "partName": "Pokaran IV"
+    "partName": "Pokaran IV",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97917,
@@ -5310,7 +6274,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 95,
-    "partName": "Pokaran V"
+    "partName": "Pokaran V",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97918,
@@ -5321,7 +6287,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 96,
-    "partName": "Pokaran VI"
+    "partName": "Pokaran VI",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97919,
@@ -5332,7 +6300,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 97,
-    "partName": "PokaranVII"
+    "partName": "PokaranVII",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97920,
@@ -5343,7 +6313,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 98,
-    "partName": "Pokaran VIII"
+    "partName": "Pokaran VIII",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 98135,
@@ -5354,7 +6326,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 99,
-    "partName": "POKARAN IX"
+    "partName": "POKARAN IX",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97921,
@@ -5365,7 +6339,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 100,
-    "partName": "Pokaran X"
+    "partName": "Pokaran X",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97922,
@@ -5376,7 +6352,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 101,
-    "partName": "Pokaran XI"
+    "partName": "Pokaran XI",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97923,
@@ -5387,7 +6365,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 102,
-    "partName": "Pokaran XII"
+    "partName": "Pokaran XII",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97924,
@@ -5398,7 +6378,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 103,
-    "partName": "Pokaran XIII"
+    "partName": "Pokaran XIII",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97925,
@@ -5409,7 +6391,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 104,
-    "partName": "Pokaran XIV"
+    "partName": "Pokaran XIV",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97926,
@@ -5420,7 +6404,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 105,
-    "partName": "Pokaran XV"
+    "partName": "Pokaran XV",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97927,
@@ -5431,7 +6417,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 106,
-    "partName": "Kerava"
+    "partName": "Kerava",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97928,
@@ -5442,7 +6430,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 107,
-    "partName": "Didaniya"
+    "partName": "Didaniya",
+    "lat": 26.9291582,
+    "lon": 72.0076024
   },
   {
     "partId": 97929,
@@ -5453,7 +6443,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 108,
-    "partName": "Haji Ka Tanka"
+    "partName": "Haji Ka Tanka",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97930,
@@ -5464,7 +6456,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 109,
-    "partName": "Morani"
+    "partName": "Morani",
+    "lat": 26.8888708,
+    "lon": 71.9959187
   },
   {
     "partId": 98114,
@@ -5475,7 +6469,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 110,
-    "partName": "BORLI KI DHANI MANGOLAYI"
+    "partName": "BORLI KI DHANI MANGOLAYI",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97931,
@@ -5486,7 +6482,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 111,
-    "partName": "Prohitasar"
+    "partName": "Prohitasar",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 98115,
@@ -5497,7 +6495,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 112,
-    "partName": "SATASAR"
+    "partName": "SATASAR",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97932,
@@ -5508,7 +6508,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 113,
-    "partName": "Lawan I"
+    "partName": "Lawan I",
+    "lat": 26.8686159,
+    "lon": 72.037798
   },
   {
     "partId": 97933,
@@ -5519,7 +6521,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 114,
-    "partName": "Lawan II"
+    "partName": "Lawan II",
+    "lat": 26.8686159,
+    "lon": 72.037798
   },
   {
     "partId": 97934,
@@ -5530,7 +6534,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 115,
-    "partName": "Dhudasar"
+    "partName": "Dhudasar",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97935,
@@ -5541,7 +6547,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 116,
-    "partName": "Ujalan I"
+    "partName": "Ujalan I",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97936,
@@ -5552,7 +6560,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 117,
-    "partName": "Ujalan II"
+    "partName": "Ujalan II",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97937,
@@ -5563,7 +6573,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 118,
-    "partName": "Badalicharana Nathusar  I"
+    "partName": "Badalicharana Nathusar  I",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97938,
@@ -5574,7 +6586,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 119,
-    "partName": "Badalicharana Nathusar II"
+    "partName": "Badalicharana Nathusar II",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97939,
@@ -5585,7 +6599,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 120,
-    "partName": "Moharon Ki dhaani"
+    "partName": "Moharon Ki dhaani",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97940,
@@ -5596,7 +6612,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 121,
-    "partName": "Badalimanda"
+    "partName": "Badalimanda",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97941,
@@ -5607,7 +6625,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 122,
-    "partName": "Pabupadiya"
+    "partName": "Pabupadiya",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97942,
@@ -5618,7 +6638,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 123,
-    "partName": "Biliya"
+    "partName": "Biliya",
+    "lat": 26.94225549202128,
+    "lon": 71.88394073576383
   },
   {
     "partId": 97943,
@@ -5629,7 +6651,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 124,
-    "partName": "Kailava"
+    "partName": "Kailava",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97944,
@@ -5640,7 +6664,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 125,
-    "partName": "Khinv Singh Ki Dhaani"
+    "partName": "Khinv Singh Ki Dhaani",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97945,
@@ -5651,7 +6677,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 126,
-    "partName": "Suganpura"
+    "partName": "Suganpura",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97946,
@@ -5662,7 +6690,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 127,
-    "partName": "That"
+    "partName": "That",
+    "lat": 26.8562791,
+    "lon": 71.8262029
   },
   {
     "partId": 97947,
@@ -5673,7 +6703,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 128,
-    "partName": "Khaliyon Ki Dhaani"
+    "partName": "Khaliyon Ki Dhaani",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97948,
@@ -5684,7 +6716,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 129,
-    "partName": "Guddi"
+    "partName": "Guddi",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97949,
@@ -5695,7 +6729,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 130,
-    "partName": "Nananiyai"
+    "partName": "Nananiyai",
+    "lat": 26.8680278,
+    "lon": 71.7403792
   },
   {
     "partId": 97950,
@@ -5706,7 +6742,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 131,
-    "partName": "Sheraram Ki Dhaani"
+    "partName": "Sheraram Ki Dhaani",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97951,
@@ -5717,7 +6755,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 132,
-    "partName": "Odhaniya I"
+    "partName": "Odhaniya I",
+    "lat": 26.9664065,
+    "lon": 71.7195801
   },
   {
     "partId": 97952,
@@ -5728,7 +6768,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 133,
-    "partName": "Odhaniya II"
+    "partName": "Odhaniya II",
+    "lat": 26.9664065,
+    "lon": 71.7195801
   },
   {
     "partId": 97953,
@@ -5739,7 +6781,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 134,
-    "partName": "Chandani"
+    "partName": "Chandani",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97954,
@@ -5750,7 +6794,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 135,
-    "partName": "Maheshon Ki Dhani"
+    "partName": "Maheshon Ki Dhani",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97955,
@@ -5761,7 +6807,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 136,
-    "partName": "Naya Sanvara"
+    "partName": "Naya Sanvara",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97956,
@@ -5772,7 +6820,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 137,
-    "partName": "Chowk"
+    "partName": "Chowk",
+    "lat": 26.94225549202128,
+    "lon": 71.88394073576383
   },
   {
     "partId": 97957,
@@ -5783,7 +6833,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 138,
-    "partName": "Sanvara I"
+    "partName": "Sanvara I",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97958,
@@ -5794,7 +6846,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 139,
-    "partName": "Sanvara II"
+    "partName": "Sanvara II",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 98116,
@@ -5805,7 +6859,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 140,
-    "partName": "CHIMANPURA"
+    "partName": "CHIMANPURA",
+    "lat": 26.94225549202128,
+    "lon": 71.88394073576383
   },
   {
     "partId": 97959,
@@ -5816,7 +6872,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 141,
-    "partName": "Keraliya"
+    "partName": "Keraliya",
+    "lat": 26.9051559,
+    "lon": 71.5026283
   },
   {
     "partId": 97960,
@@ -5827,7 +6885,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 142,
-    "partName": "Nedan"
+    "partName": "Nedan",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 98117,
@@ -5838,7 +6898,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 143,
-    "partName": "KUMHARO KI DHANI, NARAYANPURA"
+    "partName": "KUMHARO KI DHANI, NARAYANPURA",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 98118,
@@ -5849,7 +6911,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 144,
-    "partName": "PADIHARO KI DHANI, NEDAN"
+    "partName": "PADIHARO KI DHANI, NEDAN",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97961,
@@ -5860,7 +6924,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 145,
-    "partName": "Madasar"
+    "partName": "Madasar",
+    "lat": 26.94225549202128,
+    "lon": 71.88394073576383
   },
   {
     "partId": 97962,
@@ -5871,7 +6937,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 146,
-    "partName": "Lakhasar"
+    "partName": "Lakhasar",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97963,
@@ -5882,7 +6950,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 147,
-    "partName": "Khuhada"
+    "partName": "Khuhada",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97964,
@@ -5893,7 +6963,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 148,
-    "partName": "Sadarasar"
+    "partName": "Sadarasar",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97965,
@@ -5904,7 +6976,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 149,
-    "partName": "Madhopura"
+    "partName": "Madhopura",
+    "lat": 26.8085401,
+    "lon": 71.5117264
   },
   {
     "partId": 98119,
@@ -5915,7 +6989,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 150,
-    "partName": "MEHRAJ SINGH KI DHANI"
+    "partName": "MEHRAJ SINGH KI DHANI",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97966,
@@ -5926,7 +7002,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 151,
-    "partName": "Fatehanagar"
+    "partName": "Fatehanagar",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97967,
@@ -5937,7 +7015,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 152,
-    "partName": "Sankada I"
+    "partName": "Sankada I",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 98120,
@@ -5948,7 +7028,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 153,
-    "partName": "LAKHSINGH KI DHANI SANKRA"
+    "partName": "LAKHSINGH KI DHANI SANKRA",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97968,
@@ -5959,7 +7041,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 154,
-    "partName": "Sankada II"
+    "partName": "Sankada II",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97969,
@@ -5970,7 +7054,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 155,
-    "partName": "Saadhiron Ki Dhaani"
+    "partName": "Saadhiron Ki Dhaani",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97970,
@@ -5981,7 +7067,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 156,
-    "partName": "Bishansingh Ki Dhani"
+    "partName": "Bishansingh Ki Dhani",
+    "lat": 26.7109986,
+    "lon": 71.6478967
   },
   {
     "partId": 97971,
@@ -5992,7 +7080,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 157,
-    "partName": "Khetasar"
+    "partName": "Khetasar",
+    "lat": 26.7460703,
+    "lon": 71.6390991
   },
   {
     "partId": 98121,
@@ -6003,7 +7093,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 158,
-    "partName": "RAMSINGH KI DHANI, BHOMSAR"
+    "partName": "RAMSINGH KI DHANI, BHOMSAR",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97972,
@@ -6014,7 +7106,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 159,
-    "partName": "Rampura"
+    "partName": "Rampura",
+    "lat": 26.94225549202128,
+    "lon": 71.88394073576383
   },
   {
     "partId": 97973,
@@ -6025,7 +7119,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 160,
-    "partName": "Modaradi"
+    "partName": "Modaradi",
+    "lat": 26.8298153,
+    "lon": 71.7353582
   },
   {
     "partId": 97974,
@@ -6036,7 +7132,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 161,
-    "partName": "Nai Guddi"
+    "partName": "Nai Guddi",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97975,
@@ -6047,7 +7145,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 162,
-    "partName": "Pratapgarh"
+    "partName": "Pratapgarh",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97976,
@@ -6058,7 +7158,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 163,
-    "partName": "Jaimala"
+    "partName": "Jaimala",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97977,
@@ -6069,7 +7171,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 164,
-    "partName": "Nagnechon ki Dhaani"
+    "partName": "Nagnechon ki Dhaani",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97978,
@@ -6080,7 +7184,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 165,
-    "partName": "Devalpura"
+    "partName": "Devalpura",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97979,
@@ -6091,7 +7197,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 166,
-    "partName": "Madava I"
+    "partName": "Madava I",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97980,
@@ -6102,7 +7210,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 167,
-    "partName": "Beldaron Ki Dhaani"
+    "partName": "Beldaron Ki Dhaani",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97981,
@@ -6113,7 +7223,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 168,
-    "partName": "Madava II"
+    "partName": "Madava II",
+    "lat": 26.94225549202128,
+    "lon": 71.88394073576383
   },
   {
     "partId": 97982,
@@ -6124,7 +7236,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 169,
-    "partName": "Madarse Ki Dhaani"
+    "partName": "Madarse Ki Dhaani",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97983,
@@ -6135,7 +7249,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 170,
-    "partName": "Jhalariya I"
+    "partName": "Jhalariya I",
+    "lat": 26.7500942,
+    "lon": 71.9827008
   },
   {
     "partId": 97984,
@@ -6146,7 +7262,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 171,
-    "partName": "Bheelon Ki Dhaani"
+    "partName": "Bheelon Ki Dhaani",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97985,
@@ -6157,7 +7275,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 172,
-    "partName": "Jhalariya II"
+    "partName": "Jhalariya II",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97986,
@@ -6168,7 +7288,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 173,
-    "partName": "Bhakhari"
+    "partName": "Bhakhari",
+    "lat": 26.7403599,
+    "lon": 72.0463657
   },
   {
     "partId": 97987,
@@ -6179,7 +7301,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 174,
-    "partName": "Rayapalon Ki Dhani"
+    "partName": "Rayapalon Ki Dhani",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97988,
@@ -6190,7 +7314,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 175,
-    "partName": "Indranagar"
+    "partName": "Indranagar",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97989,
@@ -6201,7 +7327,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 176,
-    "partName": "Chainoniyon Ki Dhaani"
+    "partName": "Chainoniyon Ki Dhaani",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97990,
@@ -6212,7 +7340,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 177,
-    "partName": "Padaroda"
+    "partName": "Padaroda",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97991,
@@ -6223,7 +7353,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 178,
-    "partName": "Uchchapadara"
+    "partName": "Uchchapadara",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97992,
@@ -6234,7 +7366,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 179,
-    "partName": "Medava"
+    "partName": "Medava",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97993,
@@ -6245,7 +7379,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 180,
-    "partName": "Barath Ka Gaon"
+    "partName": "Barath Ka Gaon",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97994,
@@ -6256,7 +7392,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 181,
-    "partName": "Balusingh Ki Dhani"
+    "partName": "Balusingh Ki Dhani",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97995,
@@ -6267,7 +7405,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 182,
-    "partName": "Chitrodi"
+    "partName": "Chitrodi",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97996,
@@ -6278,7 +7418,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 183,
-    "partName": "Kanasar"
+    "partName": "Kanasar",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97997,
@@ -6289,7 +7431,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 184,
-    "partName": "Rayasingh  Pura"
+    "partName": "Rayasingh  Pura",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97998,
@@ -6300,7 +7444,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 185,
-    "partName": "Chandan Singh Ki Dhaani"
+    "partName": "Chandan Singh Ki Dhaani",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 97999,
@@ -6311,7 +7457,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 186,
-    "partName": "Phusasar"
+    "partName": "Phusasar",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 98000,
@@ -6322,7 +7470,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 187,
-    "partName": "Telivada"
+    "partName": "Telivada",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 98001,
@@ -6333,7 +7483,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 188,
-    "partName": "Jaswantpura"
+    "partName": "Jaswantpura",
+    "lat": 26.6699338,
+    "lon": 71.7785739
   },
   {
     "partId": 98002,
@@ -6344,7 +7496,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 189,
-    "partName": "DALAPATPURA"
+    "partName": "DALAPATPURA",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 98003,
@@ -6355,7 +7509,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 190,
-    "partName": "Achalpura"
+    "partName": "Achalpura",
+    "lat": 26.6918675,
+    "lon": 71.589446
   },
   {
     "partId": 98122,
@@ -6366,7 +7522,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 191,
-    "partName": "HEERGHAR"
+    "partName": "HEERGHAR",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 98004,
@@ -6377,7 +7535,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 192,
-    "partName": "Lunakhurd"
+    "partName": "Lunakhurd",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 98005,
@@ -6388,7 +7548,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 193,
-    "partName": "Motisar"
+    "partName": "Motisar",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 98123,
@@ -6399,7 +7561,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 194,
-    "partName": "UTTAMSINGH KI DHANI, MOTISAR"
+    "partName": "UTTAMSINGH KI DHANI, MOTISAR",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 98006,
@@ -6410,7 +7574,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 195,
-    "partName": "Luna Kala"
+    "partName": "Luna Kala",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 98124,
@@ -6421,7 +7587,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 196,
-    "partName": "REV ANTARAM MEGHWAL KI DHANI, NAYA LUNAKALLA"
+    "partName": "REV ANTARAM MEGHWAL KI DHANI, NAYA LUNAKALLA",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 98007,
@@ -6432,7 +7600,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 197,
-    "partName": "Betina I"
+    "partName": "Betina I",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 98008,
@@ -6443,7 +7613,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 198,
-    "partName": "Betina II"
+    "partName": "Betina II",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 98009,
@@ -6454,7 +7626,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 199,
-    "partName": "Bhaisada I"
+    "partName": "Bhaisada I",
+    "lat": 26.94225549202128,
+    "lon": 71.88394073576383
   },
   {
     "partId": 98010,
@@ -6465,7 +7639,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 200,
-    "partName": "Bhaisada II"
+    "partName": "Bhaisada II",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 98011,
@@ -6476,7 +7652,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 201,
-    "partName": "Amarasar"
+    "partName": "Amarasar",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 98012,
@@ -6487,7 +7665,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 202,
-    "partName": "Bahala Basti"
+    "partName": "Bahala Basti",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 98013,
@@ -6498,7 +7678,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 203,
-    "partName": "Ola I"
+    "partName": "Ola I",
+    "lat": 26.4892034,
+    "lon": 71.483488
   },
   {
     "partId": 98014,
@@ -6509,7 +7691,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 204,
-    "partName": "Ola II"
+    "partName": "Ola II",
+    "lat": 26.4892034,
+    "lon": 71.483488
   },
   {
     "partId": 98015,
@@ -6520,7 +7704,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 205,
-    "partName": "Bonada"
+    "partName": "Bonada",
+    "lat": 26.52513275,
+    "lon": 71.52125078540031
   },
   {
     "partId": 98016,
@@ -6531,7 +7717,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 206,
-    "partName": "Sabalpura"
+    "partName": "Sabalpura",
+    "lat": 26.94225549202128,
+    "lon": 71.88394073576383
   },
   {
     "partId": 98017,
@@ -6542,7 +7730,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 207,
-    "partName": "Rajgarh"
+    "partName": "Rajgarh",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 98125,
@@ -6553,7 +7743,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 208,
-    "partName": "KARANSINGH KI DHANI RAJGARH"
+    "partName": "KARANSINGH KI DHANI RAJGARH",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 98018,
@@ -6564,7 +7756,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 209,
-    "partName": "Khelana"
+    "partName": "Khelana",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 98019,
@@ -6575,7 +7769,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 210,
-    "partName": "Bhinaj pura"
+    "partName": "Bhinaj pura",
+    "lat": 26.94225549202128,
+    "lon": 71.88394073576383
   },
   {
     "partId": 98020,
@@ -6586,7 +7782,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 211,
-    "partName": "Pratappura"
+    "partName": "Pratappura",
+    "lat": 26.8194367,
+    "lon": 71.6539478
   },
   {
     "partId": 98021,
@@ -6597,7 +7795,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 212,
-    "partName": "Gundala"
+    "partName": "Gundala",
+    "lat": 26.5843248,
+    "lon": 71.6785812
   },
   {
     "partId": 98022,
@@ -6608,7 +7808,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 213,
-    "partName": "Jaloda Pokarana I"
+    "partName": "Jaloda Pokarana I",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 98023,
@@ -6619,7 +7821,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 214,
-    "partName": "Jaloda Pokarana II"
+    "partName": "Jaloda Pokarana II",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 98024,
@@ -6630,7 +7834,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 215,
-    "partName": "Naroniyon Ki Dhaani"
+    "partName": "Naroniyon Ki Dhaani",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 98025,
@@ -6641,7 +7847,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 216,
-    "partName": "Dudhiya"
+    "partName": "Dudhiya",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 98026,
@@ -6652,7 +7860,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 217,
-    "partName": "Sardar Singh Ki Dhani"
+    "partName": "Sardar Singh Ki Dhani",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 98027,
@@ -6663,7 +7873,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 218,
-    "partName": "Bhagwati Pura"
+    "partName": "Bhagwati Pura",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 98028,
@@ -6674,7 +7886,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 219,
-    "partName": "Pannasar"
+    "partName": "Pannasar",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 98029,
@@ -6685,7 +7899,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 220,
-    "partName": "Bhaniyana"
+    "partName": "Bhaniyana",
+    "lat": 26.94225549202128,
+    "lon": 71.88394073576383
   },
   {
     "partId": 98030,
@@ -6696,7 +7912,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 221,
-    "partName": "Dudhali Ki Dhani"
+    "partName": "Dudhali Ki Dhani",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 98031,
@@ -6707,7 +7925,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 222,
-    "partName": "Prahaladasar"
+    "partName": "Prahaladasar",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 98032,
@@ -6718,7 +7938,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 223,
-    "partName": "Chainpura"
+    "partName": "Chainpura",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 98033,
@@ -6729,7 +7951,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 224,
-    "partName": "Dungre Ki Dhani"
+    "partName": "Dungre Ki Dhani",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 98034,
@@ -6740,7 +7964,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 225,
-    "partName": "Khejadali"
+    "partName": "Khejadali",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 98035,
@@ -6751,7 +7977,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 226,
-    "partName": "Megharikhasar"
+    "partName": "Megharikhasar",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 98036,
@@ -6762,7 +7990,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 227,
-    "partName": "Khinvasar"
+    "partName": "Khinvasar",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 98126,
@@ -6773,7 +8003,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 228,
-    "partName": "HARIYALI NADI"
+    "partName": "HARIYALI NADI",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 98037,
@@ -6784,7 +8016,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 229,
-    "partName": "Khetasar"
+    "partName": "Khetasar",
+    "lat": 26.7460703,
+    "lon": 71.6390991
   },
   {
     "partId": 98038,
@@ -6795,7 +8029,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 230,
-    "partName": "Sangabera"
+    "partName": "Sangabera",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 98039,
@@ -6806,7 +8042,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 231,
-    "partName": "Ratadiya I"
+    "partName": "Ratadiya I",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 98040,
@@ -6817,7 +8055,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 232,
-    "partName": "Ratadiya II"
+    "partName": "Ratadiya II",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 98041,
@@ -6828,7 +8068,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 233,
-    "partName": "Ratadiya III"
+    "partName": "Ratadiya III",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 98042,
@@ -6839,7 +8081,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 234,
-    "partName": "Sankadiya"
+    "partName": "Sankadiya",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 98043,
@@ -6850,7 +8094,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 235,
-    "partName": "khumsingh nagar"
+    "partName": "khumsingh nagar",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 98044,
@@ -6861,7 +8107,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 236,
-    "partName": "Jhabara I"
+    "partName": "Jhabara I",
+    "lat": 26.6073874,
+    "lon": 72.0723443
   },
   {
     "partId": 98045,
@@ -6872,7 +8120,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 237,
-    "partName": "Jhabara II"
+    "partName": "Jhabara II",
+    "lat": 26.6073874,
+    "lon": 72.0723443
   },
   {
     "partId": 98046,
@@ -6883,7 +8133,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 238,
-    "partName": "Gadi Champavata"
+    "partName": "Gadi Champavata",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 98047,
@@ -6894,7 +8146,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 239,
-    "partName": "Bagathal"
+    "partName": "Bagathal",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 98048,
@@ -6905,7 +8159,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 240,
-    "partName": "Gadeli Kuan"
+    "partName": "Gadeli Kuan",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 98049,
@@ -6916,7 +8172,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 241,
-    "partName": "Dantal"
+    "partName": "Dantal",
+    "lat": 26.5462961,
+    "lon": 71.8862075
   },
   {
     "partId": 98050,
@@ -6927,7 +8185,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 242,
-    "partName": "Jiyasar"
+    "partName": "Jiyasar",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 98051,
@@ -6938,7 +8198,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 243,
-    "partName": "Jhaloda Bhatiyan"
+    "partName": "Jhaloda Bhatiyan",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 98052,
@@ -6949,7 +8211,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 244,
-    "partName": "Nai Rajamathai"
+    "partName": "Nai Rajamathai",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 98053,
@@ -6960,7 +8224,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 245,
-    "partName": "Subashnagar"
+    "partName": "Subashnagar",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 98054,
@@ -6971,7 +8237,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 246,
-    "partName": "Rajamathai I"
+    "partName": "Rajamathai I",
+    "lat": 26.5162094,
+    "lon": 71.7123671
   },
   {
     "partId": 98127,
@@ -6982,7 +8250,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 247,
-    "partName": "BALWANT SINGH KI DHANI JOGRAJGARH"
+    "partName": "BALWANT SINGH KI DHANI JOGRAJGARH",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 98055,
@@ -6993,7 +8263,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 248,
-    "partName": "Rajamathai II"
+    "partName": "Rajamathai II",
+    "lat": 26.5162094,
+    "lon": 71.7123671
   },
   {
     "partId": 98056,
@@ -7004,7 +8276,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 249,
-    "partName": "Karmali ki dhani"
+    "partName": "Karmali ki dhani",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 98057,
@@ -7015,7 +8289,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 250,
-    "partName": "Masuriya"
+    "partName": "Masuriya",
+    "lat": 26.94225549202128,
+    "lon": 71.88394073576383
   },
   {
     "partId": 98058,
@@ -7026,7 +8302,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 251,
-    "partName": "Hariyasar"
+    "partName": "Hariyasar",
+    "lat": 26.94225549202128,
+    "lon": 71.88394073576383
   },
   {
     "partId": 98059,
@@ -7037,7 +8315,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 252,
-    "partName": "Khomthal"
+    "partName": "Khomthal",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 98060,
@@ -7048,7 +8328,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 253,
-    "partName": "Karaninagar"
+    "partName": "Karaninagar",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 98061,
@@ -7059,7 +8341,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 254,
-    "partName": "Devpalpura"
+    "partName": "Devpalpura",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 98062,
@@ -7070,7 +8354,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 255,
-    "partName": "Mekuba"
+    "partName": "Mekuba",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 98063,
@@ -7081,7 +8367,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 256,
-    "partName": "Bandheva I"
+    "partName": "Bandheva I",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 98064,
@@ -7092,7 +8380,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 257,
-    "partName": "Bandheva II"
+    "partName": "Bandheva II",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 98065,
@@ -7103,7 +8393,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 258,
-    "partName": "Longasar I"
+    "partName": "Longasar I",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 98066,
@@ -7114,7 +8406,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 259,
-    "partName": "Longasar II"
+    "partName": "Longasar II",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 98067,
@@ -7125,7 +8419,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 260,
-    "partName": "Dholasar"
+    "partName": "Dholasar",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 98068,
@@ -7136,7 +8432,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 261,
-    "partName": "Khanpura"
+    "partName": "Khanpura",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 98069,
@@ -7147,7 +8445,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 262,
-    "partName": "Balad"
+    "partName": "Balad",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 98070,
@@ -7158,7 +8458,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 263,
-    "partName": "Bhainsanaada"
+    "partName": "Bhainsanaada",
+    "lat": 26.94225549202128,
+    "lon": 71.88394073576383
   },
   {
     "partId": 98071,
@@ -7169,7 +8471,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 264,
-    "partName": "Rupasar"
+    "partName": "Rupasar",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 98072,
@@ -7180,7 +8484,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 265,
-    "partName": "Kesulapana"
+    "partName": "Kesulapana",
+    "lat": 26.94225549202128,
+    "lon": 71.88394073576383
   },
   {
     "partId": 98073,
@@ -7191,7 +8497,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 266,
-    "partName": "Nai Bhikhodai"
+    "partName": "Nai Bhikhodai",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 98074,
@@ -7202,7 +8510,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 267,
-    "partName": "Barasani"
+    "partName": "Barasani",
+    "lat": 26.94225549202128,
+    "lon": 71.88394073576383
   },
   {
     "partId": 98075,
@@ -7213,7 +8523,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 268,
-    "partName": "Bheekhodai Juni I"
+    "partName": "Bheekhodai Juni I",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 98076,
@@ -7224,7 +8536,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 269,
-    "partName": "Bheekhodai Juni II"
+    "partName": "Bheekhodai Juni II",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 98077,
@@ -7235,7 +8549,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 270,
-    "partName": "Bhanu Nagar"
+    "partName": "Bhanu Nagar",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 98078,
@@ -7246,7 +8562,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 271,
-    "partName": "Goraliya"
+    "partName": "Goraliya",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 98079,
@@ -7257,7 +8575,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 272,
-    "partName": "Swami Ji Ki Dhani  I"
+    "partName": "Swami Ji Ki Dhani  I",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 98080,
@@ -7268,7 +8588,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 273,
-    "partName": "Karada"
+    "partName": "Karada",
+    "lat": 26.6616499,
+    "lon": 71.3738823
   },
   {
     "partId": 98081,
@@ -7279,7 +8601,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 274,
-    "partName": "Swami Ji Ki Dhani II"
+    "partName": "Swami Ji Ki Dhani II",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 98128,
@@ -7290,7 +8614,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 275,
-    "partName": "HEMPURI KI DHANI"
+    "partName": "HEMPURI KI DHANI",
+    "lat": 26.94225549202128,
+    "lon": 71.88394073576383
   },
   {
     "partId": 98082,
@@ -7301,7 +8627,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 276,
-    "partName": "Phulasar"
+    "partName": "Phulasar",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 98083,
@@ -7312,7 +8640,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 277,
-    "partName": "Premasar"
+    "partName": "Premasar",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 98084,
@@ -7323,7 +8653,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 278,
-    "partName": "Padampura"
+    "partName": "Padampura",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 98085,
@@ -7334,7 +8666,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 279,
-    "partName": "Prabhupura"
+    "partName": "Prabhupura",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 98086,
@@ -7345,7 +8679,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 280,
-    "partName": "Lomrodon Ki Dhaani"
+    "partName": "Lomrodon Ki Dhaani",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 98087,
@@ -7356,7 +8692,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 281,
-    "partName": "Sohanpura I"
+    "partName": "Sohanpura I",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 98129,
@@ -7367,7 +8705,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 282,
-    "partName": "PANWANADA SOHANPURA"
+    "partName": "PANWANADA SOHANPURA",
+    "lat": 26.94225549202128,
+    "lon": 71.88394073576383
   },
   {
     "partId": 98088,
@@ -7378,7 +8718,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 283,
-    "partName": "Sohanpura II"
+    "partName": "Sohanpura II",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 98089,
@@ -7389,7 +8731,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 284,
-    "partName": "Madurasar"
+    "partName": "Madurasar",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 98090,
@@ -7400,7 +8744,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 285,
-    "partName": "Bhurjgarh"
+    "partName": "Bhurjgarh",
+    "lat": 26.94225549202128,
+    "lon": 71.88394073576383
   },
   {
     "partId": 98091,
@@ -7411,7 +8757,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 286,
-    "partName": "Abhasar"
+    "partName": "Abhasar",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 98092,
@@ -7422,7 +8770,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 287,
-    "partName": "Khumanasar I"
+    "partName": "Khumanasar I",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 98093,
@@ -7433,7 +8783,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 288,
-    "partName": "Khumanasar II"
+    "partName": "Khumanasar II",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 98094,
@@ -7444,7 +8796,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 289,
-    "partName": "Netasar I"
+    "partName": "Netasar I",
+    "lat": 26.94225549202128,
+    "lon": 71.88394073576383
   },
   {
     "partId": 98095,
@@ -7455,7 +8809,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 290,
-    "partName": "Netasar II"
+    "partName": "Netasar II",
+    "lat": 26.94225549202128,
+    "lon": 71.88394073576383
   },
   {
     "partId": 98096,
@@ -7466,7 +8822,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 291,
-    "partName": "Dharmasar"
+    "partName": "Dharmasar",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 98097,
@@ -7477,7 +8835,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 292,
-    "partName": "Shyampura"
+    "partName": "Shyampura",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 98098,
@@ -7488,7 +8848,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 293,
-    "partName": "Motipura"
+    "partName": "Motipura",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 98099,
@@ -7499,7 +8861,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 294,
-    "partName": "Parasar"
+    "partName": "Parasar",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 98100,
@@ -7510,7 +8874,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 295,
-    "partName": "Phalasund  I"
+    "partName": "Phalasund  I",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 98101,
@@ -7521,7 +8887,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 296,
-    "partName": "Phalasund II"
+    "partName": "Phalasund II",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 98102,
@@ -7532,7 +8900,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 297,
-    "partName": "Phalasund III"
+    "partName": "Phalasund III",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 98103,
@@ -7543,7 +8913,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 298,
-    "partName": "Phajaloni Murid"
+    "partName": "Phajaloni Murid",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 98104,
@@ -7554,7 +8926,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 299,
-    "partName": "Chanani Meghasar"
+    "partName": "Chanani Meghasar",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 98105,
@@ -7565,7 +8939,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 300,
-    "partName": "Jaitpura"
+    "partName": "Jaitpura",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 98106,
@@ -7576,7 +8952,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 301,
-    "partName": "Kajoi"
+    "partName": "Kajoi",
+    "lat": 26.3774625,
+    "lon": 71.8623125
   },
   {
     "partId": 98107,
@@ -7587,7 +8965,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 302,
-    "partName": "Rawatpura"
+    "partName": "Rawatpura",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 98108,
@@ -7598,7 +8978,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 303,
-    "partName": "Govindaron Kumharon Ki Dhaani"
+    "partName": "Govindaron Kumharon Ki Dhaani",
+    "lat": 26.94225549202128,
+    "lon": 71.88394073576383
   },
   {
     "partId": 98109,
@@ -7609,7 +8991,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 304,
-    "partName": "Jivarajagadh"
+    "partName": "Jivarajagadh",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 98110,
@@ -7620,7 +9004,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 305,
-    "partName": "Manasar I"
+    "partName": "Manasar I",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 98111,
@@ -7631,7 +9017,9 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 306,
-    "partName": "Manasar II"
+    "partName": "Manasar II",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   },
   {
     "partId": 98130,
@@ -7642,6 +9030,8 @@
     "acNumber": 133,
     "acName": "Pokaran",
     "partNumber": 307,
-    "partName": "FARSANI BHILO KI DHANI"
+    "partName": "FARSANI BHILO KI DHANI",
+    "lat": 26.9198813,
+    "lon": 71.9197573
   }
 ]

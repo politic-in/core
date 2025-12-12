@@ -8,7 +8,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 1,
-    "partName": "SILGER"
+    "partName": "SILGER",
+    "lat": 18.4797289,
+    "lon": 81.0443489
   },
   {
     "partId": 44100,
@@ -19,7 +21,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 2,
-    "partName": "URASANGAL"
+    "partName": "URASANGAL",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44237,
@@ -30,7 +34,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 3,
-    "partName": "BHIMAPURAM URF MESHIGURA"
+    "partName": "BHIMAPURAM URF MESHIGURA",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44101,
@@ -41,7 +47,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 4,
-    "partName": "POOVARTI"
+    "partName": "POOVARTI",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44102,
@@ -52,7 +60,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 5,
-    "partName": "SURPANGUDHA"
+    "partName": "SURPANGUDHA",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44103,
@@ -63,7 +73,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 6,
-    "partName": "CHIMLIPENTA"
+    "partName": "CHIMLIPENTA",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44104,
@@ -74,7 +86,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 7,
-    "partName": "JAGARGUNDA-1"
+    "partName": "JAGARGUNDA-1",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44242,
@@ -85,7 +99,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 8,
-    "partName": "JAGARGUNDA-2"
+    "partName": "JAGARGUNDA-2",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44281,
@@ -96,7 +112,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 9,
-    "partName": "JAGARGUNDA-3"
+    "partName": "JAGARGUNDA-3",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44105,
@@ -107,7 +125,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 10,
-    "partName": "BAINPALLI"
+    "partName": "BAINPALLI",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44106,
@@ -118,7 +138,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 11,
-    "partName": "GUMODHI"
+    "partName": "GUMODHI",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44238,
@@ -129,7 +151,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 12,
-    "partName": "KAMARAM"
+    "partName": "KAMARAM",
+    "lat": 18.4117643,
+    "lon": 81.2038793
   },
   {
     "partId": 44107,
@@ -140,7 +164,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 13,
-    "partName": "MILMAPALLI"
+    "partName": "MILMAPALLI",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44108,
@@ -151,7 +177,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 14,
-    "partName": "MORPALLI"
+    "partName": "MORPALLI",
+    "lat": 18.3113814,
+    "lon": 81.1051155
   },
   {
     "partId": 44109,
@@ -162,7 +190,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 15,
-    "partName": "CHINTALNAR-1"
+    "partName": "CHINTALNAR-1",
+    "lat": 18.3420446,
+    "lon": 81.1810096
   },
   {
     "partId": 44290,
@@ -173,7 +203,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 16,
-    "partName": "Chintalnar-2"
+    "partName": "Chintalnar-2",
+    "lat": 18.3420446,
+    "lon": 81.1810096
   },
   {
     "partId": 44110,
@@ -184,7 +216,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 17,
-    "partName": "MUKRAM"
+    "partName": "MUKRAM",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44111,
@@ -195,7 +229,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 18,
-    "partName": "LAKHAPAL"
+    "partName": "LAKHAPAL",
+    "lat": 18.3485662,
+    "lon": 81.2234408
   },
   {
     "partId": 44112,
@@ -206,7 +242,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 19,
-    "partName": "ELAMAPALLI"
+    "partName": "ELAMAPALLI",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44113,
@@ -217,7 +255,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 20,
-    "partName": "GOGUNDA"
+    "partName": "GOGUNDA",
+    "lat": 18.3740351,
+    "lon": 81.3814938
   },
   {
     "partId": 44114,
@@ -228,7 +268,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 21,
-    "partName": "BADHESATTI-1"
+    "partName": "BADHESATTI-1",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44291,
@@ -239,7 +281,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 22,
-    "partName": "BADHESATTI GANDHARPARA"
+    "partName": "BADHESATTI GANDHARPARA",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44115,
@@ -250,7 +294,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 23,
-    "partName": "GODPALLI"
+    "partName": "GODPALLI",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44282,
@@ -261,7 +307,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 24,
-    "partName": "GONDERAAS"
+    "partName": "GONDERAAS",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44116,
@@ -272,7 +320,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 25,
-    "partName": "PORDEM"
+    "partName": "PORDEM",
+    "lat": 18.5261621,
+    "lon": 81.4365163
   },
   {
     "partId": 44117,
@@ -283,7 +333,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 26,
-    "partName": "MANKAPAL"
+    "partName": "MANKAPAL",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44309,
@@ -294,7 +346,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 27,
-    "partName": "GUFDI"
+    "partName": "GUFDI",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44118,
@@ -305,7 +359,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 28,
-    "partName": "MAROKI"
+    "partName": "MAROKI",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44119,
@@ -316,7 +372,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 29,
-    "partName": "KORRA -1"
+    "partName": "KORRA -1",
+    "lat": 18.5519109,
+    "lon": 81.5403028
   },
   {
     "partId": 44300,
@@ -327,7 +385,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 30,
-    "partName": "KASARGUDA"
+    "partName": "KASARGUDA",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44120,
@@ -338,7 +398,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 31,
-    "partName": "DODPAL"
+    "partName": "DODPAL",
+    "lat": 18.5520101,
+    "lon": 81.5528286
   },
   {
     "partId": 44121,
@@ -349,7 +411,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 32,
-    "partName": "KORRA-3"
+    "partName": "KORRA-3",
+    "lat": 18.5519109,
+    "lon": 81.5403028
   },
   {
     "partId": 44122,
@@ -360,7 +424,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 33,
-    "partName": "CHINGAVARAM"
+    "partName": "CHINGAVARAM",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44123,
@@ -371,7 +437,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 34,
-    "partName": "SONAKOOKANAR"
+    "partName": "SONAKOOKANAR",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44302,
@@ -382,7 +450,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 35,
-    "partName": "SONAKOOKANAR -2"
+    "partName": "SONAKOOKANAR -2",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44243,
@@ -393,7 +463,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 36,
-    "partName": "NAGARAS"
+    "partName": "NAGARAS",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44124,
@@ -404,7 +476,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 37,
-    "partName": "GORLI"
+    "partName": "GORLI",
+    "lat": 18.6064254,
+    "lon": 81.5910133
   },
   {
     "partId": 44244,
@@ -415,7 +489,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 38,
-    "partName": "NAYANAR"
+    "partName": "NAYANAR",
+    "lat": 18.5577807,
+    "lon": 81.5839577
   },
   {
     "partId": 44125,
@@ -426,7 +502,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 39,
-    "partName": "MICHVAR"
+    "partName": "MICHVAR",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44319,
@@ -437,7 +515,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 40,
-    "partName": "MICHVAR (GARIPAL)"
+    "partName": "MICHVAR (GARIPAL)",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44126,
@@ -448,7 +528,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 41,
-    "partName": "DHANIKODHTA"
+    "partName": "DHANIKODHTA",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44127,
@@ -459,7 +541,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 42,
-    "partName": "KUNNA-1"
+    "partName": "KUNNA-1",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44245,
@@ -470,7 +554,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 43,
-    "partName": "KUNNA-2"
+    "partName": "KUNNA-2",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44128,
@@ -481,7 +567,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 44,
-    "partName": "PUSGUNNA"
+    "partName": "PUSGUNNA",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44129,
@@ -492,7 +580,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 45,
-    "partName": "DABBA"
+    "partName": "DABBA",
+    "lat": 18.7087253,
+    "lon": 81.6089548
   },
   {
     "partId": 44130,
@@ -503,7 +593,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 46,
-    "partName": "KUNDANPAL"
+    "partName": "KUNDANPAL",
+    "lat": 18.6522326,
+    "lon": 81.6434383
   },
   {
     "partId": 44303,
@@ -514,7 +606,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 47,
-    "partName": "KUNDANPAL  -2"
+    "partName": "KUNDANPAL  -2",
+    "lat": 18.6522326,
+    "lon": 81.6434383
   },
   {
     "partId": 44131,
@@ -525,7 +619,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 48,
-    "partName": "DOLERAS"
+    "partName": "DOLERAS",
+    "lat": 18.6233607,
+    "lon": 81.6395759
   },
   {
     "partId": 44132,
@@ -536,7 +632,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 49,
-    "partName": "PENDALNAR"
+    "partName": "PENDALNAR",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44133,
@@ -547,7 +645,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 50,
-    "partName": "KERATONG"
+    "partName": "KERATONG",
+    "lat": 18.6022576,
+    "lon": 81.6949904
   },
   {
     "partId": 44134,
@@ -558,7 +658,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 51,
-    "partName": "ROKEL -1"
+    "partName": "ROKEL -1",
+    "lat": 18.5675553,
+    "lon": 81.7463803
   },
   {
     "partId": 44246,
@@ -569,7 +671,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 52,
-    "partName": "ROKEL-2"
+    "partName": "ROKEL-2",
+    "lat": 18.5675553,
+    "lon": 81.7463803
   },
   {
     "partId": 44135,
@@ -580,7 +684,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 53,
-    "partName": "PATINAIKRAS"
+    "partName": "PATINAIKRAS",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44136,
@@ -591,7 +697,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 54,
-    "partName": "KANJIPANI"
+    "partName": "KANJIPANI",
+    "lat": 18.5392757,
+    "lon": 81.7305883
   },
   {
     "partId": 44247,
@@ -602,7 +710,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 55,
-    "partName": "REDDYPAL"
+    "partName": "REDDYPAL",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44137,
@@ -613,7 +723,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 56,
-    "partName": "CHIPURPAL"
+    "partName": "CHIPURPAL",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44320,
@@ -624,7 +736,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 57,
-    "partName": "CHIPURPAL (RATINAIKRAS)"
+    "partName": "CHIPURPAL (RATINAIKRAS)",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44138,
@@ -635,7 +749,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 58,
-    "partName": "BIRSATHPAL"
+    "partName": "BIRSATHPAL",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44139,
@@ -646,7 +762,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 59,
-    "partName": "PONDUM"
+    "partName": "PONDUM",
+    "lat": 18.5302732,
+    "lon": 81.6540312
   },
   {
     "partId": 44140,
@@ -657,7 +775,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 60,
-    "partName": "ATKARIRAS (BHANDAR RAS)"
+    "partName": "ATKARIRAS (BHANDAR RAS)",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44248,
@@ -668,7 +788,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 61,
-    "partName": "ATKARIRAS (KOMTIGUDA)"
+    "partName": "ATKARIRAS (KOMTIGUDA)",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44141,
@@ -679,7 +801,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 62,
-    "partName": "MURREPAL"
+    "partName": "MURREPAL",
+    "lat": 18.4850577,
+    "lon": 81.6778592
   },
   {
     "partId": 44301,
@@ -690,7 +814,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 63,
-    "partName": "GIDAM"
+    "partName": "GIDAM",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44142,
@@ -701,7 +827,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 64,
-    "partName": "JHALIYARAS"
+    "partName": "JHALIYARAS",
+    "lat": 18.4729643,
+    "lon": 81.5822947
   },
   {
     "partId": 44143,
@@ -712,7 +840,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 65,
-    "partName": "JIRMPAL (PATELPARA)-1"
+    "partName": "JIRMPAL (PATELPARA)-1",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44304,
@@ -723,7 +853,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 66,
-    "partName": "DABBARAS"
+    "partName": "DABBARAS",
+    "lat": 18.456977,
+    "lon": 81.5692162
   },
   {
     "partId": 44144,
@@ -734,7 +866,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 67,
-    "partName": "TURREPAL OORF GADIRAS -1 (KHASPARA)"
+    "partName": "TURREPAL OORF GADIRAS -1 (KHASPARA)",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44249,
@@ -745,7 +879,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 68,
-    "partName": "TURREPAL OORF GADIRAS -2 (TAMIYAPARA)"
+    "partName": "TURREPAL OORF GADIRAS -2 (TAMIYAPARA)",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44305,
@@ -756,7 +892,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 69,
-    "partName": "TURREPAL OORF GADIRAS-3 TAMIYA RAUTPARA"
+    "partName": "TURREPAL OORF GADIRAS-3 TAMIYA RAUTPARA",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44279,
@@ -767,7 +905,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 70,
-    "partName": "TURREPAL OORF GADIRAS -4 (KHASPARA)"
+    "partName": "TURREPAL OORF GADIRAS -4 (KHASPARA)",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44145,
@@ -778,7 +918,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 71,
-    "partName": "TURREPAL OORF GADIRAS -5 (MIREEWADA)"
+    "partName": "TURREPAL OORF GADIRAS -5 (MIREEWADA)",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44146,
@@ -789,7 +931,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 72,
-    "partName": "KONDRE"
+    "partName": "KONDRE",
+    "lat": 18.4712649,
+    "lon": 81.5192521
   },
   {
     "partId": 44147,
@@ -800,7 +944,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 73,
-    "partName": "FOOLBAGDI"
+    "partName": "FOOLBAGDI",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44310,
@@ -811,7 +957,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 74,
-    "partName": "FULBAGDI(DAMAPARA)"
+    "partName": "FULBAGDI(DAMAPARA)",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44148,
@@ -822,7 +970,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 75,
-    "partName": "BONDHKO"
+    "partName": "BONDHKO",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44149,
@@ -833,7 +983,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 76,
-    "partName": "PONGABHEJI"
+    "partName": "PONGABHEJI",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44250,
@@ -844,7 +996,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 77,
-    "partName": "SIRSATTI"
+    "partName": "SIRSATTI",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44150,
@@ -855,7 +1009,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 78,
-    "partName": "BAGDHEGUDHA"
+    "partName": "BAGDHEGUDHA",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44151,
@@ -866,7 +1022,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 79,
-    "partName": "NAGARAM"
+    "partName": "NAGARAM",
+    "lat": 18.3590875,
+    "lon": 81.2842798
   },
   {
     "partId": 44152,
@@ -877,7 +1035,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 80,
-    "partName": "BURKAPAL"
+    "partName": "BURKAPAL",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44153,
@@ -888,7 +1048,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 81,
-    "partName": "MINPA"
+    "partName": "MINPA",
+    "lat": 18.2426986,
+    "lon": 81.1719984
   },
   {
     "partId": 44154,
@@ -899,7 +1061,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 82,
-    "partName": "CHITAGUFA"
+    "partName": "CHITAGUFA",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44292,
@@ -910,7 +1074,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 83,
-    "partName": "TEMELWADA"
+    "partName": "TEMELWADA",
+    "lat": 18.2460552,
+    "lon": 81.283226
   },
   {
     "partId": 44155,
@@ -921,7 +1087,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 84,
-    "partName": "ELMAGUNDA"
+    "partName": "ELMAGUNDA",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44156,
@@ -932,7 +1100,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 85,
-    "partName": "PAMLOOR-1"
+    "partName": "PAMLOOR-1",
+    "lat": 18.0882893,
+    "lon": 81.1588677
   },
   {
     "partId": 44283,
@@ -943,7 +1113,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 86,
-    "partName": "PAMLOOR -2"
+    "partName": "PAMLOOR -2",
+    "lat": 18.0882893,
+    "lon": 81.1588677
   },
   {
     "partId": 44239,
@@ -954,7 +1126,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 87,
-    "partName": "KARIGUNDAM"
+    "partName": "KARIGUNDAM",
+    "lat": 18.058993,
+    "lon": 81.0157009
   },
   {
     "partId": 44157,
@@ -965,7 +1139,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 88,
-    "partName": "SENDOORGUDHA"
+    "partName": "SENDOORGUDHA",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44158,
@@ -976,7 +1152,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 89,
-    "partName": "Maraiguda (Forest)-1"
+    "partName": "Maraiguda (Forest)-1",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44251,
@@ -987,7 +1165,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 90,
-    "partName": "MARAIGUDA-2"
+    "partName": "MARAIGUDA-2",
+    "lat": 17.7944924,
+    "lon": 81.0350681
   },
   {
     "partId": 44159,
@@ -998,7 +1178,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 91,
-    "partName": "GOLAPALLI"
+    "partName": "GOLAPALLI",
+    "lat": 17.9302325,
+    "lon": 81.0721815
   },
   {
     "partId": 44311,
@@ -1009,7 +1191,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 92,
-    "partName": "TARLAGUDA"
+    "partName": "TARLAGUDA",
+    "lat": 18.460064,
+    "lon": 81.1822143
   },
   {
     "partId": 44160,
@@ -1020,7 +1204,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 93,
-    "partName": "KISTARAM"
+    "partName": "KISTARAM",
+    "lat": 18.3639072,
+    "lon": 81.1558614
   },
   {
     "partId": 44161,
@@ -1031,7 +1217,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 94,
-    "partName": "PALACHLMA"
+    "partName": "PALACHLMA",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44321,
@@ -1042,7 +1230,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 95,
-    "partName": "PALACHALMA-2"
+    "partName": "PALACHALMA-2",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44162,
@@ -1053,7 +1243,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 96,
-    "partName": "PENTAPADH"
+    "partName": "PENTAPADH",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44163,
@@ -1064,7 +1256,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 97,
-    "partName": "KARIGUNDAM"
+    "partName": "KARIGUNDAM",
+    "lat": 18.058993,
+    "lon": 81.0157009
   },
   {
     "partId": 44164,
@@ -1075,7 +1269,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 98,
-    "partName": "KANKERLANKA"
+    "partName": "KANKERLANKA",
+    "lat": 18.087982083333333,
+    "lon": 81.46566287083333
   },
   {
     "partId": 44165,
@@ -1086,7 +1282,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 99,
-    "partName": "PINNABHEJI"
+    "partName": "PINNABHEJI",
+    "lat": 18.087982083333333,
+    "lon": 81.46566287083333
   },
   {
     "partId": 44166,
@@ -1097,7 +1295,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 100,
-    "partName": "SAMSATTI"
+    "partName": "SAMSATTI",
+    "lat": 18.087982083333333,
+    "lon": 81.46566287083333
   },
   {
     "partId": 44317,
@@ -1108,7 +1308,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 101,
-    "partName": "CHICHORGUDA"
+    "partName": "CHICHORGUDA",
+    "lat": 18.4417182,
+    "lon": 81.1116402
   },
   {
     "partId": 44167,
@@ -1119,7 +1321,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 102,
-    "partName": "KERLAPAL-1"
+    "partName": "KERLAPAL-1",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44252,
@@ -1130,7 +1334,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 103,
-    "partName": "KERLAPAL-2"
+    "partName": "KERLAPAL-2",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44168,
@@ -1141,7 +1347,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 104,
-    "partName": "BORGUDHA"
+    "partName": "BORGUDHA",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44312,
@@ -1152,7 +1360,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 105,
-    "partName": "PATAR SUKMA"
+    "partName": "PATAR SUKMA",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44169,
@@ -1163,7 +1373,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 106,
-    "partName": "KOYABEKOOR"
+    "partName": "KOYABEKOOR",
+    "lat": 18.087982083333333,
+    "lon": 81.46566287083333
   },
   {
     "partId": 44253,
@@ -1174,7 +1386,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 107,
-    "partName": "GOLABEKUR"
+    "partName": "GOLABEKUR",
+    "lat": 18.087982083333333,
+    "lon": 81.46566287083333
   },
   {
     "partId": 44170,
@@ -1185,7 +1399,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 108,
-    "partName": "NILAVRAM"
+    "partName": "NILAVRAM",
+    "lat": 18.087982083333333,
+    "lon": 81.46566287083333
   },
   {
     "partId": 44171,
@@ -1196,7 +1412,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 109,
-    "partName": "MURTONDA-1"
+    "partName": "MURTONDA-1",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44293,
@@ -1207,7 +1425,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 110,
-    "partName": "MURTONDA-2"
+    "partName": "MURTONDA-2",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44172,
@@ -1218,7 +1438,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 111,
-    "partName": "PAKELA -1"
+    "partName": "PAKELA -1",
+    "lat": 18.5044364,
+    "lon": 81.7354533
   },
   {
     "partId": 44294,
@@ -1229,7 +1451,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 112,
-    "partName": "PAKELA-2"
+    "partName": "PAKELA-2",
+    "lat": 18.5044364,
+    "lon": 81.7354533
   },
   {
     "partId": 44173,
@@ -1240,7 +1464,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 113,
-    "partName": "PAKELA -3"
+    "partName": "PAKELA -3",
+    "lat": 18.087982083333333,
+    "lon": 81.46566287083333
   },
   {
     "partId": 44284,
@@ -1251,7 +1477,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 114,
-    "partName": "PAKELA -4"
+    "partName": "PAKELA -4",
+    "lat": 18.087982083333333,
+    "lon": 81.46566287083333
   },
   {
     "partId": 44174,
@@ -1262,7 +1490,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 115,
-    "partName": "CHHINDAGADH -1"
+    "partName": "CHHINDAGADH -1",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44175,
@@ -1273,7 +1503,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 116,
-    "partName": "CHHINDAGADH -2"
+    "partName": "CHHINDAGADH -2",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44254,
@@ -1284,7 +1516,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 117,
-    "partName": "CHHINDGARH-3"
+    "partName": "CHHINDGARH-3",
+    "lat": 18.5231552,
+    "lon": 81.753838
   },
   {
     "partId": 44176,
@@ -1295,7 +1529,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 118,
-    "partName": "GANJENAR"
+    "partName": "GANJENAR",
+    "lat": 18.5418929,
+    "lon": 81.8171382
   },
   {
     "partId": 44295,
@@ -1306,7 +1542,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 119,
-    "partName": "PUJARIPAL"
+    "partName": "PUJARIPAL",
+    "lat": 18.5413233,
+    "lon": 81.7765188
   },
   {
     "partId": 44177,
@@ -1317,7 +1555,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 120,
-    "partName": "GUDRA"
+    "partName": "GUDRA",
+    "lat": 18.5693922,
+    "lon": 81.8159215
   },
   {
     "partId": 44255,
@@ -1328,7 +1568,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 121,
-    "partName": "DHOBANPAL"
+    "partName": "DHOBANPAL",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44178,
@@ -1339,7 +1581,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 122,
-    "partName": "URMAPAL -1"
+    "partName": "URMAPAL -1",
+    "lat": 18.5898773,
+    "lon": 81.7790079
   },
   {
     "partId": 44256,
@@ -1350,7 +1594,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 123,
-    "partName": "URMAPAL-2"
+    "partName": "URMAPAL-2",
+    "lat": 18.5898773,
+    "lon": 81.7790079
   },
   {
     "partId": 44092,
@@ -1361,7 +1607,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 124,
-    "partName": "PALEM"
+    "partName": "PALEM",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44093,
@@ -1372,7 +1620,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 125,
-    "partName": "KAVRAKOPA"
+    "partName": "KAVRAKOPA",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44090,
@@ -1383,7 +1633,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 126,
-    "partName": "HAMIRGARH -1"
+    "partName": "HAMIRGARH -1",
+    "lat": 18.7126954,
+    "lon": 81.7809927
   },
   {
     "partId": 44091,
@@ -1394,7 +1646,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 127,
-    "partName": "HAMIRGARH -2"
+    "partName": "HAMIRGARH -2",
+    "lat": 18.7126954,
+    "lon": 81.7809927
   },
   {
     "partId": 44089,
@@ -1405,7 +1659,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 128,
-    "partName": "MARENGA"
+    "partName": "MARENGA",
+    "lat": 18.7378941,
+    "lon": 81.787269
   },
   {
     "partId": 44257,
@@ -1416,7 +1672,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 129,
-    "partName": "LITIRAS-1"
+    "partName": "LITIRAS-1",
+    "lat": 18.7252232,
+    "lon": 81.7976954
   },
   {
     "partId": 44296,
@@ -1427,7 +1685,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 130,
-    "partName": "LITIRAS-2"
+    "partName": "LITIRAS-2",
+    "lat": 18.7252232,
+    "lon": 81.7976954
   },
   {
     "partId": 44088,
@@ -1438,7 +1698,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 131,
-    "partName": "TONGPAL-1"
+    "partName": "TONGPAL-1",
+    "lat": 18.7326722,
+    "lon": 81.8103789
   },
   {
     "partId": 44258,
@@ -1449,7 +1711,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 132,
-    "partName": "TONGPAL-2"
+    "partName": "TONGPAL-2",
+    "lat": 18.087982083333333,
+    "lon": 81.46566287083333
   },
   {
     "partId": 44259,
@@ -1460,7 +1724,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 133,
-    "partName": "TONGPAL-3"
+    "partName": "TONGPAL-3",
+    "lat": 18.7326722,
+    "lon": 81.8103789
   },
   {
     "partId": 44094,
@@ -1471,7 +1737,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 134,
-    "partName": "LEDA"
+    "partName": "LEDA",
+    "lat": 18.087982083333333,
+    "lon": 81.46566287083333
   },
   {
     "partId": 44260,
@@ -1482,7 +1750,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 135,
-    "partName": "SUGANGHAT"
+    "partName": "SUGANGHAT",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44097,
@@ -1493,7 +1763,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 136,
-    "partName": "KOKALPAL"
+    "partName": "KOKALPAL",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44095,
@@ -1504,7 +1776,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 137,
-    "partName": "KUMAKOLENG"
+    "partName": "KUMAKOLENG",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44096,
@@ -1515,7 +1789,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 138,
-    "partName": "BADHANPAL"
+    "partName": "BADHANPAL",
+    "lat": 18.7388857,
+    "lon": 81.9079504
   },
   {
     "partId": 44098,
@@ -1526,7 +1802,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 139,
-    "partName": "CHITALNAR-1"
+    "partName": "CHITALNAR-1",
+    "lat": 18.6789114,
+    "lon": 81.9123696
   },
   {
     "partId": 44297,
@@ -1537,7 +1815,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 140,
-    "partName": "CHITALNAR-2"
+    "partName": "CHITALNAR-2",
+    "lat": 18.6789114,
+    "lon": 81.9123696
   },
   {
     "partId": 44180,
@@ -1548,7 +1828,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 141,
-    "partName": "PUSPAL"
+    "partName": "PUSPAL",
+    "lat": 18.6420207,
+    "lon": 81.8859449
   },
   {
     "partId": 44181,
@@ -1559,7 +1841,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 142,
-    "partName": "KINDARWADA"
+    "partName": "KINDARWADA",
+    "lat": 18.6429575,
+    "lon": 81.8735558
   },
   {
     "partId": 44306,
@@ -1570,7 +1854,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 143,
-    "partName": "KOKRAL"
+    "partName": "KOKRAL",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44179,
@@ -1581,7 +1867,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 144,
-    "partName": "MEKHAVAYA URF BHOPAWADA"
+    "partName": "MEKHAVAYA URF BHOPAWADA",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44182,
@@ -1592,7 +1880,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 145,
-    "partName": "KIKIRPAL"
+    "partName": "KIKIRPAL",
+    "lat": 18.6117399,
+    "lon": 81.9117521
   },
   {
     "partId": 44183,
@@ -1603,7 +1893,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 146,
-    "partName": "NETANAR"
+    "partName": "NETANAR",
+    "lat": 18.6066481,
+    "lon": 81.8796042
   },
   {
     "partId": 44313,
@@ -1614,7 +1906,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 147,
-    "partName": "TUMAKPAL"
+    "partName": "TUMAKPAL",
+    "lat": 18.6163445,
+    "lon": 81.8952331
   },
   {
     "partId": 44184,
@@ -1625,7 +1919,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 148,
-    "partName": "OLER"
+    "partName": "OLER",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44307,
@@ -1636,7 +1932,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 149,
-    "partName": "SITAPAL"
+    "partName": "SITAPAL",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44185,
@@ -1647,7 +1945,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 150,
-    "partName": "TALNAR -1"
+    "partName": "TALNAR -1",
+    "lat": 18.087982083333333,
+    "lon": 81.46566287083333
   },
   {
     "partId": 44186,
@@ -1658,7 +1958,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 151,
-    "partName": "TALNAR -2"
+    "partName": "TALNAR -2",
+    "lat": 18.5885141,
+    "lon": 81.8748595
   },
   {
     "partId": 44187,
@@ -1669,7 +1971,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 152,
-    "partName": "GUMMA-1"
+    "partName": "GUMMA-1",
+    "lat": 18.5562935,
+    "lon": 81.8771748
   },
   {
     "partId": 44285,
@@ -1680,7 +1984,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 153,
-    "partName": "GUMMA -2"
+    "partName": "GUMMA -2",
+    "lat": 18.5562935,
+    "lon": 81.8771748
   },
   {
     "partId": 44188,
@@ -1691,7 +1997,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 154,
-    "partName": "KODRIPAL"
+    "partName": "KODRIPAL",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44241,
@@ -1702,7 +2010,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 155,
-    "partName": "KAVASHIRAS"
+    "partName": "KAVASHIRAS",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44308,
@@ -1713,7 +2023,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 156,
-    "partName": "Tongguda"
+    "partName": "Tongguda",
+    "lat": 18.5299303,
+    "lon": 81.8261504
   },
   {
     "partId": 44261,
@@ -1724,7 +2036,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 157,
-    "partName": "KASTURI"
+    "partName": "KASTURI",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44189,
@@ -1735,7 +2049,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 158,
-    "partName": "KOTRA (BUDDI)"
+    "partName": "KOTRA (BUDDI)",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44190,
@@ -1746,7 +2062,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 159,
-    "partName": "BUDDI"
+    "partName": "BUDDI",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44191,
@@ -1757,7 +2075,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 160,
-    "partName": "JOROOTONG URF KOKARPAL"
+    "partName": "JOROOTONG URF KOKARPAL",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44192,
@@ -1768,7 +2088,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 161,
-    "partName": "BHELVAPAL"
+    "partName": "BHELVAPAL",
+    "lat": 18.087982083333333,
+    "lon": 81.46566287083333
   },
   {
     "partId": 44193,
@@ -1779,7 +2101,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 162,
-    "partName": "JHAPRA"
+    "partName": "JHAPRA",
+    "lat": 18.3965559,
+    "lon": 81.7298698
   },
   {
     "partId": 44314,
@@ -1790,7 +2114,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 163,
-    "partName": "MULAGUDA"
+    "partName": "MULAGUDA",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44194,
@@ -1801,7 +2127,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 164,
-    "partName": "SUKMA -1"
+    "partName": "SUKMA -1",
+    "lat": 18.3932222,
+    "lon": 81.6569457
   },
   {
     "partId": 44262,
@@ -1812,7 +2140,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 165,
-    "partName": "SUKMA-2 (MASTANPARA)"
+    "partName": "SUKMA-2 (MASTANPARA)",
+    "lat": 18.087982083333333,
+    "lon": 81.46566287083333
   },
   {
     "partId": 44195,
@@ -1823,7 +2153,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 166,
-    "partName": "SUKMA -3"
+    "partName": "SUKMA -3",
+    "lat": 18.3932222,
+    "lon": 81.6569457
   },
   {
     "partId": 44286,
@@ -1834,7 +2166,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 167,
-    "partName": "SUKMA -4"
+    "partName": "SUKMA -4",
+    "lat": 18.3932222,
+    "lon": 81.6569457
   },
   {
     "partId": 44280,
@@ -1845,7 +2179,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 168,
-    "partName": "SUKMA -5"
+    "partName": "SUKMA -5",
+    "lat": 18.3932222,
+    "lon": 81.6569457
   },
   {
     "partId": 44322,
@@ -1856,7 +2192,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 169,
-    "partName": "SUKMA-6"
+    "partName": "SUKMA-6",
+    "lat": 18.3932222,
+    "lon": 81.6569457
   },
   {
     "partId": 44196,
@@ -1867,7 +2205,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 170,
-    "partName": "SUKMA -7"
+    "partName": "SUKMA -7",
+    "lat": 18.3932222,
+    "lon": 81.6569457
   },
   {
     "partId": 44287,
@@ -1878,7 +2218,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 171,
-    "partName": "SUKMA-8"
+    "partName": "SUKMA-8",
+    "lat": 18.087982083333333,
+    "lon": 81.46566287083333
   },
   {
     "partId": 44263,
@@ -1889,7 +2231,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 172,
-    "partName": "SUKMA-9"
+    "partName": "SUKMA-9",
+    "lat": 18.3932222,
+    "lon": 81.6569457
   },
   {
     "partId": 44197,
@@ -1900,7 +2244,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 173,
-    "partName": "SUKMA -10"
+    "partName": "SUKMA -10",
+    "lat": 18.3932222,
+    "lon": 81.6569457
   },
   {
     "partId": 44198,
@@ -1911,7 +2257,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 174,
-    "partName": "SUKMA -11"
+    "partName": "SUKMA -11",
+    "lat": 18.3932222,
+    "lon": 81.6569457
   },
   {
     "partId": 44264,
@@ -1922,7 +2270,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 175,
-    "partName": "SUKMA-12"
+    "partName": "SUKMA-12",
+    "lat": 18.3932222,
+    "lon": 81.6569457
   },
   {
     "partId": 44199,
@@ -1933,7 +2283,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 176,
-    "partName": "SUKMA -13"
+    "partName": "SUKMA -13",
+    "lat": 18.3932222,
+    "lon": 81.6569457
   },
   {
     "partId": 44200,
@@ -1944,7 +2296,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 177,
-    "partName": "SUKMA -14"
+    "partName": "SUKMA -14",
+    "lat": 18.3932222,
+    "lon": 81.6569457
   },
   {
     "partId": 44298,
@@ -1955,7 +2309,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 178,
-    "partName": "SUKMA-15"
+    "partName": "SUKMA-15",
+    "lat": 18.3932222,
+    "lon": 81.6569457
   },
   {
     "partId": 44201,
@@ -1966,7 +2322,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 179,
-    "partName": "GONGLA"
+    "partName": "GONGLA",
+    "lat": 18.3722918,
+    "lon": 81.6564033
   },
   {
     "partId": 44202,
@@ -1977,7 +2335,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 180,
-    "partName": "KUDUKRAS"
+    "partName": "KUDUKRAS",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44203,
@@ -1988,7 +2348,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 181,
-    "partName": "RAMARAM"
+    "partName": "RAMARAM",
+    "lat": 18.3188202,
+    "lon": 81.5980983
   },
   {
     "partId": 44204,
@@ -1999,7 +2361,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 182,
-    "partName": "CHIKPAL"
+    "partName": "CHIKPAL",
+    "lat": 18.2798475,
+    "lon": 81.5391433
   },
   {
     "partId": 44205,
@@ -2010,7 +2374,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 183,
-    "partName": "MUNDAPALLI"
+    "partName": "MUNDAPALLI",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44288,
@@ -2021,7 +2387,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 184,
-    "partName": "Punpalli"
+    "partName": "Punpalli",
+    "lat": 18.2177956,
+    "lon": 81.4455739
   },
   {
     "partId": 44206,
@@ -2032,7 +2400,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 185,
-    "partName": "DUBBATOTA-1"
+    "partName": "DUBBATOTA-1",
+    "lat": 18.087982083333333,
+    "lon": 81.46566287083333
   },
   {
     "partId": 44289,
@@ -2043,7 +2413,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 186,
-    "partName": "DUBBATOTA -2"
+    "partName": "DUBBATOTA -2",
+    "lat": 18.087982083333333,
+    "lon": 81.46566287083333
   },
   {
     "partId": 44207,
@@ -2054,7 +2426,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 187,
-    "partName": "DEVRAPALLI"
+    "partName": "DEVRAPALLI",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44208,
@@ -2065,7 +2439,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 188,
-    "partName": "POLMAPALLI  -1"
+    "partName": "POLMAPALLI  -1",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44265,
@@ -2076,7 +2452,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 189,
-    "partName": "POLMAPALLI -2"
+    "partName": "POLMAPALLI -2",
+    "lat": 18.087982083333333,
+    "lon": 81.46566287083333
   },
   {
     "partId": 44209,
@@ -2087,7 +2465,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 190,
-    "partName": "BARDELPADH  URF TONG  GUDA"
+    "partName": "BARDELPADH  URF TONG  GUDA",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44210,
@@ -2098,7 +2478,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 191,
-    "partName": "KORRAPADH"
+    "partName": "KORRAPADH",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44211,
@@ -2109,7 +2491,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 192,
-    "partName": "ARALAMAPALLI"
+    "partName": "ARALAMAPALLI",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44299,
@@ -2120,7 +2504,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 193,
-    "partName": "PALAMADGU"
+    "partName": "PALAMADGU",
+    "lat": 18.1646178,
+    "lon": 81.3561386
   },
   {
     "partId": 44212,
@@ -2131,7 +2517,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 194,
-    "partName": "KOLIGUDA"
+    "partName": "KOLIGUDA",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44213,
@@ -2142,7 +2530,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 195,
-    "partName": "GACHANAPALLI"
+    "partName": "GACHANAPALLI",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44323,
@@ -2153,7 +2543,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 196,
-    "partName": "GACHANPALLI-2"
+    "partName": "GACHANPALLI-2",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44214,
@@ -2164,7 +2556,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 197,
-    "partName": "SINGARAM"
+    "partName": "SINGARAM",
+    "lat": 18.087982083333333,
+    "lon": 81.46566287083333
   },
   {
     "partId": 44215,
@@ -2175,7 +2569,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 198,
-    "partName": "DURMA"
+    "partName": "DURMA",
+    "lat": 17.8805035,
+    "lon": 81.2068792
   },
   {
     "partId": 44315,
@@ -2186,7 +2582,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 199,
-    "partName": "MEHTA"
+    "partName": "MEHTA",
+    "lat": 18.087982083333333,
+    "lon": 81.46566287083333
   },
   {
     "partId": 44216,
@@ -2197,7 +2595,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 200,
-    "partName": "BANDA"
+    "partName": "BANDA",
+    "lat": 17.8393524,
+    "lon": 81.3100877
   },
   {
     "partId": 44217,
@@ -2208,7 +2608,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 201,
-    "partName": "GORKHA"
+    "partName": "GORKHA",
+    "lat": 17.9536924,
+    "lon": 81.3519751
   },
   {
     "partId": 44218,
@@ -2219,7 +2621,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 202,
-    "partName": "BHEJI  -1"
+    "partName": "BHEJI  -1",
+    "lat": 18.087982083333333,
+    "lon": 81.46566287083333
   },
   {
     "partId": 44316,
@@ -2230,7 +2634,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 203,
-    "partName": "REGADGATTA"
+    "partName": "REGADGATTA",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44240,
@@ -2241,7 +2647,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 204,
-    "partName": "BHEJI -2"
+    "partName": "BHEJI -2",
+    "lat": 18.0188275,
+    "lon": 81.3074903
   },
   {
     "partId": 44219,
@@ -2252,7 +2660,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 205,
-    "partName": "TETRAI"
+    "partName": "TETRAI",
+    "lat": 18.0890646,
+    "lon": 81.3832504
   },
   {
     "partId": 44220,
@@ -2263,7 +2673,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 206,
-    "partName": "MEDVAHI"
+    "partName": "MEDVAHI",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44221,
@@ -2274,7 +2686,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 207,
-    "partName": "DORNAPAL -1"
+    "partName": "DORNAPAL -1",
+    "lat": 18.1541505,
+    "lon": 81.5085125
   },
   {
     "partId": 44275,
@@ -2285,7 +2699,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 208,
-    "partName": "DORNAPAL -2"
+    "partName": "DORNAPAL -2",
+    "lat": 18.1541505,
+    "lon": 81.5085125
   },
   {
     "partId": 44266,
@@ -2296,7 +2712,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 209,
-    "partName": "DORNAPAL -3"
+    "partName": "DORNAPAL -3",
+    "lat": 18.1541505,
+    "lon": 81.5085125
   },
   {
     "partId": 44276,
@@ -2307,7 +2725,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 210,
-    "partName": "DORNAPAL -4"
+    "partName": "DORNAPAL -4",
+    "lat": 18.1541505,
+    "lon": 81.5085125
   },
   {
     "partId": 44267,
@@ -2318,7 +2738,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 211,
-    "partName": "DORNAPAL -5"
+    "partName": "DORNAPAL -5",
+    "lat": 18.1541505,
+    "lon": 81.5085125
   },
   {
     "partId": 44222,
@@ -2329,7 +2751,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 212,
-    "partName": "DORNAPAL -6"
+    "partName": "DORNAPAL -6",
+    "lat": 18.1541505,
+    "lon": 81.5085125
   },
   {
     "partId": 44268,
@@ -2340,7 +2764,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 213,
-    "partName": "DORNAPAL -7"
+    "partName": "DORNAPAL -7",
+    "lat": 18.1541505,
+    "lon": 81.5085125
   },
   {
     "partId": 44277,
@@ -2351,7 +2777,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 214,
-    "partName": "DORNAPAL -8"
+    "partName": "DORNAPAL -8",
+    "lat": 18.1541505,
+    "lon": 81.5085125
   },
   {
     "partId": 44223,
@@ -2362,7 +2790,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 215,
-    "partName": "DORNAPAL -9"
+    "partName": "DORNAPAL -9",
+    "lat": 18.1541505,
+    "lon": 81.5085125
   },
   {
     "partId": 44278,
@@ -2373,7 +2803,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 216,
-    "partName": "DORNAPAL -10"
+    "partName": "DORNAPAL -10",
+    "lat": 18.1541505,
+    "lon": 81.5085125
   },
   {
     "partId": 44224,
@@ -2384,7 +2816,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 217,
-    "partName": "ARAGATTA"
+    "partName": "ARAGATTA",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44225,
@@ -2395,7 +2829,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 218,
-    "partName": "MANIKONTA"
+    "partName": "MANIKONTA",
+    "lat": 18.0602277,
+    "lon": 81.4531339
   },
   {
     "partId": 44226,
@@ -2406,7 +2842,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 219,
-    "partName": "GAGANAPALLI -1"
+    "partName": "GAGANAPALLI -1",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44227,
@@ -2417,7 +2855,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 220,
-    "partName": "GAGANAPALLI -2"
+    "partName": "GAGANAPALLI -2",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44228,
@@ -2428,7 +2868,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 221,
-    "partName": "ERRABOR -1"
+    "partName": "ERRABOR -1",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44269,
@@ -2439,7 +2881,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 222,
-    "partName": "ERRABOR -2"
+    "partName": "ERRABOR -2",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44229,
@@ -2450,7 +2894,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 223,
-    "partName": "ERRABOR -3"
+    "partName": "ERRABOR -3",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44270,
@@ -2461,7 +2907,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 224,
-    "partName": "BIRLA"
+    "partName": "BIRLA",
+    "lat": 18.0210378,
+    "lon": 81.4609194
   },
   {
     "partId": 44318,
@@ -2472,7 +2920,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 225,
-    "partName": "DARBHAGUDA"
+    "partName": "DARBHAGUDA",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44230,
@@ -2483,7 +2933,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 226,
-    "partName": "MULAKISOLI"
+    "partName": "MULAKISOLI",
+    "lat": 17.9221771,
+    "lon": 81.4327644
   },
   {
     "partId": 44231,
@@ -2494,7 +2946,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 227,
-    "partName": "INJRAM"
+    "partName": "INJRAM",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44271,
@@ -2505,7 +2959,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 228,
-    "partName": "PHANDIGUDA"
+    "partName": "PHANDIGUDA",
+    "lat": 17.8519919,
+    "lon": 81.3888928
   },
   {
     "partId": 44232,
@@ -2516,7 +2972,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 229,
-    "partName": "DHONDHRA -1"
+    "partName": "DHONDHRA -1",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44272,
@@ -2527,7 +2985,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 230,
-    "partName": "DHONDRA -2"
+    "partName": "DHONDRA -2",
+    "lat": 17.8214322,
+    "lon": 81.3796704
   },
   {
     "partId": 44233,
@@ -2538,7 +2998,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 231,
-    "partName": "KONTA -1"
+    "partName": "KONTA -1",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44234,
@@ -2549,7 +3011,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 232,
-    "partName": "KONTA -2"
+    "partName": "KONTA -2",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44273,
@@ -2560,7 +3024,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 233,
-    "partName": "KONTA -3"
+    "partName": "KONTA -3",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44235,
@@ -2571,7 +3037,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 234,
-    "partName": "KONTA -4"
+    "partName": "KONTA -4",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44236,
@@ -2582,7 +3050,9 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 235,
-    "partName": "KONTA -5"
+    "partName": "KONTA -5",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   },
   {
     "partId": 44274,
@@ -2593,6 +3063,8 @@
     "acNumber": 90,
     "acName": "Konta",
     "partNumber": 236,
-    "partName": "KONTA- 6"
+    "partName": "KONTA- 6",
+    "lat": 17.8110113,
+    "lon": 81.3830211
   }
 ]

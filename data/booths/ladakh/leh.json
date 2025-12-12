@@ -8,7 +8,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 1,
-    "partName": "THANG"
+    "partName": "THANG",
+    "lat": 33.3588844,
+    "lon": 78.3342913
   },
   {
     "partId": 600,
@@ -19,7 +21,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 2,
-    "partName": "TYAKSHI"
+    "partName": "TYAKSHI",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 601,
@@ -30,7 +34,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 3,
-    "partName": "WAHA PACHATHANG"
+    "partName": "WAHA PACHATHANG",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 602,
@@ -41,7 +47,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 4,
-    "partName": "TURTUK FAROL"
+    "partName": "TURTUK FAROL",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 603,
@@ -52,7 +60,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 5,
-    "partName": "TURTUK YOUL"
+    "partName": "TURTUK YOUL",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 604,
@@ -63,7 +73,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 6,
-    "partName": "GARARI"
+    "partName": "GARARI",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 605,
@@ -74,7 +86,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 7,
-    "partName": "CHULUNGKHA"
+    "partName": "CHULUNGKHA",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 606,
@@ -85,7 +99,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 8,
-    "partName": "BOGDANG"
+    "partName": "BOGDANG",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 607,
@@ -96,7 +112,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 9,
-    "partName": "B. SKILKHOR"
+    "partName": "B. SKILKHOR",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 608,
@@ -107,7 +125,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 10,
-    "partName": "CHAGMAR"
+    "partName": "CHAGMAR",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 609,
@@ -118,7 +138,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 11,
-    "partName": "WARIS"
+    "partName": "WARIS",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 610,
@@ -129,7 +151,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 12,
-    "partName": "FASTAN"
+    "partName": "FASTAN",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 611,
@@ -140,7 +164,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 13,
-    "partName": "SUNUDO"
+    "partName": "SUNUDO",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 612,
@@ -151,7 +177,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 14,
-    "partName": "LARGYAB GONGMA"
+    "partName": "LARGYAB GONGMA",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 613,
@@ -162,7 +190,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 15,
-    "partName": "LARGYAB YOKMA"
+    "partName": "LARGYAB YOKMA",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 614,
@@ -173,7 +203,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 16,
-    "partName": "PACHATHANG"
+    "partName": "PACHATHANG",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 615,
@@ -184,7 +216,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 17,
-    "partName": "TERCHEY"
+    "partName": "TERCHEY",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 616,
@@ -195,7 +229,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 18,
-    "partName": "SKUROO"
+    "partName": "SKUROO",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 617,
@@ -206,7 +242,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 19,
-    "partName": "RAKURU"
+    "partName": "RAKURU",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 618,
@@ -217,7 +255,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 20,
-    "partName": "UDMAROO"
+    "partName": "UDMAROO",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 619,
@@ -228,7 +268,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 21,
-    "partName": "SHUKUR"
+    "partName": "SHUKUR",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 620,
@@ -239,7 +281,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 22,
-    "partName": "HUNDIRI"
+    "partName": "HUNDIRI",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 621,
@@ -250,7 +294,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 23,
-    "partName": "HUNDER"
+    "partName": "HUNDER",
+    "lat": 34.5519251,
+    "lon": 77.5480778
   },
   {
     "partId": 622,
@@ -261,7 +307,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 24,
-    "partName": "AWAKSHA"
+    "partName": "AWAKSHA",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 623,
@@ -272,7 +320,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 25,
-    "partName": "HUNDER DOK"
+    "partName": "HUNDER DOK",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 624,
@@ -283,7 +333,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 26,
-    "partName": "SKAMPUK"
+    "partName": "SKAMPUK",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 625,
@@ -294,7 +346,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 27,
-    "partName": "PARTAPUR"
+    "partName": "PARTAPUR",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 626,
@@ -305,7 +359,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 28,
-    "partName": "DISKIT"
+    "partName": "DISKIT",
+    "lat": 34.541102,
+    "lon": 77.5609162
   },
   {
     "partId": 627,
@@ -316,7 +372,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 29,
-    "partName": "DISKIT A"
+    "partName": "DISKIT A",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 628,
@@ -327,7 +385,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 30,
-    "partName": "BURMA"
+    "partName": "BURMA",
+    "lat": 33.0882223,
+    "lon": 78.0030305
   },
   {
     "partId": 629,
@@ -338,7 +398,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 31,
-    "partName": "CHARASA"
+    "partName": "CHARASA",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 630,
@@ -349,7 +411,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 32,
-    "partName": "KURI"
+    "partName": "KURI",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 631,
@@ -360,7 +424,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 33,
-    "partName": "MURGI"
+    "partName": "MURGI",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 632,
@@ -371,7 +437,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 34,
-    "partName": "TONGSTATE"
+    "partName": "TONGSTATE",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 633,
@@ -382,7 +450,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 35,
-    "partName": "WASHI"
+    "partName": "WASHI",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 634,
@@ -393,7 +463,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 36,
-    "partName": "HENACHAY"
+    "partName": "HENACHAY",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 635,
@@ -404,7 +476,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 37,
-    "partName": "CHANGLUNG"
+    "partName": "CHANGLUNG",
+    "lat": 33.2085313,
+    "lon": 78.4806632
   },
   {
     "partId": 636,
@@ -415,7 +489,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 38,
-    "partName": "NONGSTATE"
+    "partName": "NONGSTATE",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 637,
@@ -426,7 +502,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 39,
-    "partName": "KHEMI"
+    "partName": "KHEMI",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 638,
@@ -437,7 +515,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 40,
-    "partName": "GONBO"
+    "partName": "GONBO",
+    "lat": 34.1693484,
+    "lon": 77.5778728
   },
   {
     "partId": 639,
@@ -448,7 +528,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 41,
-    "partName": "KUBED"
+    "partName": "KUBED",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 640,
@@ -459,7 +541,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 42,
-    "partName": "AYEE"
+    "partName": "AYEE",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 641,
@@ -470,7 +554,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 43,
-    "partName": "TAKSHA"
+    "partName": "TAKSHA",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 642,
@@ -481,7 +567,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 44,
-    "partName": "HARGYAM"
+    "partName": "HARGYAM",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 643,
@@ -492,7 +580,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 45,
-    "partName": "SASOMA"
+    "partName": "SASOMA",
+    "lat": 33.6390924,
+    "lon": 77.7422858
   },
   {
     "partId": 644,
@@ -503,7 +593,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 46,
-    "partName": "ARANOO"
+    "partName": "ARANOO",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 645,
@@ -514,7 +606,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 47,
-    "partName": "ARANOO YOKMA"
+    "partName": "ARANOO YOKMA",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 646,
@@ -525,7 +619,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 48,
-    "partName": "PANAMIK"
+    "partName": "PANAMIK",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 647,
@@ -536,7 +632,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 49,
-    "partName": "PHUKPOCHEY"
+    "partName": "PHUKPOCHEY",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 648,
@@ -547,7 +645,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 50,
-    "partName": "TERISHA"
+    "partName": "TERISHA",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 649,
@@ -558,7 +658,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 51,
-    "partName": "CHAMSHEN"
+    "partName": "CHAMSHEN",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 650,
@@ -569,7 +671,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 52,
-    "partName": "YOULKAM"
+    "partName": "YOULKAM",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 651,
@@ -580,7 +684,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 53,
-    "partName": "TEGAR"
+    "partName": "TEGAR",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 652,
@@ -591,7 +697,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 54,
-    "partName": "PINCHIMIK"
+    "partName": "PINCHIMIK",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 653,
@@ -602,7 +710,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 55,
-    "partName": "SUMOOR"
+    "partName": "SUMOOR",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 654,
@@ -613,7 +723,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 56,
-    "partName": "LAKJUNG"
+    "partName": "LAKJUNG",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 655,
@@ -624,7 +736,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 57,
-    "partName": "TIRITH"
+    "partName": "TIRITH",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 656,
@@ -635,7 +749,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 58,
-    "partName": "TSATI"
+    "partName": "TSATI",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 657,
@@ -646,7 +762,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 59,
-    "partName": "RONGDO"
+    "partName": "RONGDO",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 658,
@@ -657,7 +775,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 60,
-    "partName": "KHALSAR"
+    "partName": "KHALSAR",
+    "lat": 34.4933561,
+    "lon": 77.7118351
   },
   {
     "partId": 659,
@@ -668,7 +788,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 61,
-    "partName": "KHARDONG"
+    "partName": "KHARDONG",
+    "lat": 34.2786625,
+    "lon": 77.6046891
   },
   {
     "partId": 660,
@@ -679,7 +801,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 62,
-    "partName": "KHARDONG FARKA"
+    "partName": "KHARDONG FARKA",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 661,
@@ -690,7 +814,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 63,
-    "partName": "KHARDONG RASERMO"
+    "partName": "KHARDONG RASERMO",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 662,
@@ -701,7 +827,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 64,
-    "partName": "RONGJUK"
+    "partName": "RONGJUK",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 663,
@@ -712,7 +840,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 65,
-    "partName": "DIGGER"
+    "partName": "DIGGER",
+    "lat": 34.2134077,
+    "lon": 77.701904
   },
   {
     "partId": 664,
@@ -723,7 +853,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 66,
-    "partName": "TANGYAR"
+    "partName": "TANGYAR",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 665,
@@ -734,7 +866,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 67,
-    "partName": "KHEMA"
+    "partName": "KHEMA",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 666,
@@ -745,7 +879,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 68,
-    "partName": "KHUNGROO"
+    "partName": "KHUNGROO",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 667,
@@ -756,7 +892,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 69,
-    "partName": "AGYAM"
+    "partName": "AGYAM",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 668,
@@ -767,7 +905,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 70,
-    "partName": "SHAYOK"
+    "partName": "SHAYOK",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 669,
@@ -778,7 +918,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 71,
-    "partName": "DURBUK"
+    "partName": "DURBUK",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 670,
@@ -789,7 +931,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 72,
-    "partName": "PUN PUN"
+    "partName": "PUN PUN",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 671,
@@ -800,7 +944,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 73,
-    "partName": "NIMGO"
+    "partName": "NIMGO",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 672,
@@ -811,7 +957,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 74,
-    "partName": "RALLY EACHING"
+    "partName": "RALLY EACHING",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 673,
@@ -822,7 +970,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 75,
-    "partName": "THARUK"
+    "partName": "THARUK",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 674,
@@ -833,7 +983,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 76,
-    "partName": "TANGTSE"
+    "partName": "TANGTSE",
+    "lat": 33.8404313,
+    "lon": 78.3272772
   },
   {
     "partId": 675,
@@ -844,7 +996,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 77,
-    "partName": "MUKLAB"
+    "partName": "MUKLAB",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 676,
@@ -855,7 +1009,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 78,
-    "partName": "SHACHUKUL"
+    "partName": "SHACHUKUL",
+    "lat": 33.9898081,
+    "lon": 78.1073749
   },
   {
     "partId": 677,
@@ -866,7 +1022,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 79,
-    "partName": "CHILAM"
+    "partName": "CHILAM",
+    "lat": 33.9774164,
+    "lon": 78.0469577
   },
   {
     "partId": 678,
@@ -877,7 +1035,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 80,
-    "partName": "YEARATH"
+    "partName": "YEARATH",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 679,
@@ -888,7 +1048,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 81,
-    "partName": "PHOBRANG"
+    "partName": "PHOBRANG",
+    "lat": 34.0079102,
+    "lon": 78.4092885
   },
   {
     "partId": 680,
@@ -899,7 +1061,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 82,
-    "partName": "URGO"
+    "partName": "URGO",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 681,
@@ -910,7 +1074,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 83,
-    "partName": "LUKUNG"
+    "partName": "LUKUNG",
+    "lat": 33.9951164,
+    "lon": 78.4140257
   },
   {
     "partId": 682,
@@ -921,7 +1087,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 84,
-    "partName": "MAAN"
+    "partName": "MAAN",
+    "lat": 33.8611331,
+    "lon": 78.5262604
   },
   {
     "partId": 683,
@@ -932,7 +1100,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 85,
-    "partName": "SPANGMIK"
+    "partName": "SPANGMIK",
+    "lat": 33.9076911,
+    "lon": 78.4573431
   },
   {
     "partId": 684,
@@ -943,7 +1113,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 86,
-    "partName": "MERAK"
+    "partName": "MERAK",
+    "lat": 33.8002441,
+    "lon": 78.5905698
   },
   {
     "partId": 685,
@@ -954,7 +1126,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 87,
-    "partName": "KHAKTAD"
+    "partName": "KHAKTAD",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 686,
@@ -965,7 +1139,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 88,
-    "partName": "KARGYAM"
+    "partName": "KARGYAM",
+    "lat": 33.853506100000004,
+    "lon": 78.34780166460895
   },
   {
     "partId": 687,
@@ -976,7 +1152,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 89,
-    "partName": "SATOO"
+    "partName": "SATOO",
+    "lat": 33.8731178,
+    "lon": 78.2910312
   },
   {
     "partId": 688,
@@ -987,7 +1165,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 90,
-    "partName": "KHERAPULLU"
+    "partName": "KHERAPULLU",
+    "lat": 33.8352431,
+    "lon": 78.331197
   },
   {
     "partId": 689,
@@ -998,7 +1178,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 91,
-    "partName": "CHIBRA"
+    "partName": "CHIBRA",
+    "lat": 32.9623058,
+    "lon": 78.8924008
   },
   {
     "partId": 690,
@@ -1009,7 +1191,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 92,
-    "partName": "CHUSHUL"
+    "partName": "CHUSHUL",
+    "lat": 33.6009053,
+    "lon": 78.6440678
   },
   {
     "partId": 691,
@@ -1020,7 +1204,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 93,
-    "partName": "TSAGA"
+    "partName": "TSAGA",
+    "lat": 33.3298562,
+    "lon": 78.8538311
   },
   {
     "partId": 692,
@@ -1031,7 +1217,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 94,
-    "partName": "MUDH"
+    "partName": "MUDH",
+    "lat": 34.12988821058252,
+    "lon": 77.46622420043879
   },
   {
     "partId": 693,
@@ -1042,7 +1230,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 95,
-    "partName": "NYOMA"
+    "partName": "NYOMA",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 694,
@@ -1053,7 +1243,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 96,
-    "partName": "NIDDER"
+    "partName": "NIDDER",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 695,
@@ -1064,7 +1256,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 97,
-    "partName": "CHUMATHANG"
+    "partName": "CHUMATHANG",
+    "lat": 34.12988821058252,
+    "lon": 77.46622420043879
   },
   {
     "partId": 696,
@@ -1075,7 +1269,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 98,
-    "partName": "MAHE"
+    "partName": "MAHE",
+    "lat": 33.2610701,
+    "lon": 78.4988683
   },
   {
     "partId": 697,
@@ -1086,7 +1282,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 99,
-    "partName": "KOTSA"
+    "partName": "KOTSA",
+    "lat": 34.12988821058252,
+    "lon": 77.46622420043879
   },
   {
     "partId": 698,
@@ -1097,7 +1295,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 100,
-    "partName": "SKIDMANG"
+    "partName": "SKIDMANG",
+    "lat": 34.12988821058252,
+    "lon": 77.46622420043879
   },
   {
     "partId": 699,
@@ -1108,7 +1308,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 101,
-    "partName": "NEE"
+    "partName": "NEE",
+    "lat": 33.430325,
+    "lon": 78.2030008
   },
   {
     "partId": 700,
@@ -1119,7 +1321,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 102,
-    "partName": "KESAR"
+    "partName": "KESAR",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 701,
@@ -1130,7 +1334,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 103,
-    "partName": "SRIYUL"
+    "partName": "SRIYUL",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 702,
@@ -1141,7 +1347,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 104,
-    "partName": "KEREY"
+    "partName": "KEREY",
+    "lat": 33.4783997,
+    "lon": 78.1283057
   },
   {
     "partId": 703,
@@ -1152,7 +1360,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 105,
-    "partName": "KUNGYAM"
+    "partName": "KUNGYAM",
+    "lat": 33.6369161,
+    "lon": 78.1048488
   },
   {
     "partId": 704,
@@ -1163,7 +1373,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 106,
-    "partName": "KUNGYAM DO"
+    "partName": "KUNGYAM DO",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 705,
@@ -1174,7 +1386,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 107,
-    "partName": "GAIK"
+    "partName": "GAIK",
+    "lat": 33.5822663,
+    "lon": 78.1732724
   },
   {
     "partId": 706,
@@ -1185,7 +1399,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 108,
-    "partName": "KHUMDOK"
+    "partName": "KHUMDOK",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 707,
@@ -1196,7 +1412,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 109,
-    "partName": "TIRI"
+    "partName": "TIRI",
+    "lat": 33.5639935,
+    "lon": 78.0369025
   },
   {
     "partId": 708,
@@ -1207,7 +1425,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 110,
-    "partName": "TIRIDO"
+    "partName": "TIRIDO",
+    "lat": 33.5825765,
+    "lon": 78.08238885641795
   },
   {
     "partId": 709,
@@ -1218,7 +1438,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 111,
-    "partName": "HIMYA"
+    "partName": "HIMYA",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 710,
@@ -1229,7 +1451,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 112,
-    "partName": "KHATPOO"
+    "partName": "KHATPOO",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 711,
@@ -1240,7 +1464,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 113,
-    "partName": "TARCHIT"
+    "partName": "TARCHIT",
+    "lat": 34.12988821058252,
+    "lon": 77.46622420043879
   },
   {
     "partId": 712,
@@ -1251,7 +1477,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 114,
-    "partName": "TUKLA"
+    "partName": "TUKLA",
+    "lat": 33.74573,
+    "lon": 77.9845639
   },
   {
     "partId": 713,
@@ -1262,7 +1490,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 115,
-    "partName": "TUKLA PHULAKS"
+    "partName": "TUKLA PHULAKS",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 714,
@@ -1273,7 +1503,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 116,
-    "partName": "LIKTSE"
+    "partName": "LIKTSE",
+    "lat": 34.12988821058252,
+    "lon": 77.46622420043879
   },
   {
     "partId": 715,
@@ -1284,7 +1516,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 117,
-    "partName": "SHARA"
+    "partName": "SHARA",
+    "lat": 34.12988821058252,
+    "lon": 77.46622420043879
   },
   {
     "partId": 716,
@@ -1295,7 +1529,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 118,
-    "partName": "SHARNOS"
+    "partName": "SHARNOS",
+    "lat": 33.7731118,
+    "lon": 77.8891964
   },
   {
     "partId": 717,
@@ -1306,7 +1542,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 119,
-    "partName": "PHUKTSEY"
+    "partName": "PHUKTSEY",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 718,
@@ -1317,7 +1555,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 120,
-    "partName": "IGG"
+    "partName": "IGG",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 719,
@@ -1328,7 +1568,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 121,
-    "partName": "NAKLEY LANKOR"
+    "partName": "NAKLEY LANKOR",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 720,
@@ -1339,7 +1581,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 122,
-    "partName": "INTSEY"
+    "partName": "INTSEY",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 721,
@@ -1350,7 +1594,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 123,
-    "partName": "IGOO"
+    "partName": "IGOO",
+    "lat": 34.12988821058252,
+    "lon": 77.46622420043879
   },
   {
     "partId": 722,
@@ -1361,7 +1607,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 124,
-    "partName": "POKTSA"
+    "partName": "POKTSA",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 723,
@@ -1372,7 +1620,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 125,
-    "partName": "TAGAR"
+    "partName": "TAGAR",
+    "lat": 34.0043113,
+    "lon": 77.8601827
   },
   {
     "partId": 724,
@@ -1383,7 +1633,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 126,
-    "partName": "SAKTI"
+    "partName": "SAKTI",
+    "lat": 33.9737964,
+    "lon": 77.8068829
   },
   {
     "partId": 725,
@@ -1394,7 +1646,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 127,
-    "partName": "FARKHA YOKMA SAKTI"
+    "partName": "FARKHA YOKMA SAKTI",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 726,
@@ -1405,7 +1659,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 128,
-    "partName": "TAKNAK"
+    "partName": "TAKNAK",
+    "lat": 34.12988821058252,
+    "lon": 77.46622420043879
   },
   {
     "partId": 727,
@@ -1416,7 +1672,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 129,
-    "partName": "TAKNAK PHU"
+    "partName": "TAKNAK PHU",
+    "lat": 34.12988821058252,
+    "lon": 77.46622420043879
   },
   {
     "partId": 728,
@@ -1427,7 +1685,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 130,
-    "partName": "PIU"
+    "partName": "PIU",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 729,
@@ -1438,7 +1698,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 131,
-    "partName": "CHEMRAY"
+    "partName": "CHEMRAY",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 730,
@@ -1449,7 +1711,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 132,
-    "partName": "YOKNOS"
+    "partName": "YOKNOS",
+    "lat": 34.1265809,
+    "lon": 77.6247384
   },
   {
     "partId": 731,
@@ -1460,7 +1724,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 133,
-    "partName": "KHARU"
+    "partName": "KHARU",
+    "lat": 33.9251394,
+    "lon": 77.7343789
   },
   {
     "partId": 732,
@@ -1471,7 +1737,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 134,
-    "partName": "NANG"
+    "partName": "NANG",
+    "lat": 34.0435417,
+    "lon": 77.732995
   },
   {
     "partId": 733,
@@ -1482,7 +1750,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 135,
-    "partName": "RAMBIRPUR"
+    "partName": "RAMBIRPUR",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 734,
@@ -1493,7 +1763,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 136,
-    "partName": "THIKSAY A"
+    "partName": "THIKSAY A",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 735,
@@ -1504,7 +1776,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 137,
-    "partName": "THIKSAY B"
+    "partName": "THIKSAY B",
+    "lat": 34.12988821058252,
+    "lon": 77.46622420043879
   },
   {
     "partId": 736,
@@ -1515,7 +1789,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 138,
-    "partName": "STAKMO"
+    "partName": "STAKMO",
+    "lat": 34.1089255,
+    "lon": 77.6941184
   },
   {
     "partId": 737,
@@ -1526,7 +1802,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 139,
-    "partName": "SHEY"
+    "partName": "SHEY",
+    "lat": 34.0713377,
+    "lon": 77.6397177
   },
   {
     "partId": 738,
@@ -1537,7 +1815,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 140,
-    "partName": "SHEY YOKNOS"
+    "partName": "SHEY YOKNOS",
+    "lat": 34.1047829,
+    "lon": 77.6617568
   },
   {
     "partId": 739,
@@ -1548,7 +1828,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 141,
-    "partName": "SABOO"
+    "partName": "SABOO",
+    "lat": 34.12988821058252,
+    "lon": 77.46622420043879
   },
   {
     "partId": 740,
@@ -1559,7 +1841,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 142,
-    "partName": "BALAM"
+    "partName": "BALAM",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 741,
@@ -1570,7 +1854,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 143,
-    "partName": "CHOGLAMSAR"
+    "partName": "CHOGLAMSAR",
+    "lat": 34.109134,
+    "lon": 77.5905091
   },
   {
     "partId": 742,
@@ -1581,7 +1867,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 144,
-    "partName": "TASHI GYATSAL A"
+    "partName": "TASHI GYATSAL A",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 743,
@@ -1592,7 +1880,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 145,
-    "partName": "SONAM BARMALING"
+    "partName": "SONAM BARMALING",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 744,
@@ -1603,7 +1893,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 146,
-    "partName": "GYATSAL B"
+    "partName": "GYATSAL B",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 745,
@@ -1614,7 +1906,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 147,
-    "partName": "KHARNAKLING"
+    "partName": "KHARNAKLING",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 746,
@@ -1625,7 +1919,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 148,
-    "partName": "GOMPA GANGLAS"
+    "partName": "GOMPA GANGLAS",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 747,
@@ -1636,7 +1932,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 149,
-    "partName": "SANKAR YURTUNG"
+    "partName": "SANKAR YURTUNG",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 748,
@@ -1647,7 +1945,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 150,
-    "partName": "SANKAR"
+    "partName": "SANKAR",
+    "lat": 34.1671923,
+    "lon": 77.5844212
   },
   {
     "partId": 749,
@@ -1658,7 +1958,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 151,
-    "partName": "ZANGSTI GOKSOM"
+    "partName": "ZANGSTI GOKSOM",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 750,
@@ -1669,7 +1971,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 152,
-    "partName": "CHANGSPA"
+    "partName": "CHANGSPA",
+    "lat": 34.1681761,
+    "lon": 77.5801269
   },
   {
     "partId": 751,
@@ -1680,7 +1984,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 153,
-    "partName": "TUKCHA"
+    "partName": "TUKCHA",
+    "lat": 34.1651771,
+    "lon": 77.5764352
   },
   {
     "partId": 752,
@@ -1691,7 +1997,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 154,
-    "partName": "SKAYNOS A"
+    "partName": "SKAYNOS A",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 753,
@@ -1702,7 +2010,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 155,
-    "partName": "SKAMPARI A"
+    "partName": "SKAMPARI A",
+    "lat": 34.1623875,
+    "lon": 77.5931299
   },
   {
     "partId": 754,
@@ -1713,7 +2023,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 156,
-    "partName": "SKAMPARI B"
+    "partName": "SKAMPARI B",
+    "lat": 34.1623875,
+    "lon": 77.5931299
   },
   {
     "partId": 755,
@@ -1724,7 +2036,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 157,
-    "partName": "SKAYNOS B"
+    "partName": "SKAYNOS B",
+    "lat": 34.12988821058252,
+    "lon": 77.46622420043879
   },
   {
     "partId": 756,
@@ -1735,7 +2049,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 158,
-    "partName": "SKARA"
+    "partName": "SKARA",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 757,
@@ -1746,7 +2062,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 159,
-    "partName": "SKARA YOKMA"
+    "partName": "SKARA YOKMA",
+    "lat": 34.12988821058252,
+    "lon": 77.46622420043879
   },
   {
     "partId": 758,
@@ -1757,7 +2075,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 160,
-    "partName": "SKALZANGLING A"
+    "partName": "SKALZANGLING A",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 759,
@@ -1768,7 +2088,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 161,
-    "partName": "IBEX COLONY"
+    "partName": "IBEX COLONY",
+    "lat": 34.1429718,
+    "lon": 77.5712724
   },
   {
     "partId": 760,
@@ -1779,7 +2101,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 162,
-    "partName": "SHAYNAM"
+    "partName": "SHAYNAM",
+    "lat": 34.12988821058252,
+    "lon": 77.46622420043879
   },
   {
     "partId": 761,
@@ -1790,7 +2114,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 163,
-    "partName": "HOUSING COLONY A"
+    "partName": "HOUSING COLONY A",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 762,
@@ -1801,7 +2127,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 164,
-    "partName": "HOUSING COLONY B"
+    "partName": "HOUSING COLONY B",
+    "lat": 34.12988821058252,
+    "lon": 77.46622420043879
   },
   {
     "partId": 763,
@@ -1812,7 +2140,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 165,
-    "partName": "HOUSING COLONY C"
+    "partName": "HOUSING COLONY C",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 764,
@@ -1823,7 +2153,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 166,
-    "partName": "HOUSING COLONY D"
+    "partName": "HOUSING COLONY D",
+    "lat": 34.1436556,
+    "lon": 77.58779255495249
   },
   {
     "partId": 765,
@@ -1834,7 +2166,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 167,
-    "partName": "SPITUK"
+    "partName": "SPITUK",
+    "lat": 34.1251473,
+    "lon": 77.5225662
   },
   {
     "partId": 766,
@@ -1845,7 +2179,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 168,
-    "partName": "SPITUK PHARKA"
+    "partName": "SPITUK PHARKA",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 767,
@@ -1856,7 +2192,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 169,
-    "partName": "URGANLING"
+    "partName": "URGANLING",
+    "lat": 34.12988821058252,
+    "lon": 77.46622420043879
   },
   {
     "partId": 768,
@@ -1867,7 +2205,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 170,
-    "partName": "PHAY"
+    "partName": "PHAY",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 769,
@@ -1878,7 +2218,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 171,
-    "partName": "PHYANG"
+    "partName": "PHYANG",
+    "lat": 34.12988821058252,
+    "lon": 77.46622420043879
   },
   {
     "partId": 770,
@@ -1889,7 +2231,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 172,
-    "partName": "CHUSGO PHYANG"
+    "partName": "CHUSGO PHYANG",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 771,
@@ -1900,7 +2244,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 173,
-    "partName": "PHYANG FULUNG"
+    "partName": "PHYANG FULUNG",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 772,
@@ -1911,7 +2257,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 174,
-    "partName": "TARU"
+    "partName": "TARU",
+    "lat": 34.12988821058252,
+    "lon": 77.46622420043879
   },
   {
     "partId": 773,
@@ -1922,7 +2270,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 175,
-    "partName": "UMLA"
+    "partName": "UMLA",
+    "lat": 34.2373979,
+    "lon": 77.3992305
   },
   {
     "partId": 774,
@@ -1933,7 +2283,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 176,
-    "partName": "NIMOO"
+    "partName": "NIMOO",
+    "lat": 34.249803,
+    "lon": 77.364575
   },
   {
     "partId": 775,
@@ -1944,7 +2296,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 177,
-    "partName": "RONJUK NIMOO"
+    "partName": "RONJUK NIMOO",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 776,
@@ -1955,7 +2309,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 178,
-    "partName": "BASGO"
+    "partName": "BASGO",
+    "lat": 34.2236252,
+    "lon": 77.2754336
   },
   {
     "partId": 777,
@@ -1966,7 +2322,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 179,
-    "partName": "ZASA BASGO"
+    "partName": "ZASA BASGO",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 778,
@@ -1977,7 +2335,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 180,
-    "partName": "NAY"
+    "partName": "NAY",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 779,
@@ -1988,7 +2348,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 181,
-    "partName": "LIKER"
+    "partName": "LIKER",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 780,
@@ -1999,7 +2361,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 182,
-    "partName": "TARUCHEY"
+    "partName": "TARUCHEY",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 781,
@@ -2010,7 +2374,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 183,
-    "partName": "UPPER LIKER"
+    "partName": "UPPER LIKER",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 782,
@@ -2021,7 +2387,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 184,
-    "partName": "SASPOCHEY"
+    "partName": "SASPOCHEY",
+    "lat": 34.12988821058252,
+    "lon": 77.46622420043879
   },
   {
     "partId": 783,
@@ -2032,7 +2400,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 185,
-    "partName": "SASPOL"
+    "partName": "SASPOL",
+    "lat": 34.24132805,
+    "lon": 77.14965165
   },
   {
     "partId": 784,
@@ -2043,7 +2413,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 186,
-    "partName": "ULLEY"
+    "partName": "ULLEY",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 785,
@@ -2054,7 +2426,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 187,
-    "partName": "YANGTHANG"
+    "partName": "YANGTHANG",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 786,
@@ -2065,7 +2439,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 188,
-    "partName": "RIZONG"
+    "partName": "RIZONG",
+    "lat": 34.12988821058252,
+    "lon": 77.46622420043879
   },
   {
     "partId": 787,
@@ -2076,7 +2452,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 189,
-    "partName": "HEMISSHUKPACHEN"
+    "partName": "HEMISSHUKPACHEN",
+    "lat": 34.12988821058252,
+    "lon": 77.46622420043879
   },
   {
     "partId": 788,
@@ -2087,7 +2465,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 190,
-    "partName": "SKONGSHAT"
+    "partName": "SKONGSHAT",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 789,
@@ -2098,7 +2478,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 191,
-    "partName": "TEMISGUM"
+    "partName": "TEMISGUM",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 790,
@@ -2109,7 +2491,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 192,
-    "partName": "WARLKAS TEMISGUM"
+    "partName": "WARLKAS TEMISGUM",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 791,
@@ -2120,7 +2504,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 193,
-    "partName": "ANG"
+    "partName": "ANG",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 792,
@@ -2131,7 +2517,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 194,
-    "partName": "TIA"
+    "partName": "TIA",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 793,
@@ -2142,7 +2530,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 195,
-    "partName": "CHARCHAR"
+    "partName": "CHARCHAR",
+    "lat": 33.7397409,
+    "lon": 77.1633873
   },
   {
     "partId": 794,
@@ -2153,7 +2543,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 196,
-    "partName": "TIA KHALING"
+    "partName": "TIA KHALING",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 795,
@@ -2164,7 +2556,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 197,
-    "partName": "SOGRA"
+    "partName": "SOGRA",
+    "lat": 34.12988821058252,
+    "lon": 77.46622420043879
   },
   {
     "partId": 796,
@@ -2175,7 +2569,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 198,
-    "partName": "NURLA"
+    "partName": "NURLA",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 797,
@@ -2186,7 +2582,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 199,
-    "partName": "SKINDYANG"
+    "partName": "SKINDYANG",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 798,
@@ -2197,7 +2595,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 200,
-    "partName": "KHALTSI"
+    "partName": "KHALTSI",
+    "lat": 34.309824,
+    "lon": 76.9183098
   },
   {
     "partId": 799,
@@ -2208,7 +2608,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 201,
-    "partName": "DHOMKHER DO"
+    "partName": "DHOMKHER DO",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 800,
@@ -2219,7 +2621,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 202,
-    "partName": "DHOMKHER BARMA"
+    "partName": "DHOMKHER BARMA",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 801,
@@ -2230,7 +2634,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 203,
-    "partName": "DHOMKHER GONGMA"
+    "partName": "DHOMKHER GONGMA",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 802,
@@ -2241,7 +2647,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 204,
-    "partName": "THONGROS"
+    "partName": "THONGROS",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 803,
@@ -2252,7 +2660,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 205,
-    "partName": "KURAMBIK"
+    "partName": "KURAMBIK",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 804,
@@ -2263,7 +2673,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 206,
-    "partName": "SKURBUCHEN"
+    "partName": "SKURBUCHEN",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 805,
@@ -2274,7 +2686,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 207,
-    "partName": "SATSEY DHO"
+    "partName": "SATSEY DHO",
+    "lat": 34.12988821058252,
+    "lon": 77.46622420043879
   },
   {
     "partId": 806,
@@ -2285,7 +2699,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 208,
-    "partName": "LUNGBA"
+    "partName": "LUNGBA",
+    "lat": 34.12988821058252,
+    "lon": 77.46622420043879
   },
   {
     "partId": 807,
@@ -2296,7 +2712,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 209,
-    "partName": "KHACHEYTHANG"
+    "partName": "KHACHEYTHANG",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 808,
@@ -2307,7 +2725,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 210,
-    "partName": "ACHINATHANG"
+    "partName": "ACHINATHANG",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 809,
@@ -2318,7 +2738,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 211,
-    "partName": "ACHINALUNGBA"
+    "partName": "ACHINALUNGBA",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 810,
@@ -2329,7 +2751,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 212,
-    "partName": "HANU YOKMA"
+    "partName": "HANU YOKMA",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 811,
@@ -2340,7 +2764,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 213,
-    "partName": "HANU THANG"
+    "partName": "HANU THANG",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 812,
@@ -2351,7 +2777,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 214,
-    "partName": "HANU GONGMA"
+    "partName": "HANU GONGMA",
+    "lat": 34.12988821058252,
+    "lon": 77.46622420043879
   },
   {
     "partId": 813,
@@ -2362,7 +2790,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 215,
-    "partName": "BEEMA"
+    "partName": "BEEMA",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 814,
@@ -2373,7 +2803,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 216,
-    "partName": "DAH"
+    "partName": "DAH",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 815,
@@ -2384,7 +2816,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 217,
-    "partName": "LAIDO"
+    "partName": "LAIDO",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 816,
@@ -2395,7 +2829,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 218,
-    "partName": "KAPTO"
+    "partName": "KAPTO",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 817,
@@ -2406,7 +2842,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 219,
-    "partName": "TAKMA CHAG"
+    "partName": "TAKMA CHAG",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 818,
@@ -2417,7 +2855,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 220,
-    "partName": "URBIS"
+    "partName": "URBIS",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 819,
@@ -2428,7 +2868,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 221,
-    "partName": "LAMAYURU"
+    "partName": "LAMAYURU",
+    "lat": 34.12988821058252,
+    "lon": 77.46622420043879
   },
   {
     "partId": 820,
@@ -2439,7 +2881,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 222,
-    "partName": "FOTOLALOK"
+    "partName": "FOTOLALOK",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 821,
@@ -2450,7 +2894,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 223,
-    "partName": "KANJI"
+    "partName": "KANJI",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 822,
@@ -2461,7 +2907,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 224,
-    "partName": "WANLA"
+    "partName": "WANLA",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 823,
@@ -2472,7 +2920,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 225,
-    "partName": "SHELLA"
+    "partName": "SHELLA",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 824,
@@ -2483,7 +2933,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 226,
-    "partName": "TARCHIT"
+    "partName": "TARCHIT",
+    "lat": 33.6997612,
+    "lon": 77.9383206
   },
   {
     "partId": 825,
@@ -2494,7 +2946,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 227,
-    "partName": "BOKBUZA"
+    "partName": "BOKBUZA",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 826,
@@ -2505,7 +2959,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 228,
-    "partName": "FANJILA"
+    "partName": "FANJILA",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 827,
@@ -2516,7 +2972,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 229,
-    "partName": "SUMDO"
+    "partName": "SUMDO",
+    "lat": 33.2342736,
+    "lon": 78.366782
   },
   {
     "partId": 828,
@@ -2527,7 +2985,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 230,
-    "partName": "HANUPATTA"
+    "partName": "HANUPATTA",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 829,
@@ -2538,7 +2998,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 231,
-    "partName": "HINJU"
+    "partName": "HINJU",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 830,
@@ -2549,7 +3011,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 232,
-    "partName": "URSI"
+    "partName": "URSI",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 831,
@@ -2560,7 +3024,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 233,
-    "partName": "FOTOKSAR"
+    "partName": "FOTOKSAR",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 832,
@@ -2571,7 +3037,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 234,
-    "partName": "MACHU"
+    "partName": "MACHU",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 833,
@@ -2582,7 +3050,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 235,
-    "partName": "YOULCHUNG"
+    "partName": "YOULCHUNG",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 834,
@@ -2593,7 +3063,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 236,
-    "partName": "NEYRAKS"
+    "partName": "NEYRAKS",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 835,
@@ -2604,7 +3076,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 237,
-    "partName": "LINGSHED"
+    "partName": "LINGSHED",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 836,
@@ -2615,7 +3089,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 238,
-    "partName": "KARTSE"
+    "partName": "KARTSE",
+    "lat": 33.6365091,
+    "lon": 77.7423863
   },
   {
     "partId": 837,
@@ -2626,7 +3102,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 239,
-    "partName": "JINGCHEN"
+    "partName": "JINGCHEN",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 838,
@@ -2637,7 +3115,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 240,
-    "partName": "SKUMPATA"
+    "partName": "SKUMPATA",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 839,
@@ -2648,7 +3128,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 241,
-    "partName": "SKUMPATA GONGMA"
+    "partName": "SKUMPATA GONGMA",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 840,
@@ -2659,7 +3141,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 242,
-    "partName": "DIPLING"
+    "partName": "DIPLING",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 841,
@@ -2670,7 +3154,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 243,
-    "partName": "TAR"
+    "partName": "TAR",
+    "lat": 34.27617,
+    "lon": 76.9649445
   },
   {
     "partId": 842,
@@ -2681,7 +3167,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 244,
-    "partName": "HIPTI"
+    "partName": "HIPTI",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 843,
@@ -2692,7 +3180,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 245,
-    "partName": "MANGUE"
+    "partName": "MANGUE",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 844,
@@ -2703,7 +3193,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 246,
-    "partName": "GERA"
+    "partName": "GERA",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 845,
@@ -2714,7 +3206,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 247,
-    "partName": "ULLEY THOKPO"
+    "partName": "ULLEY THOKPO",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 846,
@@ -2725,7 +3219,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 248,
-    "partName": "ALCHI"
+    "partName": "ALCHI",
+    "lat": 34.1583893,
+    "lon": 77.2565252
   },
   {
     "partId": 847,
@@ -2736,7 +3232,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 249,
-    "partName": "LARDO"
+    "partName": "LARDO",
+    "lat": 34.12988821058252,
+    "lon": 77.46622420043879
   },
   {
     "partId": 848,
@@ -2747,7 +3245,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 250,
-    "partName": "CHILING"
+    "partName": "CHILING",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 849,
@@ -2758,7 +3258,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 251,
-    "partName": "SUMDA"
+    "partName": "SUMDA",
+    "lat": 34.104438,
+    "lon": 77.2136961
   },
   {
     "partId": 850,
@@ -2769,7 +3271,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 252,
-    "partName": "EZANG SUMDA"
+    "partName": "EZANG SUMDA",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 851,
@@ -2780,7 +3284,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 253,
-    "partName": "SUMDA CHINMO"
+    "partName": "SUMDA CHINMO",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 852,
@@ -2791,7 +3297,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 254,
-    "partName": "SUMDA DO"
+    "partName": "SUMDA DO",
+    "lat": 34.104438,
+    "lon": 77.2136961
   },
   {
     "partId": 853,
@@ -2802,7 +3310,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 255,
-    "partName": "SKUE"
+    "partName": "SKUE",
+    "lat": 34.12988821058252,
+    "lon": 77.46622420043879
   },
   {
     "partId": 854,
@@ -2813,7 +3323,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 256,
-    "partName": "KAYA"
+    "partName": "KAYA",
+    "lat": 33.9897256,
+    "lon": 77.2445436
   },
   {
     "partId": 1193,
@@ -2824,7 +3336,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 257,
-    "partName": "SHINGO"
+    "partName": "SHINGO",
+    "lat": 34.0283743,
+    "lon": 77.3055191
   },
   {
     "partId": 855,
@@ -2835,7 +3349,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 258,
-    "partName": "MARKHA"
+    "partName": "MARKHA",
+    "lat": 33.8859985,
+    "lon": 77.4233499
   },
   {
     "partId": 856,
@@ -2846,7 +3362,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 259,
-    "partName": "HANKAR"
+    "partName": "HANKAR",
+    "lat": 33.8315987,
+    "lon": 77.5058478
   },
   {
     "partId": 1175,
@@ -2857,7 +3375,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 260,
-    "partName": "UMLUNG"
+    "partName": "UMLUNG",
+    "lat": 33.8687719,
+    "lon": 77.4637938
   },
   {
     "partId": 857,
@@ -2868,7 +3388,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 261,
-    "partName": "RUMBAK"
+    "partName": "RUMBAK",
+    "lat": 34.0545153,
+    "lon": 77.4315977
   },
   {
     "partId": 858,
@@ -2879,7 +3401,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 262,
-    "partName": "RUMCHUNG"
+    "partName": "RUMCHUNG",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 859,
@@ -2890,7 +3414,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 263,
-    "partName": "TSOGSTI"
+    "partName": "TSOGSTI",
+    "lat": 34.1287984,
+    "lon": 77.2753896
   },
   {
     "partId": 860,
@@ -2901,7 +3427,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 264,
-    "partName": "STOK"
+    "partName": "STOK",
+    "lat": 34.0649307,
+    "lon": 77.5479632
   },
   {
     "partId": 861,
@@ -2912,7 +3440,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 265,
-    "partName": "UPPER STOK"
+    "partName": "UPPER STOK",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 862,
@@ -2923,7 +3453,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 266,
-    "partName": "CHUCHOT YOGMA A"
+    "partName": "CHUCHOT YOGMA A",
+    "lat": 34.0753403,
+    "lon": 77.6025178
   },
   {
     "partId": 863,
@@ -2934,7 +3466,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 267,
-    "partName": "CHUCHOT YOGMA B"
+    "partName": "CHUCHOT YOGMA B",
+    "lat": 34.0753403,
+    "lon": 77.6025178
   },
   {
     "partId": 864,
@@ -2945,7 +3479,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 268,
-    "partName": "CHUCHOT SHAMA"
+    "partName": "CHUCHOT SHAMA",
+    "lat": 34.0515255,
+    "lon": 77.6326655
   },
   {
     "partId": 865,
@@ -2956,7 +3492,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 269,
-    "partName": "ALCHI RONG"
+    "partName": "ALCHI RONG",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 866,
@@ -2967,7 +3505,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 270,
-    "partName": "CHUCHOT GONGMA"
+    "partName": "CHUCHOT GONGMA",
+    "lat": 34.039506,
+    "lon": 77.6519042
   },
   {
     "partId": 867,
@@ -2978,7 +3518,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 271,
-    "partName": "SHAJING"
+    "partName": "SHAJING",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 868,
@@ -2989,7 +3531,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 272,
-    "partName": "MATHO"
+    "partName": "MATHO",
+    "lat": 33.996802,
+    "lon": 77.6432128
   },
   {
     "partId": 869,
@@ -3000,7 +3544,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 273,
-    "partName": "FARKA YOKMA MATHO"
+    "partName": "FARKA YOKMA MATHO",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 870,
@@ -3011,7 +3557,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 274,
-    "partName": "STAKNA"
+    "partName": "STAKNA",
+    "lat": 34.0014386,
+    "lon": 77.6794412
   },
   {
     "partId": 871,
@@ -3022,7 +3570,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 275,
-    "partName": "MARTSELANG"
+    "partName": "MARTSELANG",
+    "lat": 33.9063597,
+    "lon": 77.7370484
   },
   {
     "partId": 872,
@@ -3033,7 +3583,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 276,
-    "partName": "CHANGA"
+    "partName": "CHANGA",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 873,
@@ -3044,7 +3596,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 277,
-    "partName": "CHOMOLING"
+    "partName": "CHOMOLING",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 874,
@@ -3055,7 +3609,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 278,
-    "partName": "SHANG"
+    "partName": "SHANG",
+    "lat": 33.8657642,
+    "lon": 77.659928
   },
   {
     "partId": 875,
@@ -3066,7 +3622,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 279,
-    "partName": "CHOKDO"
+    "partName": "CHOKDO",
+    "lat": 33.8304448,
+    "lon": 77.6690798
   },
   {
     "partId": 876,
@@ -3077,7 +3635,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 280,
-    "partName": "UPSHI"
+    "partName": "UPSHI",
+    "lat": 33.8301957,
+    "lon": 77.8136292
   },
   {
     "partId": 877,
@@ -3088,7 +3648,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 281,
-    "partName": "TUNA"
+    "partName": "TUNA",
+    "lat": 34.12988821058252,
+    "lon": 77.46622420043879
   },
   {
     "partId": 878,
@@ -3099,7 +3661,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 282,
-    "partName": "MERU"
+    "partName": "MERU",
+    "lat": 34.12988821058252,
+    "lon": 77.46622420043879
   },
   {
     "partId": 879,
@@ -3110,7 +3674,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 283,
-    "partName": "GYA"
+    "partName": "GYA",
+    "lat": 33.6530491,
+    "lon": 77.7351649
   },
   {
     "partId": 880,
@@ -3121,7 +3687,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 284,
-    "partName": "RUMTSE"
+    "partName": "RUMTSE",
+    "lat": 34.12988821058252,
+    "lon": 77.46622420043879
   },
   {
     "partId": 881,
@@ -3132,7 +3700,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 285,
-    "partName": "KHARNAK"
+    "partName": "KHARNAK",
+    "lat": 33.3842604,
+    "lon": 77.6442432
   },
   {
     "partId": 882,
@@ -3143,7 +3713,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 286,
-    "partName": "SAMAD ROKCHEN"
+    "partName": "SAMAD ROKCHEN",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 883,
@@ -3154,7 +3726,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 287,
-    "partName": "THUKJEY GOMPA"
+    "partName": "THUKJEY GOMPA",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 884,
@@ -3165,7 +3739,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 288,
-    "partName": "KORZOK"
+    "partName": "KORZOK",
+    "lat": 33.0449246,
+    "lon": 78.2363914
   },
   {
     "partId": 885,
@@ -3176,7 +3752,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 289,
-    "partName": "CHUMUR"
+    "partName": "CHUMUR",
+    "lat": 32.6693148,
+    "lon": 78.5954265
   },
   {
     "partId": 886,
@@ -3187,7 +3765,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 290,
-    "partName": "SUMDOO"
+    "partName": "SUMDOO",
+    "lat": 33.8542012,
+    "lon": 77.7073185
   },
   {
     "partId": 887,
@@ -3198,7 +3778,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 291,
-    "partName": "ANGKUNG"
+    "partName": "ANGKUNG",
+    "lat": 33.2332343,
+    "lon": 78.238349
   },
   {
     "partId": 888,
@@ -3209,7 +3791,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 292,
-    "partName": "TEGAZONG"
+    "partName": "TEGAZONG",
+    "lat": 34.12988821058252,
+    "lon": 77.46622420043879
   },
   {
     "partId": 889,
@@ -3220,7 +3804,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 293,
-    "partName": "PHIRSAY"
+    "partName": "PHIRSAY",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 890,
@@ -3231,7 +3817,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 294,
-    "partName": "RONGO"
+    "partName": "RONGO",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 891,
@@ -3242,7 +3830,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 295,
-    "partName": "ANLEY"
+    "partName": "ANLEY",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 892,
@@ -3253,7 +3843,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 296,
-    "partName": "BUKSHADO"
+    "partName": "BUKSHADO",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 893,
@@ -3264,7 +3856,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 297,
-    "partName": "ANLEY PUNGOK"
+    "partName": "ANLEY PUNGOK",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 894,
@@ -3275,7 +3869,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 298,
-    "partName": "ANLEY PHO"
+    "partName": "ANLEY PHO",
+    "lat": 34.12988821058252,
+    "lon": 77.46622420043879
   },
   {
     "partId": 895,
@@ -3286,7 +3882,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 299,
-    "partName": "KUYUL"
+    "partName": "KUYUL",
+    "lat": 32.8798789,
+    "lon": 79.1959427
   },
   {
     "partId": 896,
@@ -3297,7 +3895,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 300,
-    "partName": "DEMJOK"
+    "partName": "DEMJOK",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 897,
@@ -3308,7 +3908,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 301,
-    "partName": "MATAYEN"
+    "partName": "MATAYEN",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 898,
@@ -3319,7 +3921,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 302,
-    "partName": "PANDRASS"
+    "partName": "PANDRASS",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 899,
@@ -3330,7 +3934,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 303,
-    "partName": "MUSHKOO"
+    "partName": "MUSHKOO",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 900,
@@ -3341,7 +3947,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 304,
-    "partName": "HOLIYAL"
+    "partName": "HOLIYAL",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 901,
@@ -3352,7 +3960,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 305,
-    "partName": "MURADBAGH"
+    "partName": "MURADBAGH",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 902,
@@ -3363,7 +3973,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 306,
-    "partName": "TROUNGJEN"
+    "partName": "TROUNGJEN",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 903,
@@ -3374,7 +3986,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 307,
-    "partName": "BAIRAS"
+    "partName": "BAIRAS",
+    "lat": 34.12988821058252,
+    "lon": 77.46622420043879
   },
   {
     "partId": 904,
@@ -3385,7 +3999,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 308,
-    "partName": "AUL BIARAS"
+    "partName": "AUL BIARAS",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 905,
@@ -3396,7 +4012,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 309,
-    "partName": "RANBIRPORA"
+    "partName": "RANBIRPORA",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 906,
@@ -3407,7 +4025,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 310,
-    "partName": "FRAVO"
+    "partName": "FRAVO",
+    "lat": 34.12988821058252,
+    "lon": 77.46622420043879
   },
   {
     "partId": 907,
@@ -3418,7 +4038,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 311,
-    "partName": "GOSHAN"
+    "partName": "GOSHAN",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 908,
@@ -3429,7 +4051,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 312,
-    "partName": "LAMAR"
+    "partName": "LAMAR",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 909,
@@ -3440,7 +4064,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 313,
-    "partName": "YOULBOO"
+    "partName": "YOULBOO",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 910,
@@ -3451,7 +4077,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 314,
-    "partName": "LAMOCHAN"
+    "partName": "LAMOCHAN",
+    "lat": 34.12988821058252,
+    "lon": 77.46622420043879
   },
   {
     "partId": 911,
@@ -3462,7 +4090,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 315,
-    "partName": "GINDIYAL"
+    "partName": "GINDIYAL",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 912,
@@ -3473,7 +4103,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 316,
-    "partName": "BHIMBHAT"
+    "partName": "BHIMBHAT",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1176,
@@ -3484,7 +4116,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 317,
-    "partName": "Upper Bhimbat"
+    "partName": "Upper Bhimbat",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 913,
@@ -3495,7 +4129,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 318,
-    "partName": "THROUNGUS"
+    "partName": "THROUNGUS",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 914,
@@ -3506,7 +4142,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 319,
-    "partName": "CHOKIYAL"
+    "partName": "CHOKIYAL",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 915,
@@ -3517,7 +4155,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 320,
-    "partName": "DANDAL"
+    "partName": "DANDAL",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 916,
@@ -3528,7 +4168,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 321,
-    "partName": "JASGUND"
+    "partName": "JASGUND",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 917,
@@ -3539,7 +4181,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 322,
-    "partName": "SUMAT"
+    "partName": "SUMAT",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 918,
@@ -3550,7 +4194,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 323,
-    "partName": "THASGAM"
+    "partName": "THASGAM",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 919,
@@ -3561,7 +4207,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 324,
-    "partName": "SHIMSHA"
+    "partName": "SHIMSHA",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 920,
@@ -3572,7 +4220,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 325,
-    "partName": "KHIBER"
+    "partName": "KHIBER",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 921,
@@ -3583,7 +4233,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 326,
-    "partName": "KHARBOO"
+    "partName": "KHARBOO",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 922,
@@ -3594,7 +4246,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 327,
-    "partName": "KAKSAR"
+    "partName": "KAKSAR",
+    "lat": 33.4974851,
+    "lon": 78.4793177
   },
   {
     "partId": 923,
@@ -3605,7 +4259,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 328,
-    "partName": "KARKITCHOO"
+    "partName": "KARKITCHOO",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1177,
@@ -3616,7 +4272,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 329,
-    "partName": "Karkitchoo-A"
+    "partName": "Karkitchoo-A",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 924,
@@ -3627,7 +4285,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 330,
-    "partName": "LATOO"
+    "partName": "LATOO",
+    "lat": 33.5352855,
+    "lon": 77.490468
   },
   {
     "partId": 925,
@@ -3638,7 +4298,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 331,
-    "partName": "BADGAM"
+    "partName": "BADGAM",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 926,
@@ -3649,7 +4311,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 332,
-    "partName": "KHUNDA"
+    "partName": "KHUNDA",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 927,
@@ -3660,7 +4324,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 333,
-    "partName": "HARAL"
+    "partName": "HARAL",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 928,
@@ -3671,7 +4337,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 334,
-    "partName": "MAJADAS"
+    "partName": "MAJADAS",
+    "lat": 34.12988821058252,
+    "lon": 77.46622420043879
   },
   {
     "partId": 929,
@@ -3682,7 +4350,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 335,
-    "partName": "CHULISKAMBOO"
+    "partName": "CHULISKAMBOO",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 930,
@@ -3693,7 +4363,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 336,
-    "partName": "MUNTHANG"
+    "partName": "MUNTHANG",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 931,
@@ -3704,7 +4376,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 337,
-    "partName": "HARDASS"
+    "partName": "HARDASS",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 932,
@@ -3715,7 +4389,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 338,
-    "partName": "GOUND HARDASS"
+    "partName": "GOUND HARDASS",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 933,
@@ -3726,7 +4402,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 339,
-    "partName": "KHARUL"
+    "partName": "KHARUL",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 934,
@@ -3737,7 +4415,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 340,
-    "partName": "DASS"
+    "partName": "DASS",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 935,
@@ -3748,7 +4428,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 341,
-    "partName": "GOMA KARGIL M"
+    "partName": "GOMA KARGIL M",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 936,
@@ -3759,7 +4441,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 342,
-    "partName": "GOMA KARGIL W"
+    "partName": "GOMA KARGIL W",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 937,
@@ -3770,7 +4454,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 343,
-    "partName": "LANKORE"
+    "partName": "LANKORE",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 938,
@@ -3781,7 +4467,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 344,
-    "partName": "BALTI BAZAR"
+    "partName": "BALTI BAZAR",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 939,
@@ -3792,7 +4480,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 345,
-    "partName": "KARGIL W"
+    "partName": "KARGIL W",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 940,
@@ -3803,7 +4493,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 346,
-    "partName": "KARGIL M"
+    "partName": "KARGIL M",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 941,
@@ -3814,7 +4506,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 347,
-    "partName": "BAROO"
+    "partName": "BAROO",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 942,
@@ -3825,7 +4519,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 348,
-    "partName": "BAROO"
+    "partName": "BAROO",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 943,
@@ -3836,7 +4532,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 349,
-    "partName": "TITICHUMIK"
+    "partName": "TITICHUMIK",
+    "lat": 34.12988821058252,
+    "lon": 77.46622420043879
   },
   {
     "partId": 944,
@@ -3847,7 +4545,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 350,
-    "partName": "MINJEE GUND"
+    "partName": "MINJEE GUND",
+    "lat": 34.12988821058252,
+    "lon": 77.46622420043879
   },
   {
     "partId": 945,
@@ -3858,7 +4558,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 351,
-    "partName": "MINJI M"
+    "partName": "MINJI M",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 946,
@@ -3869,7 +4571,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 352,
-    "partName": "MINJI W"
+    "partName": "MINJI W",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 947,
@@ -3880,7 +4584,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 353,
-    "partName": "GOMA MINJEE"
+    "partName": "GOMA MINJEE",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 948,
@@ -3891,7 +4597,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 354,
-    "partName": "GRAMTHANG"
+    "partName": "GRAMTHANG",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 949,
@@ -3902,7 +4610,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 355,
-    "partName": "CHUTUK"
+    "partName": "CHUTUK",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 950,
@@ -3913,7 +4623,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 356,
-    "partName": "STIKCHAY"
+    "partName": "STIKCHAY",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 951,
@@ -3924,7 +4636,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 357,
-    "partName": "GONGKHA"
+    "partName": "GONGKHA",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 952,
@@ -3935,7 +4649,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 358,
-    "partName": "CHOSKORE"
+    "partName": "CHOSKORE",
+    "lat": 34.12988821058252,
+    "lon": 77.46622420043879
   },
   {
     "partId": 953,
@@ -3946,7 +4662,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 359,
-    "partName": "DOKS"
+    "partName": "DOKS",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 954,
@@ -3957,7 +4675,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 360,
-    "partName": "KASKARIK"
+    "partName": "KASKARIK",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 955,
@@ -3968,7 +4688,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 361,
-    "partName": "LOBAR"
+    "partName": "LOBAR",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 956,
@@ -3979,7 +4701,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 362,
-    "partName": "ARCHU"
+    "partName": "ARCHU",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 957,
@@ -3990,7 +4714,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 363,
-    "partName": "BATAMBIS"
+    "partName": "BATAMBIS",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 958,
@@ -4001,7 +4727,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 364,
-    "partName": "SAPI"
+    "partName": "SAPI",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 959,
@@ -4012,7 +4740,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 365,
-    "partName": "BALTIKHAR"
+    "partName": "BALTIKHAR",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 960,
@@ -4023,7 +4753,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 366,
-    "partName": "PASHKUM W"
+    "partName": "PASHKUM W",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 961,
@@ -4034,7 +4766,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 367,
-    "partName": "PASHKUM M"
+    "partName": "PASHKUM M",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 962,
@@ -4045,7 +4779,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 368,
-    "partName": "GROUNG PASHKUM"
+    "partName": "GROUNG PASHKUM",
+    "lat": 34.12988821058252,
+    "lon": 77.46622420043879
   },
   {
     "partId": 963,
@@ -4056,7 +4792,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 369,
-    "partName": "THARUMSA"
+    "partName": "THARUMSA",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 964,
@@ -4067,7 +4805,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 370,
-    "partName": "TUMAIL COLONY"
+    "partName": "TUMAIL COLONY",
+    "lat": 34.12988821058252,
+    "lon": 77.46622420043879
   },
   {
     "partId": 965,
@@ -4078,7 +4818,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 371,
-    "partName": "ZAMSTYANG"
+    "partName": "ZAMSTYANG",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 966,
@@ -4089,7 +4831,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 372,
-    "partName": "ANDO"
+    "partName": "ANDO",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 967,
@@ -4100,7 +4844,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 373,
-    "partName": "BAGH E KHOMAINI"
+    "partName": "BAGH E KHOMAINI",
+    "lat": 34.12988821058252,
+    "lon": 77.46622420043879
   },
   {
     "partId": 968,
@@ -4111,7 +4857,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 374,
-    "partName": "HUNDURMAN BROK"
+    "partName": "HUNDURMAN BROK",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 969,
@@ -4122,7 +4870,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 375,
-    "partName": "HUNDURMAN  MAL"
+    "partName": "HUNDURMAN  MAL",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 970,
@@ -4133,7 +4883,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 376,
-    "partName": "SHILIKCHAY"
+    "partName": "SHILIKCHAY",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 971,
@@ -4144,7 +4896,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 377,
-    "partName": "BIATHANG"
+    "partName": "BIATHANG",
+    "lat": 34.12988821058252,
+    "lon": 77.46622420043879
   },
   {
     "partId": 972,
@@ -4155,7 +4909,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 378,
-    "partName": "POYEN"
+    "partName": "POYEN",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 973,
@@ -4166,7 +4922,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 379,
-    "partName": "POYEN"
+    "partName": "POYEN",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 974,
@@ -4177,7 +4935,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 380,
-    "partName": "MANGBORE"
+    "partName": "MANGBORE",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 975,
@@ -4188,7 +4948,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 381,
-    "partName": "YOKMA"
+    "partName": "YOKMA",
+    "lat": 34.0753403,
+    "lon": 77.6025178
   },
   {
     "partId": 976,
@@ -4199,7 +4961,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 382,
-    "partName": "AKCHAMAL"
+    "partName": "AKCHAMAL",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1178,
@@ -4210,7 +4974,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 383,
-    "partName": "Farma Akchamal"
+    "partName": "Farma Akchamal",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 977,
@@ -4221,7 +4987,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 384,
-    "partName": "ROUNG AKCHAMAL"
+    "partName": "ROUNG AKCHAMAL",
+    "lat": 34.12988821058252,
+    "lon": 77.46622420043879
   },
   {
     "partId": 978,
@@ -4232,7 +5000,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 385,
-    "partName": "SHARBAT GOUND"
+    "partName": "SHARBAT GOUND",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 979,
@@ -4243,7 +5013,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 386,
-    "partName": "GYALSA"
+    "partName": "GYALSA",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 980,
@@ -4254,7 +5026,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 387,
-    "partName": "YOURBALTAK"
+    "partName": "YOURBALTAK",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 981,
@@ -4265,7 +5039,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 388,
-    "partName": "YOURBALTAK A"
+    "partName": "YOURBALTAK A",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 982,
@@ -4276,7 +5052,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 389,
-    "partName": "BIAMA"
+    "partName": "BIAMA",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 983,
@@ -4287,7 +5065,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 390,
-    "partName": "SHAGARAN"
+    "partName": "SHAGARAN",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 984,
@@ -4298,7 +5078,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 391,
-    "partName": "CHUTUMAIL"
+    "partName": "CHUTUMAIL",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 985,
@@ -4309,7 +5091,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 392,
-    "partName": "TUMAIL"
+    "partName": "TUMAIL",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 986,
@@ -4320,7 +5104,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 393,
-    "partName": "APATI"
+    "partName": "APATI",
+    "lat": 34.12988821058252,
+    "lon": 77.46622420043879
   },
   {
     "partId": 987,
@@ -4331,7 +5117,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 394,
-    "partName": "GARPONG"
+    "partName": "GARPONG",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 988,
@@ -4342,7 +5130,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 395,
-    "partName": "BARCHAY"
+    "partName": "BARCHAY",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 989,
@@ -4353,7 +5143,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 396,
-    "partName": "LALUNG"
+    "partName": "LALUNG",
+    "lat": 33.8224721,
+    "lon": 77.9124517
   },
   {
     "partId": 990,
@@ -4364,7 +5156,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 397,
-    "partName": "LAKHA"
+    "partName": "LAKHA",
+    "lat": 34.12988821058252,
+    "lon": 77.46622420043879
   },
   {
     "partId": 991,
@@ -4375,7 +5169,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 398,
-    "partName": "SILMOO"
+    "partName": "SILMOO",
+    "lat": 34.12988821058252,
+    "lon": 77.46622420043879
   },
   {
     "partId": 992,
@@ -4386,7 +5182,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 399,
-    "partName": "BATALIK"
+    "partName": "BATALIK",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 993,
@@ -4397,7 +5195,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 400,
-    "partName": "SANACHAY"
+    "partName": "SANACHAY",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 994,
@@ -4408,7 +5208,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 401,
-    "partName": "CHULICHAN"
+    "partName": "CHULICHAN",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 995,
@@ -4419,7 +5221,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 402,
-    "partName": "SHARCHAY"
+    "partName": "SHARCHAY",
+    "lat": 34.12988821058252,
+    "lon": 77.46622420043879
   },
   {
     "partId": 996,
@@ -4430,7 +5234,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 403,
-    "partName": "DARCHIKS"
+    "partName": "DARCHIKS",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 997,
@@ -4441,7 +5247,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 404,
-    "partName": "GURGURDOO"
+    "partName": "GURGURDOO",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 998,
@@ -4452,7 +5260,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 405,
-    "partName": "HORDASS"
+    "partName": "HORDASS",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 999,
@@ -4463,7 +5273,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 406,
-    "partName": "GARKONE"
+    "partName": "GARKONE",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1000,
@@ -4474,7 +5286,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 407,
-    "partName": "SANJAK"
+    "partName": "SANJAK",
+    "lat": 34.12988821058252,
+    "lon": 77.46622420043879
   },
   {
     "partId": 1001,
@@ -4485,7 +5299,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 408,
-    "partName": "TALMADO"
+    "partName": "TALMADO",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1002,
@@ -4496,7 +5312,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 409,
-    "partName": "SHAKARDOO"
+    "partName": "SHAKARDOO",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1003,
@@ -4507,7 +5325,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 410,
-    "partName": "SHAKAR"
+    "partName": "SHAKAR",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1004,
@@ -4518,7 +5338,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 411,
-    "partName": "CHHUMIKCHAN"
+    "partName": "CHHUMIKCHAN",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1005,
@@ -4529,7 +5351,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 412,
-    "partName": "AMZID"
+    "partName": "AMZID",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1006,
@@ -4540,7 +5364,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 413,
-    "partName": "YOGMA KHARBOO"
+    "partName": "YOGMA KHARBOO",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1007,
@@ -4551,7 +5377,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 414,
-    "partName": "SANDOO"
+    "partName": "SANDOO",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1008,
@@ -4562,7 +5390,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 415,
-    "partName": "LAMSOO"
+    "partName": "LAMSOO",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1009,
@@ -4573,7 +5403,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 416,
-    "partName": "CHARCHAN"
+    "partName": "CHARCHAN",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1010,
@@ -4584,7 +5416,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 417,
-    "partName": "NINGOS"
+    "partName": "NINGOS",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1011,
@@ -4595,7 +5429,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 418,
-    "partName": "HAGNIS"
+    "partName": "HAGNIS",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1012,
@@ -4606,7 +5442,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 419,
-    "partName": "CHORTANCHAN"
+    "partName": "CHORTANCHAN",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1013,
@@ -4617,7 +5455,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 420,
-    "partName": "CHIKTAN"
+    "partName": "CHIKTAN",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1014,
@@ -4628,7 +5468,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 421,
-    "partName": "ZGANG"
+    "partName": "ZGANG",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1015,
@@ -4639,7 +5481,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 422,
-    "partName": "KUKARCHAY"
+    "partName": "KUKARCHAY",
+    "lat": 34.12988821058252,
+    "lon": 77.46622420043879
   },
   {
     "partId": 1179,
@@ -4650,7 +5494,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 423,
-    "partName": "Khardoon"
+    "partName": "Khardoon",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1016,
@@ -4661,7 +5507,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 424,
-    "partName": "KUKSHOW"
+    "partName": "KUKSHOW",
+    "lat": 34.12988821058252,
+    "lon": 77.46622420043879
   },
   {
     "partId": 1017,
@@ -4672,7 +5520,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 425,
-    "partName": "DARGOO"
+    "partName": "DARGOO",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1018,
@@ -4683,7 +5533,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 426,
-    "partName": "PACHARI"
+    "partName": "PACHARI",
+    "lat": 34.12988821058252,
+    "lon": 77.46622420043879
   },
   {
     "partId": 1019,
@@ -4694,7 +5546,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 427,
-    "partName": "SAMRAH"
+    "partName": "SAMRAH",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1020,
@@ -4705,7 +5559,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 428,
-    "partName": "SARAH LUNGMA"
+    "partName": "SARAH LUNGMA",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1021,
@@ -4716,7 +5572,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 429,
-    "partName": "PARGUE"
+    "partName": "PARGUE",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1022,
@@ -4727,7 +5585,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 430,
-    "partName": "CHULICHAN"
+    "partName": "CHULICHAN",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1023,
@@ -4738,7 +5598,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 431,
-    "partName": "DACHEY"
+    "partName": "DACHEY",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1024,
@@ -4749,7 +5611,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 432,
-    "partName": "KHANGRAL"
+    "partName": "KHANGRAL",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1025,
@@ -4760,7 +5624,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 433,
-    "partName": "GOMORJUK"
+    "partName": "GOMORJUK",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1026,
@@ -4771,7 +5637,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 434,
-    "partName": "TSARAKS"
+    "partName": "TSARAKS",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1027,
@@ -4782,7 +5650,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 435,
-    "partName": "STAKCHAY"
+    "partName": "STAKCHAY",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1028,
@@ -4793,7 +5663,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 436,
-    "partName": "MUNDIK"
+    "partName": "MUNDIK",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1029,
@@ -4804,7 +5676,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 437,
-    "partName": "STAKCHAY BROQ"
+    "partName": "STAKCHAY BROQ",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1030,
@@ -4815,7 +5689,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 438,
-    "partName": "BODH KHARBOO"
+    "partName": "BODH KHARBOO",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1031,
@@ -4826,7 +5702,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 439,
-    "partName": "YOKMAL"
+    "partName": "YOKMAL",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1032,
@@ -4837,7 +5715,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 440,
-    "partName": "HANISKOTE"
+    "partName": "HANISKOTE",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1033,
@@ -4848,7 +5728,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 441,
-    "partName": "GONGMA BROK"
+    "partName": "GONGMA BROK",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1034,
@@ -4859,7 +5741,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 442,
-    "partName": "BROKLUNGMA"
+    "partName": "BROKLUNGMA",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1035,
@@ -4870,7 +5754,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 443,
-    "partName": "WAKHA WADO"
+    "partName": "WAKHA WADO",
+    "lat": 34.12988821058252,
+    "lon": 77.46622420043879
   },
   {
     "partId": 1036,
@@ -4881,7 +5767,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 444,
-    "partName": "RGYAL KHANG"
+    "partName": "RGYAL KHANG",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1037,
@@ -4892,7 +5780,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 445,
-    "partName": "RGYAL LUNGMA"
+    "partName": "RGYAL LUNGMA",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1038,
@@ -4903,7 +5793,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 446,
-    "partName": "MULBEKH"
+    "partName": "MULBEKH",
+    "lat": 34.12988821058252,
+    "lon": 77.46622420043879
   },
   {
     "partId": 1039,
@@ -4914,7 +5806,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 447,
-    "partName": "KURTAN"
+    "partName": "KURTAN",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1040,
@@ -4925,7 +5819,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 448,
-    "partName": "PACHIKHAR"
+    "partName": "PACHIKHAR",
+    "lat": 34.3719695,
+    "lon": 76.3874101
   },
   {
     "partId": 1041,
@@ -4936,7 +5832,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 449,
-    "partName": "CHATITHANG"
+    "partName": "CHATITHANG",
+    "lat": 34.3719695,
+    "lon": 76.3874101
   },
   {
     "partId": 1042,
@@ -4947,7 +5845,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 450,
-    "partName": "SHARGOLE"
+    "partName": "SHARGOLE",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1043,
@@ -4958,7 +5858,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 451,
-    "partName": "SERJING"
+    "partName": "SERJING",
+    "lat": 34.12988821058252,
+    "lon": 77.46622420043879
   },
   {
     "partId": 1044,
@@ -4969,7 +5871,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 452,
-    "partName": "KHACHAY"
+    "partName": "KHACHAY",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1045,
@@ -4980,7 +5884,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 453,
-    "partName": "KARAMBA"
+    "partName": "KARAMBA",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1046,
@@ -4991,7 +5897,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 454,
-    "partName": "PHOO"
+    "partName": "PHOO",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1047,
@@ -5002,7 +5910,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 455,
-    "partName": "TINGDOO"
+    "partName": "TINGDOO",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1048,
@@ -5013,7 +5923,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 456,
-    "partName": "PELONG"
+    "partName": "PELONG",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1049,
@@ -5024,7 +5936,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 457,
-    "partName": "NUNAMCHAY"
+    "partName": "NUNAMCHAY",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1050,
@@ -5035,7 +5949,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 458,
-    "partName": "DARKET"
+    "partName": "DARKET",
+    "lat": 34.12988821058252,
+    "lon": 77.46622420043879
   },
   {
     "partId": 1051,
@@ -5046,7 +5962,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 459,
-    "partName": "SKAMBOO"
+    "partName": "SKAMBOO",
+    "lat": 34.4595313,
+    "lon": 76.2438519
   },
   {
     "partId": 1180,
@@ -5057,7 +5975,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 460,
-    "partName": "Thang Skamboo"
+    "partName": "Thang Skamboo",
+    "lat": 34.12988821058252,
+    "lon": 77.46622420043879
   },
   {
     "partId": 1052,
@@ -5068,7 +5988,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 461,
-    "partName": "LOCHUM"
+    "partName": "LOCHUM",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1053,
@@ -5079,7 +6001,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 462,
-    "partName": "PASBUCHAY"
+    "partName": "PASBUCHAY",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1054,
@@ -5090,7 +6014,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 463,
-    "partName": "KUKSTAY"
+    "partName": "KUKSTAY",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1055,
@@ -5101,7 +6027,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 464,
-    "partName": "TACHA"
+    "partName": "TACHA",
+    "lat": 33.8743284,
+    "lon": 77.4524628
   },
   {
     "partId": 1056,
@@ -5112,7 +6040,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 465,
-    "partName": "KARITH"
+    "partName": "KARITH",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1057,
@@ -5123,7 +6053,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 466,
-    "partName": "TRESPONE W"
+    "partName": "TRESPONE W",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1058,
@@ -5134,7 +6066,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 467,
-    "partName": "TRESPONE M"
+    "partName": "TRESPONE M",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1059,
@@ -5145,7 +6079,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 468,
-    "partName": "TRESPONE MARPOTHANG W"
+    "partName": "TRESPONE MARPOTHANG W",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1060,
@@ -5156,7 +6092,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 469,
-    "partName": "TRESPONE MARPOTHANG M"
+    "partName": "TRESPONE MARPOTHANG M",
+    "lat": 34.12988821058252,
+    "lon": 77.46622420043879
   },
   {
     "partId": 1061,
@@ -5167,7 +6105,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 470,
-    "partName": "GUND MANGALPUR M"
+    "partName": "GUND MANGALPUR M",
+    "lat": 34.12988821058252,
+    "lon": 77.46622420043879
   },
   {
     "partId": 1181,
@@ -5178,7 +6118,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 471,
-    "partName": "Gund Mangalpur"
+    "partName": "Gund Mangalpur",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1062,
@@ -5189,7 +6131,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 472,
-    "partName": "GUND MANGALPUR W"
+    "partName": "GUND MANGALPUR W",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1182,
@@ -5200,7 +6144,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 473,
-    "partName": "Goma Horlam GM Pore"
+    "partName": "Goma Horlam GM Pore",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1183,
@@ -5211,7 +6157,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 474,
-    "partName": "Gaskal GM Pore"
+    "partName": "Gaskal GM Pore",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1063,
@@ -5222,7 +6170,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 475,
-    "partName": "SALISKOTE M"
+    "partName": "SALISKOTE M",
+    "lat": 34.12988821058252,
+    "lon": 77.46622420043879
   },
   {
     "partId": 1064,
@@ -5233,7 +6183,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 476,
-    "partName": "SALISKOTE W"
+    "partName": "SALISKOTE W",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1065,
@@ -5244,7 +6196,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 477,
-    "partName": "FAROONA"
+    "partName": "FAROONA",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1066,
@@ -5255,7 +6209,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 478,
-    "partName": "LANKARCHAY M"
+    "partName": "LANKARCHAY M",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1067,
@@ -5266,7 +6222,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 479,
-    "partName": "LANKARCHAY W"
+    "partName": "LANKARCHAY W",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1068,
@@ -5277,7 +6235,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 480,
-    "partName": "LANKARCHAY BROK"
+    "partName": "LANKARCHAY BROK",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1069,
@@ -5288,7 +6248,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 481,
-    "partName": "NAGMAKUSAR"
+    "partName": "NAGMAKUSAR",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1070,
@@ -5299,7 +6261,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 482,
-    "partName": "CHUMIKCHAN"
+    "partName": "CHUMIKCHAN",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1071,
@@ -5310,7 +6274,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 483,
-    "partName": "THANGDUMBUR"
+    "partName": "THANGDUMBUR",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1072,
@@ -5321,7 +6287,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 484,
-    "partName": "THANGDUMBUR"
+    "partName": "THANGDUMBUR",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1073,
@@ -5332,7 +6300,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 485,
-    "partName": "KHALAMARPO"
+    "partName": "KHALAMARPO",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1074,
@@ -5343,7 +6313,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 486,
-    "partName": "STAKPA"
+    "partName": "STAKPA",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1075,
@@ -5354,7 +6326,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 487,
-    "partName": "UMBA"
+    "partName": "UMBA",
+    "lat": 34.12988821058252,
+    "lon": 77.46622420043879
   },
   {
     "partId": 1076,
@@ -5365,7 +6339,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 488,
-    "partName": "MADH"
+    "partName": "MADH",
+    "lat": 34.12988821058252,
+    "lon": 77.46622420043879
   },
   {
     "partId": 1077,
@@ -5376,7 +6352,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 489,
-    "partName": "KARPOKHAR"
+    "partName": "KARPOKHAR",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1078,
@@ -5387,7 +6365,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 490,
-    "partName": "SANGRAH THANG"
+    "partName": "SANGRAH THANG",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1079,
@@ -5398,7 +6378,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 491,
-    "partName": "SANGRAH"
+    "partName": "SANGRAH",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1080,
@@ -5409,7 +6391,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 492,
-    "partName": "KARCHAYKHAR"
+    "partName": "KARCHAYKHAR",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1081,
@@ -5420,7 +6404,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 493,
-    "partName": "STANKUNG"
+    "partName": "STANKUNG",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1082,
@@ -5431,7 +6417,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 494,
-    "partName": "BARSOO"
+    "partName": "BARSOO",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1083,
@@ -5442,7 +6430,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 495,
-    "partName": "PURKICHAY"
+    "partName": "PURKICHAY",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1084,
@@ -5453,7 +6443,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 496,
-    "partName": "PATTOO"
+    "partName": "PATTOO",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1184,
@@ -5464,7 +6456,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 497,
-    "partName": "Yarchoqs"
+    "partName": "Yarchoqs",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1185,
@@ -5475,7 +6469,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 498,
-    "partName": "Taima Tabchay"
+    "partName": "Taima Tabchay",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1085,
@@ -5486,7 +6482,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 499,
-    "partName": "HAMBURTIK"
+    "partName": "HAMBURTIK",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1086,
@@ -5497,7 +6495,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 500,
-    "partName": "BARTOO"
+    "partName": "BARTOO",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1087,
@@ -5508,7 +6508,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 501,
-    "partName": "PANGBAR"
+    "partName": "PANGBAR",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1088,
@@ -5519,7 +6521,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 502,
-    "partName": "KHANDI"
+    "partName": "KHANDI",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1089,
@@ -5530,7 +6534,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 503,
-    "partName": "TAIKET"
+    "partName": "TAIKET",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1090,
@@ -5541,7 +6547,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 504,
-    "partName": "THELLA"
+    "partName": "THELLA",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1091,
@@ -5552,7 +6560,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 505,
-    "partName": "THELLA BROQ"
+    "partName": "THELLA BROQ",
+    "lat": 34.12988821058252,
+    "lon": 77.46622420043879
   },
   {
     "partId": 1092,
@@ -5563,7 +6573,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 506,
-    "partName": "SHISPURE"
+    "partName": "SHISPURE",
+    "lat": 34.12988821058252,
+    "lon": 77.46622420043879
   },
   {
     "partId": 1093,
@@ -5574,7 +6586,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 507,
-    "partName": "SHARGANDI"
+    "partName": "SHARGANDI",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1094,
@@ -5585,7 +6599,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 508,
-    "partName": "ICHU"
+    "partName": "ICHU",
+    "lat": 34.12988821058252,
+    "lon": 77.46622420043879
   },
   {
     "partId": 1095,
@@ -5596,7 +6612,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 509,
-    "partName": "THASGAM"
+    "partName": "THASGAM",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1096,
@@ -5607,7 +6625,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 510,
-    "partName": "HAMBREE"
+    "partName": "HAMBREE",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1097,
@@ -5618,7 +6638,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 511,
-    "partName": "BRAKOO"
+    "partName": "BRAKOO",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1098,
@@ -5629,7 +6651,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 512,
-    "partName": "THUVINA"
+    "partName": "THUVINA",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1099,
@@ -5640,7 +6664,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 513,
-    "partName": "TAMBIS M"
+    "partName": "TAMBIS M",
+    "lat": 34.12988821058252,
+    "lon": 77.46622420043879
   },
   {
     "partId": 1186,
@@ -5651,7 +6677,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 514,
-    "partName": "Chirgrong Tambis"
+    "partName": "Chirgrong Tambis",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1188,
@@ -5662,7 +6690,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 515,
-    "partName": "Gongma Tambis"
+    "partName": "Gongma Tambis",
+    "lat": 34.12988821058252,
+    "lon": 77.46622420043879
   },
   {
     "partId": 1100,
@@ -5673,7 +6703,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 516,
-    "partName": "TAMBIS W"
+    "partName": "TAMBIS W",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1187,
@@ -5684,7 +6716,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 517,
-    "partName": "Grong Tambis"
+    "partName": "Grong Tambis",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1189,
@@ -5695,7 +6729,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 518,
-    "partName": "Mir Groung"
+    "partName": "Mir Groung",
+    "lat": 34.12988821058252,
+    "lon": 77.46622420043879
   },
   {
     "partId": 1101,
@@ -5706,7 +6742,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 519,
-    "partName": "KANOOR"
+    "partName": "KANOOR",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1102,
@@ -5717,7 +6755,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 520,
-    "partName": "SARCHAY"
+    "partName": "SARCHAY",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1103,
@@ -5728,7 +6768,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 521,
-    "partName": "CHAYCHAYTHANG"
+    "partName": "CHAYCHAYTHANG",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1104,
@@ -5739,7 +6781,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 522,
-    "partName": "GAILING"
+    "partName": "GAILING",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1105,
@@ -5750,7 +6794,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 523,
-    "partName": "PURTIKCHAY THANGBOO"
+    "partName": "PURTIKCHAY THANGBOO",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1106,
@@ -5761,7 +6807,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 524,
-    "partName": "KARGEE"
+    "partName": "KARGEE",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1107,
@@ -5772,7 +6820,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 525,
-    "partName": "DAMSNA"
+    "partName": "DAMSNA",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1108,
@@ -5783,7 +6833,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 526,
-    "partName": "YULJUK"
+    "partName": "YULJUK",
+    "lat": 34.12988821058252,
+    "lon": 77.46622420043879
   },
   {
     "partId": 1109,
@@ -5794,7 +6846,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 527,
-    "partName": "MAITA"
+    "partName": "MAITA",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1110,
@@ -5805,7 +6859,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 528,
-    "partName": "TAISURU"
+    "partName": "TAISURU",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1111,
@@ -5816,7 +6872,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 529,
-    "partName": "PANIKHAR"
+    "partName": "PANIKHAR",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1112,
@@ -5827,7 +6885,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 530,
-    "partName": "PRINTEE"
+    "partName": "PRINTEE",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1113,
@@ -5838,7 +6898,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 531,
-    "partName": "CHOSKORE"
+    "partName": "CHOSKORE",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1114,
@@ -5849,7 +6911,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 532,
-    "partName": "TANGOLE"
+    "partName": "TANGOLE",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1115,
@@ -5860,7 +6924,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 533,
-    "partName": "ANALTIK"
+    "partName": "ANALTIK",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1116,
@@ -5871,7 +6937,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 534,
-    "partName": "PARKACHIK"
+    "partName": "PARKACHIK",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1117,
@@ -5882,7 +6950,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 535,
-    "partName": "GOMA PARKACHIK"
+    "partName": "GOMA PARKACHIK",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1118,
@@ -5893,7 +6963,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 536,
-    "partName": "RANGDUM JULDOO"
+    "partName": "RANGDUM JULDOO",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1119,
@@ -5904,7 +6976,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 537,
-    "partName": "TASHI STONGDAY"
+    "partName": "TASHI STONGDAY",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1120,
@@ -5915,7 +6989,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 538,
-    "partName": "ACHAMBUR"
+    "partName": "ACHAMBUR",
+    "lat": 34.12988821058252,
+    "lon": 77.46622420043879
   },
   {
     "partId": 1121,
@@ -5926,7 +7002,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 539,
-    "partName": "KOCHIK"
+    "partName": "KOCHIK",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1122,
@@ -5937,7 +7015,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 540,
-    "partName": "NAMSURU"
+    "partName": "NAMSURU",
+    "lat": 34.12988821058252,
+    "lon": 77.46622420043879
   },
   {
     "partId": 1123,
@@ -5948,7 +7028,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 541,
-    "partName": "GOMANAMSURU"
+    "partName": "GOMANAMSURU",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1124,
@@ -5959,7 +7041,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 542,
-    "partName": "PURSA"
+    "partName": "PURSA",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1125,
@@ -5970,7 +7054,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 543,
-    "partName": "THULUS"
+    "partName": "THULUS",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1126,
@@ -5981,7 +7067,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 544,
-    "partName": "KHAWOS"
+    "partName": "KHAWOS",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1127,
@@ -5992,7 +7080,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 545,
-    "partName": "AKSHOW"
+    "partName": "AKSHOW",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1128,
@@ -6003,7 +7093,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 546,
-    "partName": "ABRAN"
+    "partName": "ABRAN",
+    "lat": 34.12988821058252,
+    "lon": 77.46622420043879
   },
   {
     "partId": 1129,
@@ -6014,7 +7106,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 547,
-    "partName": "KUSHAL"
+    "partName": "KUSHAL",
+    "lat": 34.12988821058252,
+    "lon": 77.46622420043879
   },
   {
     "partId": 1130,
@@ -6025,7 +7119,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 548,
-    "partName": "HIMILING"
+    "partName": "HIMILING",
+    "lat": 34.12988821058252,
+    "lon": 77.46622420043879
   },
   {
     "partId": 1131,
@@ -6036,7 +7132,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 549,
-    "partName": "BARKARCHAY"
+    "partName": "BARKARCHAY",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1132,
@@ -6047,7 +7145,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 550,
-    "partName": "SKYAGAM"
+    "partName": "SKYAGAM",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1133,
@@ -6058,7 +7158,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 551,
-    "partName": "RAMELA"
+    "partName": "RAMELA",
+    "lat": 34.12988821058252,
+    "lon": 77.46622420043879
   },
   {
     "partId": 1134,
@@ -6069,7 +7171,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 552,
-    "partName": "PHAY"
+    "partName": "PHAY",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1135,
@@ -6080,7 +7184,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 553,
-    "partName": "RALAKUNG"
+    "partName": "RALAKUNG",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1136,
@@ -6091,7 +7197,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 554,
-    "partName": "PHEMA"
+    "partName": "PHEMA",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1137,
@@ -6102,7 +7210,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 555,
-    "partName": "ATING"
+    "partName": "ATING",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1138,
@@ -6113,7 +7223,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 556,
-    "partName": "TANKAR"
+    "partName": "TANKAR",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1190,
@@ -6124,7 +7236,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 557,
-    "partName": "Dyna"
+    "partName": "Dyna",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1139,
@@ -6135,7 +7249,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 558,
-    "partName": "SHAGAR"
+    "partName": "SHAGAR",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1140,
@@ -6146,7 +7262,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 559,
-    "partName": "RANTAKSHA"
+    "partName": "RANTAKSHA",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1141,
@@ -6157,7 +7275,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 560,
-    "partName": "TUNGRI"
+    "partName": "TUNGRI",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1142,
@@ -6168,7 +7288,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 561,
-    "partName": "SANI"
+    "partName": "SANI",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1143,
@@ -6179,7 +7301,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 562,
-    "partName": "LANGMI REJING"
+    "partName": "LANGMI REJING",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1144,
@@ -6190,7 +7314,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 563,
-    "partName": "TACHA KHASAR"
+    "partName": "TACHA KHASAR",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1145,
@@ -6201,7 +7327,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 564,
-    "partName": "KARSHA"
+    "partName": "KARSHA",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1146,
@@ -6212,7 +7340,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 565,
-    "partName": "YULANG"
+    "partName": "YULANG",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1147,
@@ -6223,7 +7353,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 566,
-    "partName": "RENAM"
+    "partName": "RENAM",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1148,
@@ -6234,7 +7366,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 567,
-    "partName": "SALAPI GYAPAK"
+    "partName": "SALAPI GYAPAK",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1149,
@@ -6245,7 +7379,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 568,
-    "partName": "RUKRUK"
+    "partName": "RUKRUK",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1150,
@@ -6256,7 +7392,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 569,
-    "partName": "UFTIPIPTING"
+    "partName": "UFTIPIPTING",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1151,
@@ -6267,7 +7405,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 570,
-    "partName": "PADUM"
+    "partName": "PADUM",
+    "lat": 34.160713,
+    "lon": 77.3383456
   },
   {
     "partId": 1191,
@@ -6278,7 +7418,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 571,
-    "partName": "Old Padum"
+    "partName": "Old Padum",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1152,
@@ -6289,7 +7431,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 572,
-    "partName": "OBEARK"
+    "partName": "OBEARK",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1153,
@@ -6300,7 +7444,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 573,
-    "partName": "SHELLA"
+    "partName": "SHELLA",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1154,
@@ -6311,7 +7457,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 574,
-    "partName": "STONGDAY"
+    "partName": "STONGDAY",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1155,
@@ -6322,7 +7470,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 575,
-    "partName": "KUMI"
+    "partName": "KUMI",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1156,
@@ -6333,7 +7483,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 576,
-    "partName": "CHAZAR"
+    "partName": "CHAZAR",
+    "lat": 34.12988821058252,
+    "lon": 77.46622420043879
   },
   {
     "partId": 1157,
@@ -6344,7 +7496,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 577,
-    "partName": "SHILINGSKIT"
+    "partName": "SHILINGSKIT",
+    "lat": 34.12988821058252,
+    "lon": 77.46622420043879
   },
   {
     "partId": 1158,
@@ -6355,7 +7509,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 578,
-    "partName": "ZANGLA"
+    "partName": "ZANGLA",
+    "lat": 33.7470199,
+    "lon": 77.1498263
   },
   {
     "partId": 1159,
@@ -6366,7 +7522,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 579,
-    "partName": "PISHU"
+    "partName": "PISHU",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1160,
@@ -6377,7 +7535,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 580,
-    "partName": "PITMOO"
+    "partName": "PITMOO",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1192,
@@ -6388,7 +7548,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 581,
-    "partName": "Hanamur"
+    "partName": "Hanamur",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1161,
@@ -6399,7 +7561,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 582,
-    "partName": "PIPCHA"
+    "partName": "PIPCHA",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1162,
@@ -6410,7 +7574,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 583,
-    "partName": "RARU"
+    "partName": "RARU",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1163,
@@ -6421,7 +7587,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 584,
-    "partName": "MUNEY"
+    "partName": "MUNEY",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1164,
@@ -6432,7 +7600,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 585,
-    "partName": "ICHAR"
+    "partName": "ICHAR",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1165,
@@ -6443,7 +7613,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 586,
-    "partName": "SURLAY"
+    "partName": "SURLAY",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1166,
@@ -6454,7 +7626,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 587,
-    "partName": "CHAH"
+    "partName": "CHAH",
+    "lat": 34.12988821058252,
+    "lon": 77.46622420043879
   },
   {
     "partId": 1167,
@@ -6465,7 +7639,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 588,
-    "partName": "YUGAR"
+    "partName": "YUGAR",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1168,
@@ -6476,7 +7652,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 589,
-    "partName": "TESTA"
+    "partName": "TESTA",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1169,
@@ -6487,7 +7665,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 590,
-    "partName": "MARLANG"
+    "partName": "MARLANG",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1170,
@@ -6498,7 +7678,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 591,
-    "partName": "TANGZAY"
+    "partName": "TANGZAY",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1171,
@@ -6509,7 +7691,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 592,
-    "partName": "KARGIAG"
+    "partName": "KARGIAG",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1172,
@@ -6520,7 +7704,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 593,
-    "partName": "SKING"
+    "partName": "SKING",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1173,
@@ -6531,7 +7717,9 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 594,
-    "partName": "SHUN"
+    "partName": "SHUN",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   },
   {
     "partId": 1174,
@@ -6542,6 +7730,8 @@
     "acNumber": 1,
     "acName": "Ladakh",
     "partNumber": 595,
-    "partName": "SHADAY"
+    "partName": "SHADAY",
+    "lat": 34.1879618,
+    "lon": 77.3954225
   }
 ]

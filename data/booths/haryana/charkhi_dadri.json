@@ -8,7 +8,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 1,
-    "partName": "LADAWAS"
+    "partName": "LADAWAS",
+    "lat": 28.5847287,
+    "lon": 75.9322337
   },
   {
     "partId": 39429,
@@ -19,7 +21,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 2,
-    "partName": "LADAWAS"
+    "partName": "LADAWAS",
+    "lat": 28.5847287,
+    "lon": 75.9322337
   },
   {
     "partId": 39430,
@@ -30,7 +34,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 3,
-    "partName": "DWARKA"
+    "partName": "DWARKA",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39431,
@@ -41,7 +47,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 4,
-    "partName": "DWARKA"
+    "partName": "DWARKA",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39432,
@@ -52,7 +60,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 5,
-    "partName": "JEETPURA"
+    "partName": "JEETPURA",
+    "lat": 28.6014214,
+    "lon": 75.9832651
   },
   {
     "partId": 39433,
@@ -63,7 +73,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 6,
-    "partName": "JEETPURA"
+    "partName": "JEETPURA",
+    "lat": 28.6014214,
+    "lon": 75.9832651
   },
   {
     "partId": 39434,
@@ -74,7 +86,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 7,
-    "partName": "UMARWAS"
+    "partName": "UMARWAS",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39435,
@@ -85,7 +99,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 8,
-    "partName": "UMARWAS"
+    "partName": "UMARWAS",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39436,
@@ -96,7 +112,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 9,
-    "partName": "KAKROLI SARDARA"
+    "partName": "KAKROLI SARDARA",
+    "lat": 28.5793301,
+    "lon": 75.9757068
   },
   {
     "partId": 39437,
@@ -107,7 +125,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 10,
-    "partName": "KAKROLI SARDARA"
+    "partName": "KAKROLI SARDARA",
+    "lat": 28.5793301,
+    "lon": 75.9757068
   },
   {
     "partId": 39438,
@@ -118,7 +138,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 11,
-    "partName": "REHRODHI"
+    "partName": "REHRODHI",
+    "lat": 28.5742118,
+    "lon": 76.0779285
   },
   {
     "partId": 39439,
@@ -129,7 +151,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 12,
-    "partName": "REHRODHI"
+    "partName": "REHRODHI",
+    "lat": 28.5742118,
+    "lon": 76.0779285
   },
   {
     "partId": 39440,
@@ -140,7 +164,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 13,
-    "partName": "REHRODHI"
+    "partName": "REHRODHI",
+    "lat": 28.5742118,
+    "lon": 76.0779285
   },
   {
     "partId": 39441,
@@ -151,7 +177,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 14,
-    "partName": "REHRODHA KALAN"
+    "partName": "REHRODHA KALAN",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39442,
@@ -162,7 +190,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 15,
-    "partName": "BINDRABAN"
+    "partName": "BINDRABAN",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39443,
@@ -173,7 +203,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 16,
-    "partName": "BILAWAL"
+    "partName": "BILAWAL",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39444,
@@ -184,7 +216,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 17,
-    "partName": "BILAWAL"
+    "partName": "BILAWAL",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39445,
@@ -195,7 +229,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 18,
-    "partName": "PICHOPA KALAN"
+    "partName": "PICHOPA KALAN",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39446,
@@ -206,7 +242,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 19,
-    "partName": "PICHOPA KALAN"
+    "partName": "PICHOPA KALAN",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39447,
@@ -217,7 +255,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 20,
-    "partName": "PICHOPA KALAN"
+    "partName": "PICHOPA KALAN",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39448,
@@ -228,7 +268,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 21,
-    "partName": "SHISWALA"
+    "partName": "SHISWALA",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39449,
@@ -239,7 +281,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 22,
-    "partName": "SHISWALA"
+    "partName": "SHISWALA",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39450,
@@ -250,7 +294,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 23,
-    "partName": "SHISWALA"
+    "partName": "SHISWALA",
+    "lat": 28.521218995726496,
+    "lon": 76.01085477474524
   },
   {
     "partId": 39451,
@@ -261,7 +307,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 24,
-    "partName": "MEHRA"
+    "partName": "MEHRA",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39452,
@@ -272,7 +320,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 25,
-    "partName": "MEHRA"
+    "partName": "MEHRA",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39453,
@@ -283,7 +333,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 26,
-    "partName": "KHERI BATTAR"
+    "partName": "KHERI BATTAR",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39454,
@@ -294,7 +346,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 27,
-    "partName": "KHERI BATTAR"
+    "partName": "KHERI BATTAR",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39455,
@@ -305,7 +359,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 28,
-    "partName": "KHERI BATTAR"
+    "partName": "KHERI BATTAR",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39456,
@@ -316,7 +372,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 29,
-    "partName": "KHERI BURA"
+    "partName": "KHERI BURA",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39457,
@@ -327,7 +385,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 30,
-    "partName": "KHERI BURA"
+    "partName": "KHERI BURA",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39458,
@@ -338,7 +398,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 31,
-    "partName": "KHERI BURA"
+    "partName": "KHERI BURA",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39459,
@@ -349,7 +411,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 32,
-    "partName": "KHERI BURA"
+    "partName": "KHERI BURA",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39460,
@@ -360,7 +424,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 33,
-    "partName": "KALIYANA"
+    "partName": "KALIYANA",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39461,
@@ -371,7 +437,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 34,
-    "partName": "KALIYANA"
+    "partName": "KALIYANA",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39462,
@@ -382,7 +450,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 35,
-    "partName": "KALIYANA"
+    "partName": "KALIYANA",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39463,
@@ -393,7 +463,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 36,
-    "partName": "KALIYANA"
+    "partName": "KALIYANA",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39464,
@@ -404,7 +476,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 37,
-    "partName": "MANDOLI"
+    "partName": "MANDOLI",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39465,
@@ -415,7 +489,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 38,
-    "partName": "MANDOLI"
+    "partName": "MANDOLI",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39466,
@@ -426,7 +502,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 39,
-    "partName": "GHASAOLA"
+    "partName": "GHASAOLA",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39467,
@@ -437,7 +515,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 40,
-    "partName": "GHASAOLA"
+    "partName": "GHASAOLA",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39468,
@@ -448,7 +528,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 41,
-    "partName": "GHASAOLA"
+    "partName": "GHASAOLA",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39469,
@@ -459,7 +541,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 42,
-    "partName": "GHASAOLA"
+    "partName": "GHASAOLA",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39470,
@@ -470,7 +554,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 43,
-    "partName": "TIKAN KALAN"
+    "partName": "TIKAN KALAN",
+    "lat": 28.5718192,
+    "lon": 76.3058188
   },
   {
     "partId": 39471,
@@ -481,7 +567,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 44,
-    "partName": "DHANI PHOGAT"
+    "partName": "DHANI PHOGAT",
+    "lat": 28.5769613,
+    "lon": 76.3094435
   },
   {
     "partId": 39472,
@@ -492,7 +580,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 45,
-    "partName": "DHANI PHOGAT"
+    "partName": "DHANI PHOGAT",
+    "lat": 28.5769613,
+    "lon": 76.3094435
   },
   {
     "partId": 39473,
@@ -503,7 +593,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 46,
-    "partName": "DHANI PHOGAT"
+    "partName": "DHANI PHOGAT",
+    "lat": 28.5769613,
+    "lon": 76.3094435
   },
   {
     "partId": 39474,
@@ -514,7 +606,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 47,
-    "partName": "DHANI PHOGAT"
+    "partName": "DHANI PHOGAT",
+    "lat": 28.5769613,
+    "lon": 76.3094435
   },
   {
     "partId": 39475,
@@ -525,7 +619,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 48,
-    "partName": "DHANI PHOGAT"
+    "partName": "DHANI PHOGAT",
+    "lat": 28.5769613,
+    "lon": 76.3094435
   },
   {
     "partId": 39476,
@@ -536,7 +632,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 49,
-    "partName": "Patuwas"
+    "partName": "Patuwas",
+    "lat": 28.5629423,
+    "lon": 76.3303553
   },
   {
     "partId": 39477,
@@ -547,7 +645,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 50,
-    "partName": "Patuwas"
+    "partName": "Patuwas",
+    "lat": 28.5629423,
+    "lon": 76.3303553
   },
   {
     "partId": 39478,
@@ -558,7 +658,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 51,
-    "partName": "KAPURI"
+    "partName": "KAPURI",
+    "lat": 28.5683405,
+    "lon": 76.2788801
   },
   {
     "partId": 39479,
@@ -569,7 +671,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 52,
-    "partName": "BALKARA"
+    "partName": "BALKARA",
+    "lat": 28.5296604,
+    "lon": 76.2607398
   },
   {
     "partId": 39480,
@@ -580,7 +684,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 53,
-    "partName": "BALKARA"
+    "partName": "BALKARA",
+    "lat": 28.5296604,
+    "lon": 76.2607398
   },
   {
     "partId": 39481,
@@ -591,7 +697,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 54,
-    "partName": "BALKARA"
+    "partName": "BALKARA",
+    "lat": 28.5296604,
+    "lon": 76.2607398
   },
   {
     "partId": 39482,
@@ -602,7 +710,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 55,
-    "partName": "MANDOLA"
+    "partName": "MANDOLA",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39483,
@@ -613,7 +723,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 56,
-    "partName": "MANDOLA"
+    "partName": "MANDOLA",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39484,
@@ -624,7 +736,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 57,
-    "partName": "MANDOLA"
+    "partName": "MANDOLA",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39485,
@@ -635,7 +749,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 58,
-    "partName": "KALALI"
+    "partName": "KALALI",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39486,
@@ -646,7 +762,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 59,
-    "partName": "JHOJHU KALAN"
+    "partName": "JHOJHU KALAN",
+    "lat": 28.522726,
+    "lon": 76.1500693
   },
   {
     "partId": 39487,
@@ -657,7 +775,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 60,
-    "partName": "JHOJHU KALAN"
+    "partName": "JHOJHU KALAN",
+    "lat": 28.522726,
+    "lon": 76.1500693
   },
   {
     "partId": 39488,
@@ -668,7 +788,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 61,
-    "partName": "JHOJHU KALAN"
+    "partName": "JHOJHU KALAN",
+    "lat": 28.522726,
+    "lon": 76.1500693
   },
   {
     "partId": 39489,
@@ -679,7 +801,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 62,
-    "partName": "JHOJHU KALAN"
+    "partName": "JHOJHU KALAN",
+    "lat": 28.522726,
+    "lon": 76.1500693
   },
   {
     "partId": 39490,
@@ -690,7 +814,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 63,
-    "partName": "JHOJHU KALAN"
+    "partName": "JHOJHU KALAN",
+    "lat": 28.522726,
+    "lon": 76.1500693
   },
   {
     "partId": 39491,
@@ -701,7 +827,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 64,
-    "partName": "JHOJHU KALAN"
+    "partName": "JHOJHU KALAN",
+    "lat": 28.522726,
+    "lon": 76.1500693
   },
   {
     "partId": 39492,
@@ -712,7 +840,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 65,
-    "partName": "JHOJHU KALAN"
+    "partName": "JHOJHU KALAN",
+    "lat": 28.522726,
+    "lon": 76.1500693
   },
   {
     "partId": 39493,
@@ -723,7 +853,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 66,
-    "partName": "JHOJHU KALAN"
+    "partName": "JHOJHU KALAN",
+    "lat": 28.522726,
+    "lon": 76.1500693
   },
   {
     "partId": 39494,
@@ -734,7 +866,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 67,
-    "partName": "JHOJHU KALAN"
+    "partName": "JHOJHU KALAN",
+    "lat": 28.522726,
+    "lon": 76.1500693
   },
   {
     "partId": 39495,
@@ -745,7 +879,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 68,
-    "partName": "BADAL"
+    "partName": "BADAL",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39496,
@@ -756,7 +892,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 69,
-    "partName": "ASAWARI"
+    "partName": "ASAWARI",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39497,
@@ -767,7 +905,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 70,
-    "partName": "BADAL"
+    "partName": "BADAL",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39498,
@@ -778,7 +918,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 71,
-    "partName": "GUDANA"
+    "partName": "GUDANA",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39499,
@@ -789,7 +931,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 72,
-    "partName": "GUDANA"
+    "partName": "GUDANA",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39500,
@@ -800,7 +944,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 73,
-    "partName": "KUBJA NAGAR"
+    "partName": "KUBJA NAGAR",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39501,
@@ -811,7 +957,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 74,
-    "partName": "TODI"
+    "partName": "TODI",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39502,
@@ -822,7 +970,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 75,
-    "partName": "Nihalgarh MAJRA TODI"
+    "partName": "Nihalgarh MAJRA TODI",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39503,
@@ -833,7 +983,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 76,
-    "partName": "PICHOPA KHURD"
+    "partName": "PICHOPA KHURD",
+    "lat": 28.5330676,
+    "lon": 76.0552299
   },
   {
     "partId": 39504,
@@ -844,7 +996,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 77,
-    "partName": "PICHOPA KHURD"
+    "partName": "PICHOPA KHURD",
+    "lat": 28.5330676,
+    "lon": 76.0552299
   },
   {
     "partId": 39505,
@@ -855,7 +1009,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 78,
-    "partName": "PICHOPA KHURD"
+    "partName": "PICHOPA KHURD",
+    "lat": 28.5330676,
+    "lon": 76.0552299
   },
   {
     "partId": 39506,
@@ -866,7 +1022,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 79,
-    "partName": "MANDHI HARIA"
+    "partName": "MANDHI HARIA",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39507,
@@ -877,7 +1035,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 80,
-    "partName": "MANDHI HARIA"
+    "partName": "MANDHI HARIA",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39508,
@@ -888,7 +1048,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 81,
-    "partName": "MANDHI KEHAR"
+    "partName": "MANDHI KEHAR",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39509,
@@ -899,7 +1061,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 82,
-    "partName": "MANDHI KEHAR"
+    "partName": "MANDHI KEHAR",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39510,
@@ -910,7 +1074,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 83,
-    "partName": "HUI"
+    "partName": "HUI",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39511,
@@ -921,7 +1087,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 84,
-    "partName": "JAGRAM BASS"
+    "partName": "JAGRAM BASS",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39512,
@@ -932,7 +1100,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 85,
-    "partName": "JAGRAM BASS"
+    "partName": "JAGRAM BASS",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39513,
@@ -943,7 +1113,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 86,
-    "partName": "KAKROLI HATTI"
+    "partName": "KAKROLI HATTI",
+    "lat": 28.5754448,
+    "lon": 75.9797681
   },
   {
     "partId": 39514,
@@ -954,7 +1126,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 87,
-    "partName": "KAKROLI HATTI"
+    "partName": "KAKROLI HATTI",
+    "lat": 28.5754448,
+    "lon": 75.9797681
   },
   {
     "partId": 39515,
@@ -965,7 +1139,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 88,
-    "partName": "KAKROLI HATTI"
+    "partName": "KAKROLI HATTI",
+    "lat": 28.5754448,
+    "lon": 75.9797681
   },
   {
     "partId": 39516,
@@ -976,7 +1152,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 89,
-    "partName": "KAKROLI HUKMI"
+    "partName": "KAKROLI HUKMI",
+    "lat": 28.5687759,
+    "lon": 75.957517
   },
   {
     "partId": 39517,
@@ -987,7 +1165,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 90,
-    "partName": "KAKROLI HUKMI"
+    "partName": "KAKROLI HUKMI",
+    "lat": 28.5687759,
+    "lon": 75.957517
   },
   {
     "partId": 39518,
@@ -998,7 +1178,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 91,
-    "partName": "KAKROLI HUKMI"
+    "partName": "KAKROLI HUKMI",
+    "lat": 28.5687759,
+    "lon": 75.957517
   },
   {
     "partId": 39519,
@@ -1009,7 +1191,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 92,
-    "partName": "KAKROLI HUKMI"
+    "partName": "KAKROLI HUKMI",
+    "lat": 28.600099649999997,
+    "lon": 76.11237065380323
   },
   {
     "partId": 39520,
@@ -1020,7 +1204,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 93,
-    "partName": "SHAYAM KALYAN"
+    "partName": "SHAYAM KALYAN",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39521,
@@ -1031,7 +1217,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 94,
-    "partName": "SHAYAM KALYAN"
+    "partName": "SHAYAM KALYAN",
+    "lat": 28.521218995726496,
+    "lon": 76.01085477474524
   },
   {
     "partId": 39522,
@@ -1042,7 +1230,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 95,
-    "partName": "KARI TOKHA"
+    "partName": "KARI TOKHA",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39523,
@@ -1053,7 +1243,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 96,
-    "partName": "DANDMA"
+    "partName": "DANDMA",
+    "lat": 28.5736116,
+    "lon": 75.8985523
   },
   {
     "partId": 39524,
@@ -1064,7 +1256,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 97,
-    "partName": "DANDMA"
+    "partName": "DANDMA",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39525,
@@ -1075,7 +1269,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 98,
-    "partName": "DANDMA"
+    "partName": "DANDMA",
+    "lat": 28.5736116,
+    "lon": 75.8985523
   },
   {
     "partId": 39526,
@@ -1086,7 +1282,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 99,
-    "partName": "KARI ADU"
+    "partName": "KARI ADU",
+    "lat": 28.521218995726496,
+    "lon": 76.01085477474524
   },
   {
     "partId": 39527,
@@ -1097,7 +1295,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 100,
-    "partName": "SIRSALI MAJRA BHOPALI"
+    "partName": "SIRSALI MAJRA BHOPALI",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39528,
@@ -1108,7 +1308,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 101,
-    "partName": "KARI ROOPA"
+    "partName": "KARI ROOPA",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39529,
@@ -1119,7 +1321,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 102,
-    "partName": "KARI DASS"
+    "partName": "KARI DASS",
+    "lat": 28.5338837,
+    "lon": 75.9212012
   },
   {
     "partId": 39530,
@@ -1130,7 +1334,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 103,
-    "partName": "KARI MOD"
+    "partName": "KARI MOD",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39531,
@@ -1141,7 +1347,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 104,
-    "partName": "KARI MOD"
+    "partName": "KARI MOD",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39532,
@@ -1152,7 +1360,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 105,
-    "partName": "GOPI"
+    "partName": "GOPI",
+    "lat": 28.5502244,
+    "lon": 75.9535666
   },
   {
     "partId": 39533,
@@ -1163,7 +1373,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 106,
-    "partName": "GOPI"
+    "partName": "GOPI",
+    "lat": 28.5502244,
+    "lon": 75.9535666
   },
   {
     "partId": 39534,
@@ -1174,7 +1386,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 107,
-    "partName": "DALAWAS"
+    "partName": "DALAWAS",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39535,
@@ -1185,7 +1399,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 108,
-    "partName": "PANCHGAON"
+    "partName": "PANCHGAON",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39536,
@@ -1196,7 +1412,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 109,
-    "partName": "BADHRA"
+    "partName": "BADHRA",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39537,
@@ -1207,7 +1425,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 110,
-    "partName": "BADHRA"
+    "partName": "BADHRA",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39538,
@@ -1218,7 +1438,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 111,
-    "partName": "BADHRA"
+    "partName": "BADHRA",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39539,
@@ -1229,7 +1451,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 112,
-    "partName": "BADHRA"
+    "partName": "BADHRA",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39540,
@@ -1240,7 +1464,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 113,
-    "partName": "BADHRA"
+    "partName": "BADHRA",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39541,
@@ -1251,7 +1477,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 114,
-    "partName": "JEWLI"
+    "partName": "JEWLI",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39542,
@@ -1262,7 +1490,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 115,
-    "partName": "JEWLI"
+    "partName": "JEWLI",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39543,
@@ -1273,7 +1503,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 116,
-    "partName": "JEWLI"
+    "partName": "JEWLI",
+    "lat": 28.521218995726496,
+    "lon": 76.01085477474524
   },
   {
     "partId": 39544,
@@ -1284,7 +1516,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 117,
-    "partName": "MANDHI PIRANU"
+    "partName": "MANDHI PIRANU",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39545,
@@ -1295,7 +1529,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 118,
-    "partName": "BERLA"
+    "partName": "BERLA",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39546,
@@ -1306,7 +1542,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 119,
-    "partName": "BERLA"
+    "partName": "BERLA",
+    "lat": 28.600099649999997,
+    "lon": 76.11237065380323
   },
   {
     "partId": 39547,
@@ -1317,7 +1555,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 120,
-    "partName": "BERLA"
+    "partName": "BERLA",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39548,
@@ -1328,7 +1568,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 121,
-    "partName": "BERLA"
+    "partName": "BERLA",
+    "lat": 28.521218995726496,
+    "lon": 76.01085477474524
   },
   {
     "partId": 39549,
@@ -1339,7 +1581,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 122,
-    "partName": "BERLA"
+    "partName": "BERLA",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39550,
@@ -1350,7 +1594,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 123,
-    "partName": "BERLA"
+    "partName": "BERLA",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39551,
@@ -1361,7 +1607,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 124,
-    "partName": "RAMBASS"
+    "partName": "RAMBASS",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39552,
@@ -1372,7 +1620,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 125,
-    "partName": "RAMBASS"
+    "partName": "RAMBASS",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39553,
@@ -1383,7 +1633,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 126,
-    "partName": "JHOJU KHURD"
+    "partName": "JHOJU KHURD",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39554,
@@ -1394,7 +1646,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 127,
-    "partName": "JHOJU KHURD"
+    "partName": "JHOJU KHURD",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39555,
@@ -1405,7 +1659,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 128,
-    "partName": "BALALI"
+    "partName": "BALALI",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39556,
@@ -1416,7 +1672,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 129,
-    "partName": "BALALI"
+    "partName": "BALALI",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39557,
@@ -1427,7 +1685,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 130,
-    "partName": "AABI PURA"
+    "partName": "AABI PURA",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39558,
@@ -1438,7 +1698,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 131,
-    "partName": "DADHI BANA"
+    "partName": "DADHI BANA",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39559,
@@ -1449,7 +1711,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 132,
-    "partName": "DADHI BANA"
+    "partName": "DADHI BANA",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39560,
@@ -1460,7 +1724,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 133,
-    "partName": "DADHI CHHILLAR"
+    "partName": "DADHI CHHILLAR",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39561,
@@ -1471,7 +1737,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 134,
-    "partName": "MAKRANI"
+    "partName": "MAKRANI",
+    "lat": 28.600099649999997,
+    "lon": 76.11237065380323
   },
   {
     "partId": 39562,
@@ -1482,7 +1750,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 135,
-    "partName": "MAKRANI"
+    "partName": "MAKRANI",
+    "lat": 28.600099649999997,
+    "lon": 76.11237065380323
   },
   {
     "partId": 39563,
@@ -1493,7 +1763,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 136,
-    "partName": "MORI"
+    "partName": "MORI",
+    "lat": 28.5352945,
+    "lon": 76.2768419
   },
   {
     "partId": 39564,
@@ -1504,7 +1776,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 137,
-    "partName": "MORI"
+    "partName": "MORI",
+    "lat": 28.5352945,
+    "lon": 76.2768419
   },
   {
     "partId": 39565,
@@ -1515,7 +1789,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 138,
-    "partName": "MORI"
+    "partName": "MORI",
+    "lat": 28.5352945,
+    "lon": 76.2768419
   },
   {
     "partId": 39566,
@@ -1526,7 +1802,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 139,
-    "partName": "KHERI SANWAL"
+    "partName": "KHERI SANWAL",
+    "lat": 28.5546974,
+    "lon": 76.3138815
   },
   {
     "partId": 39567,
@@ -1537,7 +1815,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 140,
-    "partName": "KHERI SANWAL"
+    "partName": "KHERI SANWAL",
+    "lat": 28.5546974,
+    "lon": 76.3138815
   },
   {
     "partId": 39568,
@@ -1548,7 +1828,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 141,
-    "partName": "MEHRANA"
+    "partName": "MEHRANA",
+    "lat": 28.5559015,
+    "lon": 76.3225018
   },
   {
     "partId": 39569,
@@ -1559,7 +1841,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 142,
-    "partName": "MEHRANA"
+    "partName": "MEHRANA",
+    "lat": 28.5559015,
+    "lon": 76.3225018
   },
   {
     "partId": 39570,
@@ -1570,7 +1854,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 143,
-    "partName": "GOTHRA"
+    "partName": "GOTHRA",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39571,
@@ -1581,7 +1867,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 144,
-    "partName": "GOTHRA"
+    "partName": "GOTHRA",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39572,
@@ -1592,7 +1880,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 145,
-    "partName": "SANTOKHPURA"
+    "partName": "SANTOKHPURA",
+    "lat": 28.5109404,
+    "lon": 76.3017389
   },
   {
     "partId": 39573,
@@ -1603,7 +1893,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 146,
-    "partName": "MAKRANA"
+    "partName": "MAKRANA",
+    "lat": 28.4947235,
+    "lon": 76.2688246
   },
   {
     "partId": 39574,
@@ -1614,7 +1906,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 147,
-    "partName": "MAKRANA"
+    "partName": "MAKRANA",
+    "lat": 28.4947235,
+    "lon": 76.2688246
   },
   {
     "partId": 39575,
@@ -1625,7 +1919,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 148,
-    "partName": "MAKRANA"
+    "partName": "MAKRANA",
+    "lat": 28.4947235,
+    "lon": 76.2688246
   },
   {
     "partId": 39576,
@@ -1636,7 +1932,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 149,
-    "partName": "DUDHWA"
+    "partName": "DUDHWA",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39577,
@@ -1647,7 +1945,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 150,
-    "partName": "DUDHWA"
+    "partName": "DUDHWA",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39578,
@@ -1658,7 +1958,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 151,
-    "partName": "DUDHWA"
+    "partName": "DUDHWA",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39579,
@@ -1669,7 +1971,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 152,
-    "partName": "CHANG ROAD"
+    "partName": "CHANG ROAD",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39580,
@@ -1680,7 +1984,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 153,
-    "partName": "CHANG ROAD"
+    "partName": "CHANG ROAD",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39581,
@@ -1691,7 +1997,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 154,
-    "partName": "CHANG ROAD"
+    "partName": "CHANG ROAD",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39582,
@@ -1702,7 +2010,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 155,
-    "partName": "CHANG ROAD"
+    "partName": "CHANG ROAD",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39583,
@@ -1713,7 +2023,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 156,
-    "partName": "JAWA"
+    "partName": "JAWA",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39584,
@@ -1724,7 +2036,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 157,
-    "partName": "JAWA"
+    "partName": "JAWA",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39585,
@@ -1735,7 +2049,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 158,
-    "partName": "JAWA"
+    "partName": "JAWA",
+    "lat": 28.600099649999997,
+    "lon": 76.11237065380323
   },
   {
     "partId": 39586,
@@ -1746,7 +2062,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 159,
-    "partName": "JAWA"
+    "partName": "JAWA",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39587,
@@ -1757,7 +2075,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 160,
-    "partName": "CHANDENI"
+    "partName": "CHANDENI",
+    "lat": 28.475002,
+    "lon": 76.1253681
   },
   {
     "partId": 39588,
@@ -1768,7 +2088,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 161,
-    "partName": "CHANDENI"
+    "partName": "CHANDENI",
+    "lat": 28.475002,
+    "lon": 76.1253681
   },
   {
     "partId": 39589,
@@ -1779,7 +2101,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 162,
-    "partName": "RAMALWAS"
+    "partName": "RAMALWAS",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39590,
@@ -1790,7 +2114,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 163,
-    "partName": "RAMALWAS"
+    "partName": "RAMALWAS",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39591,
@@ -1801,7 +2127,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 164,
-    "partName": "GOKAL"
+    "partName": "GOKAL",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39592,
@@ -1812,7 +2140,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 165,
-    "partName": "RUDROL"
+    "partName": "RUDROL",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39593,
@@ -1823,7 +2153,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 166,
-    "partName": "RUDROL"
+    "partName": "RUDROL",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39594,
@@ -1834,7 +2166,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 167,
-    "partName": "KANHRA"
+    "partName": "KANHRA",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39595,
@@ -1845,7 +2179,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 168,
-    "partName": "KANHRA"
+    "partName": "KANHRA",
+    "lat": 28.600099649999997,
+    "lon": 76.11237065380323
   },
   {
     "partId": 39596,
@@ -1856,7 +2192,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 169,
-    "partName": "KISKANDHA"
+    "partName": "KISKANDHA",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39597,
@@ -1867,7 +2205,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 170,
-    "partName": "NIMAR"
+    "partName": "NIMAR",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39598,
@@ -1878,7 +2218,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 171,
-    "partName": "NIMAR"
+    "partName": "NIMAR",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39599,
@@ -1889,7 +2231,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 172,
-    "partName": "CHANDWAS"
+    "partName": "CHANDWAS",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39600,
@@ -1900,7 +2244,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 173,
-    "partName": "CHANDWAS"
+    "partName": "CHANDWAS",
+    "lat": 28.600099649999997,
+    "lon": 76.11237065380323
   },
   {
     "partId": 39601,
@@ -1911,7 +2257,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 174,
-    "partName": "HANSAWAS KHURD"
+    "partName": "HANSAWAS KHURD",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39602,
@@ -1922,7 +2270,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 175,
-    "partName": "HANSAWAS KHURD"
+    "partName": "HANSAWAS KHURD",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39603,
@@ -1933,7 +2283,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 176,
-    "partName": "BHANDWA"
+    "partName": "BHANDWA",
+    "lat": 28.510032,
+    "lon": 75.9056474
   },
   {
     "partId": 39604,
@@ -1944,7 +2296,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 177,
-    "partName": "BHANDWA"
+    "partName": "BHANDWA",
+    "lat": 28.510032,
+    "lon": 75.9056474
   },
   {
     "partId": 39605,
@@ -1955,7 +2309,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 178,
-    "partName": "BHANDWA"
+    "partName": "BHANDWA",
+    "lat": 28.510032,
+    "lon": 75.9056474
   },
   {
     "partId": 39606,
@@ -1966,7 +2322,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 179,
-    "partName": "BHANDWA"
+    "partName": "BHANDWA",
+    "lat": 28.510032,
+    "lon": 75.9056474
   },
   {
     "partId": 39607,
@@ -1977,7 +2335,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 180,
-    "partName": "KARI DHARNI"
+    "partName": "KARI DHARNI",
+    "lat": 28.5266402,
+    "lon": 75.8820167
   },
   {
     "partId": 39608,
@@ -1988,7 +2348,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 181,
-    "partName": "KHORDA"
+    "partName": "KHORDA",
+    "lat": 28.5194407,
+    "lon": 75.8426337
   },
   {
     "partId": 39609,
@@ -1999,7 +2361,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 182,
-    "partName": "KHORDA"
+    "partName": "KHORDA",
+    "lat": 28.5194407,
+    "lon": 75.8426337
   },
   {
     "partId": 39610,
@@ -2010,7 +2374,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 183,
-    "partName": "GOVINDPURA"
+    "partName": "GOVINDPURA",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39611,
@@ -2021,7 +2387,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 184,
-    "partName": "ARYA NAGAR MAJRA GOBINDPURA"
+    "partName": "ARYA NAGAR MAJRA GOBINDPURA",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39612,
@@ -2032,7 +2400,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 185,
-    "partName": "LAAD"
+    "partName": "LAAD",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39613,
@@ -2043,7 +2413,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 186,
-    "partName": "LAAD"
+    "partName": "LAAD",
+    "lat": 28.600099649999997,
+    "lon": 76.11237065380323
   },
   {
     "partId": 39614,
@@ -2054,7 +2426,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 187,
-    "partName": "Surajgarh"
+    "partName": "Surajgarh",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39615,
@@ -2065,7 +2439,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 188,
-    "partName": "LAAD"
+    "partName": "LAAD",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39616,
@@ -2076,7 +2452,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 189,
-    "partName": "HANSAWAS KALAN"
+    "partName": "HANSAWAS KALAN",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39617,
@@ -2087,7 +2465,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 190,
-    "partName": "HANSAWAS KALAN"
+    "partName": "HANSAWAS KALAN",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39618,
@@ -2098,7 +2478,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 191,
-    "partName": "NANDHA"
+    "partName": "NANDHA",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39619,
@@ -2109,7 +2491,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 192,
-    "partName": "NANDHA"
+    "partName": "NANDHA",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39620,
@@ -2120,7 +2504,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 193,
-    "partName": "NANDHA"
+    "partName": "NANDHA",
+    "lat": 28.600099649999997,
+    "lon": 76.11237065380323
   },
   {
     "partId": 39621,
@@ -2131,7 +2517,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 194,
-    "partName": "DHANASARI"
+    "partName": "DHANASARI",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39622,
@@ -2142,7 +2530,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 195,
-    "partName": "DHANASARI"
+    "partName": "DHANASARI",
+    "lat": 28.600099649999997,
+    "lon": 76.11237065380323
   },
   {
     "partId": 39623,
@@ -2153,7 +2543,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 196,
-    "partName": "DHANASARI"
+    "partName": "DHANASARI",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39624,
@@ -2164,7 +2556,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 197,
-    "partName": "KADMA"
+    "partName": "KADMA",
+    "lat": 28.4520553,
+    "lon": 76.0181788
   },
   {
     "partId": 39625,
@@ -2175,7 +2569,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 198,
-    "partName": "KADMA"
+    "partName": "KADMA",
+    "lat": 28.4520553,
+    "lon": 76.0181788
   },
   {
     "partId": 39626,
@@ -2186,7 +2582,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 199,
-    "partName": "KADMA"
+    "partName": "KADMA",
+    "lat": 28.4520553,
+    "lon": 76.0181788
   },
   {
     "partId": 39627,
@@ -2197,7 +2595,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 200,
-    "partName": "KADMA"
+    "partName": "KADMA",
+    "lat": 28.4520553,
+    "lon": 76.0181788
   },
   {
     "partId": 39628,
@@ -2208,7 +2608,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 201,
-    "partName": "KADMA"
+    "partName": "KADMA",
+    "lat": 28.4520553,
+    "lon": 76.0181788
   },
   {
     "partId": 39629,
@@ -2219,7 +2621,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 202,
-    "partName": "KADMA"
+    "partName": "KADMA",
+    "lat": 28.4520553,
+    "lon": 76.0181788
   },
   {
     "partId": 39630,
@@ -2230,7 +2634,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 203,
-    "partName": "DAGROLI"
+    "partName": "DAGROLI",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39631,
@@ -2241,7 +2647,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 204,
-    "partName": "DAGROLI"
+    "partName": "DAGROLI",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39632,
@@ -2252,7 +2660,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 205,
-    "partName": "DAGROLI"
+    "partName": "DAGROLI",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39633,
@@ -2263,7 +2673,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 206,
-    "partName": "MAI KALAN"
+    "partName": "MAI KALAN",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39634,
@@ -2274,7 +2686,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 207,
-    "partName": "MAI KALAN"
+    "partName": "MAI KALAN",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39635,
@@ -2285,7 +2699,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 208,
-    "partName": "MAI KHURD"
+    "partName": "MAI KHURD",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39636,
@@ -2296,7 +2712,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 209,
-    "partName": "BEEJNA"
+    "partName": "BEEJNA",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39637,
@@ -2307,7 +2725,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 210,
-    "partName": "BEEJNA"
+    "partName": "BEEJNA",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39638,
@@ -2318,7 +2738,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 211,
-    "partName": "BADHWANA"
+    "partName": "BADHWANA",
+    "lat": 28.6159352,
+    "lon": 76.3955107
   },
   {
     "partId": 39639,
@@ -2329,7 +2751,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 212,
-    "partName": "BADHWANA"
+    "partName": "BADHWANA",
+    "lat": 28.6159352,
+    "lon": 76.3955107
   },
   {
     "partId": 39640,
@@ -2340,7 +2764,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 213,
-    "partName": "DATAULI"
+    "partName": "DATAULI",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39641,
@@ -2351,7 +2777,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 214,
-    "partName": "DATAULI"
+    "partName": "DATAULI",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39642,
@@ -2362,7 +2790,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 215,
-    "partName": "CHIRIYA"
+    "partName": "CHIRIYA",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39643,
@@ -2373,7 +2803,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 216,
-    "partName": "CHIRIYA"
+    "partName": "CHIRIYA",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39644,
@@ -2384,7 +2816,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 217,
-    "partName": "CHIRIYA"
+    "partName": "CHIRIYA",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39645,
@@ -2395,7 +2829,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 218,
-    "partName": "CHIRIYA"
+    "partName": "CHIRIYA",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39646,
@@ -2406,7 +2842,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 219,
-    "partName": "CHIRIYA"
+    "partName": "CHIRIYA",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39647,
@@ -2417,7 +2855,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 220,
-    "partName": "CHIRIYA"
+    "partName": "CHIRIYA",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39648,
@@ -2428,7 +2868,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 221,
-    "partName": "NOSWA"
+    "partName": "NOSWA",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39649,
@@ -2439,7 +2881,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 222,
-    "partName": "BALROD"
+    "partName": "BALROD",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39650,
@@ -2450,7 +2894,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 223,
-    "partName": "PALRI"
+    "partName": "PALRI",
+    "lat": 28.600099649999997,
+    "lon": 76.11237065380323
   },
   {
     "partId": 39651,
@@ -2461,7 +2907,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 224,
-    "partName": "PALRI"
+    "partName": "PALRI",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39652,
@@ -2472,7 +2920,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 225,
-    "partName": "PALRI"
+    "partName": "PALRI",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39653,
@@ -2483,7 +2933,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 226,
-    "partName": "PALRI"
+    "partName": "PALRI",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39654,
@@ -2494,7 +2946,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 227,
-    "partName": "UNN NEAR BADHWANA"
+    "partName": "UNN NEAR BADHWANA",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39655,
@@ -2505,7 +2959,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 228,
-    "partName": "UNN NEAR BADHWANA"
+    "partName": "UNN NEAR BADHWANA",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39656,
@@ -2516,7 +2972,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 229,
-    "partName": "BADRAI"
+    "partName": "BADRAI",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39657,
@@ -2527,7 +2985,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 230,
-    "partName": "BADRAI"
+    "partName": "BADRAI",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39658,
@@ -2538,7 +2998,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 231,
-    "partName": "BADRAI"
+    "partName": "BADRAI",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39659,
@@ -2549,7 +3011,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 232,
-    "partName": "NAURANGABAS RAJPUTAN"
+    "partName": "NAURANGABAS RAJPUTAN",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39660,
@@ -2560,7 +3024,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 233,
-    "partName": "DHANI RAJASHRI MAJRA NAURANGABAS"
+    "partName": "DHANI RAJASHRI MAJRA NAURANGABAS",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39661,
@@ -2571,7 +3037,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 234,
-    "partName": "NAURANGABAS RAJPUTAN"
+    "partName": "NAURANGABAS RAJPUTAN",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39662,
@@ -2582,7 +3050,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 235,
-    "partName": "GOPALWAS"
+    "partName": "GOPALWAS",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39663,
@@ -2593,7 +3063,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 236,
-    "partName": "GOPALWAS"
+    "partName": "GOPALWAS",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39664,
@@ -2604,7 +3076,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 237,
-    "partName": "GOPALWAS"
+    "partName": "GOPALWAS",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39665,
@@ -2615,7 +3089,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 238,
-    "partName": "NAURANGABAS JATAN"
+    "partName": "NAURANGABAS JATAN",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 39666,
@@ -2626,7 +3102,9 @@
     "acNumber": 55,
     "acName": "BADHRA",
     "partNumber": 239,
-    "partName": "NAURANGABAS JATAN"
+    "partName": "NAURANGABAS JATAN",
+    "lat": 28.50682595,
+    "lon": 75.95501377614934
   },
   {
     "partId": 29282,
@@ -2637,7 +3115,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 1,
-    "partName": "NIMRI"
+    "partName": "NIMRI",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29152,
@@ -2648,7 +3128,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 2,
-    "partName": "NIMRI"
+    "partName": "NIMRI",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29153,
@@ -2659,7 +3141,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 3,
-    "partName": "BOND KALAN"
+    "partName": "BOND KALAN",
+    "lat": 28.7808479,
+    "lon": 76.3376509
   },
   {
     "partId": 29283,
@@ -2670,7 +3154,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 4,
-    "partName": "BOND KALAN"
+    "partName": "BOND KALAN",
+    "lat": 28.7808479,
+    "lon": 76.3376509
   },
   {
     "partId": 29154,
@@ -2681,7 +3167,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 5,
-    "partName": "BOND KALAN"
+    "partName": "BOND KALAN",
+    "lat": 28.7808479,
+    "lon": 76.3376509
   },
   {
     "partId": 29284,
@@ -2692,7 +3180,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 6,
-    "partName": "BOND KALAN"
+    "partName": "BOND KALAN",
+    "lat": 28.7808479,
+    "lon": 76.3376509
   },
   {
     "partId": 29285,
@@ -2703,7 +3193,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 7,
-    "partName": "BOND KALAN"
+    "partName": "BOND KALAN",
+    "lat": 28.7808479,
+    "lon": 76.3376509
   },
   {
     "partId": 29155,
@@ -2714,7 +3206,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 8,
-    "partName": "BOND KALAN"
+    "partName": "BOND KALAN",
+    "lat": 28.7808479,
+    "lon": 76.3376509
   },
   {
     "partId": 29286,
@@ -2725,7 +3219,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 9,
-    "partName": "BOND KALAN"
+    "partName": "BOND KALAN",
+    "lat": 28.7808479,
+    "lon": 76.3376509
   },
   {
     "partId": 29156,
@@ -2736,7 +3232,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 10,
-    "partName": "BOND KALAN"
+    "partName": "BOND KALAN",
+    "lat": 28.7808479,
+    "lon": 76.3376509
   },
   {
     "partId": 29157,
@@ -2747,7 +3245,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 11,
-    "partName": "BOND KALAN"
+    "partName": "BOND KALAN",
+    "lat": 28.7808479,
+    "lon": 76.3376509
   },
   {
     "partId": 29287,
@@ -2758,7 +3258,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 12,
-    "partName": "BOND KALAN"
+    "partName": "BOND KALAN",
+    "lat": 28.7808479,
+    "lon": 76.3376509
   },
   {
     "partId": 29203,
@@ -2769,7 +3271,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 13,
-    "partName": "BOND KALAN"
+    "partName": "BOND KALAN",
+    "lat": 28.7808479,
+    "lon": 76.3376509
   },
   {
     "partId": 29176,
@@ -2780,7 +3284,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 14,
-    "partName": "BOND KALAN"
+    "partName": "BOND KALAN",
+    "lat": 28.7808479,
+    "lon": 76.3376509
   },
   {
     "partId": 29177,
@@ -2791,7 +3297,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 15,
-    "partName": "MALKOSH"
+    "partName": "MALKOSH",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29204,
@@ -2802,7 +3310,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 16,
-    "partName": "MALKOSH"
+    "partName": "MALKOSH",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29178,
@@ -2813,7 +3323,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 17,
-    "partName": "MALKOSH"
+    "partName": "MALKOSH",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29205,
@@ -2824,7 +3336,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 18,
-    "partName": "SANKROD"
+    "partName": "SANKROD",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29206,
@@ -2835,7 +3349,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 19,
-    "partName": "SANKROD"
+    "partName": "SANKROD",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29179,
@@ -2846,7 +3362,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 20,
-    "partName": "SANKROD"
+    "partName": "SANKROD",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29207,
@@ -2857,7 +3375,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 21,
-    "partName": "BOND KHURD"
+    "partName": "BOND KHURD",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29180,
@@ -2868,7 +3388,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 22,
-    "partName": "BOND KHURD"
+    "partName": "BOND KHURD",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29181,
@@ -2879,7 +3401,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 23,
-    "partName": "BOND KHURD"
+    "partName": "BOND KHURD",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29208,
@@ -2890,7 +3414,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 24,
-    "partName": "UNN MUTSIL BOND KALAN"
+    "partName": "UNN MUTSIL BOND KALAN",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29182,
@@ -2901,7 +3427,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 25,
-    "partName": "UNN MUTSIL BOND KALAN"
+    "partName": "UNN MUTSIL BOND KALAN",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29209,
@@ -2912,7 +3440,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 26,
-    "partName": "UNN MUTSIL BOND KALAN"
+    "partName": "UNN MUTSIL BOND KALAN",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29045,
@@ -2923,7 +3453,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 27,
-    "partName": "UNN MUTSIL BOND KALAN"
+    "partName": "UNN MUTSIL BOND KALAN",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29183,
@@ -2934,7 +3466,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 28,
-    "partName": "SANJARWAS"
+    "partName": "SANJARWAS",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29143,
@@ -2945,7 +3479,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 29,
-    "partName": "SANJARWAS"
+    "partName": "SANJARWAS",
+    "lat": 28.600099649999997,
+    "lon": 76.11237065380323
   },
   {
     "partId": 29274,
@@ -2956,7 +3492,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 30,
-    "partName": "SANJARWAS"
+    "partName": "SANJARWAS",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29144,
@@ -2967,7 +3505,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 31,
-    "partName": "SANJARWAS"
+    "partName": "SANJARWAS",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29145,
@@ -2978,7 +3518,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 32,
-    "partName": "SANJARWAS"
+    "partName": "SANJARWAS",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29275,
@@ -2989,7 +3531,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 33,
-    "partName": "RANKOLI"
+    "partName": "RANKOLI",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29146,
@@ -3000,7 +3544,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 34,
-    "partName": "RANKOLI"
+    "partName": "RANKOLI",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29276,
@@ -3011,7 +3557,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 35,
-    "partName": "PHOGAT"
+    "partName": "PHOGAT",
+    "lat": 28.5769613,
+    "lon": 76.3094435
   },
   {
     "partId": 29277,
@@ -3022,7 +3570,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 36,
-    "partName": "PHOGAT"
+    "partName": "PHOGAT",
+    "lat": 28.5769613,
+    "lon": 76.3094435
   },
   {
     "partId": 29147,
@@ -3033,7 +3583,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 37,
-    "partName": "PHOGAT"
+    "partName": "PHOGAT",
+    "lat": 28.600099649999997,
+    "lon": 76.11237065380323
   },
   {
     "partId": 29278,
@@ -3044,7 +3596,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 38,
-    "partName": "HINDOL"
+    "partName": "HINDOL",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29190,
@@ -3055,7 +3609,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 39,
-    "partName": "HINDOL"
+    "partName": "HINDOL",
+    "lat": 28.708984,
+    "lon": 76.2676515
   },
   {
     "partId": 29191,
@@ -3066,7 +3622,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 40,
-    "partName": "HINDOL"
+    "partName": "HINDOL",
+    "lat": 28.708984,
+    "lon": 76.2676515
   },
   {
     "partId": 29128,
@@ -3077,7 +3635,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 41,
-    "partName": "SANWAR"
+    "partName": "SANWAR",
+    "lat": 28.7059715,
+    "lon": 76.2901443
   },
   {
     "partId": 29192,
@@ -3088,7 +3648,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 42,
-    "partName": "SANWAR"
+    "partName": "SANWAR",
+    "lat": 28.7059715,
+    "lon": 76.2901443
   },
   {
     "partId": 29129,
@@ -3099,7 +3661,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 43,
-    "partName": "SANWAR"
+    "partName": "SANWAR",
+    "lat": 28.7059715,
+    "lon": 76.2901443
   },
   {
     "partId": 29130,
@@ -3110,7 +3674,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 44,
-    "partName": "SANWAR"
+    "partName": "SANWAR",
+    "lat": 28.7059715,
+    "lon": 76.2901443
   },
   {
     "partId": 29193,
@@ -3121,7 +3687,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 45,
-    "partName": "SANWAR"
+    "partName": "SANWAR",
+    "lat": 28.7059715,
+    "lon": 76.2901443
   },
   {
     "partId": 29131,
@@ -3132,7 +3700,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 46,
-    "partName": "RANILA"
+    "partName": "RANILA",
+    "lat": 28.715284,
+    "lon": 76.35183
   },
   {
     "partId": 29194,
@@ -3143,7 +3713,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 47,
-    "partName": "RANILA"
+    "partName": "RANILA",
+    "lat": 28.715284,
+    "lon": 76.35183
   },
   {
     "partId": 29195,
@@ -3154,7 +3726,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 48,
-    "partName": "RANILA"
+    "partName": "RANILA",
+    "lat": 28.715284,
+    "lon": 76.35183
   },
   {
     "partId": 29168,
@@ -3165,7 +3739,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 49,
-    "partName": "RANILA"
+    "partName": "RANILA",
+    "lat": 28.715284,
+    "lon": 76.35183
   },
   {
     "partId": 29079,
@@ -3176,7 +3752,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 50,
-    "partName": "RANILA"
+    "partName": "RANILA",
+    "lat": 28.600099649999997,
+    "lon": 76.11237065380323
   },
   {
     "partId": 29246,
@@ -3187,7 +3765,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 51,
-    "partName": "RANILA"
+    "partName": "RANILA",
+    "lat": 28.715284,
+    "lon": 76.35183
   },
   {
     "partId": 29247,
@@ -3198,7 +3778,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 52,
-    "partName": "RANILA"
+    "partName": "RANILA",
+    "lat": 28.600099649999997,
+    "lon": 76.11237065380323
   },
   {
     "partId": 29080,
@@ -3209,7 +3791,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 53,
-    "partName": "RANILA"
+    "partName": "RANILA",
+    "lat": 28.715284,
+    "lon": 76.35183
   },
   {
     "partId": 29120,
@@ -3220,7 +3804,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 54,
-    "partName": "KOHLAWAS"
+    "partName": "KOHLAWAS",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29081,
@@ -3231,7 +3817,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 55,
-    "partName": "LAMBA"
+    "partName": "LAMBA",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29082,
@@ -3242,7 +3830,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 56,
-    "partName": "SAUNF"
+    "partName": "SAUNF",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29248,
@@ -3253,7 +3843,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 57,
-    "partName": "SAUNF"
+    "partName": "SAUNF",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29083,
@@ -3264,7 +3856,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 58,
-    "partName": "KASNI"
+    "partName": "KASNI",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29249,
@@ -3275,7 +3869,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 59,
-    "partName": "KASNI"
+    "partName": "KASNI",
+    "lat": 28.600099649999997,
+    "lon": 76.11237065380323
   },
   {
     "partId": 29250,
@@ -3286,7 +3882,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 60,
-    "partName": "PAINTAWAS KHURD"
+    "partName": "PAINTAWAS KHURD",
+    "lat": 28.600099649999997,
+    "lon": 76.11237065380323
   },
   {
     "partId": 29084,
@@ -3297,7 +3895,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 61,
-    "partName": "PAINTAWAS KHURD"
+    "partName": "PAINTAWAS KHURD",
+    "lat": 28.6653992,
+    "lon": 76.190443
   },
   {
     "partId": 29251,
@@ -3308,7 +3908,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 62,
-    "partName": "DOHKI"
+    "partName": "DOHKI",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29085,
@@ -3319,7 +3921,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 63,
-    "partName": "DOHKI"
+    "partName": "DOHKI",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29086,
@@ -3330,7 +3934,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 64,
-    "partName": "DOHKI"
+    "partName": "DOHKI",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29252,
@@ -3341,7 +3947,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 65,
-    "partName": "RASIWAS"
+    "partName": "RASIWAS",
+    "lat": 28.600099649999997,
+    "lon": 76.11237065380323
   },
   {
     "partId": 29059,
@@ -3352,7 +3960,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 66,
-    "partName": "RASIWAS"
+    "partName": "RASIWAS",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29138,
@@ -3363,7 +3973,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 67,
-    "partName": "NARSINGH WAS"
+    "partName": "NARSINGH WAS",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29139,
@@ -3374,7 +3986,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 68,
-    "partName": "NARSINGH WAS"
+    "partName": "NARSINGH WAS",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29060,
@@ -3385,7 +3999,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 69,
-    "partName": "SARANGPUR"
+    "partName": "SARANGPUR",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29140,
@@ -3396,7 +4012,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 70,
-    "partName": "SARANGPUR"
+    "partName": "SARANGPUR",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29061,
@@ -3407,7 +4025,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 71,
-    "partName": "DUDIWALA KISHANPURA"
+    "partName": "DUDIWALA KISHANPURA",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29062,
@@ -3418,7 +4038,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 72,
-    "partName": "DUDIWALA KISHANPURA"
+    "partName": "DUDIWALA KISHANPURA",
+    "lat": 28.600099649999997,
+    "lon": 76.11237065380323
   },
   {
     "partId": 29141,
@@ -3429,7 +4051,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 73,
-    "partName": "DUDIWALA KISHANPURA"
+    "partName": "DUDIWALA KISHANPURA",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29063,
@@ -3440,7 +4064,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 74,
-    "partName": "RAMPURA"
+    "partName": "RAMPURA",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29142,
@@ -3451,7 +4077,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 75,
-    "partName": "RAMPURA"
+    "partName": "RAMPURA",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29210,
@@ -3462,7 +4090,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 76,
-    "partName": "CHHAPAR"
+    "partName": "CHHAPAR",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29064,
@@ -3473,7 +4103,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 77,
-    "partName": "CHHAPAR"
+    "partName": "CHHAPAR",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29211,
@@ -3484,7 +4116,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 78,
-    "partName": "CHHAPAR"
+    "partName": "CHHAPAR",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29065,
@@ -3495,7 +4129,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 79,
-    "partName": "CHHAPAR"
+    "partName": "CHHAPAR",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29212,
@@ -3506,7 +4142,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 80,
-    "partName": "CHHAPAR"
+    "partName": "CHHAPAR",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29213,
@@ -3517,7 +4155,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 81,
-    "partName": "AKTHIARPURA"
+    "partName": "AKTHIARPURA",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29066,
@@ -3528,7 +4168,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 82,
-    "partName": "FATEHGARH"
+    "partName": "FATEHGARH",
+    "lat": 28.6561086,
+    "lon": 76.2261375
   },
   {
     "partId": 29214,
@@ -3539,7 +4181,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 83,
-    "partName": "FATEHGARH"
+    "partName": "FATEHGARH",
+    "lat": 28.6561086,
+    "lon": 76.2261375
   },
   {
     "partId": 29132,
@@ -3550,7 +4194,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 84,
-    "partName": "FATEHGARH"
+    "partName": "FATEHGARH",
+    "lat": 28.6561086,
+    "lon": 76.2261375
   },
   {
     "partId": 29067,
@@ -3561,7 +4207,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 85,
-    "partName": "MIRCH"
+    "partName": "MIRCH",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29215,
@@ -3572,7 +4220,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 86,
-    "partName": "MIRCH"
+    "partName": "MIRCH",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29068,
@@ -3583,7 +4233,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 87,
-    "partName": "MISRI"
+    "partName": "MISRI",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29216,
@@ -3594,7 +4246,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 88,
-    "partName": "MISRI"
+    "partName": "MISRI",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29217,
@@ -3605,7 +4259,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 89,
-    "partName": "MISRI"
+    "partName": "MISRI",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29069,
@@ -3616,7 +4272,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 90,
-    "partName": "MISRI"
+    "partName": "MISRI",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29218,
@@ -3627,7 +4285,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 91,
-    "partName": "JHINJHAR"
+    "partName": "JHINJHAR",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29070,
@@ -3638,7 +4298,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 92,
-    "partName": "JHINJHAR"
+    "partName": "JHINJHAR",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29071,
@@ -3649,7 +4311,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 93,
-    "partName": "JHINJHAR"
+    "partName": "JHINJHAR",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29219,
@@ -3660,7 +4324,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 94,
-    "partName": "JHINJHAR"
+    "partName": "JHINJHAR",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29381,
@@ -3671,7 +4337,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 95,
-    "partName": "JAISHRI"
+    "partName": "JAISHRI",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29072,
@@ -3682,7 +4350,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 96,
-    "partName": "JHINJHAR"
+    "partName": "JHINJHAR",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29220,
@@ -3693,7 +4363,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 97,
-    "partName": "BHAGESWARI"
+    "partName": "BHAGESWARI",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29221,
@@ -3704,7 +4376,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 98,
-    "partName": "BHAGESWARI"
+    "partName": "BHAGESWARI",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29074,
@@ -3715,7 +4389,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 99,
-    "partName": "BHAGESWARI"
+    "partName": "BHAGESWARI",
+    "lat": 28.600099649999997,
+    "lon": 76.11237065380323
   },
   {
     "partId": 29224,
@@ -3726,7 +4402,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 100,
-    "partName": "BASS NEAR RANILA"
+    "partName": "BASS NEAR RANILA",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29053,
@@ -3737,7 +4415,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 101,
-    "partName": "BASS NEAR RANILA"
+    "partName": "BASS NEAR RANILA",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29054,
@@ -3748,7 +4428,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 102,
-    "partName": "BASS NEAR RANILA"
+    "partName": "BASS NEAR RANILA",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29225,
@@ -3759,7 +4441,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 103,
-    "partName": "ACHINA"
+    "partName": "ACHINA",
+    "lat": 28.6207114,
+    "lon": 76.3805685
   },
   {
     "partId": 29055,
@@ -3770,7 +4454,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 104,
-    "partName": "ACHINA"
+    "partName": "ACHINA",
+    "lat": 28.6207114,
+    "lon": 76.3805685
   },
   {
     "partId": 29226,
@@ -3781,7 +4467,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 105,
-    "partName": "ACHINA"
+    "partName": "ACHINA",
+    "lat": 28.6207114,
+    "lon": 76.3805685
   },
   {
     "partId": 29227,
@@ -3792,7 +4480,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 106,
-    "partName": "ACHINA"
+    "partName": "ACHINA",
+    "lat": 28.6207114,
+    "lon": 76.3805685
   },
   {
     "partId": 29196,
@@ -3803,7 +4493,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 107,
-    "partName": "ACHINA"
+    "partName": "ACHINA",
+    "lat": 28.6207114,
+    "lon": 76.3805685
   },
   {
     "partId": 29228,
@@ -3814,7 +4506,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 108,
-    "partName": "ACHINA"
+    "partName": "ACHINA",
+    "lat": 28.6207114,
+    "lon": 76.3805685
   },
   {
     "partId": 29056,
@@ -3825,7 +4519,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 109,
-    "partName": "ACHINA"
+    "partName": "ACHINA",
+    "lat": 28.6207114,
+    "lon": 76.3805685
   },
   {
     "partId": 29057,
@@ -3836,7 +4532,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 110,
-    "partName": "KAMOD"
+    "partName": "KAMOD",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29229,
@@ -3847,7 +4545,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 111,
-    "partName": "KAMOD"
+    "partName": "KAMOD",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29058,
@@ -3858,7 +4558,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 112,
-    "partName": "KHATIWAS"
+    "partName": "KHATIWAS",
+    "lat": 28.6252144,
+    "lon": 76.3151444
   },
   {
     "partId": 29230,
@@ -3869,7 +4571,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 113,
-    "partName": "KHATIWAS"
+    "partName": "KHATIWAS",
+    "lat": 28.600099649999997,
+    "lon": 76.11237065380323
   },
   {
     "partId": 29121,
@@ -3880,7 +4584,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 114,
-    "partName": "RAWALDHI"
+    "partName": "RAWALDHI",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29148,
@@ -3891,7 +4597,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 115,
-    "partName": "RAWALDHI"
+    "partName": "RAWALDHI",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29160,
@@ -3902,7 +4610,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 116,
-    "partName": "RAWALDHI"
+    "partName": "RAWALDHI",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29134,
@@ -3913,7 +4623,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 117,
-    "partName": "RAWALDHI"
+    "partName": "RAWALDHI",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29135,
@@ -3924,7 +4636,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 118,
-    "partName": "RAWALDHI"
+    "partName": "RAWALDHI",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29158,
@@ -3935,7 +4649,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 119,
-    "partName": "GHIKARA"
+    "partName": "GHIKARA",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29136,
@@ -3946,7 +4662,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 120,
-    "partName": "GHIKARA"
+    "partName": "GHIKARA",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29122,
@@ -3957,7 +4675,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 121,
-    "partName": "GHIKARA"
+    "partName": "GHIKARA",
+    "lat": 28.600099649999997,
+    "lon": 76.11237065380323
   },
   {
     "partId": 29159,
@@ -3968,7 +4688,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 122,
-    "partName": "SAHUWAS"
+    "partName": "SAHUWAS",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29137,
@@ -3979,7 +4701,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 123,
-    "partName": "SAHUWAS"
+    "partName": "SAHUWAS",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29167,
@@ -3990,7 +4714,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 124,
-    "partName": "PAINTAWAS KALAN"
+    "partName": "PAINTAWAS KALAN",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29094,
@@ -4001,7 +4727,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 125,
-    "partName": "PAINTAWAS KALAN"
+    "partName": "PAINTAWAS KALAN",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29095,
@@ -4012,7 +4740,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 126,
-    "partName": "PAINTAWAS KALAN"
+    "partName": "PAINTAWAS KALAN",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29253,
@@ -4023,7 +4753,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 127,
-    "partName": "PAINTAWAS KALAN"
+    "partName": "PAINTAWAS KALAN",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29096,
@@ -4034,7 +4766,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 128,
-    "partName": "MANKAWAS"
+    "partName": "MANKAWAS",
+    "lat": 28.6206232,
+    "lon": 76.1824589
   },
   {
     "partId": 29254,
@@ -4045,7 +4779,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 129,
-    "partName": "MANKAWAS"
+    "partName": "MANKAWAS",
+    "lat": 28.6206232,
+    "lon": 76.1824589
   },
   {
     "partId": 29133,
@@ -4056,7 +4792,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 130,
-    "partName": "MANKAWAS"
+    "partName": "MANKAWAS",
+    "lat": 28.6206232,
+    "lon": 76.1824589
   },
   {
     "partId": 29097,
@@ -4067,7 +4805,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 131,
-    "partName": "DOHKA HARIYA"
+    "partName": "DOHKA HARIYA",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29255,
@@ -4078,7 +4818,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 132,
-    "partName": "DOHKA HARIYA"
+    "partName": "DOHKA HARIYA",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29098,
@@ -4089,7 +4831,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 133,
-    "partName": "DOHKA HARIYA"
+    "partName": "DOHKA HARIYA",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29256,
@@ -4100,7 +4844,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 134,
-    "partName": "DOHKA MOJI"
+    "partName": "DOHKA MOJI",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29257,
@@ -4111,7 +4857,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 135,
-    "partName": "DOHKA MOJI"
+    "partName": "DOHKA MOJI",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29099,
@@ -4122,7 +4870,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 136,
-    "partName": "DOHKA DINA"
+    "partName": "DOHKA DINA",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29258,
@@ -4133,7 +4883,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 137,
-    "partName": "DUDIWALA NANDKARAN"
+    "partName": "DUDIWALA NANDKARAN",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29100,
@@ -4144,7 +4896,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 138,
-    "partName": "ATELA KHURD"
+    "partName": "ATELA KHURD",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29101,
@@ -4155,7 +4909,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 139,
-    "partName": "ATELA KHURD"
+    "partName": "ATELA KHURD",
+    "lat": 28.600099649999997,
+    "lon": 76.11237065380323
   },
   {
     "partId": 29259,
@@ -4166,7 +4922,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 140,
-    "partName": "ATELA KHURD"
+    "partName": "ATELA KHURD",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29102,
@@ -4177,7 +4935,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 141,
-    "partName": "ATELA KALAN"
+    "partName": "ATELA KALAN",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29260,
@@ -4188,7 +4948,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 142,
-    "partName": "ATELA NAYA"
+    "partName": "ATELA NAYA",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29261,
@@ -4199,7 +4961,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 143,
-    "partName": "ATELA KALAN"
+    "partName": "ATELA KALAN",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29185,
@@ -4210,7 +4974,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 144,
-    "partName": "BARSANA"
+    "partName": "BARSANA",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29262,
@@ -4221,7 +4987,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 145,
-    "partName": "BARSANA"
+    "partName": "BARSANA",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29103,
@@ -4232,7 +5000,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 146,
-    "partName": "TIWALA"
+    "partName": "TIWALA",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29104,
@@ -4243,7 +5013,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 147,
-    "partName": "TIWALA"
+    "partName": "TIWALA",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29263,
@@ -4254,7 +5026,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 148,
-    "partName": "TIWALA"
+    "partName": "TIWALA",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29105,
@@ -4265,7 +5039,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 149,
-    "partName": "BIRHI KALAN"
+    "partName": "BIRHI KALAN",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29264,
@@ -4276,7 +5052,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 150,
-    "partName": "BIRHI KALAN"
+    "partName": "BIRHI KALAN",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29123,
@@ -4287,7 +5065,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 151,
-    "partName": "BIRHI KALAN"
+    "partName": "BIRHI KALAN",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29186,
@@ -4298,7 +5078,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 152,
-    "partName": "BIRHI KALAN"
+    "partName": "BIRHI KALAN",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29279,
@@ -4309,7 +5091,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 153,
-    "partName": "PANDWAN"
+    "partName": "PANDWAN",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29149,
@@ -4320,7 +5104,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 154,
-    "partName": "PANDWAN"
+    "partName": "PANDWAN",
+    "lat": 28.600099649999997,
+    "lon": 76.11237065380323
   },
   {
     "partId": 29150,
@@ -4331,7 +5117,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 155,
-    "partName": "PANDWAN"
+    "partName": "PANDWAN",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29280,
@@ -4342,7 +5130,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 156,
-    "partName": "CHARKHI"
+    "partName": "CHARKHI",
+    "lat": 28.5919933,
+    "lon": 76.2719817
   },
   {
     "partId": 29151,
@@ -4353,7 +5143,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 157,
-    "partName": "CHARKHI"
+    "partName": "CHARKHI",
+    "lat": 28.5919933,
+    "lon": 76.2719817
   },
   {
     "partId": 29281,
@@ -4364,7 +5156,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 158,
-    "partName": "CHARKHI"
+    "partName": "CHARKHI",
+    "lat": 28.5919933,
+    "lon": 76.2719817
   },
   {
     "partId": 29126,
@@ -4375,7 +5169,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 159,
-    "partName": "CHARKHI"
+    "partName": "CHARKHI",
+    "lat": 28.5919933,
+    "lon": 76.2719817
   },
   {
     "partId": 29106,
@@ -4386,7 +5182,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 160,
-    "partName": "CHARKHI"
+    "partName": "CHARKHI",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29265,
@@ -4397,7 +5195,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 161,
-    "partName": "CHARKHI"
+    "partName": "CHARKHI",
+    "lat": 28.5919933,
+    "lon": 76.2719817
   },
   {
     "partId": 29107,
@@ -4408,7 +5208,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 162,
-    "partName": "KASBA DADARI"
+    "partName": "KASBA DADARI",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29108,
@@ -4419,7 +5221,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 163,
-    "partName": "KASBA DADARI"
+    "partName": "KASBA DADARI",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29382,
@@ -4430,7 +5234,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 164,
-    "partName": "TOWN DADRI"
+    "partName": "TOWN DADRI",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29266,
@@ -4441,7 +5247,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 165,
-    "partName": "KASBA DADARI"
+    "partName": "KASBA DADARI",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29109,
@@ -4452,7 +5260,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 166,
-    "partName": "KASBA DADARI"
+    "partName": "KASBA DADARI",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29267,
@@ -4463,7 +5273,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 167,
-    "partName": "KASBA DADARI"
+    "partName": "KASBA DADARI",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29268,
@@ -4474,7 +5286,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 168,
-    "partName": "KASBA DADARI"
+    "partName": "KASBA DADARI",
+    "lat": 28.600099649999997,
+    "lon": 76.11237065380323
   },
   {
     "partId": 29110,
@@ -4485,7 +5299,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 169,
-    "partName": "KASBA DADARI"
+    "partName": "KASBA DADARI",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29269,
@@ -4496,7 +5312,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 170,
-    "partName": "KASBA DADARI"
+    "partName": "KASBA DADARI",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29111,
@@ -4507,7 +5325,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 171,
-    "partName": "KASBA DADARI"
+    "partName": "KASBA DADARI",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29112,
@@ -4518,7 +5338,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 172,
-    "partName": "KASBA DADARI"
+    "partName": "KASBA DADARI",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29270,
@@ -4529,7 +5351,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 173,
-    "partName": "KASBA DADARI"
+    "partName": "KASBA DADARI",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29113,
@@ -4540,7 +5364,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 174,
-    "partName": "KASBA DADARI"
+    "partName": "KASBA DADARI",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29271,
@@ -4551,7 +5377,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 175,
-    "partName": "KASBA DADARI"
+    "partName": "KASBA DADARI",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29272,
@@ -4562,7 +5390,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 176,
-    "partName": "KASBA DADARI"
+    "partName": "KASBA DADARI",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29114,
@@ -4573,7 +5403,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 177,
-    "partName": "KASBA DADARI"
+    "partName": "KASBA DADARI",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29273,
@@ -4584,7 +5416,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 178,
-    "partName": "KASBA DADARI"
+    "partName": "KASBA DADARI",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29115,
@@ -4595,7 +5429,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 179,
-    "partName": "KASBA DADARI"
+    "partName": "KASBA DADARI",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29169,
@@ -4606,7 +5442,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 180,
-    "partName": "KASBA DADARI"
+    "partName": "KASBA DADARI",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29170,
@@ -4617,7 +5455,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 181,
-    "partName": "KASBA DADARI"
+    "partName": "KASBA DADARI",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29197,
@@ -4628,7 +5468,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 182,
-    "partName": "KASBA DADARI"
+    "partName": "KASBA DADARI",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29171,
@@ -4639,7 +5481,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 183,
-    "partName": "KASBA DADARI"
+    "partName": "KASBA DADARI",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29198,
@@ -4650,7 +5494,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 184,
-    "partName": "KASBA DADARI"
+    "partName": "KASBA DADARI",
+    "lat": 28.600099649999997,
+    "lon": 76.11237065380323
   },
   {
     "partId": 29199,
@@ -4661,7 +5507,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 185,
-    "partName": "KASBA DADARI"
+    "partName": "KASBA DADARI",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29124,
@@ -4672,7 +5520,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 186,
-    "partName": "KASBA DADARI"
+    "partName": "KASBA DADARI",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29076,
@@ -4683,7 +5533,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 187,
-    "partName": "KASBA DADARI"
+    "partName": "KASBA DADARI",
+    "lat": 28.600099649999997,
+    "lon": 76.11237065380323
   },
   {
     "partId": 29242,
@@ -4694,7 +5546,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 188,
-    "partName": "KASBA DADARI"
+    "partName": "KASBA DADARI",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29243,
@@ -4705,7 +5559,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 189,
-    "partName": "KASBA DADARI"
+    "partName": "KASBA DADARI",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29077,
@@ -4716,7 +5572,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 190,
-    "partName": "KASBA DADARI"
+    "partName": "KASBA DADARI",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29244,
@@ -4727,7 +5585,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 191,
-    "partName": "KASBA DADARI"
+    "partName": "KASBA DADARI",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29184,
@@ -4738,7 +5598,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 192,
-    "partName": "KASBA DADARI"
+    "partName": "KASBA DADARI",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29078,
@@ -4749,7 +5611,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 193,
-    "partName": "KASBA DADARI"
+    "partName": "KASBA DADARI",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29245,
@@ -4760,7 +5624,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 194,
-    "partName": "KASBA DADARI"
+    "partName": "KASBA DADARI",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29073,
@@ -4771,7 +5637,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 195,
-    "partName": "KASBA DADARI"
+    "partName": "KASBA DADARI",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29222,
@@ -4782,7 +5650,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 196,
-    "partName": "KASBA DADARI"
+    "partName": "KASBA DADARI",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29161,
@@ -4793,7 +5663,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 197,
-    "partName": "KASBA DADARI"
+    "partName": "KASBA DADARI",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29087,
@@ -4804,7 +5676,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 198,
-    "partName": "KASBA DADARI"
+    "partName": "KASBA DADARI",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29162,
@@ -4815,7 +5689,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 199,
-    "partName": "KASBA DADARI"
+    "partName": "KASBA DADARI",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29088,
@@ -4826,7 +5702,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 200,
-    "partName": "KASBA DADARI"
+    "partName": "KASBA DADARI",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29089,
@@ -4837,7 +5715,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 201,
-    "partName": "KASBA DADARI"
+    "partName": "KASBA DADARI",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29163,
@@ -4848,7 +5728,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 202,
-    "partName": "KASBA DADARI"
+    "partName": "KASBA DADARI",
+    "lat": 28.600099649999997,
+    "lon": 76.11237065380323
   },
   {
     "partId": 29090,
@@ -4859,7 +5741,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 203,
-    "partName": "KASBA DADARI"
+    "partName": "KASBA DADARI",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29127,
@@ -4870,7 +5754,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 204,
-    "partName": "KASMBA DADRI"
+    "partName": "KASMBA DADRI",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29164,
@@ -4881,7 +5767,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 205,
-    "partName": "KASBA DADARI"
+    "partName": "KASBA DADARI",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29091,
@@ -4892,7 +5780,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 206,
-    "partName": "KASBA DADARI"
+    "partName": "KASBA DADARI",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29165,
@@ -4903,7 +5793,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 207,
-    "partName": "KASBA DADARI"
+    "partName": "KASBA DADARI",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29092,
@@ -4914,7 +5806,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 208,
-    "partName": "KASBA DADARI"
+    "partName": "KASBA DADARI",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29093,
@@ -4925,7 +5819,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 209,
-    "partName": "KASBA DADARI"
+    "partName": "KASBA DADARI",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29166,
@@ -4936,7 +5832,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 210,
-    "partName": "KASBA DADARI"
+    "partName": "KASBA DADARI",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29202,
@@ -4947,7 +5845,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 211,
-    "partName": "KASBA DADARI"
+    "partName": "KASBA DADARI",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29174,
@@ -4958,7 +5858,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 212,
-    "partName": "KASBA DADARI"
+    "partName": "KASBA DADARI",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29175,
@@ -4969,7 +5871,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 213,
-    "partName": "SAMASPUR"
+    "partName": "SAMASPUR",
+    "lat": 28.6043385,
+    "lon": 76.3638967
   },
   {
     "partId": 29116,
@@ -4980,7 +5884,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 214,
-    "partName": "SAMASPUR"
+    "partName": "SAMASPUR",
+    "lat": 28.6043385,
+    "lon": 76.3638967
   },
   {
     "partId": 29231,
@@ -4991,7 +5897,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 215,
-    "partName": "SAMASPUR"
+    "partName": "SAMASPUR",
+    "lat": 28.6043385,
+    "lon": 76.3638967
   },
   {
     "partId": 29117,
@@ -5002,7 +5910,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 216,
-    "partName": "SAMASPUR"
+    "partName": "SAMASPUR",
+    "lat": 28.6043385,
+    "lon": 76.3638967
   },
   {
     "partId": 29187,
@@ -5013,7 +5923,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 217,
-    "partName": "SAMASPUR"
+    "partName": "SAMASPUR",
+    "lat": 28.6043385,
+    "lon": 76.3638967
   },
   {
     "partId": 29232,
@@ -5024,7 +5936,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 218,
-    "partName": "LOHARWARA"
+    "partName": "LOHARWARA",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29118,
@@ -5035,7 +5949,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 219,
-    "partName": "LOHARWARA"
+    "partName": "LOHARWARA",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29233,
@@ -5046,7 +5962,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 220,
-    "partName": "LOHARWARA"
+    "partName": "LOHARWARA",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29234,
@@ -5057,7 +5975,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 221,
-    "partName": "MORWALA"
+    "partName": "MORWALA",
+    "lat": 28.600099649999997,
+    "lon": 76.11237065380323
   },
   {
     "partId": 29119,
@@ -5068,7 +5988,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 222,
-    "partName": "MORWALA"
+    "partName": "MORWALA",
+    "lat": 28.638412,
+    "lon": 76.4022609
   },
   {
     "partId": 29235,
@@ -5079,7 +6001,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 223,
-    "partName": "BIGOWA"
+    "partName": "BIGOWA",
+    "lat": 28.6565343,
+    "lon": 76.4308059
   },
   {
     "partId": 29046,
@@ -5090,7 +6014,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 224,
-    "partName": "BIGOWA"
+    "partName": "BIGOWA",
+    "lat": 28.6565343,
+    "lon": 76.4308059
   },
   {
     "partId": 29047,
@@ -5101,7 +6027,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 225,
-    "partName": "BIGOWA"
+    "partName": "BIGOWA",
+    "lat": 28.6565343,
+    "lon": 76.4308059
   },
   {
     "partId": 29236,
@@ -5112,7 +6040,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 226,
-    "partName": "BIGOWA"
+    "partName": "BIGOWA",
+    "lat": 28.6565343,
+    "lon": 76.4308059
   },
   {
     "partId": 29048,
@@ -5123,7 +6053,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 227,
-    "partName": "IMLOTA"
+    "partName": "IMLOTA",
+    "lat": 28.619951,
+    "lon": 76.4471749
   },
   {
     "partId": 29125,
@@ -5134,7 +6066,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 228,
-    "partName": "IMLOTA"
+    "partName": "IMLOTA",
+    "lat": 28.619951,
+    "lon": 76.4471749
   },
   {
     "partId": 29049,
@@ -5145,7 +6079,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 229,
-    "partName": "IMLOTA"
+    "partName": "IMLOTA",
+    "lat": 28.619951,
+    "lon": 76.4471749
   },
   {
     "partId": 29050,
@@ -5156,7 +6092,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 230,
-    "partName": "IMLOTA"
+    "partName": "IMLOTA",
+    "lat": 28.619951,
+    "lon": 76.4471749
   },
   {
     "partId": 29237,
@@ -5167,7 +6105,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 231,
-    "partName": "IMLOTA"
+    "partName": "IMLOTA",
+    "lat": 28.619951,
+    "lon": 76.4471749
   },
   {
     "partId": 29051,
@@ -5178,7 +6118,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 232,
-    "partName": "IMLOTA"
+    "partName": "IMLOTA",
+    "lat": 28.619951,
+    "lon": 76.4471749
   },
   {
     "partId": 29238,
@@ -5189,7 +6131,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 233,
-    "partName": "KANHETI"
+    "partName": "KANHETI",
+    "lat": 28.6189803,
+    "lon": 76.4005167
   },
   {
     "partId": 29223,
@@ -5200,7 +6144,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 234,
-    "partName": "KANHETI"
+    "partName": "KANHETI",
+    "lat": 28.600099649999997,
+    "lon": 76.11237065380323
   },
   {
     "partId": 29188,
@@ -5211,7 +6157,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 235,
-    "partName": "BHAGVI"
+    "partName": "BHAGVI",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29172,
@@ -5222,7 +6170,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 236,
-    "partName": "BHAGVI"
+    "partName": "BHAGVI",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29200,
@@ -5233,7 +6183,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 237,
-    "partName": "BHAGVI"
+    "partName": "BHAGVI",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29201,
@@ -5244,7 +6196,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 238,
-    "partName": "BHAGVI"
+    "partName": "BHAGVI",
+    "lat": 28.600099649999997,
+    "lon": 76.11237065380323
   },
   {
     "partId": 29173,
@@ -5255,7 +6209,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 239,
-    "partName": "SANTOR"
+    "partName": "SANTOR",
+    "lat": 28.6037526,
+    "lon": 76.4107912
   },
   {
     "partId": 29052,
@@ -5266,7 +6222,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 240,
-    "partName": "SANTOR"
+    "partName": "SANTOR",
+    "lat": 28.6037526,
+    "lon": 76.4107912
   },
   {
     "partId": 29239,
@@ -5277,7 +6235,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 241,
-    "partName": "SARUPGARH"
+    "partName": "SARUPGARH",
+    "lat": 28.610638,
+    "lon": 76.4140485
   },
   {
     "partId": 29240,
@@ -5288,7 +6248,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 242,
-    "partName": "SARUPGARH"
+    "partName": "SARUPGARH",
+    "lat": 28.610638,
+    "lon": 76.4140485
   },
   {
     "partId": 29075,
@@ -5299,7 +6261,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 243,
-    "partName": "NEEMLI"
+    "partName": "NEEMLI",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29241,
@@ -5310,7 +6274,9 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 244,
-    "partName": "NEEMLI"
+    "partName": "NEEMLI",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   },
   {
     "partId": 29189,
@@ -5321,6 +6287,8 @@
     "acNumber": 56,
     "acName": "DADRI",
     "partNumber": 245,
-    "partName": "NEEMLI"
+    "partName": "NEEMLI",
+    "lat": 28.6020969,
+    "lon": 76.19092921142855
   }
 ]

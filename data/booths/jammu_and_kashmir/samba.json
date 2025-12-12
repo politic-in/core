@@ -8,7 +8,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 1,
-    "partName": "JHANG -A"
+    "partName": "JHANG -A",
+    "lat": 32.5079199,
+    "lon": 74.9642264
   },
   {
     "partId": 22381,
@@ -19,7 +21,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 2,
-    "partName": "JHANG -B"
+    "partName": "JHANG -B",
+    "lat": 32.5079199,
+    "lon": 74.9642264
   },
   {
     "partId": 22382,
@@ -30,7 +34,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 3,
-    "partName": "GHO BRAHMANA"
+    "partName": "GHO BRAHMANA",
+    "lat": 32.5079199,
+    "lon": 74.9642264
   },
   {
     "partId": 22383,
@@ -41,7 +47,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 4,
-    "partName": "GHO BRAHAMANA -A"
+    "partName": "GHO BRAHAMANA -A",
+    "lat": 32.5079199,
+    "lon": 74.9642264
   },
   {
     "partId": 22384,
@@ -52,7 +60,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 5,
-    "partName": "GHO BRAHAMANA -B"
+    "partName": "GHO BRAHAMANA -B",
+    "lat": 32.5079199,
+    "lon": 74.9642264
   },
   {
     "partId": 22385,
@@ -63,7 +73,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 6,
-    "partName": "RAIKA LABANA-A"
+    "partName": "RAIKA LABANA-A",
+    "lat": 32.5079199,
+    "lon": 74.9642264
   },
   {
     "partId": 22386,
@@ -74,7 +86,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 7,
-    "partName": "RAIKA LABANA-B"
+    "partName": "RAIKA LABANA-B",
+    "lat": 32.5079199,
+    "lon": 74.9642264
   },
   {
     "partId": 22387,
@@ -85,7 +99,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 8,
-    "partName": "DABUJ SHEHZADA"
+    "partName": "DABUJ SHEHZADA",
+    "lat": 32.5079199,
+    "lon": 74.9642264
   },
   {
     "partId": 22388,
@@ -96,7 +112,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 9,
-    "partName": "KAMALA"
+    "partName": "KAMALA",
+    "lat": 32.5079199,
+    "lon": 74.9642264
   },
   {
     "partId": 22389,
@@ -107,7 +125,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 10,
-    "partName": "RARA"
+    "partName": "RARA",
+    "lat": 32.5079199,
+    "lon": 74.9642264
   },
   {
     "partId": 22390,
@@ -118,7 +138,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 11,
-    "partName": "RARA-A"
+    "partName": "RARA-A",
+    "lat": 32.5079199,
+    "lon": 74.9642264
   },
   {
     "partId": 22391,
@@ -129,7 +151,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 12,
-    "partName": "RARIAN"
+    "partName": "RARIAN",
+    "lat": 32.5079199,
+    "lon": 74.9642264
   },
   {
     "partId": 22392,
@@ -140,7 +164,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 13,
-    "partName": "SHAHZADPUR"
+    "partName": "SHAHZADPUR",
+    "lat": 32.5079199,
+    "lon": 74.9642264
   },
   {
     "partId": 22393,
@@ -151,7 +177,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 14,
-    "partName": "SWANKHA -A"
+    "partName": "SWANKHA -A",
+    "lat": 32.5079199,
+    "lon": 74.9642264
   },
   {
     "partId": 22394,
@@ -162,7 +190,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 15,
-    "partName": "SWANKHA- B"
+    "partName": "SWANKHA- B",
+    "lat": 32.5079199,
+    "lon": 74.9642264
   },
   {
     "partId": 22395,
@@ -173,7 +203,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 16,
-    "partName": "SWANKHA C"
+    "partName": "SWANKHA C",
+    "lat": 32.5079199,
+    "lon": 74.9642264
   },
   {
     "partId": 22396,
@@ -184,7 +216,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 17,
-    "partName": "CHAK SALARIAN"
+    "partName": "CHAK SALARIAN",
+    "lat": 32.5079199,
+    "lon": 74.9642264
   },
   {
     "partId": 22397,
@@ -195,7 +229,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 18,
-    "partName": "CHAK CHATKAN"
+    "partName": "CHAK CHATKAN",
+    "lat": 32.5079199,
+    "lon": 74.9642264
   },
   {
     "partId": 22398,
@@ -206,7 +242,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 19,
-    "partName": "KHOUR SALARIAN -A"
+    "partName": "KHOUR SALARIAN -A",
+    "lat": 32.5079199,
+    "lon": 74.9642264
   },
   {
     "partId": 22399,
@@ -217,7 +255,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 20,
-    "partName": "KHOUR SALARIAN -B"
+    "partName": "KHOUR SALARIAN -B",
+    "lat": 32.5079199,
+    "lon": 74.9642264
   },
   {
     "partId": 22400,
@@ -228,7 +268,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 21,
-    "partName": "JERDA"
+    "partName": "JERDA",
+    "lat": 32.5079199,
+    "lon": 74.9642264
   },
   {
     "partId": 22401,
@@ -239,7 +281,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 22,
-    "partName": "KHOUR SALARIAN -D"
+    "partName": "KHOUR SALARIAN -D",
+    "lat": 32.5079199,
+    "lon": 74.9642264
   },
   {
     "partId": 22402,
@@ -250,7 +294,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 23,
-    "partName": "RAKH ABTAL-A"
+    "partName": "RAKH ABTAL-A",
+    "lat": 32.5079199,
+    "lon": 74.9642264
   },
   {
     "partId": 22403,
@@ -261,7 +307,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 24,
-    "partName": "RAKH ABTAL -B"
+    "partName": "RAKH ABTAL -B",
+    "lat": 32.5079199,
+    "lon": 74.9642264
   },
   {
     "partId": 22404,
@@ -272,7 +320,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 25,
-    "partName": "ABTAL -A"
+    "partName": "ABTAL -A",
+    "lat": 32.5079199,
+    "lon": 74.9642264
   },
   {
     "partId": 22405,
@@ -283,7 +333,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 26,
-    "partName": "ABTAL -C"
+    "partName": "ABTAL -C",
+    "lat": 32.5079199,
+    "lon": 74.9642264
   },
   {
     "partId": 22406,
@@ -294,7 +346,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 27,
-    "partName": "ABTAL -B"
+    "partName": "ABTAL -B",
+    "lat": 32.5079199,
+    "lon": 74.9642264
   },
   {
     "partId": 22407,
@@ -305,7 +359,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 28,
-    "partName": "CHAK SHAMA"
+    "partName": "CHAK SHAMA",
+    "lat": 32.5079199,
+    "lon": 74.9642264
   },
   {
     "partId": 22408,
@@ -316,7 +372,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 29,
-    "partName": "CHAK BALOTRA- A"
+    "partName": "CHAK BALOTRA- A",
+    "lat": 32.5079199,
+    "lon": 74.9642264
   },
   {
     "partId": 22409,
@@ -327,7 +385,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 30,
-    "partName": "CHAK BALOTRA -B"
+    "partName": "CHAK BALOTRA -B",
+    "lat": 32.5079199,
+    "lon": 74.9642264
   },
   {
     "partId": 22410,
@@ -338,7 +398,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 31,
-    "partName": "RADWAN"
+    "partName": "RADWAN",
+    "lat": 32.5079199,
+    "lon": 74.9642264
   },
   {
     "partId": 22411,
@@ -349,7 +411,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 32,
-    "partName": "TRINDI JAMOORA"
+    "partName": "TRINDI JAMOORA",
+    "lat": 32.5079199,
+    "lon": 74.9642264
   },
   {
     "partId": 22412,
@@ -360,7 +424,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 33,
-    "partName": "KARALI KALAN"
+    "partName": "KARALI KALAN",
+    "lat": 32.5079199,
+    "lon": 74.9642264
   },
   {
     "partId": 22413,
@@ -371,7 +437,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 34,
-    "partName": "SARWA"
+    "partName": "SARWA",
+    "lat": 32.5079199,
+    "lon": 74.9642264
   },
   {
     "partId": 22414,
@@ -382,7 +450,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 35,
-    "partName": "BANDRAL"
+    "partName": "BANDRAL",
+    "lat": 32.5079199,
+    "lon": 74.9642264
   },
   {
     "partId": 22415,
@@ -393,7 +463,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 36,
-    "partName": "RAMGARH -A"
+    "partName": "RAMGARH -A",
+    "lat": 32.5079199,
+    "lon": 74.9642264
   },
   {
     "partId": 22416,
@@ -404,7 +476,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 37,
-    "partName": "RAMGARH -B"
+    "partName": "RAMGARH -B",
+    "lat": 32.5079199,
+    "lon": 74.9642264
   },
   {
     "partId": 22417,
@@ -415,7 +489,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 38,
-    "partName": "RAMGARH -C"
+    "partName": "RAMGARH -C",
+    "lat": 32.5079199,
+    "lon": 74.9642264
   },
   {
     "partId": 22418,
@@ -426,7 +502,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 39,
-    "partName": "RAMGARH -D"
+    "partName": "RAMGARH -D",
+    "lat": 32.5079199,
+    "lon": 74.9642264
   },
   {
     "partId": 22419,
@@ -437,7 +515,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 40,
-    "partName": "RAMLOO BRAHMANA"
+    "partName": "RAMLOO BRAHMANA",
+    "lat": 32.5079199,
+    "lon": 74.9642264
   },
   {
     "partId": 22420,
@@ -448,7 +528,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 41,
-    "partName": "MAHAL SHAHAN -A"
+    "partName": "MAHAL SHAHAN -A",
+    "lat": 32.5079199,
+    "lon": 74.9642264
   },
   {
     "partId": 22421,
@@ -459,7 +541,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 42,
-    "partName": "MAHAL SHAHAN -B"
+    "partName": "MAHAL SHAHAN -B",
+    "lat": 32.5079199,
+    "lon": 74.9642264
   },
   {
     "partId": 22422,
@@ -470,7 +554,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 43,
-    "partName": "JARH"
+    "partName": "JARH",
+    "lat": 32.5079199,
+    "lon": 74.9642264
   },
   {
     "partId": 22423,
@@ -481,7 +567,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 44,
-    "partName": "CHANNI FATWAL"
+    "partName": "CHANNI FATWAL",
+    "lat": 32.5079199,
+    "lon": 74.9642264
   },
   {
     "partId": 22424,
@@ -492,7 +580,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 45,
-    "partName": "CHHANI FATWAL -A"
+    "partName": "CHHANI FATWAL -A",
+    "lat": 32.5079199,
+    "lon": 74.9642264
   },
   {
     "partId": 22425,
@@ -503,7 +593,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 46,
-    "partName": "CHANNI FATWAL -B"
+    "partName": "CHANNI FATWAL -B",
+    "lat": 32.5079199,
+    "lon": 74.9642264
   },
   {
     "partId": 22426,
@@ -514,7 +606,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 47,
-    "partName": "BHAKHA CHAK"
+    "partName": "BHAKHA CHAK",
+    "lat": 32.5079199,
+    "lon": 74.9642264
   },
   {
     "partId": 22427,
@@ -525,7 +619,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 48,
-    "partName": "MANDLAYAL"
+    "partName": "MANDLAYAL",
+    "lat": 32.5079199,
+    "lon": 74.9642264
   },
   {
     "partId": 22428,
@@ -536,7 +632,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 49,
-    "partName": "PALOUTA"
+    "partName": "PALOUTA",
+    "lat": 32.5079199,
+    "lon": 74.9642264
   },
   {
     "partId": 22429,
@@ -547,7 +645,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 50,
-    "partName": "KESO MANASAN -A"
+    "partName": "KESO MANASAN -A",
+    "lat": 32.5079199,
+    "lon": 74.9642264
   },
   {
     "partId": 22430,
@@ -558,7 +658,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 51,
-    "partName": "KESO MANASAN -B"
+    "partName": "KESO MANASAN -B",
+    "lat": 32.5079199,
+    "lon": 74.9642264
   },
   {
     "partId": 22431,
@@ -569,7 +671,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 52,
-    "partName": "PAKHARI -A"
+    "partName": "PAKHARI -A",
+    "lat": 32.5079199,
+    "lon": 74.9642264
   },
   {
     "partId": 22432,
@@ -580,7 +684,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 53,
-    "partName": "BAJAWATI"
+    "partName": "BAJAWATI",
+    "lat": 32.5079199,
+    "lon": 74.9642264
   },
   {
     "partId": 22433,
@@ -591,7 +697,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 54,
-    "partName": "KHANPUR"
+    "partName": "KHANPUR",
+    "lat": 32.5079199,
+    "lon": 74.9642264
   },
   {
     "partId": 22434,
@@ -602,7 +710,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 55,
-    "partName": "KHANPUR-A"
+    "partName": "KHANPUR-A",
+    "lat": 32.5079199,
+    "lon": 74.9642264
   },
   {
     "partId": 22435,
@@ -613,7 +723,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 56,
-    "partName": "PAKHARI -B"
+    "partName": "PAKHARI -B",
+    "lat": 32.5079199,
+    "lon": 74.9642264
   },
   {
     "partId": 22436,
@@ -624,7 +736,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 57,
-    "partName": "KAMORE"
+    "partName": "KAMORE",
+    "lat": 32.5079199,
+    "lon": 74.9642264
   },
   {
     "partId": 22437,
@@ -635,7 +749,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 58,
-    "partName": "KAMORE -B"
+    "partName": "KAMORE -B",
+    "lat": 32.5079199,
+    "lon": 74.9642264
   },
   {
     "partId": 22438,
@@ -646,7 +762,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 59,
-    "partName": "BABRAL"
+    "partName": "BABRAL",
+    "lat": 32.5079199,
+    "lon": 74.9642264
   },
   {
     "partId": 22439,
@@ -657,7 +775,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 60,
-    "partName": "DADYAL"
+    "partName": "DADYAL",
+    "lat": 32.5079199,
+    "lon": 74.9642264
   },
   {
     "partId": 22440,
@@ -668,7 +788,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 61,
-    "partName": "NANGA -A"
+    "partName": "NANGA -A",
+    "lat": 32.4670125,
+    "lon": 74.9569648
   },
   {
     "partId": 22441,
@@ -679,7 +801,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 62,
-    "partName": "NANGA -B"
+    "partName": "NANGA -B",
+    "lat": 32.4670125,
+    "lon": 74.9569648
   },
   {
     "partId": 22442,
@@ -690,7 +814,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 63,
-    "partName": "RANGOOR- A"
+    "partName": "RANGOOR- A",
+    "lat": 32.5079199,
+    "lon": 74.9642264
   },
   {
     "partId": 22443,
@@ -701,7 +827,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 64,
-    "partName": "RANGOOR -B"
+    "partName": "RANGOOR -B",
+    "lat": 32.5079199,
+    "lon": 74.9642264
   },
   {
     "partId": 22444,
@@ -712,7 +840,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 65,
-    "partName": "GALAHAR -A"
+    "partName": "GALAHAR -A",
+    "lat": 32.5079199,
+    "lon": 74.9642264
   },
   {
     "partId": 22445,
@@ -723,7 +853,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 66,
-    "partName": "GLAHAR -B"
+    "partName": "GLAHAR -B",
+    "lat": 32.5079199,
+    "lon": 74.9642264
   },
   {
     "partId": 22446,
@@ -734,7 +866,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 67,
-    "partName": "BAIN -A"
+    "partName": "BAIN -A",
+    "lat": 32.5079199,
+    "lon": 74.9642264
   },
   {
     "partId": 22447,
@@ -745,7 +879,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 68,
-    "partName": "PANGDOUR"
+    "partName": "PANGDOUR",
+    "lat": 32.5079199,
+    "lon": 74.9642264
   },
   {
     "partId": 22448,
@@ -756,7 +892,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 69,
-    "partName": "RAIPUR"
+    "partName": "RAIPUR",
+    "lat": 32.5079199,
+    "lon": 74.9642264
   },
   {
     "partId": 22449,
@@ -767,7 +905,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 70,
-    "partName": "RAKH AMB TALI  -A"
+    "partName": "RAKH AMB TALI  -A",
+    "lat": 32.5079199,
+    "lon": 74.9642264
   },
   {
     "partId": 22450,
@@ -778,7 +918,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 71,
-    "partName": "RAKH AMB TALI  -B"
+    "partName": "RAKH AMB TALI  -B",
+    "lat": 32.5079199,
+    "lon": 74.9642264
   },
   {
     "partId": 22451,
@@ -789,7 +931,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 72,
-    "partName": "DIANI -B"
+    "partName": "DIANI -B",
+    "lat": 32.5079199,
+    "lon": 74.9642264
   },
   {
     "partId": 22452,
@@ -800,7 +944,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 73,
-    "partName": "DIANI"
+    "partName": "DIANI",
+    "lat": 32.5079199,
+    "lon": 74.9642264
   },
   {
     "partId": 22453,
@@ -811,7 +957,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 74,
-    "partName": "KATLI"
+    "partName": "KATLI",
+    "lat": 32.5079199,
+    "lon": 74.9642264
   },
   {
     "partId": 22454,
@@ -822,7 +970,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 75,
-    "partName": "KATLI  -B"
+    "partName": "KATLI  -B",
+    "lat": 32.5079199,
+    "lon": 74.9642264
   },
   {
     "partId": 22455,
@@ -833,7 +983,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 76,
-    "partName": "CHAK JANGI"
+    "partName": "CHAK JANGI",
+    "lat": 32.5079199,
+    "lon": 74.9642264
   },
   {
     "partId": 22456,
@@ -844,7 +996,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 77,
-    "partName": "KOTHA LOAKHI"
+    "partName": "KOTHA LOAKHI",
+    "lat": 32.5079199,
+    "lon": 74.9642264
   },
   {
     "partId": 22457,
@@ -855,7 +1009,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 78,
-    "partName": "KALI BARI"
+    "partName": "KALI BARI",
+    "lat": 32.5079199,
+    "lon": 74.9642264
   },
   {
     "partId": 22458,
@@ -866,7 +1022,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 79,
-    "partName": "REHIAN"
+    "partName": "REHIAN",
+    "lat": 32.5079199,
+    "lon": 74.9642264
   },
   {
     "partId": 22459,
@@ -877,7 +1035,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 80,
-    "partName": "REHIAN  -A"
+    "partName": "REHIAN  -A",
+    "lat": 32.5079199,
+    "lon": 74.9642264
   },
   {
     "partId": 22460,
@@ -888,7 +1048,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 81,
-    "partName": "REHIAN -B"
+    "partName": "REHIAN -B",
+    "lat": 32.5079199,
+    "lon": 74.9642264
   },
   {
     "partId": 22461,
@@ -899,7 +1061,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 82,
-    "partName": "CHANNI JASSU"
+    "partName": "CHANNI JASSU",
+    "lat": 32.5079199,
+    "lon": 74.9642264
   },
   {
     "partId": 22462,
@@ -910,7 +1074,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 83,
-    "partName": "SORDI"
+    "partName": "SORDI",
+    "lat": 32.5079199,
+    "lon": 74.9642264
   },
   {
     "partId": 22463,
@@ -921,7 +1087,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 84,
-    "partName": "RAKH KANGWALA -A"
+    "partName": "RAKH KANGWALA -A",
+    "lat": 32.5079199,
+    "lon": 74.9642264
   },
   {
     "partId": 22464,
@@ -932,7 +1100,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 85,
-    "partName": "RAKH KANGWALA- B"
+    "partName": "RAKH KANGWALA- B",
+    "lat": 32.5079199,
+    "lon": 74.9642264
   },
   {
     "partId": 22465,
@@ -943,7 +1113,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 86,
-    "partName": "MAWA -A"
+    "partName": "MAWA -A",
+    "lat": 32.5079199,
+    "lon": 74.9642264
   },
   {
     "partId": 22466,
@@ -954,7 +1126,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 87,
-    "partName": "MAWA -B"
+    "partName": "MAWA -B",
+    "lat": 32.5079199,
+    "lon": 74.9642264
   },
   {
     "partId": 22467,
@@ -965,7 +1139,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 88,
-    "partName": "PALOORA"
+    "partName": "PALOORA",
+    "lat": 32.5079199,
+    "lon": 74.9642264
   },
   {
     "partId": 22468,
@@ -976,7 +1152,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 89,
-    "partName": "NADALA"
+    "partName": "NADALA",
+    "lat": 32.5079199,
+    "lon": 74.9642264
   },
   {
     "partId": 22469,
@@ -987,7 +1165,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 90,
-    "partName": "MADOON -A"
+    "partName": "MADOON -A",
+    "lat": 32.5079199,
+    "lon": 74.9642264
   },
   {
     "partId": 22470,
@@ -998,7 +1178,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 91,
-    "partName": "MADOON -B"
+    "partName": "MADOON -B",
+    "lat": 32.5079199,
+    "lon": 74.9642264
   },
   {
     "partId": 22471,
@@ -1009,7 +1191,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 92,
-    "partName": "BADYAL"
+    "partName": "BADYAL",
+    "lat": 32.5079199,
+    "lon": 74.9642264
   },
   {
     "partId": 22472,
@@ -1020,7 +1204,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 93,
-    "partName": "PALOONA"
+    "partName": "PALOONA",
+    "lat": 32.5079199,
+    "lon": 74.9642264
   },
   {
     "partId": 22473,
@@ -1031,7 +1217,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 94,
-    "partName": "SANOORA  -A"
+    "partName": "SANOORA  -A",
+    "lat": 32.5079199,
+    "lon": 74.9642264
   },
   {
     "partId": 22474,
@@ -1042,7 +1230,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 95,
-    "partName": "SANOORA  -B"
+    "partName": "SANOORA  -B",
+    "lat": 32.5079199,
+    "lon": 74.9642264
   },
   {
     "partId": 22475,
@@ -1053,7 +1243,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 96,
-    "partName": "RAGHU CHAK"
+    "partName": "RAGHU CHAK",
+    "lat": 32.5079199,
+    "lon": 74.9642264
   },
   {
     "partId": 22476,
@@ -1064,7 +1256,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 97,
-    "partName": "RAJPURA"
+    "partName": "RAJPURA",
+    "lat": 32.507125581553396,
+    "lon": 74.96408539805826
   },
   {
     "partId": 22477,
@@ -1075,7 +1269,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 98,
-    "partName": "RAJPURA  -A"
+    "partName": "RAJPURA  -A",
+    "lat": 32.507125581553396,
+    "lon": 74.96408539805826
   },
   {
     "partId": 22478,
@@ -1086,7 +1282,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 99,
-    "partName": "RAJPURA -B"
+    "partName": "RAJPURA -B",
+    "lat": 32.507125581553396,
+    "lon": 74.96408539805826
   },
   {
     "partId": 22479,
@@ -1097,7 +1295,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 100,
-    "partName": "RAJPURA -C"
+    "partName": "RAJPURA -C",
+    "lat": 32.507125581553396,
+    "lon": 74.96408539805826
   },
   {
     "partId": 22480,
@@ -1108,7 +1308,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 101,
-    "partName": "CHYLARI KHURD -A"
+    "partName": "CHYLARI KHURD -A",
+    "lat": 32.5079199,
+    "lon": 74.9642264
   },
   {
     "partId": 22481,
@@ -1119,7 +1321,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 102,
-    "partName": "CHYLARI KHURD -B"
+    "partName": "CHYLARI KHURD -B",
+    "lat": 32.507125581553396,
+    "lon": 74.96408539805826
   },
   {
     "partId": 22482,
@@ -1130,7 +1334,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 103,
-    "partName": "REGAL"
+    "partName": "REGAL",
+    "lat": 32.507125581553396,
+    "lon": 74.96408539805826
   },
   {
     "partId": 22483,
@@ -1141,7 +1347,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 104,
-    "partName": "SARTHI KALAN"
+    "partName": "SARTHI KALAN",
+    "lat": 32.507125581553396,
+    "lon": 74.96408539805826
   },
   {
     "partId": 22484,
@@ -1152,7 +1360,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 105,
-    "partName": "MANGU CHAK"
+    "partName": "MANGU CHAK",
+    "lat": 32.507125581553396,
+    "lon": 74.96408539805826
   },
   {
     "partId": 22485,
@@ -1163,7 +1373,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 106,
-    "partName": "SADWAL"
+    "partName": "SADWAL",
+    "lat": 32.5079199,
+    "lon": 74.9642264
   },
   {
     "partId": 22486,
@@ -1174,7 +1386,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 107,
-    "partName": "MUTHI CHARU"
+    "partName": "MUTHI CHARU",
+    "lat": 32.5079199,
+    "lon": 74.9642264
   },
   {
     "partId": 22487,
@@ -1185,7 +1399,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 108,
-    "partName": "CHAK DULMA"
+    "partName": "CHAK DULMA",
+    "lat": 32.507125581553396,
+    "lon": 74.96408539805826
   },
   {
     "partId": 22488,
@@ -1196,7 +1412,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 109,
-    "partName": "CHAK BHAGATA"
+    "partName": "CHAK BHAGATA",
+    "lat": 32.5079199,
+    "lon": 74.9642264
   },
   {
     "partId": 22489,
@@ -1207,7 +1425,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 110,
-    "partName": "PANJ GRAIN SANIAN"
+    "partName": "PANJ GRAIN SANIAN",
+    "lat": 32.5079199,
+    "lon": 74.9642264
   },
   {
     "partId": 22490,
@@ -1218,7 +1438,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 111,
-    "partName": "MALANI"
+    "partName": "MALANI",
+    "lat": 32.5079199,
+    "lon": 74.9642264
   },
   {
     "partId": 22491,
@@ -1229,7 +1451,9 @@
     "acNumber": 69,
     "acName": "RAMGARH",
     "partNumber": 112,
-    "partName": "SUJANA"
+    "partName": "SUJANA",
+    "lat": 32.5079199,
+    "lon": 74.9642264
   },
   {
     "partId": 22492,
@@ -1240,7 +1464,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 1,
-    "partName": "NATHWAL"
+    "partName": "NATHWAL",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22493,
@@ -1251,7 +1477,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 2,
-    "partName": "RAJINDERPURA- A"
+    "partName": "RAJINDERPURA- A",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22494,
@@ -1262,7 +1490,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 3,
-    "partName": "RAJINDERPURA B"
+    "partName": "RAJINDERPURA B",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22495,
@@ -1273,7 +1503,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 4,
-    "partName": "GURAH SLATHIAN -E"
+    "partName": "GURAH SLATHIAN -E",
+    "lat": 32.574121202343754,
+    "lon": 75.12243875427092
   },
   {
     "partId": 22496,
@@ -1284,7 +1516,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 5,
-    "partName": "GURAH SLATHIAN- F"
+    "partName": "GURAH SLATHIAN- F",
+    "lat": 32.574121202343754,
+    "lon": 75.12243875427092
   },
   {
     "partId": 22497,
@@ -1295,7 +1529,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 6,
-    "partName": "GURAH SLATHIAN -A"
+    "partName": "GURAH SLATHIAN -A",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22498,
@@ -1306,7 +1542,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 7,
-    "partName": "GURAH SLATHIAN -D"
+    "partName": "GURAH SLATHIAN -D",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22499,
@@ -1317,7 +1555,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 8,
-    "partName": "MOUTLIAN KALAN"
+    "partName": "MOUTLIAN KALAN",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22500,
@@ -1328,7 +1568,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 9,
-    "partName": "LOVELY"
+    "partName": "LOVELY",
+    "lat": 32.574121202343754,
+    "lon": 75.12243875427092
   },
   {
     "partId": 22501,
@@ -1339,7 +1581,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 10,
-    "partName": "KATHAR BRAHAMANA"
+    "partName": "KATHAR BRAHAMANA",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22502,
@@ -1350,7 +1594,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 11,
-    "partName": "KUMI"
+    "partName": "KUMI",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22503,
@@ -1361,7 +1607,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 12,
-    "partName": "MOHAR GARH"
+    "partName": "MOHAR GARH",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22504,
@@ -1372,7 +1620,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 13,
-    "partName": "DHER GHAR"
+    "partName": "DHER GHAR",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22505,
@@ -1383,7 +1633,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 14,
-    "partName": "BUPNER GARH"
+    "partName": "BUPNER GARH",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22506,
@@ -1394,7 +1646,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 15,
-    "partName": "CHILLA DANGA"
+    "partName": "CHILLA DANGA",
+    "lat": 32.574121202343754,
+    "lon": 75.12243875427092
   },
   {
     "partId": 22507,
@@ -1405,7 +1659,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 16,
-    "partName": "SARNA A"
+    "partName": "SARNA A",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22508,
@@ -1416,7 +1672,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 17,
-    "partName": "SARNA B"
+    "partName": "SARNA B",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22509,
@@ -1427,7 +1685,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 18,
-    "partName": "NANGAL"
+    "partName": "NANGAL",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22510,
@@ -1438,7 +1698,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 19,
-    "partName": "BRI KAMILA"
+    "partName": "BRI KAMILA",
+    "lat": 32.574121202343754,
+    "lon": 75.12243875427092
   },
   {
     "partId": 22511,
@@ -1449,7 +1711,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 20,
-    "partName": "GURAH SLATHIAN-B"
+    "partName": "GURAH SLATHIAN-B",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22512,
@@ -1460,7 +1724,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 21,
-    "partName": "GURAH SLATHIAN-C"
+    "partName": "GURAH SLATHIAN-C",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22513,
@@ -1471,7 +1737,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 22,
-    "partName": "BUDHWAL"
+    "partName": "BUDHWAL",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22514,
@@ -1482,7 +1750,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 23,
-    "partName": "SANGWAL A"
+    "partName": "SANGWAL A",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22515,
@@ -1493,7 +1763,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 24,
-    "partName": "RAKH BAROTIAN"
+    "partName": "RAKH BAROTIAN",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22516,
@@ -1504,7 +1776,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 25,
-    "partName": "BARA"
+    "partName": "BARA",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22517,
@@ -1515,7 +1789,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 26,
-    "partName": "DAGHORE B"
+    "partName": "DAGHORE B",
+    "lat": 32.574121202343754,
+    "lon": 75.12243875427092
   },
   {
     "partId": 22518,
@@ -1526,7 +1802,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 27,
-    "partName": "DAGHORE A"
+    "partName": "DAGHORE A",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22519,
@@ -1537,7 +1815,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 28,
-    "partName": "DARUIE"
+    "partName": "DARUIE",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22520,
@@ -1548,7 +1828,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 29,
-    "partName": "BARDHAN"
+    "partName": "BARDHAN",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22521,
@@ -1559,7 +1841,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 30,
-    "partName": "BALORE -A"
+    "partName": "BALORE -A",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22522,
@@ -1570,7 +1854,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 31,
-    "partName": "DHORA A"
+    "partName": "DHORA A",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22523,
@@ -1581,7 +1867,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 32,
-    "partName": "DHORA B"
+    "partName": "DHORA B",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22524,
@@ -1592,7 +1880,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 33,
-    "partName": "NUD"
+    "partName": "NUD",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22525,
@@ -1603,7 +1893,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 34,
-    "partName": "SARAIN"
+    "partName": "SARAIN",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22526,
@@ -1614,7 +1906,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 35,
-    "partName": "JANDA"
+    "partName": "JANDA",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22527,
@@ -1625,7 +1919,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 36,
-    "partName": "GANGAIR"
+    "partName": "GANGAIR",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22528,
@@ -1636,7 +1932,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 37,
-    "partName": "JAMORA"
+    "partName": "JAMORA",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22529,
@@ -1647,7 +1945,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 38,
-    "partName": "PAPAR BRAHAMNA"
+    "partName": "PAPAR BRAHAMNA",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22530,
@@ -1658,7 +1958,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 39,
-    "partName": "PAPAR AVTARA"
+    "partName": "PAPAR AVTARA",
+    "lat": 32.574121202343754,
+    "lon": 75.12243875427092
   },
   {
     "partId": 22531,
@@ -1669,7 +1971,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 40,
-    "partName": "KALI NAMI"
+    "partName": "KALI NAMI",
+    "lat": 32.574121202343754,
+    "lon": 75.12243875427092
   },
   {
     "partId": 22532,
@@ -1680,7 +1984,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 41,
-    "partName": "DHANTH"
+    "partName": "DHANTH",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22533,
@@ -1691,7 +1997,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 42,
-    "partName": "MANANU"
+    "partName": "MANANU",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22534,
@@ -1702,7 +2010,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 43,
-    "partName": "DABOH"
+    "partName": "DABOH",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22535,
@@ -1713,7 +2023,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 44,
-    "partName": "BADHERI A"
+    "partName": "BADHERI A",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22536,
@@ -1724,7 +2036,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 45,
-    "partName": "BADHERI B"
+    "partName": "BADHERI B",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22537,
@@ -1735,7 +2049,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 46,
-    "partName": "SUJWAN -A"
+    "partName": "SUJWAN -A",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22538,
@@ -1746,7 +2062,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 47,
-    "partName": "SUJWAN- B"
+    "partName": "SUJWAN- B",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22539,
@@ -1757,7 +2075,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 48,
-    "partName": "CHAJJWAL-B"
+    "partName": "CHAJJWAL-B",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22540,
@@ -1768,7 +2088,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 49,
-    "partName": "SUJWAN"
+    "partName": "SUJWAN",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22541,
@@ -1779,7 +2101,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 50,
-    "partName": "CHAJJWAL-A"
+    "partName": "CHAJJWAL-A",
+    "lat": 32.574121202343754,
+    "lon": 75.12243875427092
   },
   {
     "partId": 22542,
@@ -1790,7 +2114,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 51,
-    "partName": "SUPWAL"
+    "partName": "SUPWAL",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22543,
@@ -1801,7 +2127,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 52,
-    "partName": "SUPWAL -B"
+    "partName": "SUPWAL -B",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22544,
@@ -1812,7 +2140,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 53,
-    "partName": "LANGTH"
+    "partName": "LANGTH",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22545,
@@ -1823,7 +2153,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 54,
-    "partName": "CHAK MANGA RAKWAL D"
+    "partName": "CHAK MANGA RAKWAL D",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22546,
@@ -1834,7 +2166,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 55,
-    "partName": "CHAK MANGA RAKWAL E"
+    "partName": "CHAK MANGA RAKWAL E",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22547,
@@ -1845,7 +2179,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 56,
-    "partName": "BEHRI"
+    "partName": "BEHRI",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22548,
@@ -1856,7 +2192,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 57,
-    "partName": "KALOHA"
+    "partName": "KALOHA",
+    "lat": 32.574121202343754,
+    "lon": 75.12243875427092
   },
   {
     "partId": 22549,
@@ -1867,7 +2205,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 58,
-    "partName": "KUPRI"
+    "partName": "KUPRI",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22550,
@@ -1878,7 +2218,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 59,
-    "partName": "BAGARI MOHARA"
+    "partName": "BAGARI MOHARA",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22551,
@@ -1889,7 +2231,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 60,
-    "partName": "BHARAT GARH"
+    "partName": "BHARAT GARH",
+    "lat": 32.574121202343754,
+    "lon": 75.12243875427092
   },
   {
     "partId": 22552,
@@ -1900,7 +2244,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 61,
-    "partName": "BADNAI"
+    "partName": "BADNAI",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22553,
@@ -1911,7 +2257,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 62,
-    "partName": "GUJWAL"
+    "partName": "GUJWAL",
+    "lat": 32.574121202343754,
+    "lon": 75.12243875427092
   },
   {
     "partId": 22554,
@@ -1922,7 +2270,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 63,
-    "partName": "CHANOORI"
+    "partName": "CHANOORI",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22555,
@@ -1933,7 +2283,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 64,
-    "partName": "TALOOR A"
+    "partName": "TALOOR A",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22556,
@@ -1944,7 +2296,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 65,
-    "partName": "PANGWAL"
+    "partName": "PANGWAL",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22557,
@@ -1955,7 +2309,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 66,
-    "partName": "AMALA"
+    "partName": "AMALA",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22558,
@@ -1966,7 +2322,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 67,
-    "partName": "SAMBA A"
+    "partName": "SAMBA A",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22559,
@@ -1977,7 +2335,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 68,
-    "partName": "SAMBA B"
+    "partName": "SAMBA B",
+    "lat": 32.574121202343754,
+    "lon": 75.12243875427092
   },
   {
     "partId": 22560,
@@ -1988,7 +2348,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 69,
-    "partName": "SAMBA C"
+    "partName": "SAMBA C",
+    "lat": 32.5622412,
+    "lon": 75.1165585
   },
   {
     "partId": 22561,
@@ -1999,7 +2361,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 70,
-    "partName": "SAMBA-H"
+    "partName": "SAMBA-H",
+    "lat": 32.5622412,
+    "lon": 75.1165585
   },
   {
     "partId": 22562,
@@ -2010,7 +2374,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 71,
-    "partName": "SAMBA F"
+    "partName": "SAMBA F",
+    "lat": 32.574121202343754,
+    "lon": 75.12243875427092
   },
   {
     "partId": 22563,
@@ -2021,7 +2387,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 72,
-    "partName": "SAMBA D"
+    "partName": "SAMBA D",
+    "lat": 32.5622412,
+    "lon": 75.1165585
   },
   {
     "partId": 22564,
@@ -2032,7 +2400,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 73,
-    "partName": "SAMBA E"
+    "partName": "SAMBA E",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22565,
@@ -2043,7 +2413,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 74,
-    "partName": "SAMBA G"
+    "partName": "SAMBA G",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22566,
@@ -2054,7 +2426,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 75,
-    "partName": "MANDI GURGALIAN A"
+    "partName": "MANDI GURGALIAN A",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22567,
@@ -2065,7 +2439,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 76,
-    "partName": "MANDI GURGALIAN B"
+    "partName": "MANDI GURGALIAN B",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22568,
@@ -2076,7 +2452,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 77,
-    "partName": "RAIPUR CAMP"
+    "partName": "RAIPUR CAMP",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22569,
@@ -2087,7 +2465,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 78,
-    "partName": "CHAK DAYALA"
+    "partName": "CHAK DAYALA",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22570,
@@ -2098,7 +2478,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 79,
-    "partName": "CHAK KOOR SINGH"
+    "partName": "CHAK KOOR SINGH",
+    "lat": 32.574121202343754,
+    "lon": 75.12243875427092
   },
   {
     "partId": 22571,
@@ -2109,7 +2491,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 80,
-    "partName": "RATTANPUR"
+    "partName": "RATTANPUR",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22572,
@@ -2120,7 +2504,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 81,
-    "partName": "CHHAJWAL"
+    "partName": "CHHAJWAL",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22573,
@@ -2131,7 +2517,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 82,
-    "partName": "MANOHAR GOPALA"
+    "partName": "MANOHAR GOPALA",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22574,
@@ -2142,7 +2530,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 83,
-    "partName": "CHAK MANGA RAKWAL  A"
+    "partName": "CHAK MANGA RAKWAL  A",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22575,
@@ -2153,7 +2543,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 84,
-    "partName": "CHAK MANGA RAKWAL  B"
+    "partName": "CHAK MANGA RAKWAL  B",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22576,
@@ -2164,7 +2556,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 85,
-    "partName": "CHAK MANGA RAKWAL  C"
+    "partName": "CHAK MANGA RAKWAL  C",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22577,
@@ -2175,7 +2569,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 86,
-    "partName": "MANDI KELHI A"
+    "partName": "MANDI KELHI A",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22578,
@@ -2186,7 +2582,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 87,
-    "partName": "MANDI KELHI B"
+    "partName": "MANDI KELHI B",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22579,
@@ -2197,7 +2595,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 88,
-    "partName": "MANDI PUSHWALIAN A"
+    "partName": "MANDI PUSHWALIAN A",
+    "lat": 32.574121202343754,
+    "lon": 75.12243875427092
   },
   {
     "partId": 22580,
@@ -2208,7 +2608,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 89,
-    "partName": "MANDI PUSHWALIAN B"
+    "partName": "MANDI PUSHWALIAN B",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22581,
@@ -2219,7 +2621,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 90,
-    "partName": "MANDI THALORA"
+    "partName": "MANDI THALORA",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22582,
@@ -2230,7 +2634,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 91,
-    "partName": "MANDI GARH"
+    "partName": "MANDI GARH",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22583,
@@ -2241,7 +2647,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 92,
-    "partName": "SAMBA"
+    "partName": "SAMBA",
+    "lat": 32.574121202343754,
+    "lon": 75.12243875427092
   },
   {
     "partId": 22584,
@@ -2252,7 +2660,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 93,
-    "partName": "BUDWANI"
+    "partName": "BUDWANI",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22585,
@@ -2263,7 +2673,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 94,
-    "partName": "PENTHI"
+    "partName": "PENTHI",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22586,
@@ -2274,7 +2686,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 95,
-    "partName": "MARKOLI"
+    "partName": "MARKOLI",
+    "lat": 32.574121202343754,
+    "lon": 75.12243875427092
   },
   {
     "partId": 22587,
@@ -2285,7 +2699,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 96,
-    "partName": "PAYOUR"
+    "partName": "PAYOUR",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22588,
@@ -2296,7 +2712,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 97,
-    "partName": "JATTAH"
+    "partName": "JATTAH",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22589,
@@ -2307,7 +2725,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 98,
-    "partName": "RAYOUR"
+    "partName": "RAYOUR",
+    "lat": 32.574121202343754,
+    "lon": 75.12243875427092
   },
   {
     "partId": 22590,
@@ -2318,7 +2738,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 99,
-    "partName": "HARDOLIAN"
+    "partName": "HARDOLIAN",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22591,
@@ -2329,7 +2751,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 100,
-    "partName": "BAGOON"
+    "partName": "BAGOON",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22592,
@@ -2340,7 +2764,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 101,
-    "partName": "JEED"
+    "partName": "JEED",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22593,
@@ -2351,7 +2777,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 102,
-    "partName": "SOURAM"
+    "partName": "SOURAM",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22594,
@@ -2362,7 +2790,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 103,
-    "partName": "SANOOR"
+    "partName": "SANOOR",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22595,
@@ -2373,7 +2803,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 104,
-    "partName": "BABEETI"
+    "partName": "BABEETI",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22596,
@@ -2384,7 +2816,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 105,
-    "partName": "KHABAL"
+    "partName": "KHABAL",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22597,
@@ -2395,7 +2829,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 106,
-    "partName": "DABRI"
+    "partName": "DABRI",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22598,
@@ -2406,7 +2842,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 107,
-    "partName": "BUDWANA"
+    "partName": "BUDWANA",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22599,
@@ -2417,7 +2855,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 108,
-    "partName": "SAMOTHA"
+    "partName": "SAMOTHA",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22600,
@@ -2428,7 +2868,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 109,
-    "partName": "BELI"
+    "partName": "BELI",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22601,
@@ -2439,7 +2881,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 110,
-    "partName": "BATTAL"
+    "partName": "BATTAL",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22602,
@@ -2450,7 +2894,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 111,
-    "partName": "KANAIR"
+    "partName": "KANAIR",
+    "lat": 32.574121202343754,
+    "lon": 75.12243875427092
   },
   {
     "partId": 22603,
@@ -2461,7 +2907,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 112,
-    "partName": "SUMB A"
+    "partName": "SUMB A",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22604,
@@ -2472,7 +2920,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 113,
-    "partName": "SUMB B"
+    "partName": "SUMB B",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22606,
@@ -2483,7 +2933,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 114,
-    "partName": "SIMBLANA"
+    "partName": "SIMBLANA",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22605,
@@ -2494,7 +2946,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 115,
-    "partName": "BALETAR"
+    "partName": "BALETAR",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22607,
@@ -2505,7 +2959,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 116,
-    "partName": "CHAL KHATLI"
+    "partName": "CHAL KHATLI",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22608,
@@ -2516,7 +2972,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 117,
-    "partName": "PASWAL"
+    "partName": "PASWAL",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22609,
@@ -2527,7 +2985,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 118,
-    "partName": "CHANDLI"
+    "partName": "CHANDLI",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22610,
@@ -2538,7 +2998,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 119,
-    "partName": "DHAKI"
+    "partName": "DHAKI",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22611,
@@ -2549,7 +3011,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 120,
-    "partName": "DABEKA"
+    "partName": "DABEKA",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22612,
@@ -2560,7 +3024,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 121,
-    "partName": "SOHANDA"
+    "partName": "SOHANDA",
+    "lat": 32.574121202343754,
+    "lon": 75.12243875427092
   },
   {
     "partId": 22613,
@@ -2571,7 +3037,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 122,
-    "partName": "JATWAL  -A"
+    "partName": "JATWAL  -A",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22614,
@@ -2582,7 +3050,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 123,
-    "partName": "JATWAL -B"
+    "partName": "JATWAL -B",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22615,
@@ -2593,7 +3063,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 124,
-    "partName": "BALOONI"
+    "partName": "BALOONI",
+    "lat": 32.574121202343754,
+    "lon": 75.12243875427092
   },
   {
     "partId": 22616,
@@ -2604,7 +3076,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 125,
-    "partName": "CHANN MALAGRAN"
+    "partName": "CHANN MALAGRAN",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22617,
@@ -2615,7 +3089,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 126,
-    "partName": "RADIYAL"
+    "partName": "RADIYAL",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22618,
@@ -2626,7 +3102,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 127,
-    "partName": "PATYARI KATLAN"
+    "partName": "PATYARI KATLAN",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22619,
@@ -2637,7 +3115,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 128,
-    "partName": "KAINK"
+    "partName": "KAINK",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22620,
@@ -2648,7 +3128,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 129,
-    "partName": "NARAN -A"
+    "partName": "NARAN -A",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22621,
@@ -2659,7 +3141,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 130,
-    "partName": "MANDHERA"
+    "partName": "MANDHERA",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22622,
@@ -2670,7 +3154,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 131,
-    "partName": "NARAN -B"
+    "partName": "NARAN -B",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22623,
@@ -2681,7 +3167,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 132,
-    "partName": "SANGWALI"
+    "partName": "SANGWALI",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22624,
@@ -2692,7 +3180,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 133,
-    "partName": "NONATH  -A"
+    "partName": "NONATH  -A",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22625,
@@ -2703,7 +3193,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 134,
-    "partName": "NONATH -B"
+    "partName": "NONATH -B",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22626,
@@ -2714,7 +3206,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 135,
-    "partName": "SANDHI"
+    "partName": "SANDHI",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22627,
@@ -2725,7 +3219,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 136,
-    "partName": "SURARA A"
+    "partName": "SURARA A",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22628,
@@ -2736,7 +3232,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 137,
-    "partName": "SURARA -B"
+    "partName": "SURARA -B",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22629,
@@ -2747,7 +3245,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 138,
-    "partName": "ODH"
+    "partName": "ODH",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22630,
@@ -2758,7 +3258,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 139,
-    "partName": "NICHLA  -A"
+    "partName": "NICHLA  -A",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22631,
@@ -2769,7 +3271,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 140,
-    "partName": "RATWANA"
+    "partName": "RATWANA",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22632,
@@ -2780,7 +3284,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 141,
-    "partName": "GURAH JATTAN"
+    "partName": "GURAH JATTAN",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22633,
@@ -2791,7 +3297,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 142,
-    "partName": "GHAGWAL"
+    "partName": "GHAGWAL",
+    "lat": 32.574121202343754,
+    "lon": 75.12243875427092
   },
   {
     "partId": 22634,
@@ -2802,7 +3310,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 143,
-    "partName": "GHAGWAL - A"
+    "partName": "GHAGWAL - A",
+    "lat": 32.5131856,
+    "lon": 75.2134831
   },
   {
     "partId": 22635,
@@ -2813,7 +3323,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 144,
-    "partName": "GHAGWAL -B"
+    "partName": "GHAGWAL -B",
+    "lat": 32.5131856,
+    "lon": 75.2134831
   },
   {
     "partId": 22636,
@@ -2824,7 +3336,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 145,
-    "partName": "GHAGWAL -C"
+    "partName": "GHAGWAL -C",
+    "lat": 32.5131856,
+    "lon": 75.2134831
   },
   {
     "partId": 22637,
@@ -2835,7 +3349,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 146,
-    "partName": "HARSATH"
+    "partName": "HARSATH",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22638,
@@ -2846,7 +3362,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 147,
-    "partName": "RANDHWAL -A"
+    "partName": "RANDHWAL -A",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22639,
@@ -2857,7 +3375,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 148,
-    "partName": "RANDHWAL -B"
+    "partName": "RANDHWAL -B",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22640,
@@ -2868,7 +3388,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 149,
-    "partName": "CHHAN MATLOONI  -A"
+    "partName": "CHHAN MATLOONI  -A",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22641,
@@ -2879,7 +3401,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 150,
-    "partName": "CHANN MATLONI -B"
+    "partName": "CHANN MATLONI -B",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 22642,
@@ -2890,7 +3414,9 @@
     "acNumber": 70,
     "acName": "SAMBA",
     "partNumber": 151,
-    "partName": "TAPYAL"
+    "partName": "TAPYAL",
+    "lat": 32.57591175,
+    "lon": 75.12034455530063
   },
   {
     "partId": 8574,
@@ -2901,7 +3427,9 @@
     "acNumber": 71,
     "acName": "VIJAYPUR",
     "partNumber": 1,
-    "partName": "TALAB DATTA  - A"
+    "partName": "TALAB DATTA  - A",
+    "lat": 32.5664955,
+    "lon": 75.0172188
   },
   {
     "partId": 8575,
@@ -2912,7 +3440,9 @@
     "acNumber": 71,
     "acName": "VIJAYPUR",
     "partNumber": 2,
-    "partName": "TALAB DATTA - B"
+    "partName": "TALAB DATTA - B",
+    "lat": 32.5664955,
+    "lon": 75.0172188
   },
   {
     "partId": 8576,
@@ -2923,7 +3453,9 @@
     "acNumber": 71,
     "acName": "VIJAYPUR",
     "partNumber": 3,
-    "partName": "TALAB DATTA - C"
+    "partName": "TALAB DATTA - C",
+    "lat": 32.5664955,
+    "lon": 75.0172188
   },
   {
     "partId": 1123,
@@ -2934,7 +3466,9 @@
     "acNumber": 71,
     "acName": "VIJAYPUR",
     "partNumber": 4,
-    "partName": "KUNDANPUR"
+    "partName": "KUNDANPUR",
+    "lat": 32.5664955,
+    "lon": 75.0172188
   },
   {
     "partId": 8563,
@@ -2945,7 +3479,9 @@
     "acNumber": 71,
     "acName": "VIJAYPUR",
     "partNumber": 5,
-    "partName": "BIRPUR -A"
+    "partName": "BIRPUR -A",
+    "lat": 32.57360125888889,
+    "lon": 75.0091203411111
   },
   {
     "partId": 8564,
@@ -2956,7 +3492,9 @@
     "acNumber": 71,
     "acName": "VIJAYPUR",
     "partNumber": 6,
-    "partName": "BIRPUR-B"
+    "partName": "BIRPUR-B",
+    "lat": 32.57360125888889,
+    "lon": 75.0091203411111
   },
   {
     "partId": 8393,
@@ -2967,7 +3505,9 @@
     "acNumber": 71,
     "acName": "VIJAYPUR",
     "partNumber": 7,
-    "partName": "KHARA MADHANA-D"
+    "partName": "KHARA MADHANA-D",
+    "lat": 32.5664955,
+    "lon": 75.0172188
   },
   {
     "partId": 8392,
@@ -2978,7 +3518,9 @@
     "acNumber": 71,
     "acName": "VIJAYPUR",
     "partNumber": 8,
-    "partName": "KHARA MADHANA -A"
+    "partName": "KHARA MADHANA -A",
+    "lat": 32.5664955,
+    "lon": 75.0172188
   },
   {
     "partId": 8395,
@@ -2989,7 +3531,9 @@
     "acNumber": 71,
     "acName": "VIJAYPUR",
     "partNumber": 9,
-    "partName": "KHARA MADHANA B"
+    "partName": "KHARA MADHANA B",
+    "lat": 32.5664955,
+    "lon": 75.0172188
   },
   {
     "partId": 8396,
@@ -3000,7 +3544,9 @@
     "acNumber": 71,
     "acName": "VIJAYPUR",
     "partNumber": 10,
-    "partName": "KHARA MADHANA-C"
+    "partName": "KHARA MADHANA-C",
+    "lat": 32.5664955,
+    "lon": 75.0172188
   },
   {
     "partId": 11376,
@@ -3011,7 +3557,9 @@
     "acNumber": 71,
     "acName": "VIJAYPUR",
     "partNumber": 11,
-    "partName": "GHAIR"
+    "partName": "GHAIR",
+    "lat": 32.5664955,
+    "lon": 75.0172188
   },
   {
     "partId": 8394,
@@ -3022,7 +3570,9 @@
     "acNumber": 71,
     "acName": "VIJAYPUR",
     "partNumber": 12,
-    "partName": "SUMBALI"
+    "partName": "SUMBALI",
+    "lat": 32.5664955,
+    "lon": 75.0172188
   },
   {
     "partId": 8400,
@@ -3033,7 +3583,9 @@
     "acNumber": 71,
     "acName": "VIJAYPUR",
     "partNumber": 13,
-    "partName": "KATWALTA- A"
+    "partName": "KATWALTA- A",
+    "lat": 32.5664955,
+    "lon": 75.0172188
   },
   {
     "partId": 8401,
@@ -3044,7 +3596,9 @@
     "acNumber": 71,
     "acName": "VIJAYPUR",
     "partNumber": 14,
-    "partName": "KATWALTA- B"
+    "partName": "KATWALTA- B",
+    "lat": 32.5664955,
+    "lon": 75.0172188
   },
   {
     "partId": 1124,
@@ -3055,7 +3609,9 @@
     "acNumber": 71,
     "acName": "VIJAYPUR",
     "partNumber": 15,
-    "partName": "KEULI"
+    "partName": "KEULI",
+    "lat": 32.5664955,
+    "lon": 75.0172188
   },
   {
     "partId": 8447,
@@ -3066,7 +3622,9 @@
     "acNumber": 71,
     "acName": "VIJAYPUR",
     "partNumber": 16,
-    "partName": "KUND"
+    "partName": "KUND",
+    "lat": 32.5664955,
+    "lon": 75.0172188
   },
   {
     "partId": 8397,
@@ -3077,7 +3635,9 @@
     "acNumber": 71,
     "acName": "VIJAYPUR",
     "partNumber": 17,
-    "partName": "DEON"
+    "partName": "DEON",
+    "lat": 32.5664955,
+    "lon": 75.0172188
   },
   {
     "partId": 8398,
@@ -3088,7 +3648,9 @@
     "acNumber": 71,
     "acName": "VIJAYPUR",
     "partNumber": 18,
-    "partName": "PACHOLI"
+    "partName": "PACHOLI",
+    "lat": 32.5664955,
+    "lon": 75.0172188
   },
   {
     "partId": 11377,
@@ -3099,7 +3661,9 @@
     "acNumber": 71,
     "acName": "VIJAYPUR",
     "partNumber": 19,
-    "partName": "KHORI KHAD"
+    "partName": "KHORI KHAD",
+    "lat": 32.5664955,
+    "lon": 75.0172188
   },
   {
     "partId": 8409,
@@ -3110,7 +3674,9 @@
     "acNumber": 71,
     "acName": "VIJAYPUR",
     "partNumber": 20,
-    "partName": "KARTEEN"
+    "partName": "KARTEEN",
+    "lat": 32.5664955,
+    "lon": 75.0172188
   },
   {
     "partId": 8557,
@@ -3121,7 +3687,9 @@
     "acNumber": 71,
     "acName": "VIJAYPUR",
     "partNumber": 21,
-    "partName": "PADDAL"
+    "partName": "PADDAL",
+    "lat": 32.5664955,
+    "lon": 75.0172188
   },
   {
     "partId": 8408,
@@ -3132,7 +3700,9 @@
     "acNumber": 71,
     "acName": "VIJAYPUR",
     "partNumber": 22,
-    "partName": "RAJOOL"
+    "partName": "RAJOOL",
+    "lat": 32.57360125888889,
+    "lon": 75.0091203411111
   },
   {
     "partId": 8399,
@@ -3143,7 +3713,9 @@
     "acNumber": 71,
     "acName": "VIJAYPUR",
     "partNumber": 23,
-    "partName": "PURMANDAL"
+    "partName": "PURMANDAL",
+    "lat": 32.6957991,
+    "lon": 75.0586447
   },
   {
     "partId": 4745,
@@ -3154,7 +3726,9 @@
     "acNumber": 71,
     "acName": "VIJAYPUR",
     "partNumber": 24,
-    "partName": "TAKKAR"
+    "partName": "TAKKAR",
+    "lat": 32.5664955,
+    "lon": 75.0172188
   },
   {
     "partId": 1091,
@@ -3165,7 +3739,9 @@
     "acNumber": 71,
     "acName": "VIJAYPUR",
     "partNumber": 25,
-    "partName": "KARTHOLI - B"
+    "partName": "KARTHOLI - B",
+    "lat": 32.5664955,
+    "lon": 75.0172188
   },
   {
     "partId": 1092,
@@ -3176,7 +3752,9 @@
     "acNumber": 71,
     "acName": "VIJAYPUR",
     "partNumber": 26,
-    "partName": "KARTHOLI-C"
+    "partName": "KARTHOLI-C",
+    "lat": 32.5664955,
+    "lon": 75.0172188
   },
   {
     "partId": 1094,
@@ -3187,7 +3765,9 @@
     "acNumber": 71,
     "acName": "VIJAYPUR",
     "partNumber": 27,
-    "partName": "KARTHOLI - E"
+    "partName": "KARTHOLI - E",
+    "lat": 32.5664955,
+    "lon": 75.0172188
   },
   {
     "partId": 4744,
@@ -3198,7 +3778,9 @@
     "acNumber": 71,
     "acName": "VIJAYPUR",
     "partNumber": 28,
-    "partName": "LOWER KARTHOLI"
+    "partName": "LOWER KARTHOLI",
+    "lat": 32.5664955,
+    "lon": 75.0172188
   },
   {
     "partId": 8580,
@@ -3209,7 +3791,9 @@
     "acNumber": 71,
     "acName": "VIJAYPUR",
     "partNumber": 29,
-    "partName": "CHAPRI MAKORA WALI-A"
+    "partName": "CHAPRI MAKORA WALI-A",
+    "lat": 32.5664955,
+    "lon": 75.0172188
   },
   {
     "partId": 8581,
@@ -3220,7 +3804,9 @@
     "acNumber": 71,
     "acName": "VIJAYPUR",
     "partNumber": 30,
-    "partName": "chapri makora wali-b"
+    "partName": "chapri makora wali-b",
+    "lat": 32.5664955,
+    "lon": 75.0172188
   },
   {
     "partId": 1090,
@@ -3231,7 +3817,9 @@
     "acNumber": 71,
     "acName": "VIJAYPUR",
     "partNumber": 31,
-    "partName": "KARTHOLI  - A"
+    "partName": "KARTHOLI  - A",
+    "lat": 32.5664955,
+    "lon": 75.0172188
   },
   {
     "partId": 1093,
@@ -3242,7 +3830,9 @@
     "acNumber": 71,
     "acName": "VIJAYPUR",
     "partNumber": 32,
-    "partName": "KARTHOLI - D"
+    "partName": "KARTHOLI - D",
+    "lat": 32.5664955,
+    "lon": 75.0172188
   },
   {
     "partId": 8568,
@@ -3253,7 +3843,9 @@
     "acNumber": 71,
     "acName": "VIJAYPUR",
     "partNumber": 33,
-    "partName": "BARI BRAHMANA-D"
+    "partName": "BARI BRAHMANA-D",
+    "lat": 32.6383139,
+    "lon": 74.9152361
   },
   {
     "partId": 8571,
@@ -3264,7 +3856,9 @@
     "acNumber": 71,
     "acName": "VIJAYPUR",
     "partNumber": 34,
-    "partName": "BARI BRAHMANA F"
+    "partName": "BARI BRAHMANA F",
+    "lat": 32.57360125888889,
+    "lon": 75.0091203411111
   },
   {
     "partId": 8566,
@@ -3275,7 +3869,9 @@
     "acNumber": 71,
     "acName": "VIJAYPUR",
     "partNumber": 35,
-    "partName": "BARI BRAHMANA-B"
+    "partName": "BARI BRAHMANA-B",
+    "lat": 32.6383139,
+    "lon": 74.9152361
   },
   {
     "partId": 8569,
@@ -3286,7 +3882,9 @@
     "acNumber": 71,
     "acName": "VIJAYPUR",
     "partNumber": 36,
-    "partName": "BARI BRAHMANA-E"
+    "partName": "BARI BRAHMANA-E",
+    "lat": 32.6383139,
+    "lon": 74.9152361
   },
   {
     "partId": 8565,
@@ -3297,7 +3895,9 @@
     "acNumber": 71,
     "acName": "VIJAYPUR",
     "partNumber": 37,
-    "partName": "BARI BRAHMANA-A"
+    "partName": "BARI BRAHMANA-A",
+    "lat": 32.57360125888889,
+    "lon": 75.0091203411111
   },
   {
     "partId": 8567,
@@ -3308,7 +3908,9 @@
     "acNumber": 71,
     "acName": "VIJAYPUR",
     "partNumber": 38,
-    "partName": "BARI BRAHMANA-C"
+    "partName": "BARI BRAHMANA-C",
+    "lat": 32.6383139,
+    "lon": 74.9152361
   },
   {
     "partId": 8572,
@@ -3319,7 +3921,9 @@
     "acNumber": 71,
     "acName": "VIJAYPUR",
     "partNumber": 39,
-    "partName": "BARI BRAHMANA G"
+    "partName": "BARI BRAHMANA G",
+    "lat": 32.6383139,
+    "lon": 74.9152361
   },
   {
     "partId": 8573,
@@ -3330,7 +3934,9 @@
     "acNumber": 71,
     "acName": "VIJAYPUR",
     "partNumber": 40,
-    "partName": "BARI BRAHMANA - H"
+    "partName": "BARI BRAHMANA - H",
+    "lat": 32.6383139,
+    "lon": 74.9152361
   },
   {
     "partId": 8570,
@@ -3341,7 +3947,9 @@
     "acNumber": 71,
     "acName": "VIJAYPUR",
     "partNumber": 41,
-    "partName": "BARI BRAHMNA-I"
+    "partName": "BARI BRAHMNA-I",
+    "lat": 32.5664955,
+    "lon": 75.0172188
   },
   {
     "partId": 1125,
@@ -3352,7 +3960,9 @@
     "acNumber": 71,
     "acName": "VIJAYPUR",
     "partNumber": 42,
-    "partName": "DOLLIAN"
+    "partName": "DOLLIAN",
+    "lat": 32.5664955,
+    "lon": 75.0172188
   },
   {
     "partId": 8577,
@@ -3363,7 +3973,9 @@
     "acNumber": 71,
     "acName": "VIJAYPUR",
     "partNumber": 43,
-    "partName": "PALLI - A"
+    "partName": "PALLI - A",
+    "lat": 32.5664955,
+    "lon": 75.0172188
   },
   {
     "partId": 8578,
@@ -3374,7 +3986,9 @@
     "acNumber": 71,
     "acName": "VIJAYPUR",
     "partNumber": 44,
-    "partName": "PALLI  - B"
+    "partName": "PALLI  - B",
+    "lat": 32.5664955,
+    "lon": 75.0172188
   },
   {
     "partId": 8579,
@@ -3385,7 +3999,9 @@
     "acNumber": 71,
     "acName": "VIJAYPUR",
     "partNumber": 45,
-    "partName": "BASSI KHURD"
+    "partName": "BASSI KHURD",
+    "lat": 32.5664955,
+    "lon": 75.0172188
   },
   {
     "partId": 1095,
@@ -3396,7 +4012,9 @@
     "acNumber": 71,
     "acName": "VIJAYPUR",
     "partNumber": 46,
-    "partName": "ASMAILPUR - A"
+    "partName": "ASMAILPUR - A",
+    "lat": 32.57360125888889,
+    "lon": 75.0091203411111
   },
   {
     "partId": 1096,
@@ -3407,7 +4025,9 @@
     "acNumber": 71,
     "acName": "VIJAYPUR",
     "partNumber": 47,
-    "partName": "ASMAILPUR - B"
+    "partName": "ASMAILPUR - B",
+    "lat": 32.57360125888889,
+    "lon": 75.0091203411111
   },
   {
     "partId": 1097,
@@ -3418,7 +4038,9 @@
     "acNumber": 71,
     "acName": "VIJAYPUR",
     "partNumber": 48,
-    "partName": "ASMAILPUR - C"
+    "partName": "ASMAILPUR - C",
+    "lat": 32.57360125888889,
+    "lon": 75.0091203411111
   },
   {
     "partId": 1098,
@@ -3429,7 +4051,9 @@
     "acNumber": 71,
     "acName": "VIJAYPUR",
     "partNumber": 49,
-    "partName": "ASMAILPUR - D"
+    "partName": "ASMAILPUR - D",
+    "lat": 32.5664955,
+    "lon": 75.0172188
   },
   {
     "partId": 1099,
@@ -3440,7 +4064,9 @@
     "acNumber": 71,
     "acName": "VIJAYPUR",
     "partNumber": 50,
-    "partName": "SUKHANI TALAB"
+    "partName": "SUKHANI TALAB",
+    "lat": 32.5664955,
+    "lon": 75.0172188
   },
   {
     "partId": 1126,
@@ -3451,7 +4077,9 @@
     "acNumber": 71,
     "acName": "VIJAYPUR",
     "partNumber": 51,
-    "partName": "SMAILPUR-E"
+    "partName": "SMAILPUR-E",
+    "lat": 32.5664955,
+    "lon": 75.0172188
   },
   {
     "partId": 4746,
@@ -3462,7 +4090,9 @@
     "acNumber": 71,
     "acName": "VIJAYPUR",
     "partNumber": 52,
-    "partName": "BARI"
+    "partName": "BARI",
+    "lat": 32.6383139,
+    "lon": 74.9152361
   },
   {
     "partId": 9884,
@@ -3473,7 +4103,9 @@
     "acNumber": 71,
     "acName": "VIJAYPUR",
     "partNumber": 53,
-    "partName": "SHAH TALAB"
+    "partName": "SHAH TALAB",
+    "lat": 32.5664955,
+    "lon": 75.0172188
   },
   {
     "partId": 9883,
@@ -3484,7 +4116,9 @@
     "acNumber": 71,
     "acName": "VIJAYPUR",
     "partNumber": 54,
-    "partName": "BARI KHAD"
+    "partName": "BARI KHAD",
+    "lat": 32.5664955,
+    "lon": 75.0172188
   },
   {
     "partId": 1100,
@@ -3495,7 +4129,9 @@
     "acNumber": 71,
     "acName": "VIJAYPUR",
     "partNumber": 55,
-    "partName": "BADHORI-A"
+    "partName": "BADHORI-A",
+    "lat": 32.5664955,
+    "lon": 75.0172188
   },
   {
     "partId": 1101,
@@ -3506,7 +4142,9 @@
     "acNumber": 71,
     "acName": "VIJAYPUR",
     "partNumber": 56,
-    "partName": "BADHORI-C"
+    "partName": "BADHORI-C",
+    "lat": 32.5664955,
+    "lon": 75.0172188
   },
   {
     "partId": 1102,
@@ -3517,7 +4155,9 @@
     "acNumber": 71,
     "acName": "VIJAYPUR",
     "partNumber": 57,
-    "partName": "BADHORI-B"
+    "partName": "BADHORI-B",
+    "lat": 32.57360125888889,
+    "lon": 75.0091203411111
   },
   {
     "partId": 9882,
@@ -3528,7 +4168,9 @@
     "acNumber": 71,
     "acName": "VIJAYPUR",
     "partNumber": 58,
-    "partName": "BADHORI"
+    "partName": "BADHORI",
+    "lat": 32.5664955,
+    "lon": 75.0172188
   },
   {
     "partId": 1007,
@@ -3539,7 +4181,9 @@
     "acNumber": 71,
     "acName": "VIJAYPUR",
     "partNumber": 59,
-    "partName": "SUCHANI - A"
+    "partName": "SUCHANI - A",
+    "lat": 32.5664955,
+    "lon": 75.0172188
   },
   {
     "partId": 1008,
@@ -3550,7 +4194,9 @@
     "acNumber": 71,
     "acName": "VIJAYPUR",
     "partNumber": 60,
-    "partName": "SUCHANI - B"
+    "partName": "SUCHANI - B",
+    "lat": 32.5664955,
+    "lon": 75.0172188
   },
   {
     "partId": 8554,
@@ -3561,7 +4207,9 @@
     "acNumber": 71,
     "acName": "VIJAYPUR",
     "partNumber": 61,
-    "partName": "SADRAL"
+    "partName": "SADRAL",
+    "lat": 32.5664955,
+    "lon": 75.0172188
   },
   {
     "partId": 8402,
@@ -3572,7 +4220,9 @@
     "acNumber": 71,
     "acName": "VIJAYPUR",
     "partNumber": 62,
-    "partName": "SANGAR"
+    "partName": "SANGAR",
+    "lat": 32.5664955,
+    "lon": 75.0172188
   },
   {
     "partId": 8403,
@@ -3583,7 +4233,9 @@
     "acNumber": 71,
     "acName": "VIJAYPUR",
     "partNumber": 63,
-    "partName": "ANANDPUR- A"
+    "partName": "ANANDPUR- A",
+    "lat": 32.5664955,
+    "lon": 75.0172188
   },
   {
     "partId": 8404,
@@ -3594,7 +4246,9 @@
     "acNumber": 71,
     "acName": "VIJAYPUR",
     "partNumber": 64,
-    "partName": "ANANDPUR- B"
+    "partName": "ANANDPUR- B",
+    "lat": 32.5664955,
+    "lon": 75.0172188
   },
   {
     "partId": 4747,
@@ -3605,7 +4259,9 @@
     "acNumber": 71,
     "acName": "VIJAYPUR",
     "partNumber": 65,
-    "partName": "NAGROTA"
+    "partName": "NAGROTA",
+    "lat": 32.5664955,
+    "lon": 75.0172188
   },
   {
     "partId": 1009,
@@ -3616,7 +4272,9 @@
     "acNumber": 71,
     "acName": "VIJAYPUR",
     "partNumber": 66,
-    "partName": "RAHYA - A"
+    "partName": "RAHYA - A",
+    "lat": 32.5664955,
+    "lon": 75.0172188
   },
   {
     "partId": 4985,
@@ -3627,7 +4285,9 @@
     "acNumber": 71,
     "acName": "VIJAYPUR",
     "partNumber": 67,
-    "partName": "RAHYA"
+    "partName": "RAHYA",
+    "lat": 32.5664955,
+    "lon": 75.0172188
   },
   {
     "partId": 4986,
@@ -3638,7 +4298,9 @@
     "acNumber": 71,
     "acName": "VIJAYPUR",
     "partNumber": 68,
-    "partName": "RAHYA - B"
+    "partName": "RAHYA - B",
+    "lat": 32.5664955,
+    "lon": 75.0172188
   },
   {
     "partId": 9885,
@@ -3649,7 +4311,9 @@
     "acNumber": 71,
     "acName": "VIJAYPUR",
     "partNumber": 69,
-    "partName": "PATTI-A"
+    "partName": "PATTI-A",
+    "lat": 32.5664955,
+    "lon": 75.0172188
   },
   {
     "partId": 828,
@@ -3660,7 +4324,9 @@
     "acNumber": 71,
     "acName": "VIJAYPUR",
     "partNumber": 70,
-    "partName": "PATTI -C"
+    "partName": "PATTI -C",
+    "lat": 32.5664955,
+    "lon": 75.0172188
   },
   {
     "partId": 827,
@@ -3671,7 +4337,9 @@
     "acNumber": 71,
     "acName": "VIJAYPUR",
     "partNumber": 71,
-    "partName": "PATTI-B"
+    "partName": "PATTI-B",
+    "lat": 32.57360125888889,
+    "lon": 75.0091203411111
   },
   {
     "partId": 4401,
@@ -3682,7 +4350,9 @@
     "acNumber": 71,
     "acName": "VIJAYPUR",
     "partNumber": 72,
-    "partName": "DERA GONOTRA"
+    "partName": "DERA GONOTRA",
+    "lat": 32.5664955,
+    "lon": 75.0172188
   },
   {
     "partId": 829,
@@ -3693,7 +4363,9 @@
     "acNumber": 71,
     "acName": "VIJAYPUR",
     "partNumber": 73,
-    "partName": "TARORE -A"
+    "partName": "TARORE -A",
+    "lat": 32.5664955,
+    "lon": 75.0172188
   },
   {
     "partId": 830,
@@ -3704,7 +4376,9 @@
     "acNumber": 71,
     "acName": "VIJAYPUR",
     "partNumber": 74,
-    "partName": "TARORE -B"
+    "partName": "TARORE -B",
+    "lat": 32.5664955,
+    "lon": 75.0172188
   },
   {
     "partId": 1005,
@@ -3715,7 +4389,9 @@
     "acNumber": 71,
     "acName": "VIJAYPUR",
     "partNumber": 75,
-    "partName": "PATLI MORE -A"
+    "partName": "PATLI MORE -A",
+    "lat": 32.5664955,
+    "lon": 75.0172188
   },
   {
     "partId": 1006,
@@ -3726,7 +4402,9 @@
     "acNumber": 71,
     "acName": "VIJAYPUR",
     "partNumber": 76,
-    "partName": "PATLI MORE -B"
+    "partName": "PATLI MORE -B",
+    "lat": 32.57360125888889,
+    "lon": 75.0091203411111
   },
   {
     "partId": 4991,
@@ -3737,7 +4415,9 @@
     "acNumber": 71,
     "acName": "VIJAYPUR",
     "partNumber": 77,
-    "partName": "MARHOON"
+    "partName": "MARHOON",
+    "lat": 32.5664955,
+    "lon": 75.0172188
   },
   {
     "partId": 4992,
@@ -3748,7 +4428,9 @@
     "acNumber": 71,
     "acName": "VIJAYPUR",
     "partNumber": 78,
-    "partName": "DHAMORE"
+    "partName": "DHAMORE",
+    "lat": 32.5664955,
+    "lon": 75.0172188
   },
   {
     "partId": 4987,
@@ -3759,7 +4441,9 @@
     "acNumber": 71,
     "acName": "VIJAYPUR",
     "partNumber": 79,
-    "partName": "JAKH - A"
+    "partName": "JAKH - A",
+    "lat": 32.5739814,
+    "lon": 74.9608105
   },
   {
     "partId": 4988,
@@ -3770,7 +4454,9 @@
     "acNumber": 71,
     "acName": "VIJAYPUR",
     "partNumber": 80,
-    "partName": "JAKH -C"
+    "partName": "JAKH -C",
+    "lat": 32.5664955,
+    "lon": 75.0172188
   },
   {
     "partId": 4990,
@@ -3781,7 +4467,9 @@
     "acNumber": 71,
     "acName": "VIJAYPUR",
     "partNumber": 81,
-    "partName": "JAKH B"
+    "partName": "JAKH B",
+    "lat": 32.57360125888889,
+    "lon": 75.0091203411111
   },
   {
     "partId": 4989,
@@ -3792,7 +4480,9 @@
     "acNumber": 71,
     "acName": "VIJAYPUR",
     "partNumber": 82,
-    "partName": "RANJRI"
+    "partName": "RANJRI",
+    "lat": 32.5664955,
+    "lon": 75.0172188
   },
   {
     "partId": 4996,
@@ -3803,7 +4493,9 @@
     "acNumber": 71,
     "acName": "VIJAYPUR",
     "partNumber": 83,
-    "partName": "PEKHARI"
+    "partName": "PEKHARI",
+    "lat": 32.5664955,
+    "lon": 75.0172188
   },
   {
     "partId": 1127,
@@ -3814,7 +4506,9 @@
     "acNumber": 71,
     "acName": "VIJAYPUR",
     "partNumber": 84,
-    "partName": "SALMERI"
+    "partName": "SALMERI",
+    "lat": 32.5664955,
+    "lon": 75.0172188
   },
   {
     "partId": 5005,
@@ -3825,7 +4519,9 @@
     "acNumber": 71,
     "acName": "VIJAYPUR",
     "partNumber": 85,
-    "partName": "CHANNI MANHASAN"
+    "partName": "CHANNI MANHASAN",
+    "lat": 32.5664955,
+    "lon": 75.0172188
   },
   {
     "partId": 1480,
@@ -3836,7 +4532,9 @@
     "acNumber": 71,
     "acName": "VIJAYPUR",
     "partNumber": 86,
-    "partName": "GUDWAL -C"
+    "partName": "GUDWAL -C",
+    "lat": 32.5664955,
+    "lon": 75.0172188
   },
   {
     "partId": 1481,
@@ -3847,7 +4545,9 @@
     "acNumber": 71,
     "acName": "VIJAYPUR",
     "partNumber": 87,
-    "partName": "GAGORE"
+    "partName": "GAGORE",
+    "lat": 32.5664955,
+    "lon": 75.0172188
   },
   {
     "partId": 1483,
@@ -3858,7 +4558,9 @@
     "acNumber": 71,
     "acName": "VIJAYPUR",
     "partNumber": 88,
-    "partName": "GURWAL -A"
+    "partName": "GURWAL -A",
+    "lat": 32.5664955,
+    "lon": 75.0172188
   },
   {
     "partId": 1484,
@@ -3869,7 +4571,9 @@
     "acNumber": 71,
     "acName": "VIJAYPUR",
     "partNumber": 89,
-    "partName": "GURWAL -B"
+    "partName": "GURWAL -B",
+    "lat": 32.5664955,
+    "lon": 75.0172188
   },
   {
     "partId": 1482,
@@ -3880,7 +4584,9 @@
     "acNumber": 71,
     "acName": "VIJAYPUR",
     "partNumber": 90,
-    "partName": "RAMPUR"
+    "partName": "RAMPUR",
+    "lat": 32.5664955,
+    "lon": 75.0172188
   },
   {
     "partId": 4403,
@@ -3891,7 +4597,9 @@
     "acNumber": 71,
     "acName": "VIJAYPUR",
     "partNumber": 91,
-    "partName": "CHAK DAULAT"
+    "partName": "CHAK DAULAT",
+    "lat": 32.5664955,
+    "lon": 75.0172188
   },
   {
     "partId": 4402,
@@ -3902,7 +4610,9 @@
     "acNumber": 71,
     "acName": "VIJAYPUR",
     "partNumber": 92,
-    "partName": "CHAK BAGLAN"
+    "partName": "CHAK BAGLAN",
+    "lat": 32.57360125888889,
+    "lon": 75.0091203411111
   },
   {
     "partId": 1477,
@@ -3913,7 +4623,9 @@
     "acNumber": 71,
     "acName": "VIJAYPUR",
     "partNumber": 93,
-    "partName": "GUDWAL -A"
+    "partName": "GUDWAL -A",
+    "lat": 32.5664955,
+    "lon": 75.0172188
   },
   {
     "partId": 1478,
@@ -3924,7 +4636,9 @@
     "acNumber": 71,
     "acName": "VIJAYPUR",
     "partNumber": 94,
-    "partName": "KOULPUR"
+    "partName": "KOULPUR",
+    "lat": 32.5664955,
+    "lon": 75.0172188
   },
   {
     "partId": 1479,
@@ -3935,7 +4649,9 @@
     "acNumber": 71,
     "acName": "VIJAYPUR",
     "partNumber": 95,
-    "partName": "KOULPUR- B"
+    "partName": "KOULPUR- B",
+    "lat": 32.5664955,
+    "lon": 75.0172188
   },
   {
     "partId": 1473,
@@ -3946,7 +4662,9 @@
     "acNumber": 71,
     "acName": "VIJAYPUR",
     "partNumber": 96,
-    "partName": "VIJAYPUR -C"
+    "partName": "VIJAYPUR -C",
+    "lat": 32.5664955,
+    "lon": 75.0172188
   },
   {
     "partId": 1474,
@@ -3957,7 +4675,9 @@
     "acNumber": 71,
     "acName": "VIJAYPUR",
     "partNumber": 97,
-    "partName": "VIJAYPUR- D"
+    "partName": "VIJAYPUR- D",
+    "lat": 32.5664955,
+    "lon": 75.0172188
   },
   {
     "partId": 1475,
@@ -3968,7 +4688,9 @@
     "acNumber": 71,
     "acName": "VIJAYPUR",
     "partNumber": 98,
-    "partName": "VIJAYPUR -E"
+    "partName": "VIJAYPUR -E",
+    "lat": 32.5664955,
+    "lon": 75.0172188
   },
   {
     "partId": 1476,
@@ -3979,7 +4701,9 @@
     "acNumber": 71,
     "acName": "VIJAYPUR",
     "partNumber": 99,
-    "partName": "VIJAYPUR- F"
+    "partName": "VIJAYPUR- F",
+    "lat": 32.5664955,
+    "lon": 75.0172188
   },
   {
     "partId": 5007,
@@ -3990,7 +4714,9 @@
     "acNumber": 71,
     "acName": "VIJAYPUR",
     "partNumber": 100,
-    "partName": "VIJAYPUR -A"
+    "partName": "VIJAYPUR -A",
+    "lat": 32.5664955,
+    "lon": 75.0172188
   },
   {
     "partId": 1472,
@@ -4001,7 +4727,9 @@
     "acNumber": 71,
     "acName": "VIJAYPUR",
     "partNumber": 101,
-    "partName": "VIJAYPUR -B"
+    "partName": "VIJAYPUR -B",
+    "lat": 32.5664955,
+    "lon": 75.0172188
   },
   {
     "partId": 5004,
@@ -4012,7 +4740,9 @@
     "acNumber": 71,
     "acName": "VIJAYPUR",
     "partNumber": 102,
-    "partName": "THALORI BRAMANA -A"
+    "partName": "THALORI BRAMANA -A",
+    "lat": 32.5664955,
+    "lon": 75.0172188
   },
   {
     "partId": 5006,
@@ -4023,6 +4753,8 @@
     "acNumber": 71,
     "acName": "VIJAYPUR",
     "partNumber": 103,
-    "partName": "THALORI BRAMANA-B"
+    "partName": "THALORI BRAMANA-B",
+    "lat": 32.5664955,
+    "lon": 75.0172188
   }
 ]

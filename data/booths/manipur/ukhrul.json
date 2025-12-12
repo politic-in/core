@@ -8,7 +8,9 @@
     "acNumber": 45,
     "acName": "Chingai",
     "partNumber": 1,
-    "partName": "Jessami (A)"
+    "partName": "Jessami (A)",
+    "lat": 25.6169442,
+    "lon": 94.5394336
   },
   {
     "partId": 1113,
@@ -19,7 +21,9 @@
     "acNumber": 45,
     "acName": "Chingai",
     "partNumber": 2,
-    "partName": "Jessami (B)"
+    "partName": "Jessami (B)",
+    "lat": 25.6169442,
+    "lon": 94.5394336
   },
   {
     "partId": 1114,
@@ -30,7 +34,9 @@
     "acNumber": 45,
     "acName": "Chingai",
     "partNumber": 3,
-    "partName": "Soraphung"
+    "partName": "Soraphung",
+    "lat": 25.4419958,
+    "lon": 94.53868766068786
   },
   {
     "partId": 1115,
@@ -41,7 +47,9 @@
     "acNumber": 45,
     "acName": "Chingai",
     "partNumber": 4,
-    "partName": "Chingjaroi Christian"
+    "partName": "Chingjaroi Christian",
+    "lat": 25.4419958,
+    "lon": 94.53868766068786
   },
   {
     "partId": 1116,
@@ -52,7 +60,9 @@
     "acNumber": 45,
     "acName": "Chingai",
     "partNumber": 5,
-    "partName": "Chingjaroi Khunou"
+    "partName": "Chingjaroi Khunou",
+    "lat": 25.4419958,
+    "lon": 94.53868766068786
   },
   {
     "partId": 1117,
@@ -63,7 +73,9 @@
     "acNumber": 45,
     "acName": "Chingai",
     "partNumber": 6,
-    "partName": "Chingjaroi Khullen(A)"
+    "partName": "Chingjaroi Khullen(A)",
+    "lat": 25.4015367,
+    "lon": 94.4184762
   },
   {
     "partId": 1118,
@@ -74,7 +86,9 @@
     "acNumber": 45,
     "acName": "Chingai",
     "partNumber": 7,
-    "partName": "Chingjaroi Khullen (B)"
+    "partName": "Chingjaroi Khullen (B)",
+    "lat": 25.4015367,
+    "lon": 94.4184762
   },
   {
     "partId": 1119,
@@ -85,7 +99,9 @@
     "acNumber": 45,
     "acName": "Chingai",
     "partNumber": 8,
-    "partName": "Kharasom"
+    "partName": "Kharasom",
+    "lat": 25.4537229,
+    "lon": 94.4665553
   },
   {
     "partId": 1120,
@@ -96,7 +112,9 @@
     "acNumber": 45,
     "acName": "Chingai",
     "partNumber": 9,
-    "partName": "Razai Khullen"
+    "partName": "Razai Khullen",
+    "lat": 25.4419958,
+    "lon": 94.53868766068786
   },
   {
     "partId": 1121,
@@ -107,7 +125,9 @@
     "acNumber": 45,
     "acName": "Chingai",
     "partNumber": 10,
-    "partName": "Kharasom Lazo"
+    "partName": "Kharasom Lazo",
+    "lat": 25.4419958,
+    "lon": 94.53868766068786
   },
   {
     "partId": 1122,
@@ -118,7 +138,9 @@
     "acNumber": 45,
     "acName": "Chingai",
     "partNumber": 11,
-    "partName": "Namrei"
+    "partName": "Namrei",
+    "lat": 25.4419958,
+    "lon": 94.53868766068786
   },
   {
     "partId": 1123,
@@ -129,7 +151,9 @@
     "acNumber": 45,
     "acName": "Chingai",
     "partNumber": 12,
-    "partName": "Marangphung"
+    "partName": "Marangphung",
+    "lat": 25.4419958,
+    "lon": 94.53868766068786
   },
   {
     "partId": 1124,
@@ -140,7 +164,9 @@
     "acNumber": 45,
     "acName": "Chingai",
     "partNumber": 13,
-    "partName": "Razai Khunou"
+    "partName": "Razai Khunou",
+    "lat": 25.4419958,
+    "lon": 94.53868766068786
   },
   {
     "partId": 1125,
@@ -151,7 +177,9 @@
     "acNumber": 45,
     "acName": "Chingai",
     "partNumber": 14,
-    "partName": "Chingai"
+    "partName": "Chingai",
+    "lat": 25.4419958,
+    "lon": 94.53868766068786
   },
   {
     "partId": 1126,
@@ -162,7 +190,9 @@
     "acNumber": 45,
     "acName": "Chingai",
     "partNumber": 15,
-    "partName": "Huishu"
+    "partName": "Huishu",
+    "lat": 25.2460678,
+    "lon": 94.5527135
   },
   {
     "partId": 1127,
@@ -173,7 +203,9 @@
     "acNumber": 45,
     "acName": "Chingai",
     "partNumber": 16,
-    "partName": "Khamasom Phungrei"
+    "partName": "Khamasom Phungrei",
+    "lat": 25.4419958,
+    "lon": 94.53868766068786
   },
   {
     "partId": 1128,
@@ -184,7 +216,9 @@
     "acNumber": 45,
     "acName": "Chingai",
     "partNumber": 17,
-    "partName": "Poi (A)"
+    "partName": "Poi (A)",
+    "lat": 25.2776608,
+    "lon": 94.556631
   },
   {
     "partId": 1129,
@@ -195,7 +229,9 @@
     "acNumber": 45,
     "acName": "Chingai",
     "partNumber": 18,
-    "partName": "Poi (B)"
+    "partName": "Poi (B)",
+    "lat": 25.2776608,
+    "lon": 94.556631
   },
   {
     "partId": 1130,
@@ -206,7 +242,9 @@
     "acNumber": 45,
     "acName": "Chingai",
     "partNumber": 19,
-    "partName": "New Tusom"
+    "partName": "New Tusom",
+    "lat": 25.4224128,
+    "lon": 94.5774823
   },
   {
     "partId": 1131,
@@ -217,7 +255,9 @@
     "acNumber": 45,
     "acName": "Chingai",
     "partNumber": 20,
-    "partName": "Tusom Khullen"
+    "partName": "Tusom Khullen",
+    "lat": 25.4419958,
+    "lon": 94.53868766068786
   },
   {
     "partId": 1132,
@@ -228,7 +268,9 @@
     "acNumber": 45,
     "acName": "Chingai",
     "partNumber": 21,
-    "partName": "Tusom C.V."
+    "partName": "Tusom C.V.",
+    "lat": 25.4419958,
+    "lon": 94.53868766068786
   },
   {
     "partId": 1133,
@@ -239,7 +281,9 @@
     "acNumber": 45,
     "acName": "Chingai",
     "partNumber": 22,
-    "partName": "Wahong"
+    "partName": "Wahong",
+    "lat": 25.4874347,
+    "lon": 94.5521111
   },
   {
     "partId": 1134,
@@ -250,7 +294,9 @@
     "acNumber": 45,
     "acName": "Chingai",
     "partNumber": 23,
-    "partName": "Kongai"
+    "partName": "Kongai",
+    "lat": 25.4419958,
+    "lon": 94.53868766068786
   },
   {
     "partId": 1135,
@@ -261,7 +307,9 @@
     "acNumber": 45,
     "acName": "Chingai",
     "partNumber": 24,
-    "partName": "Chalou"
+    "partName": "Chalou",
+    "lat": 25.4419958,
+    "lon": 94.53868766068786
   },
   {
     "partId": 1136,
@@ -272,7 +320,9 @@
     "acNumber": 45,
     "acName": "Chingai",
     "partNumber": 25,
-    "partName": "Kalhang"
+    "partName": "Kalhang",
+    "lat": 25.2488928,
+    "lon": 94.4559946
   },
   {
     "partId": 1137,
@@ -283,7 +333,9 @@
     "acNumber": 45,
     "acName": "Chingai",
     "partNumber": 26,
-    "partName": "Kuirei"
+    "partName": "Kuirei",
+    "lat": 25.4419958,
+    "lon": 94.53868766068786
   },
   {
     "partId": 1138,
@@ -294,7 +346,9 @@
     "acNumber": 45,
     "acName": "Chingai",
     "partNumber": 27,
-    "partName": "Marem Khullen"
+    "partName": "Marem Khullen",
+    "lat": 25.4419958,
+    "lon": 94.53868766068786
   },
   {
     "partId": 1139,
@@ -305,7 +359,9 @@
     "acNumber": 45,
     "acName": "Chingai",
     "partNumber": 28,
-    "partName": "Ngahui"
+    "partName": "Ngahui",
+    "lat": 25.4419958,
+    "lon": 94.53868766068786
   },
   {
     "partId": 1140,
@@ -316,7 +372,9 @@
     "acNumber": 45,
     "acName": "Chingai",
     "partNumber": 29,
-    "partName": "Luireishimphung"
+    "partName": "Luireishimphung",
+    "lat": 25.4419958,
+    "lon": 94.53868766068786
   },
   {
     "partId": 1141,
@@ -327,7 +385,9 @@
     "acNumber": 45,
     "acName": "Chingai",
     "partNumber": 30,
-    "partName": "Peh (A)"
+    "partName": "Peh (A)",
+    "lat": 25.4419958,
+    "lon": 94.53868766068786
   },
   {
     "partId": 1142,
@@ -338,7 +398,9 @@
     "acNumber": 45,
     "acName": "Chingai",
     "partNumber": 31,
-    "partName": "Peh (B)"
+    "partName": "Peh (B)",
+    "lat": 25.4419958,
+    "lon": 94.53868766068786
   },
   {
     "partId": 1143,
@@ -349,7 +411,9 @@
     "acNumber": 45,
     "acName": "Chingai",
     "partNumber": 32,
-    "partName": "Nungbi Kl (A)"
+    "partName": "Nungbi Kl (A)",
+    "lat": 25.4419958,
+    "lon": 94.53868766068786
   },
   {
     "partId": 1178,
@@ -360,7 +424,9 @@
     "acNumber": 45,
     "acName": "Chingai",
     "partNumber": 33,
-    "partName": "Nungbi Kl (B)"
+    "partName": "Nungbi Kl (B)",
+    "lat": 25.4419958,
+    "lon": 94.53868766068786
   },
   {
     "partId": 1144,
@@ -371,7 +437,9 @@
     "acNumber": 45,
     "acName": "Chingai",
     "partNumber": 34,
-    "partName": "Nungbi Kachui (A)"
+    "partName": "Nungbi Kachui (A)",
+    "lat": 25.4419958,
+    "lon": 94.53868766068786
   },
   {
     "partId": 1179,
@@ -382,7 +450,9 @@
     "acNumber": 45,
     "acName": "Chingai",
     "partNumber": 35,
-    "partName": "Nungbi Kachui (B)"
+    "partName": "Nungbi Kachui (B)",
+    "lat": 25.4419958,
+    "lon": 94.53868766068786
   },
   {
     "partId": 1145,
@@ -393,7 +463,9 @@
     "acNumber": 45,
     "acName": "Chingai",
     "partNumber": 36,
-    "partName": "Phungcham-A"
+    "partName": "Phungcham-A",
+    "lat": 25.2120942,
+    "lon": 94.3891562
   },
   {
     "partId": 1146,
@@ -404,7 +476,9 @@
     "acNumber": 45,
     "acName": "Chingai",
     "partNumber": 37,
-    "partName": "Phungcham-B"
+    "partName": "Phungcham-B",
+    "lat": 25.2120942,
+    "lon": 94.3891562
   },
   {
     "partId": 1147,
@@ -415,7 +489,9 @@
     "acNumber": 45,
     "acName": "Chingai",
     "partNumber": 38,
-    "partName": "Paorei North"
+    "partName": "Paorei North",
+    "lat": 25.4419958,
+    "lon": 94.53868766068786
   },
   {
     "partId": 1148,
@@ -426,7 +502,9 @@
     "acNumber": 45,
     "acName": "Chingai",
     "partNumber": 39,
-    "partName": "Paorei South"
+    "partName": "Paorei South",
+    "lat": 25.4419958,
+    "lon": 94.53868766068786
   },
   {
     "partId": 1149,
@@ -437,7 +515,9 @@
     "acNumber": 45,
     "acName": "Chingai",
     "partNumber": 40,
-    "partName": "Huime (A)"
+    "partName": "Huime (A)",
+    "lat": 25.4419958,
+    "lon": 94.53868766068786
   },
   {
     "partId": 1180,
@@ -448,7 +528,9 @@
     "acNumber": 45,
     "acName": "Chingai",
     "partNumber": 41,
-    "partName": "Huime (B)"
+    "partName": "Huime (B)",
+    "lat": 25.4419958,
+    "lon": 94.53868766068786
   },
   {
     "partId": 1150,
@@ -459,7 +541,9 @@
     "acNumber": 45,
     "acName": "Chingai",
     "partNumber": 42,
-    "partName": "Tolloi (A)"
+    "partName": "Tolloi (A)",
+    "lat": 25.1909958,
+    "lon": 94.3252128
   },
   {
     "partId": 1151,
@@ -470,7 +554,9 @@
     "acNumber": 45,
     "acName": "Chingai",
     "partNumber": 43,
-    "partName": "Tolloi (B)"
+    "partName": "Tolloi (B)",
+    "lat": 25.1909958,
+    "lon": 94.3252128
   },
   {
     "partId": 1152,
@@ -481,7 +567,9 @@
     "acNumber": 45,
     "acName": "Chingai",
     "partNumber": 44,
-    "partName": "Tolloi-C-(I)"
+    "partName": "Tolloi-C-(I)",
+    "lat": 25.4419958,
+    "lon": 94.53868766068786
   },
   {
     "partId": 1153,
@@ -492,7 +580,9 @@
     "acNumber": 45,
     "acName": "Chingai",
     "partNumber": 45,
-    "partName": "Tolloi - C-(II)"
+    "partName": "Tolloi - C-(II)",
+    "lat": 25.4419958,
+    "lon": 94.53868766068786
   },
   {
     "partId": 1154,
@@ -503,7 +593,9 @@
     "acNumber": 45,
     "acName": "Chingai",
     "partNumber": 46,
-    "partName": "Kachai (A)"
+    "partName": "Kachai (A)",
+    "lat": 25.2366784,
+    "lon": 94.2751304
   },
   {
     "partId": 1155,
@@ -514,7 +606,9 @@
     "acNumber": 45,
     "acName": "Chingai",
     "partNumber": 47,
-    "partName": "Kachai (B)"
+    "partName": "Kachai (B)",
+    "lat": 25.2366784,
+    "lon": 94.2751304
   },
   {
     "partId": 1156,
@@ -525,7 +619,9 @@
     "acNumber": 45,
     "acName": "Chingai",
     "partNumber": 48,
-    "partName": "Tora"
+    "partName": "Tora",
+    "lat": 25.4419958,
+    "lon": 94.53868766068786
   },
   {
     "partId": 1181,
@@ -536,7 +632,9 @@
     "acNumber": 45,
     "acName": "Chingai",
     "partNumber": 49,
-    "partName": "Champhung"
+    "partName": "Champhung",
+    "lat": 25.4419958,
+    "lon": 94.53868766068786
   },
   {
     "partId": 1157,
@@ -547,7 +645,9 @@
     "acNumber": 45,
     "acName": "Chingai",
     "partNumber": 50,
-    "partName": "Kachai Phungthar"
+    "partName": "Kachai Phungthar",
+    "lat": 25.4419958,
+    "lon": 94.53868766068786
   },
   {
     "partId": 1158,
@@ -558,7 +658,9 @@
     "acNumber": 45,
     "acName": "Chingai",
     "partNumber": 51,
-    "partName": "Maichon"
+    "partName": "Maichon",
+    "lat": 25.4419958,
+    "lon": 94.53868766068786
   },
   {
     "partId": 1159,
@@ -569,7 +671,9 @@
     "acNumber": 45,
     "acName": "Chingai",
     "partNumber": 52,
-    "partName": "Somdal-(A-I)"
+    "partName": "Somdal-(A-I)",
+    "lat": 25.4419958,
+    "lon": 94.53868766068786
   },
   {
     "partId": 1160,
@@ -580,7 +684,9 @@
     "acNumber": 45,
     "acName": "Chingai",
     "partNumber": 53,
-    "partName": "Somdal-(A-II)"
+    "partName": "Somdal-(A-II)",
+    "lat": 25.4419958,
+    "lon": 94.53868766068786
   },
   {
     "partId": 1161,
@@ -591,7 +697,9 @@
     "acNumber": 45,
     "acName": "Chingai",
     "partNumber": 54,
-    "partName": "Somdal (B)"
+    "partName": "Somdal (B)",
+    "lat": 25.4419958,
+    "lon": 94.53868766068786
   },
   {
     "partId": 1162,
@@ -602,7 +710,9 @@
     "acNumber": 45,
     "acName": "Chingai",
     "partNumber": 55,
-    "partName": "Phadang (A)"
+    "partName": "Phadang (A)",
+    "lat": 25.4419958,
+    "lon": 94.53868766068786
   },
   {
     "partId": 1163,
@@ -613,7 +723,9 @@
     "acNumber": 45,
     "acName": "Chingai",
     "partNumber": 56,
-    "partName": "Phadang (B)"
+    "partName": "Phadang (B)",
+    "lat": 25.4419958,
+    "lon": 94.53868766068786
   },
   {
     "partId": 1164,
@@ -624,7 +736,9 @@
     "acNumber": 45,
     "acName": "Chingai",
     "partNumber": 57,
-    "partName": "Tuinem-(A-I)"
+    "partName": "Tuinem-(A-I)",
+    "lat": 25.4419958,
+    "lon": 94.53868766068786
   },
   {
     "partId": 1165,
@@ -635,7 +749,9 @@
     "acNumber": 45,
     "acName": "Chingai",
     "partNumber": 58,
-    "partName": "Tuinem-(A-II)"
+    "partName": "Tuinem-(A-II)",
+    "lat": 25.4419958,
+    "lon": 94.53868766068786
   },
   {
     "partId": 1166,
@@ -646,7 +762,9 @@
     "acNumber": 45,
     "acName": "Chingai",
     "partNumber": 59,
-    "partName": "Tuinem (B)"
+    "partName": "Tuinem (B)",
+    "lat": 25.4419958,
+    "lon": 94.53868766068786
   },
   {
     "partId": 1167,
@@ -657,7 +775,9 @@
     "acNumber": 45,
     "acName": "Chingai",
     "partNumber": 60,
-    "partName": "Tuinem (C)"
+    "partName": "Tuinem (C)",
+    "lat": 25.4419958,
+    "lon": 94.53868766068786
   },
   {
     "partId": 1168,
@@ -668,7 +788,9 @@
     "acNumber": 45,
     "acName": "Chingai",
     "partNumber": 61,
-    "partName": "Sirarakhong"
+    "partName": "Sirarakhong",
+    "lat": 25.0783562,
+    "lon": 94.2355015
   },
   {
     "partId": 1169,
@@ -679,7 +801,9 @@
     "acNumber": 45,
     "acName": "Chingai",
     "partNumber": 62,
-    "partName": "Ringui (A)"
+    "partName": "Ringui (A)",
+    "lat": 25.4419958,
+    "lon": 94.53868766068786
   },
   {
     "partId": 1170,
@@ -690,7 +814,9 @@
     "acNumber": 45,
     "acName": "Chingai",
     "partNumber": 63,
-    "partName": "Ringui (B)"
+    "partName": "Ringui (B)",
+    "lat": 25.4419958,
+    "lon": 94.53868766068786
   },
   {
     "partId": 1171,
@@ -701,7 +827,9 @@
     "acNumber": 45,
     "acName": "Chingai",
     "partNumber": 64,
-    "partName": "Ringui Ramhon"
+    "partName": "Ringui Ramhon",
+    "lat": 25.4419958,
+    "lon": 94.53868766068786
   },
   {
     "partId": 1172,
@@ -712,7 +840,9 @@
     "acNumber": 45,
     "acName": "Chingai",
     "partNumber": 65,
-    "partName": "Ngaimu (A)"
+    "partName": "Ngaimu (A)",
+    "lat": 25.4419958,
+    "lon": 94.53868766068786
   },
   {
     "partId": 1173,
@@ -723,7 +853,9 @@
     "acNumber": 45,
     "acName": "Chingai",
     "partNumber": 66,
-    "partName": "Ngaimu (B)"
+    "partName": "Ngaimu (B)",
+    "lat": 25.4419958,
+    "lon": 94.53868766068786
   },
   {
     "partId": 1174,
@@ -734,7 +866,9 @@
     "acNumber": 45,
     "acName": "Chingai",
     "partNumber": 67,
-    "partName": "Halang (A)"
+    "partName": "Halang (A)",
+    "lat": 25.4419958,
+    "lon": 94.53868766068786
   },
   {
     "partId": 1175,
@@ -745,7 +879,9 @@
     "acNumber": 45,
     "acName": "Chingai",
     "partNumber": 68,
-    "partName": "Halang (B)"
+    "partName": "Halang (B)",
+    "lat": 25.4419958,
+    "lon": 94.53868766068786
   },
   {
     "partId": 1176,
@@ -756,7 +892,9 @@
     "acNumber": 45,
     "acName": "Chingai",
     "partNumber": 69,
-    "partName": "Halang (C)"
+    "partName": "Halang (C)",
+    "lat": 25.4419958,
+    "lon": 94.53868766068786
   },
   {
     "partId": 1177,
@@ -767,7 +905,9 @@
     "acNumber": 45,
     "acName": "Chingai",
     "partNumber": 70,
-    "partName": "Halang (D)"
+    "partName": "Halang (D)",
+    "lat": 25.4419958,
+    "lon": 94.53868766068786
   },
   {
     "partId": 1041,
@@ -778,7 +918,9 @@
     "acNumber": 44,
     "acName": "Ukhrul",
     "partNumber": 1,
-    "partName": "Leisan"
+    "partName": "Leisan",
+    "lat": 25.0982654,
+    "lon": 94.363167
   },
   {
     "partId": 1042,
@@ -789,7 +931,9 @@
     "acNumber": 44,
     "acName": "Ukhrul",
     "partNumber": 2,
-    "partName": "Sanakeithel-A"
+    "partName": "Sanakeithel-A",
+    "lat": 25.0340348,
+    "lon": 94.1526326
   },
   {
     "partId": 1043,
@@ -800,7 +944,9 @@
     "acNumber": 44,
     "acName": "Ukhrul",
     "partNumber": 3,
-    "partName": "Sanakeithel-B"
+    "partName": "Sanakeithel-B",
+    "lat": 25.0340348,
+    "lon": 94.1526326
   },
   {
     "partId": 1044,
@@ -811,7 +957,9 @@
     "acNumber": 44,
     "acName": "Ukhrul",
     "partNumber": 4,
-    "partName": "Mollen Kamsei"
+    "partName": "Mollen Kamsei",
+    "lat": 25.0982654,
+    "lon": 94.363167
   },
   {
     "partId": 1045,
@@ -822,7 +970,9 @@
     "acNumber": 44,
     "acName": "Ukhrul",
     "partNumber": 5,
-    "partName": "Mullam"
+    "partName": "Mullam",
+    "lat": 25.0982654,
+    "lon": 94.363167
   },
   {
     "partId": 1046,
@@ -833,7 +983,9 @@
     "acNumber": 44,
     "acName": "Ukhrul",
     "partNumber": 6,
-    "partName": "Molnom"
+    "partName": "Molnom",
+    "lat": 24.9806059,
+    "lon": 94.1559687
   },
   {
     "partId": 1047,
@@ -844,7 +996,9 @@
     "acNumber": 44,
     "acName": "Ukhrul",
     "partNumber": 7,
-    "partName": "Zelengbung"
+    "partName": "Zelengbung",
+    "lat": 25.0982654,
+    "lon": 94.363167
   },
   {
     "partId": 1048,
@@ -855,7 +1009,9 @@
     "acNumber": 44,
     "acName": "Ukhrul",
     "partNumber": 8,
-    "partName": "New Canaan"
+    "partName": "New Canaan",
+    "lat": 25.0982654,
+    "lon": 94.363167
   },
   {
     "partId": 1049,
@@ -866,7 +1022,9 @@
     "acNumber": 44,
     "acName": "Ukhrul",
     "partNumber": 9,
-    "partName": "Muirei"
+    "partName": "Muirei",
+    "lat": 25.0982654,
+    "lon": 94.363167
   },
   {
     "partId": 1050,
@@ -877,7 +1035,9 @@
     "acNumber": 44,
     "acName": "Ukhrul",
     "partNumber": 10,
-    "partName": "Mongkot Chepu"
+    "partName": "Mongkot Chepu",
+    "lat": 25.0982654,
+    "lon": 94.363167
   },
   {
     "partId": 1051,
@@ -888,7 +1048,9 @@
     "acNumber": 44,
     "acName": "Ukhrul",
     "partNumber": 11,
-    "partName": "Litan Sareikhong"
+    "partName": "Litan Sareikhong",
+    "lat": 24.9510632,
+    "lon": 94.2034664
   },
   {
     "partId": 1052,
@@ -899,7 +1061,9 @@
     "acNumber": 44,
     "acName": "Ukhrul",
     "partNumber": 12,
-    "partName": "Shangkai"
+    "partName": "Shangkai",
+    "lat": 25.0982654,
+    "lon": 94.363167
   },
   {
     "partId": 1053,
@@ -910,7 +1074,9 @@
     "acNumber": 44,
     "acName": "Ukhrul",
     "partNumber": 13,
-    "partName": "T.M. Kasom"
+    "partName": "T.M. Kasom",
+    "lat": 25.0982654,
+    "lon": 94.363167
   },
   {
     "partId": 1054,
@@ -921,7 +1087,9 @@
     "acNumber": 44,
     "acName": "Ukhrul",
     "partNumber": 14,
-    "partName": "Yaolen"
+    "partName": "Yaolen",
+    "lat": 25.0982654,
+    "lon": 94.363167
   },
   {
     "partId": 1055,
@@ -932,7 +1100,9 @@
     "acNumber": 44,
     "acName": "Ukhrul",
     "partNumber": 15,
-    "partName": "Tushen(A)"
+    "partName": "Tushen(A)",
+    "lat": 25.0982654,
+    "lon": 94.363167
   },
   {
     "partId": 1056,
@@ -943,7 +1113,9 @@
     "acNumber": 44,
     "acName": "Ukhrul",
     "partNumber": 16,
-    "partName": "Tushen(B)"
+    "partName": "Tushen(B)",
+    "lat": 25.0982654,
+    "lon": 94.363167
   },
   {
     "partId": 1057,
@@ -954,7 +1126,9 @@
     "acNumber": 44,
     "acName": "Ukhrul",
     "partNumber": 17,
-    "partName": "Tushen Chahong"
+    "partName": "Tushen Chahong",
+    "lat": 25.0982654,
+    "lon": 94.363167
   },
   {
     "partId": 1058,
@@ -965,7 +1139,9 @@
     "acNumber": 44,
     "acName": "Ukhrul",
     "partNumber": 18,
-    "partName": "Ramva"
+    "partName": "Ramva",
+    "lat": 25.0982654,
+    "lon": 94.363167
   },
   {
     "partId": 1059,
@@ -976,7 +1152,9 @@
     "acNumber": 44,
     "acName": "Ukhrul",
     "partNumber": 19,
-    "partName": "Shokvao Worrintang"
+    "partName": "Shokvao Worrintang",
+    "lat": 25.0982654,
+    "lon": 94.363167
   },
   {
     "partId": 1060,
@@ -987,7 +1165,9 @@
     "acNumber": 44,
     "acName": "Ukhrul",
     "partNumber": 20,
-    "partName": "Shangshak (A)"
+    "partName": "Shangshak (A)",
+    "lat": 25.0096382,
+    "lon": 94.3366706
   },
   {
     "partId": 1061,
@@ -998,7 +1178,9 @@
     "acNumber": 44,
     "acName": "Ukhrul",
     "partNumber": 21,
-    "partName": "Shangshak (B)"
+    "partName": "Shangshak (B)",
+    "lat": 25.0096382,
+    "lon": 94.3366706
   },
   {
     "partId": 1062,
@@ -1009,7 +1191,9 @@
     "acNumber": 44,
     "acName": "Ukhrul",
     "partNumber": 22,
-    "partName": "Shangshak (B-1)"
+    "partName": "Shangshak (B-1)",
+    "lat": 25.0096382,
+    "lon": 94.3366706
   },
   {
     "partId": 1063,
@@ -1020,7 +1204,9 @@
     "acNumber": 44,
     "acName": "Ukhrul",
     "partNumber": 23,
-    "partName": "Lungshang"
+    "partName": "Lungshang",
+    "lat": 25.0982654,
+    "lon": 94.363167
   },
   {
     "partId": 1064,
@@ -1031,7 +1217,9 @@
     "acNumber": 44,
     "acName": "Ukhrul",
     "partNumber": 24,
-    "partName": "Shangzing"
+    "partName": "Shangzing",
+    "lat": 25.0982654,
+    "lon": 94.363167
   },
   {
     "partId": 1065,
@@ -1042,7 +1230,9 @@
     "acNumber": 44,
     "acName": "Ukhrul",
     "partNumber": 25,
-    "partName": "Seikhor"
+    "partName": "Seikhor",
+    "lat": 25.0982654,
+    "lon": 94.363167
   },
   {
     "partId": 1066,
@@ -1053,7 +1243,9 @@
     "acNumber": 44,
     "acName": "Ukhrul",
     "partNumber": 26,
-    "partName": "Pharung Shimtang"
+    "partName": "Pharung Shimtang",
+    "lat": 25.093159456716418,
+    "lon": 94.35324543731343
   },
   {
     "partId": 1067,
@@ -1064,7 +1256,9 @@
     "acNumber": 44,
     "acName": "Ukhrul",
     "partNumber": 27,
-    "partName": "Lamlang (A)"
+    "partName": "Lamlang (A)",
+    "lat": 25.093159456716418,
+    "lon": 94.35324543731343
   },
   {
     "partId": 1086,
@@ -1075,7 +1269,9 @@
     "acNumber": 44,
     "acName": "Ukhrul",
     "partNumber": 28,
-    "partName": "Lamlang (B)"
+    "partName": "Lamlang (B)",
+    "lat": 25.0982654,
+    "lon": 94.363167
   },
   {
     "partId": 1068,
@@ -1086,7 +1282,9 @@
     "acNumber": 44,
     "acName": "Ukhrul",
     "partNumber": 29,
-    "partName": "Nungou"
+    "partName": "Nungou",
+    "lat": 25.093159456716418,
+    "lon": 94.35324543731343
   },
   {
     "partId": 1069,
@@ -1097,7 +1295,9 @@
     "acNumber": 44,
     "acName": "Ukhrul",
     "partNumber": 30,
-    "partName": "Ukhrul Hunpung Dungrei"
+    "partName": "Ukhrul Hunpung Dungrei",
+    "lat": 25.0982654,
+    "lon": 94.363167
   },
   {
     "partId": 1070,
@@ -1108,7 +1308,9 @@
     "acNumber": 44,
     "acName": "Ukhrul",
     "partNumber": 31,
-    "partName": "Ukhrul Hunpung Dungreii Aze"
+    "partName": "Ukhrul Hunpung Dungreii Aze",
+    "lat": 25.0982654,
+    "lon": 94.363167
   },
   {
     "partId": 1071,
@@ -1119,7 +1321,9 @@
     "acNumber": 44,
     "acName": "Ukhrul",
     "partNumber": 32,
-    "partName": "Hundung Dongrei (B)"
+    "partName": "Hundung Dongrei (B)",
+    "lat": 25.0982654,
+    "lon": 94.363167
   },
   {
     "partId": 1072,
@@ -1130,7 +1334,9 @@
     "acNumber": 44,
     "acName": "Ukhrul",
     "partNumber": 33,
-    "partName": "Hamleikhong Hundung"
+    "partName": "Hamleikhong Hundung",
+    "lat": 25.0982654,
+    "lon": 94.363167
   },
   {
     "partId": 1073,
@@ -1141,7 +1347,9 @@
     "acNumber": 44,
     "acName": "Ukhrul",
     "partNumber": 34,
-    "partName": "Hundung Kaziphung (C-I)"
+    "partName": "Hundung Kaziphung (C-I)",
+    "lat": 25.0982654,
+    "lon": 94.363167
   },
   {
     "partId": 1074,
@@ -1152,7 +1360,9 @@
     "acNumber": 44,
     "acName": "Ukhrul",
     "partNumber": 35,
-    "partName": "Hundung(C-II)"
+    "partName": "Hundung(C-II)",
+    "lat": 25.0982654,
+    "lon": 94.363167
   },
   {
     "partId": 1075,
@@ -1163,7 +1373,9 @@
     "acNumber": 44,
     "acName": "Ukhrul",
     "partNumber": 36,
-    "partName": "Ukhrul(A)"
+    "partName": "Ukhrul(A)",
+    "lat": 25.0982654,
+    "lon": 94.363167
   },
   {
     "partId": 1076,
@@ -1174,7 +1386,9 @@
     "acNumber": 44,
     "acName": "Ukhrul",
     "partNumber": 37,
-    "partName": "Alungtang"
+    "partName": "Alungtang",
+    "lat": 25.0982654,
+    "lon": 94.363167
   },
   {
     "partId": 1077,
@@ -1185,7 +1399,9 @@
     "acNumber": 44,
     "acName": "Ukhrul",
     "partNumber": 38,
-    "partName": "Ukhrul (B)"
+    "partName": "Ukhrul (B)",
+    "lat": 25.0982654,
+    "lon": 94.363167
   },
   {
     "partId": 1078,
@@ -1196,7 +1412,9 @@
     "acNumber": 44,
     "acName": "Ukhrul",
     "partNumber": 39,
-    "partName": "Ukhrul (C-1)"
+    "partName": "Ukhrul (C-1)",
+    "lat": 25.0982654,
+    "lon": 94.363167
   },
   {
     "partId": 1079,
@@ -1207,7 +1425,9 @@
     "acNumber": 44,
     "acName": "Ukhrul",
     "partNumber": 40,
-    "partName": "Ukhrul (C-2)"
+    "partName": "Ukhrul (C-2)",
+    "lat": 25.0982654,
+    "lon": 94.363167
   },
   {
     "partId": 1080,
@@ -1218,7 +1438,9 @@
     "acNumber": 44,
     "acName": "Ukhrul",
     "partNumber": 41,
-    "partName": "Ukhrul (D-1)"
+    "partName": "Ukhrul (D-1)",
+    "lat": 25.0982654,
+    "lon": 94.363167
   },
   {
     "partId": 1081,
@@ -1229,7 +1451,9 @@
     "acNumber": 44,
     "acName": "Ukhrul",
     "partNumber": 42,
-    "partName": "Ukhrul (D-2)"
+    "partName": "Ukhrul (D-2)",
+    "lat": 25.0982654,
+    "lon": 94.363167
   },
   {
     "partId": 1082,
@@ -1240,7 +1464,9 @@
     "acNumber": 44,
     "acName": "Ukhrul",
     "partNumber": 43,
-    "partName": "Ukhrul (E-1)"
+    "partName": "Ukhrul (E-1)",
+    "lat": 25.0982654,
+    "lon": 94.363167
   },
   {
     "partId": 1087,
@@ -1251,7 +1477,9 @@
     "acNumber": 44,
     "acName": "Ukhrul",
     "partNumber": 44,
-    "partName": "Ukhrul (E-3)"
+    "partName": "Ukhrul (E-3)",
+    "lat": 25.0982654,
+    "lon": 94.363167
   },
   {
     "partId": 1083,
@@ -1262,7 +1490,9 @@
     "acNumber": 44,
     "acName": "Ukhrul",
     "partNumber": 45,
-    "partName": "Ukhrul (E-2)"
+    "partName": "Ukhrul (E-2)",
+    "lat": 25.0982654,
+    "lon": 94.363167
   },
   {
     "partId": 1084,
@@ -1273,7 +1503,9 @@
     "acNumber": 44,
     "acName": "Ukhrul",
     "partNumber": 46,
-    "partName": "Ukhrul (E-4)"
+    "partName": "Ukhrul (E-4)",
+    "lat": 25.0982654,
+    "lon": 94.363167
   },
   {
     "partId": 1085,
@@ -1284,7 +1516,9 @@
     "acNumber": 44,
     "acName": "Ukhrul",
     "partNumber": 47,
-    "partName": "Ukhrul E (Part-IV)"
+    "partName": "Ukhrul E (Part-IV)",
+    "lat": 25.0982654,
+    "lon": 94.363167
   },
   {
     "partId": 1088,
@@ -1295,7 +1529,9 @@
     "acNumber": 44,
     "acName": "Ukhrul",
     "partNumber": 48,
-    "partName": "Ukhrul E (Part-VI)"
+    "partName": "Ukhrul E (Part-VI)",
+    "lat": 25.0982654,
+    "lon": 94.363167
   },
   {
     "partId": 1089,
@@ -1306,7 +1542,9 @@
     "acNumber": 44,
     "acName": "Ukhrul",
     "partNumber": 49,
-    "partName": "Ukhrul E (Part-V)"
+    "partName": "Ukhrul E (Part-V)",
+    "lat": 25.0982654,
+    "lon": 94.363167
   },
   {
     "partId": 1090,
@@ -1317,7 +1555,9 @@
     "acNumber": 44,
     "acName": "Ukhrul",
     "partNumber": 50,
-    "partName": "Ukhrul (F)"
+    "partName": "Ukhrul (F)",
+    "lat": 25.0982654,
+    "lon": 94.363167
   },
   {
     "partId": 1091,
@@ -1328,7 +1568,9 @@
     "acNumber": 44,
     "acName": "Ukhrul",
     "partNumber": 51,
-    "partName": "Ukhrul (H)"
+    "partName": "Ukhrul (H)",
+    "lat": 25.0982654,
+    "lon": 94.363167
   },
   {
     "partId": 1092,
@@ -1339,7 +1581,9 @@
     "acNumber": 44,
     "acName": "Ukhrul",
     "partNumber": 52,
-    "partName": "Ukhrul (G)"
+    "partName": "Ukhrul (G)",
+    "lat": 25.0982654,
+    "lon": 94.363167
   },
   {
     "partId": 1093,
@@ -1350,7 +1594,9 @@
     "acNumber": 44,
     "acName": "Ukhrul",
     "partNumber": 53,
-    "partName": "Khangkhui Khullen"
+    "partName": "Khangkhui Khullen",
+    "lat": 25.0982654,
+    "lon": 94.363167
   },
   {
     "partId": 1094,
@@ -1361,7 +1607,9 @@
     "acNumber": 44,
     "acName": "Ukhrul",
     "partNumber": 54,
-    "partName": "Khangkhui Khunou"
+    "partName": "Khangkhui Khunou",
+    "lat": 25.093159456716418,
+    "lon": 94.35324543731343
   },
   {
     "partId": 1095,
@@ -1372,7 +1620,9 @@
     "acNumber": 44,
     "acName": "Ukhrul",
     "partNumber": 55,
-    "partName": "Nungshong Khullen"
+    "partName": "Nungshong Khullen",
+    "lat": 25.0982654,
+    "lon": 94.363167
   },
   {
     "partId": 1096,
@@ -1383,7 +1633,9 @@
     "acNumber": 44,
     "acName": "Ukhrul",
     "partNumber": 56,
-    "partName": "Mapum"
+    "partName": "Mapum",
+    "lat": 25.0982654,
+    "lon": 94.363167
   },
   {
     "partId": 1097,
@@ -1394,7 +1646,9 @@
     "acNumber": 44,
     "acName": "Ukhrul",
     "partNumber": 57,
-    "partName": "Chingsui"
+    "partName": "Chingsui",
+    "lat": 25.0982654,
+    "lon": 94.363167
   },
   {
     "partId": 1098,
@@ -1405,7 +1659,9 @@
     "acNumber": 44,
     "acName": "Ukhrul",
     "partNumber": 58,
-    "partName": "Ronshak"
+    "partName": "Ronshak",
+    "lat": 25.0982654,
+    "lon": 94.363167
   },
   {
     "partId": 1099,
@@ -1416,7 +1672,9 @@
     "acNumber": 44,
     "acName": "Ukhrul",
     "partNumber": 59,
-    "partName": "Sahamphung"
+    "partName": "Sahamphung",
+    "lat": 25.0982654,
+    "lon": 94.363167
   },
   {
     "partId": 1100,
@@ -1427,7 +1685,9 @@
     "acNumber": 44,
     "acName": "Ukhrul",
     "partNumber": 60,
-    "partName": "Choithar"
+    "partName": "Choithar",
+    "lat": 25.0982654,
+    "lon": 94.363167
   },
   {
     "partId": 1101,
@@ -1438,7 +1698,9 @@
     "acNumber": 44,
     "acName": "Ukhrul",
     "partNumber": 61,
-    "partName": "Pushing"
+    "partName": "Pushing",
+    "lat": 25.0982654,
+    "lon": 94.363167
   },
   {
     "partId": 1102,
@@ -1449,7 +1711,9 @@
     "acNumber": 44,
     "acName": "Ukhrul",
     "partNumber": 62,
-    "partName": "Shiroi"
+    "partName": "Shiroi",
+    "lat": 25.0982654,
+    "lon": 94.363167
   },
   {
     "partId": 1103,
@@ -1460,7 +1724,9 @@
     "acNumber": 44,
     "acName": "Ukhrul",
     "partNumber": 63,
-    "partName": "Langdang"
+    "partName": "Langdang",
+    "lat": 25.2716195,
+    "lon": 94.4174618
   },
   {
     "partId": 1104,
@@ -1471,7 +1737,9 @@
     "acNumber": 44,
     "acName": "Ukhrul",
     "partNumber": 64,
-    "partName": "Lunghar (A)"
+    "partName": "Lunghar (A)",
+    "lat": 25.1701415,
+    "lon": 94.4373757
   },
   {
     "partId": 1105,
@@ -1482,7 +1750,9 @@
     "acNumber": 44,
     "acName": "Ukhrul",
     "partNumber": 65,
-    "partName": "Lunghar (B)"
+    "partName": "Lunghar (B)",
+    "lat": 25.1701415,
+    "lon": 94.4373757
   },
   {
     "partId": 1106,
@@ -1493,7 +1763,9 @@
     "acNumber": 44,
     "acName": "Ukhrul",
     "partNumber": 66,
-    "partName": "Khamasom"
+    "partName": "Khamasom",
+    "lat": 25.0982654,
+    "lon": 94.363167
   },
   {
     "partId": 1107,
@@ -1504,7 +1776,9 @@
     "acNumber": 44,
     "acName": "Ukhrul",
     "partNumber": 67,
-    "partName": "K. Wallely"
+    "partName": "K. Wallely",
+    "lat": 25.0982654,
+    "lon": 94.363167
   },
   {
     "partId": 1108,
@@ -1515,7 +1789,9 @@
     "acNumber": 44,
     "acName": "Ukhrul",
     "partNumber": 68,
-    "partName": "Khamasom Phungthar"
+    "partName": "Khamasom Phungthar",
+    "lat": 25.0982654,
+    "lon": 94.363167
   },
   {
     "partId": 1109,
@@ -1526,7 +1802,9 @@
     "acNumber": 44,
     "acName": "Ukhrul",
     "partNumber": 69,
-    "partName": "Sihai Khunou"
+    "partName": "Sihai Khunou",
+    "lat": 25.0982654,
+    "lon": 94.363167
   },
   {
     "partId": 1110,
@@ -1537,7 +1815,9 @@
     "acNumber": 44,
     "acName": "Ukhrul",
     "partNumber": 70,
-    "partName": "Sihai Khullen"
+    "partName": "Sihai Khullen",
+    "lat": 25.0982654,
+    "lon": 94.363167
   },
   {
     "partId": 1111,
@@ -1548,6 +1828,8 @@
     "acNumber": 44,
     "acName": "Ukhrul",
     "partNumber": 71,
-    "partName": "Khayang"
+    "partName": "Khayang",
+    "lat": 25.0982654,
+    "lon": 94.363167
   }
 ]

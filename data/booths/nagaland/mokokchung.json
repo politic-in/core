@@ -8,7 +8,9 @@
     "acNumber": 30,
     "acName": "ALONGTAKI",
     "partNumber": 1,
-    "partName": "YAJANG (A)"
+    "partName": "YAJANG (A)",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 1117,
@@ -19,7 +21,9 @@
     "acNumber": 30,
     "acName": "ALONGTAKI",
     "partNumber": 2,
-    "partName": "YAJANG C COMPOUND"
+    "partName": "YAJANG C COMPOUND",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 1118,
@@ -30,7 +34,9 @@
     "acNumber": 30,
     "acName": "ALONGTAKI",
     "partNumber": 3,
-    "partName": "LIRMEN A OLD"
+    "partName": "LIRMEN A OLD",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 1119,
@@ -41,7 +47,9 @@
     "acNumber": 30,
     "acName": "ALONGTAKI",
     "partNumber": 4,
-    "partName": "AONOKPU"
+    "partName": "AONOKPU",
+    "lat": 26.6290861,
+    "lon": 94.5066045
   },
   {
     "partId": 1120,
@@ -52,7 +60,9 @@
     "acNumber": 30,
     "acName": "ALONGTAKI",
     "partNumber": 5,
-    "partName": "LONGCHEM"
+    "partName": "LONGCHEM",
+    "lat": 26.6168841,
+    "lon": 94.47707490350317
   },
   {
     "partId": 1121,
@@ -63,7 +73,9 @@
     "acNumber": 30,
     "acName": "ALONGTAKI",
     "partNumber": 6,
-    "partName": "NOKPU I"
+    "partName": "NOKPU I",
+    "lat": 26.6063558,
+    "lon": 94.4825826
   },
   {
     "partId": 1122,
@@ -74,7 +86,9 @@
     "acNumber": 30,
     "acName": "ALONGTAKI",
     "partNumber": 7,
-    "partName": "NOKPU II"
+    "partName": "NOKPU II",
+    "lat": 26.6063558,
+    "lon": 94.4825826
   },
   {
     "partId": 1123,
@@ -85,7 +99,9 @@
     "acNumber": 30,
     "acName": "ALONGTAKI",
     "partNumber": 8,
-    "partName": "CHANGDANG"
+    "partName": "CHANGDANG",
+    "lat": 26.5874455,
+    "lon": 94.4537511
   },
   {
     "partId": 1124,
@@ -96,7 +112,9 @@
     "acNumber": 30,
     "acName": "ALONGTAKI",
     "partNumber": 9,
-    "partName": "LAKHUNI"
+    "partName": "LAKHUNI",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 1125,
@@ -107,7 +125,9 @@
     "acNumber": 30,
     "acName": "ALONGTAKI",
     "partNumber": 10,
-    "partName": "JAPU"
+    "partName": "JAPU",
+    "lat": 26.5052763,
+    "lon": 94.4111815
   },
   {
     "partId": 1126,
@@ -118,7 +138,9 @@
     "acNumber": 30,
     "acName": "ALONGTAKI",
     "partNumber": 11,
-    "partName": "LONGTHO"
+    "partName": "LONGTHO",
+    "lat": 26.4990635,
+    "lon": 94.3676102
   },
   {
     "partId": 1127,
@@ -129,7 +151,9 @@
     "acNumber": 30,
     "acName": "ALONGTAKI",
     "partNumber": 12,
-    "partName": "LONGSEMDANG"
+    "partName": "LONGSEMDANG",
+    "lat": 26.5112873,
+    "lon": 94.4273074
   },
   {
     "partId": 1129,
@@ -140,7 +164,9 @@
     "acNumber": 30,
     "acName": "ALONGTAKI",
     "partNumber": 13,
-    "partName": "SATSUKBA"
+    "partName": "SATSUKBA",
+    "lat": 26.472762,
+    "lon": 94.3533592
   },
   {
     "partId": 1130,
@@ -151,7 +177,9 @@
     "acNumber": 30,
     "acName": "ALONGTAKI",
     "partNumber": 14,
-    "partName": "SHAHAPHUMI"
+    "partName": "SHAHAPHUMI",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 1131,
@@ -162,7 +190,9 @@
     "acNumber": 30,
     "acName": "ALONGTAKI",
     "partNumber": 15,
-    "partName": "YIMCHENKIMONG"
+    "partName": "YIMCHENKIMONG",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 1132,
@@ -173,7 +203,9 @@
     "acNumber": 30,
     "acName": "ALONGTAKI",
     "partNumber": 16,
-    "partName": "MOLUNGKIMONG-I"
+    "partName": "MOLUNGKIMONG-I",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 1133,
@@ -184,7 +216,9 @@
     "acNumber": 30,
     "acName": "ALONGTAKI",
     "partNumber": 17,
-    "partName": "MOLUNGKIMONG-II"
+    "partName": "MOLUNGKIMONG-II",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 1134,
@@ -195,7 +229,9 @@
     "acNumber": 30,
     "acName": "ALONGTAKI",
     "partNumber": 18,
-    "partName": "ATHUPHUMI"
+    "partName": "ATHUPHUMI",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 1135,
@@ -206,7 +242,9 @@
     "acNumber": 30,
     "acName": "ALONGTAKI",
     "partNumber": 19,
-    "partName": "SARINGYIM"
+    "partName": "SARINGYIM",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 1136,
@@ -217,7 +255,9 @@
     "acNumber": 30,
     "acName": "ALONGTAKI",
     "partNumber": 20,
-    "partName": "TSUREMMEN"
+    "partName": "TSUREMMEN",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 1137,
@@ -228,7 +268,9 @@
     "acNumber": 30,
     "acName": "ALONGTAKI",
     "partNumber": 21,
-    "partName": "YAJANG B"
+    "partName": "YAJANG B",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 1138,
@@ -239,7 +281,9 @@
     "acNumber": 30,
     "acName": "ALONGTAKI",
     "partNumber": 22,
-    "partName": "ALONGTAKI COMPOUND"
+    "partName": "ALONGTAKI COMPOUND",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 1139,
@@ -250,7 +294,9 @@
     "acNumber": 30,
     "acName": "ALONGTAKI",
     "partNumber": 23,
-    "partName": "AKUMEN"
+    "partName": "AKUMEN",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 1140,
@@ -261,7 +307,9 @@
     "acNumber": 30,
     "acName": "ALONGTAKI",
     "partNumber": 24,
-    "partName": "AONOKPUYIMSEN"
+    "partName": "AONOKPUYIMSEN",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 1141,
@@ -272,7 +320,9 @@
     "acNumber": 30,
     "acName": "ALONGTAKI",
     "partNumber": 25,
-    "partName": "YAJANG C-I"
+    "partName": "YAJANG C-I",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 1142,
@@ -283,7 +333,9 @@
     "acNumber": 30,
     "acName": "ALONGTAKI",
     "partNumber": 26,
-    "partName": "MEDEMYIM"
+    "partName": "MEDEMYIM",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 1143,
@@ -294,7 +346,9 @@
     "acNumber": 30,
     "acName": "ALONGTAKI",
     "partNumber": 27,
-    "partName": "MOAYIMTI"
+    "partName": "MOAYIMTI",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 1144,
@@ -305,7 +359,9 @@
     "acNumber": 30,
     "acName": "ALONGTAKI",
     "partNumber": 28,
-    "partName": "CHUNGTIAYIMSEN"
+    "partName": "CHUNGTIAYIMSEN",
+    "lat": 26.5415912,
+    "lon": 94.3716744
   },
   {
     "partId": 1145,
@@ -316,7 +372,9 @@
     "acNumber": 30,
     "acName": "ALONGTAKI",
     "partNumber": 29,
-    "partName": "WATIYIM"
+    "partName": "WATIYIM",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 1146,
@@ -327,7 +385,9 @@
     "acNumber": 30,
     "acName": "ALONGTAKI",
     "partNumber": 30,
-    "partName": "LONGPAYIMSEN"
+    "partName": "LONGPAYIMSEN",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 1147,
@@ -338,7 +398,9 @@
     "acNumber": 30,
     "acName": "ALONGTAKI",
     "partNumber": 31,
-    "partName": "AOSENDEN"
+    "partName": "AOSENDEN",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 1148,
@@ -349,7 +411,9 @@
     "acNumber": 30,
     "acName": "ALONGTAKI",
     "partNumber": 32,
-    "partName": "AOSUNGKUM"
+    "partName": "AOSUNGKUM",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 1149,
@@ -360,7 +424,9 @@
     "acNumber": 30,
     "acName": "ALONGTAKI",
     "partNumber": 33,
-    "partName": "AOKUM & TSUTAPELA"
+    "partName": "AOKUM & TSUTAPELA",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 1150,
@@ -371,7 +437,9 @@
     "acNumber": 30,
     "acName": "ALONGTAKI",
     "partNumber": 34,
-    "partName": "LIZO MODEL"
+    "partName": "LIZO MODEL",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 2285,
@@ -382,7 +450,9 @@
     "acNumber": 30,
     "acName": "ALONGTAKI",
     "partNumber": 35,
-    "partName": "CHUNGTIAYIMSEN-II"
+    "partName": "CHUNGTIAYIMSEN-II",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 998,
@@ -393,7 +463,9 @@
     "acNumber": 24,
     "acName": "ANGETYONGPANG",
     "partNumber": 1,
-    "partName": "ALEMPANG WARD I (C-II) N/ WING"
+    "partName": "ALEMPANG WARD I (C-II) N/ WING",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 999,
@@ -404,7 +476,9 @@
     "acNumber": 24,
     "acName": "ANGETYONGPANG",
     "partNumber": 2,
-    "partName": "ALEMPANG WARD II (C-II) S/ WING"
+    "partName": "ALEMPANG WARD II (C-II) S/ WING",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 1000,
@@ -415,7 +489,9 @@
     "acNumber": 24,
     "acName": "ANGETYONGPANG",
     "partNumber": 3,
-    "partName": "TONGDENTSUYONG WARD"
+    "partName": "TONGDENTSUYONG WARD",
+    "lat": 26.3279918,
+    "lon": 94.52606291323926
   },
   {
     "partId": 1001,
@@ -426,7 +502,9 @@
     "acNumber": 24,
     "acName": "ANGETYONGPANG",
     "partNumber": 4,
-    "partName": "SUNGKOMEN WARD"
+    "partName": "SUNGKOMEN WARD",
+    "lat": 26.3304896,
+    "lon": 94.5315411
   },
   {
     "partId": 1002,
@@ -437,7 +515,9 @@
     "acNumber": 24,
     "acName": "ANGETYONGPANG",
     "partNumber": 5,
-    "partName": "CHUCHU COMPOUND"
+    "partName": "CHUCHU COMPOUND",
+    "lat": 26.4610063,
+    "lon": 94.6416788
   },
   {
     "partId": 1003,
@@ -448,7 +528,9 @@
     "acNumber": 24,
     "acName": "ANGETYONGPANG",
     "partNumber": 6,
-    "partName": "MONGSENYIMTI I IMRONG TEMA"
+    "partName": "MONGSENYIMTI I IMRONG TEMA",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 1004,
@@ -459,7 +541,9 @@
     "acNumber": 24,
     "acName": "ANGETYONGPANG",
     "partNumber": 7,
-    "partName": "MONGSENYIMTI II LONGSABANG"
+    "partName": "MONGSENYIMTI II LONGSABANG",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 1005,
@@ -470,7 +554,9 @@
     "acNumber": 24,
     "acName": "ANGETYONGPANG",
     "partNumber": 8,
-    "partName": "MONGSENYIMTI III SHITILONG BLOCK"
+    "partName": "MONGSENYIMTI III SHITILONG BLOCK",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 1006,
@@ -481,7 +567,9 @@
     "acNumber": 24,
     "acName": "ANGETYONGPANG",
     "partNumber": 9,
-    "partName": "MONGSENYIMTI COMPOUND"
+    "partName": "MONGSENYIMTI COMPOUND",
+    "lat": 26.4260192,
+    "lon": 94.615715
   },
   {
     "partId": 1007,
@@ -492,7 +580,9 @@
     "acNumber": 24,
     "acName": "ANGETYONGPANG",
     "partNumber": 10,
-    "partName": "CHAKPA"
+    "partName": "CHAKPA",
+    "lat": 26.4060179,
+    "lon": 94.6599615
   },
   {
     "partId": 1008,
@@ -503,7 +593,9 @@
     "acNumber": 24,
     "acName": "ANGETYONGPANG",
     "partNumber": 11,
-    "partName": "YAONGYIMTI OLD"
+    "partName": "YAONGYIMTI OLD",
+    "lat": 26.4269248,
+    "lon": 94.6677337
   },
   {
     "partId": 1009,
@@ -514,7 +606,9 @@
     "acNumber": 24,
     "acName": "ANGETYONGPANG",
     "partNumber": 12,
-    "partName": "PANGSANG COMPOUND"
+    "partName": "PANGSANG COMPOUND",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 1010,
@@ -525,7 +619,9 @@
     "acNumber": 24,
     "acName": "ANGETYONGPANG",
     "partNumber": 13,
-    "partName": "YAONGYIMTI NEW"
+    "partName": "YAONGYIMTI NEW",
+    "lat": 26.4191615,
+    "lon": 94.6604596
   },
   {
     "partId": 1011,
@@ -536,7 +632,9 @@
     "acNumber": 24,
     "acName": "ANGETYONGPANG",
     "partNumber": 14,
-    "partName": "LONGKONG"
+    "partName": "LONGKONG",
+    "lat": 26.3913213,
+    "lon": 94.6213953
   },
   {
     "partId": 1012,
@@ -547,7 +645,9 @@
     "acNumber": 24,
     "acName": "ANGETYONGPANG",
     "partNumber": 15,
-    "partName": "SALULEMANG"
+    "partName": "SALULEMANG",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 1013,
@@ -558,7 +658,9 @@
     "acNumber": 24,
     "acName": "ANGETYONGPANG",
     "partNumber": 16,
-    "partName": "LONGMISA -I RESONGKONG MEPU"
+    "partName": "LONGMISA -I RESONGKONG MEPU",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 1014,
@@ -569,7 +671,9 @@
     "acNumber": 24,
     "acName": "ANGETYONGPANG",
     "partNumber": 17,
-    "partName": "LONGMISA II YIMLANG MEPU"
+    "partName": "LONGMISA II YIMLANG MEPU",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 1015,
@@ -580,7 +684,9 @@
     "acNumber": 24,
     "acName": "ANGETYONGPANG",
     "partNumber": 18,
-    "partName": "LONGMISA III JANGJANG MEPU"
+    "partName": "LONGMISA III JANGJANG MEPU",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 1016,
@@ -591,7 +697,9 @@
     "acNumber": 24,
     "acName": "ANGETYONGPANG",
     "partNumber": 19,
-    "partName": "LONGMISA IV"
+    "partName": "LONGMISA IV",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 1017,
@@ -602,7 +710,9 @@
     "acNumber": 24,
     "acName": "ANGETYONGPANG",
     "partNumber": 20,
-    "partName": "CHUCHU COMPOUND I"
+    "partName": "CHUCHU COMPOUND I",
+    "lat": 26.4610063,
+    "lon": 94.6416788
   },
   {
     "partId": 1018,
@@ -613,7 +723,9 @@
     "acNumber": 24,
     "acName": "ANGETYONGPANG",
     "partNumber": 21,
-    "partName": "CHAKPA - II"
+    "partName": "CHAKPA - II",
+    "lat": 26.4060179,
+    "lon": 94.6599615
   },
   {
     "partId": 2284,
@@ -624,7 +736,9 @@
     "acNumber": 24,
     "acName": "ANGETYONGPANG",
     "partNumber": 22,
-    "partName": "TONGDENTSUYONG WARD-II"
+    "partName": "TONGDENTSUYONG WARD-II",
+    "lat": 26.3279918,
+    "lon": 94.52606291323926
   },
   {
     "partId": 1044,
@@ -635,7 +749,9 @@
     "acNumber": 26,
     "acName": "AONGLENDEN",
     "partNumber": 1,
-    "partName": "SANGTEMLA WARD-I"
+    "partName": "SANGTEMLA WARD-I",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 1045,
@@ -646,7 +762,9 @@
     "acNumber": 26,
     "acName": "AONGLENDEN",
     "partNumber": 2,
-    "partName": "SANGTEMLA WARD-II"
+    "partName": "SANGTEMLA WARD-II",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 1046,
@@ -657,7 +775,9 @@
     "acNumber": 26,
     "acName": "AONGLENDEN",
     "partNumber": 3,
-    "partName": "DILONG WARD-I"
+    "partName": "DILONG WARD-I",
+    "lat": 26.3263185,
+    "lon": 94.5182045
   },
   {
     "partId": 1047,
@@ -668,7 +788,9 @@
     "acNumber": 26,
     "acName": "AONGLENDEN",
     "partNumber": 4,
-    "partName": "DILONG WARD-II"
+    "partName": "DILONG WARD-II",
+    "lat": 26.3263185,
+    "lon": 94.5182045
   },
   {
     "partId": 1048,
@@ -679,7 +801,9 @@
     "acNumber": 26,
     "acName": "AONGLENDEN",
     "partNumber": 5,
-    "partName": "ARKONG WARD S/ WING"
+    "partName": "ARKONG WARD S/ WING",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 1049,
@@ -690,7 +814,9 @@
     "acNumber": 26,
     "acName": "AONGLENDEN",
     "partNumber": 6,
-    "partName": "ARKONG WARD N/ WING"
+    "partName": "ARKONG WARD N/ WING",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 1050,
@@ -701,7 +827,9 @@
     "acNumber": 26,
     "acName": "AONGLENDEN",
     "partNumber": 7,
-    "partName": "UNGMA I AONGLENDEN BLOCK"
+    "partName": "UNGMA I AONGLENDEN BLOCK",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 1051,
@@ -712,7 +840,9 @@
     "acNumber": 26,
     "acName": "AONGLENDEN",
     "partNumber": 8,
-    "partName": "UNGMA II MEKUMPONG BLOCK"
+    "partName": "UNGMA II MEKUMPONG BLOCK",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 1052,
@@ -723,7 +853,9 @@
     "acNumber": 26,
     "acName": "AONGLENDEN",
     "partNumber": 9,
-    "partName": "UNGMA III N/ WING"
+    "partName": "UNGMA III N/ WING",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 1053,
@@ -734,7 +866,9 @@
     "acNumber": 26,
     "acName": "AONGLENDEN",
     "partNumber": 10,
-    "partName": "UNGMA IV S/ WING"
+    "partName": "UNGMA IV S/ WING",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 1054,
@@ -745,7 +879,9 @@
     "acNumber": 26,
     "acName": "AONGLENDEN",
     "partNumber": 11,
-    "partName": "UNGMA V YIMSENKONG BLOCK"
+    "partName": "UNGMA V YIMSENKONG BLOCK",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 1055,
@@ -756,7 +892,9 @@
     "acNumber": 26,
     "acName": "AONGLENDEN",
     "partNumber": 12,
-    "partName": "AO-SETTSU"
+    "partName": "AO-SETTSU",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 1056,
@@ -767,7 +905,9 @@
     "acNumber": 26,
     "acName": "AONGLENDEN",
     "partNumber": 13,
-    "partName": "KUBZA"
+    "partName": "KUBZA",
+    "lat": 26.3258065,
+    "lon": 94.4483272
   },
   {
     "partId": 1057,
@@ -778,7 +918,9 @@
     "acNumber": 26,
     "acName": "AONGLENDEN",
     "partNumber": 14,
-    "partName": "MAREPKONG PHE COLONY"
+    "partName": "MAREPKONG PHE COLONY",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 1058,
@@ -789,7 +931,9 @@
     "acNumber": 26,
     "acName": "AONGLENDEN",
     "partNumber": 15,
-    "partName": "UNGMA-VI"
+    "partName": "UNGMA-VI",
+    "lat": 26.2969757,
+    "lon": 94.5045034
   },
   {
     "partId": 1059,
@@ -800,7 +944,9 @@
     "acNumber": 26,
     "acName": "AONGLENDEN",
     "partNumber": 16,
-    "partName": "AOLIJEN"
+    "partName": "AOLIJEN",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 2260,
@@ -811,7 +957,9 @@
     "acNumber": 26,
     "acName": "AONGLENDEN",
     "partNumber": 17,
-    "partName": "LIDEN MEPU"
+    "partName": "LIDEN MEPU",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 3249,
@@ -822,7 +970,9 @@
     "acNumber": 22,
     "acName": "ARKAKONG",
     "partNumber": 1,
-    "partName": "CHANGTONGYA TOWN  STATION-I"
+    "partName": "CHANGTONGYA TOWN  STATION-I",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 3250,
@@ -833,7 +983,9 @@
     "acNumber": 22,
     "acName": "ARKAKONG",
     "partNumber": 2,
-    "partName": "CHANGTONYA TOWN STATION-II"
+    "partName": "CHANGTONYA TOWN STATION-II",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 3251,
@@ -844,7 +996,9 @@
     "acNumber": 22,
     "acName": "ARKAKONG",
     "partNumber": 3,
-    "partName": "CHANGTONGYA TOWN STATION-III"
+    "partName": "CHANGTONGYA TOWN STATION-III",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 3252,
@@ -855,7 +1009,9 @@
     "acNumber": 22,
     "acName": "ARKAKONG",
     "partNumber": 4,
-    "partName": "CHANGTONGYA TOWN STATION -IV"
+    "partName": "CHANGTONGYA TOWN STATION -IV",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 3253,
@@ -866,7 +1022,9 @@
     "acNumber": 22,
     "acName": "ARKAKONG",
     "partNumber": 5,
-    "partName": "YAONGYIMSEN-I N/WING"
+    "partName": "YAONGYIMSEN-I N/WING",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 3254,
@@ -877,7 +1035,9 @@
     "acNumber": 22,
     "acName": "ARKAKONG",
     "partNumber": 6,
-    "partName": "YAONGYIMSEN-II S/WING"
+    "partName": "YAONGYIMSEN-II S/WING",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 3255,
@@ -888,7 +1048,9 @@
     "acNumber": 22,
     "acName": "ARKAKONG",
     "partNumber": 7,
-    "partName": "CHANGTONGYA YIMCHEN-I LONGZUNG MEPU"
+    "partName": "CHANGTONGYA YIMCHEN-I LONGZUNG MEPU",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 3256,
@@ -899,7 +1061,9 @@
     "acNumber": 22,
     "acName": "ARKAKONG",
     "partNumber": 8,
-    "partName": "CHANGTONGYA YIMCHEN-II ONGPANG MEPU"
+    "partName": "CHANGTONGYA YIMCHEN-II ONGPANG MEPU",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 3257,
@@ -910,7 +1074,9 @@
     "acNumber": 22,
     "acName": "ARKAKONG",
     "partNumber": 9,
-    "partName": "AKHOIA"
+    "partName": "AKHOIA",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 3258,
@@ -921,7 +1087,9 @@
     "acNumber": 22,
     "acName": "ARKAKONG",
     "partNumber": 10,
-    "partName": "UNGER - I S/ WING"
+    "partName": "UNGER - I S/ WING",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 3259,
@@ -932,7 +1100,9 @@
     "acNumber": 22,
     "acName": "ARKAKONG",
     "partNumber": 11,
-    "partName": "UNGER - I N/ WING"
+    "partName": "UNGER - I N/ WING",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 3260,
@@ -943,7 +1113,9 @@
     "acNumber": 22,
     "acName": "ARKAKONG",
     "partNumber": 12,
-    "partName": "KELINGMEN"
+    "partName": "KELINGMEN",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 3261,
@@ -954,7 +1126,9 @@
     "acNumber": 22,
     "acName": "ARKAKONG",
     "partNumber": 13,
-    "partName": "CHUCHUYIMLANG-I LONGZUNG MEPU"
+    "partName": "CHUCHUYIMLANG-I LONGZUNG MEPU",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 3262,
@@ -965,7 +1139,9 @@
     "acNumber": 22,
     "acName": "ARKAKONG",
     "partNumber": 14,
-    "partName": "CHUCHUYIMLANG II YIMPANG MEPU"
+    "partName": "CHUCHUYIMLANG II YIMPANG MEPU",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 3263,
@@ -976,7 +1152,9 @@
     "acNumber": 22,
     "acName": "ARKAKONG",
     "partNumber": 15,
-    "partName": "CHUCHUYIMLANG III MONGDA MEPU"
+    "partName": "CHUCHUYIMLANG III MONGDA MEPU",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 3264,
@@ -987,7 +1165,9 @@
     "acNumber": 22,
     "acName": "ARKAKONG",
     "partNumber": 16,
-    "partName": "CHUCHUYIMLANG IV YIMLANG MEPU"
+    "partName": "CHUCHUYIMLANG IV YIMLANG MEPU",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 3265,
@@ -998,7 +1178,9 @@
     "acNumber": 22,
     "acName": "ARKAKONG",
     "partNumber": 17,
-    "partName": "CHANGTONGYA YIMSEN"
+    "partName": "CHANGTONGYA YIMSEN",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 3266,
@@ -1009,7 +1191,9 @@
     "acNumber": 22,
     "acName": "ARKAKONG",
     "partNumber": 18,
-    "partName": "YAONGYIMSEN COMPOUND"
+    "partName": "YAONGYIMSEN COMPOUND",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 3267,
@@ -1020,7 +1204,9 @@
     "acNumber": 22,
     "acName": "ARKAKONG",
     "partNumber": 19,
-    "partName": "MERANGYIMSEN KHEL, CHUMCHUYIMLANG"
+    "partName": "MERANGYIMSEN KHEL, CHUMCHUYIMLANG",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 3268,
@@ -1031,7 +1217,9 @@
     "acNumber": 22,
     "acName": "ARKAKONG",
     "partNumber": 20,
-    "partName": "CHUCHUYIMLANG-V LENDIKONG MEPU"
+    "partName": "CHUCHUYIMLANG-V LENDIKONG MEPU",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 3269,
@@ -1042,7 +1230,9 @@
     "acNumber": 22,
     "acName": "ARKAKONG",
     "partNumber": 21,
-    "partName": "CHANGTONGYA STATION - V"
+    "partName": "CHANGTONGYA STATION - V",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 3270,
@@ -1053,7 +1243,9 @@
     "acNumber": 22,
     "acName": "ARKAKONG",
     "partNumber": 22,
-    "partName": "CHANGTONGYA STATION - VI"
+    "partName": "CHANGTONGYA STATION - VI",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 3271,
@@ -1064,7 +1256,9 @@
     "acNumber": 22,
     "acName": "ARKAKONG",
     "partNumber": 23,
-    "partName": "YAONGYIMSEN - III"
+    "partName": "YAONGYIMSEN - III",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 3272,
@@ -1075,7 +1269,9 @@
     "acNumber": 22,
     "acName": "ARKAKONG",
     "partNumber": 24,
-    "partName": "CHANGTONGYA YIMCHEN - III"
+    "partName": "CHANGTONGYA YIMCHEN - III",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 3273,
@@ -1086,7 +1282,9 @@
     "acNumber": 22,
     "acName": "ARKAKONG",
     "partNumber": 25,
-    "partName": "LIROYIM MODEL VILLAGE"
+    "partName": "LIROYIM MODEL VILLAGE",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 3248,
@@ -1097,7 +1295,9 @@
     "acNumber": 22,
     "acName": "ARKAKONG",
     "partNumber": 26,
-    "partName": "TZUMOK-KONG WARD"
+    "partName": "TZUMOK-KONG WARD",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 3274,
@@ -1108,7 +1308,9 @@
     "acNumber": 22,
     "acName": "ARKAKONG",
     "partNumber": 27,
-    "partName": "TSUMAMENDEN"
+    "partName": "TSUMAMENDEN",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 3275,
@@ -1119,7 +1321,9 @@
     "acNumber": 22,
     "acName": "ARKAKONG",
     "partNumber": 28,
-    "partName": "LONGZUNG"
+    "partName": "LONGZUNG",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 978,
@@ -1130,7 +1334,9 @@
     "acNumber": 23,
     "acName": "IMPUR",
     "partNumber": 1,
-    "partName": "KOBULONG"
+    "partName": "KOBULONG",
+    "lat": 26.3892179,
+    "lon": 94.5399292
   },
   {
     "partId": 979,
@@ -1141,7 +1347,9 @@
     "acNumber": 23,
     "acName": "IMPUR",
     "partNumber": 2,
-    "partName": "YISEMYONG COMPOUND"
+    "partName": "YISEMYONG COMPOUND",
+    "lat": 26.4574634,
+    "lon": 94.6397694
   },
   {
     "partId": 980,
@@ -1152,7 +1360,9 @@
     "acNumber": 23,
     "acName": "IMPUR",
     "partNumber": 3,
-    "partName": "MOPUNGCHUKET - I"
+    "partName": "MOPUNGCHUKET - I",
+    "lat": 26.3915822,
+    "lon": 94.5340927
   },
   {
     "partId": 981,
@@ -1163,7 +1373,9 @@
     "acNumber": 23,
     "acName": "IMPUR",
     "partNumber": 4,
-    "partName": "MOPUNGCHUKET - II"
+    "partName": "MOPUNGCHUKET - II",
+    "lat": 26.3915822,
+    "lon": 94.5340927
   },
   {
     "partId": 982,
@@ -1174,7 +1386,9 @@
     "acNumber": 23,
     "acName": "IMPUR",
     "partNumber": 5,
-    "partName": "MOPUNGCHUKET - III"
+    "partName": "MOPUNGCHUKET - III",
+    "lat": 26.3892179,
+    "lon": 94.5399292
   },
   {
     "partId": 983,
@@ -1185,7 +1399,9 @@
     "acNumber": 23,
     "acName": "IMPUR",
     "partNumber": 6,
-    "partName": "MOPUNGCHUKET - IV"
+    "partName": "MOPUNGCHUKET - IV",
+    "lat": 26.3892179,
+    "lon": 94.5399292
   },
   {
     "partId": 984,
@@ -1196,7 +1412,9 @@
     "acNumber": 23,
     "acName": "IMPUR",
     "partNumber": 7,
-    "partName": "LONGPHA"
+    "partName": "LONGPHA",
+    "lat": 26.3892179,
+    "lon": 94.5399292
   },
   {
     "partId": 985,
@@ -1207,7 +1425,9 @@
     "acNumber": 23,
     "acName": "IMPUR",
     "partNumber": 8,
-    "partName": "LONGJANG - I"
+    "partName": "LONGJANG - I",
+    "lat": 26.3892179,
+    "lon": 94.5399292
   },
   {
     "partId": 986,
@@ -1218,7 +1438,9 @@
     "acNumber": 23,
     "acName": "IMPUR",
     "partNumber": 9,
-    "partName": "LONGJANG - II"
+    "partName": "LONGJANG - II",
+    "lat": 26.3892179,
+    "lon": 94.5399292
   },
   {
     "partId": 987,
@@ -1229,7 +1451,9 @@
     "acNumber": 23,
     "acName": "IMPUR",
     "partNumber": 10,
-    "partName": "LONGJANG - III"
+    "partName": "LONGJANG - III",
+    "lat": 26.3892179,
+    "lon": 94.5399292
   },
   {
     "partId": 988,
@@ -1240,7 +1464,9 @@
     "acNumber": 23,
     "acName": "IMPUR",
     "partNumber": 11,
-    "partName": "LONGJANG  - IV"
+    "partName": "LONGJANG  - IV",
+    "lat": 26.3892179,
+    "lon": 94.5399292
   },
   {
     "partId": 989,
@@ -1251,7 +1477,9 @@
     "acNumber": 23,
     "acName": "IMPUR",
     "partNumber": 12,
-    "partName": "SUNGRATSU - I"
+    "partName": "SUNGRATSU - I",
+    "lat": 26.3924994,
+    "lon": 94.5517621
   },
   {
     "partId": 990,
@@ -1262,7 +1490,9 @@
     "acNumber": 23,
     "acName": "IMPUR",
     "partNumber": 13,
-    "partName": "SUNGRATSU - II"
+    "partName": "SUNGRATSU - II",
+    "lat": 26.3924994,
+    "lon": 94.5517621
   },
   {
     "partId": 991,
@@ -1273,7 +1503,9 @@
     "acNumber": 23,
     "acName": "IMPUR",
     "partNumber": 14,
-    "partName": "SUNGRATSU - III"
+    "partName": "SUNGRATSU - III",
+    "lat": 26.3892179,
+    "lon": 94.5399292
   },
   {
     "partId": 992,
@@ -1284,7 +1516,9 @@
     "acNumber": 23,
     "acName": "IMPUR",
     "partNumber": 15,
-    "partName": "CHAMI"
+    "partName": "CHAMI",
+    "lat": 26.3892179,
+    "lon": 94.5399292
   },
   {
     "partId": 993,
@@ -1295,7 +1529,9 @@
     "acNumber": 23,
     "acName": "IMPUR",
     "partNumber": 16,
-    "partName": "KHANIMO"
+    "partName": "KHANIMO",
+    "lat": 26.3892179,
+    "lon": 94.5399292
   },
   {
     "partId": 994,
@@ -1306,7 +1542,9 @@
     "acNumber": 23,
     "acName": "IMPUR",
     "partNumber": 17,
-    "partName": "ALONGCHEN"
+    "partName": "ALONGCHEN",
+    "lat": 26.3892179,
+    "lon": 94.5399292
   },
   {
     "partId": 995,
@@ -1317,7 +1555,9 @@
     "acNumber": 23,
     "acName": "IMPUR",
     "partNumber": 18,
-    "partName": "YIMCHALU"
+    "partName": "YIMCHALU",
+    "lat": 26.3892179,
+    "lon": 94.5399292
   },
   {
     "partId": 996,
@@ -1328,7 +1568,9 @@
     "acNumber": 23,
     "acName": "IMPUR",
     "partNumber": 19,
-    "partName": "IMPUR"
+    "partName": "IMPUR",
+    "lat": 26.3892179,
+    "lon": 94.5399292
   },
   {
     "partId": 997,
@@ -1339,7 +1581,9 @@
     "acNumber": 23,
     "acName": "IMPUR",
     "partNumber": 20,
-    "partName": "LONGJANG V"
+    "partName": "LONGJANG V",
+    "lat": 26.3266008,
+    "lon": 94.5229923
   },
   {
     "partId": 2325,
@@ -1350,7 +1594,9 @@
     "acNumber": 23,
     "acName": "IMPUR",
     "partNumber": 21,
-    "partName": "MANGKOLONG"
+    "partName": "MANGKOLONG",
+    "lat": 26.3892179,
+    "lon": 94.5399292
   },
   {
     "partId": 3154,
@@ -1361,7 +1607,9 @@
     "acNumber": 29,
     "acName": "JANGPETKONG",
     "partNumber": 1,
-    "partName": "CHANGKI I"
+    "partName": "CHANGKI I",
+    "lat": 26.4218436,
+    "lon": 94.388936
   },
   {
     "partId": 3155,
@@ -1372,7 +1620,9 @@
     "acNumber": 29,
     "acName": "JANGPETKONG",
     "partNumber": 2,
-    "partName": "CHANGKI II"
+    "partName": "CHANGKI II",
+    "lat": 26.4218436,
+    "lon": 94.388936
   },
   {
     "partId": 3156,
@@ -1383,7 +1633,9 @@
     "acNumber": 29,
     "acName": "JANGPETKONG",
     "partNumber": 3,
-    "partName": "CHANGKI III"
+    "partName": "CHANGKI III",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 3157,
@@ -1394,7 +1646,9 @@
     "acNumber": 29,
     "acName": "JANGPETKONG",
     "partNumber": 4,
-    "partName": "CHUNGLIYIMSEN VILLAGE"
+    "partName": "CHUNGLIYIMSEN VILLAGE",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 3158,
@@ -1405,7 +1659,9 @@
     "acNumber": 29,
     "acName": "JANGPETKONG",
     "partNumber": 5,
-    "partName": "KHARI I TONGPANG REJU BLOCK"
+    "partName": "KHARI I TONGPANG REJU BLOCK",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 3159,
@@ -1416,7 +1672,9 @@
     "acNumber": 29,
     "acName": "JANGPETKONG",
     "partNumber": 6,
-    "partName": "KHARI II IMRONG MEPU"
+    "partName": "KHARI II IMRONG MEPU",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 3160,
@@ -1427,7 +1685,9 @@
     "acNumber": 29,
     "acName": "JANGPETKONG",
     "partNumber": 7,
-    "partName": "MONGCHEN"
+    "partName": "MONGCHEN",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 3161,
@@ -1438,7 +1698,9 @@
     "acNumber": 29,
     "acName": "JANGPETKONG",
     "partNumber": 8,
-    "partName": "DIBUIA"
+    "partName": "DIBUIA",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 3162,
@@ -1449,7 +1711,9 @@
     "acNumber": 29,
     "acName": "JANGPETKONG",
     "partNumber": 9,
-    "partName": "WAROMONG-I N/WING"
+    "partName": "WAROMONG-I N/WING",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 3163,
@@ -1460,7 +1724,9 @@
     "acNumber": 29,
     "acName": "JANGPETKONG",
     "partNumber": 10,
-    "partName": "WAROMONG-II S/WING"
+    "partName": "WAROMONG-II S/WING",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 3164,
@@ -1471,7 +1737,9 @@
     "acNumber": 29,
     "acName": "JANGPETKONG",
     "partNumber": 11,
-    "partName": "ALONGKIMA"
+    "partName": "ALONGKIMA",
+    "lat": 26.5967971,
+    "lon": 94.55612905145057
   },
   {
     "partId": 3165,
@@ -1482,7 +1750,9 @@
     "acNumber": 29,
     "acName": "JANGPETKONG",
     "partNumber": 12,
-    "partName": "LONGNAK"
+    "partName": "LONGNAK",
+    "lat": 26.4559795,
+    "lon": 94.3751388
   },
   {
     "partId": 3166,
@@ -1493,7 +1763,9 @@
     "acNumber": 29,
     "acName": "JANGPETKONG",
     "partNumber": 13,
-    "partName": "MANGKOLEMBA I"
+    "partName": "MANGKOLEMBA I",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 3167,
@@ -1504,7 +1776,9 @@
     "acNumber": 29,
     "acName": "JANGPETKONG",
     "partNumber": 14,
-    "partName": "MANGKOLEMBA II"
+    "partName": "MANGKOLEMBA II",
+    "lat": 26.4988414,
+    "lon": 94.4407904
   },
   {
     "partId": 3168,
@@ -1515,7 +1789,9 @@
     "acNumber": 29,
     "acName": "JANGPETKONG",
     "partNumber": 15,
-    "partName": "WAROMONG COMPOUND"
+    "partName": "WAROMONG COMPOUND",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 3169,
@@ -1526,7 +1802,9 @@
     "acNumber": 29,
     "acName": "JANGPETKONG",
     "partNumber": 16,
-    "partName": "MANGKOLEMBA-III"
+    "partName": "MANGKOLEMBA-III",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 3170,
@@ -1537,7 +1815,9 @@
     "acNumber": 29,
     "acName": "JANGPETKONG",
     "partNumber": 17,
-    "partName": "KHAR-III"
+    "partName": "KHAR-III",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 3171,
@@ -1548,7 +1828,9 @@
     "acNumber": 29,
     "acName": "JANGPETKONG",
     "partNumber": 18,
-    "partName": "WAROMONG-III"
+    "partName": "WAROMONG-III",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 3172,
@@ -1559,7 +1841,9 @@
     "acNumber": 29,
     "acName": "JANGPETKONG",
     "partNumber": 19,
-    "partName": "MERAYIM"
+    "partName": "MERAYIM",
+    "lat": 26.4388042,
+    "lon": 94.3873206
   },
   {
     "partId": 3173,
@@ -1570,7 +1854,9 @@
     "acNumber": 29,
     "acName": "JANGPETKONG",
     "partNumber": 20,
-    "partName": "NEC FARM"
+    "partName": "NEC FARM",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 1068,
@@ -1581,7 +1867,9 @@
     "acNumber": 28,
     "acName": "KORIDANG",
     "partNumber": 1,
-    "partName": "ONGPANGKONG COMPOUND-I (YIMYU)"
+    "partName": "ONGPANGKONG COMPOUND-I (YIMYU)",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 1069,
@@ -1592,7 +1880,9 @@
     "acNumber": 28,
     "acName": "KORIDANG",
     "partNumber": 2,
-    "partName": "ONGPANGKONG COMPOUND-II (YIMYU)"
+    "partName": "ONGPANGKONG COMPOUND-II (YIMYU)",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 1070,
@@ -1603,7 +1893,9 @@
     "acNumber": 28,
     "acName": "KORIDANG",
     "partNumber": 3,
-    "partName": "LONGKHUM I"
+    "partName": "LONGKHUM I",
+    "lat": 26.2609908,
+    "lon": 94.4133931
   },
   {
     "partId": 1071,
@@ -1614,7 +1906,9 @@
     "acNumber": 28,
     "acName": "KORIDANG",
     "partNumber": 4,
-    "partName": "LONGKHUM II"
+    "partName": "LONGKHUM II",
+    "lat": 26.2609908,
+    "lon": 94.4133931
   },
   {
     "partId": 1072,
@@ -1625,7 +1919,9 @@
     "acNumber": 28,
     "acName": "KORIDANG",
     "partNumber": 5,
-    "partName": "LONGKHUM III"
+    "partName": "LONGKHUM III",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 1073,
@@ -1636,7 +1932,9 @@
     "acNumber": 28,
     "acName": "KORIDANG",
     "partNumber": 6,
-    "partName": "ALICHEN I"
+    "partName": "ALICHEN I",
+    "lat": 26.2712924,
+    "lon": 94.455345
   },
   {
     "partId": 1074,
@@ -1647,7 +1945,9 @@
     "acNumber": 28,
     "acName": "KORIDANG",
     "partNumber": 7,
-    "partName": "ALICHEN II"
+    "partName": "ALICHEN II",
+    "lat": 26.2712924,
+    "lon": 94.455345
   },
   {
     "partId": 1075,
@@ -1658,7 +1958,9 @@
     "acNumber": 28,
     "acName": "KORIDANG",
     "partNumber": 8,
-    "partName": "ALICHEN III"
+    "partName": "ALICHEN III",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 1076,
@@ -1669,7 +1971,9 @@
     "acNumber": 28,
     "acName": "KORIDANG",
     "partNumber": 9,
-    "partName": "MANGMETONG I"
+    "partName": "MANGMETONG I",
+    "lat": 26.2941892,
+    "lon": 94.40166
   },
   {
     "partId": 1077,
@@ -1680,7 +1984,9 @@
     "acNumber": 28,
     "acName": "KORIDANG",
     "partNumber": 10,
-    "partName": "MANGMETONG II S/WING"
+    "partName": "MANGMETONG II S/WING",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 1078,
@@ -1691,7 +1997,9 @@
     "acNumber": 28,
     "acName": "KORIDANG",
     "partNumber": 11,
-    "partName": "MANGMETONG III N/WING"
+    "partName": "MANGMETONG III N/WING",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 1079,
@@ -1702,7 +2010,9 @@
     "acNumber": 28,
     "acName": "KORIDANG",
     "partNumber": 12,
-    "partName": "ALIBA"
+    "partName": "ALIBA",
+    "lat": 26.3811047,
+    "lon": 94.438046
   },
   {
     "partId": 1080,
@@ -1713,7 +2023,9 @@
     "acNumber": 28,
     "acName": "KORIDANG",
     "partNumber": 13,
-    "partName": "KINUNGER"
+    "partName": "KINUNGER",
+    "lat": 26.3728673,
+    "lon": 94.429041
   },
   {
     "partId": 1081,
@@ -1724,7 +2036,9 @@
     "acNumber": 28,
     "acName": "KORIDANG",
     "partNumber": 14,
-    "partName": "CHUNGTIA I"
+    "partName": "CHUNGTIA I",
+    "lat": 26.3848157,
+    "lon": 94.4423394
   },
   {
     "partId": 1082,
@@ -1735,7 +2049,9 @@
     "acNumber": 28,
     "acName": "KORIDANG",
     "partNumber": 15,
-    "partName": "CHUNGTIA II"
+    "partName": "CHUNGTIA II",
+    "lat": 26.3848157,
+    "lon": 94.4423394
   },
   {
     "partId": 1083,
@@ -1746,7 +2062,9 @@
     "acNumber": 28,
     "acName": "KORIDANG",
     "partNumber": 16,
-    "partName": "SABANGYA"
+    "partName": "SABANGYA",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 1084,
@@ -1757,7 +2075,9 @@
     "acNumber": 28,
     "acName": "KORIDANG",
     "partNumber": 17,
-    "partName": "LONGCHENKONG"
+    "partName": "LONGCHENKONG",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 1085,
@@ -1768,7 +2088,9 @@
     "acNumber": 28,
     "acName": "KORIDANG",
     "partNumber": 18,
-    "partName": "MEKULI"
+    "partName": "MEKULI",
+    "lat": 26.3563331,
+    "lon": 94.4722567
   },
   {
     "partId": 1086,
@@ -1779,7 +2101,9 @@
     "acNumber": 28,
     "acName": "KORIDANG",
     "partNumber": 19,
-    "partName": "KHENSA I"
+    "partName": "KHENSA I",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 1087,
@@ -1790,7 +2114,9 @@
     "acNumber": 28,
     "acName": "KORIDANG",
     "partNumber": 20,
-    "partName": "KHENSA II"
+    "partName": "KHENSA II",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 1088,
@@ -1801,7 +2127,9 @@
     "acNumber": 28,
     "acName": "KORIDANG",
     "partNumber": 21,
-    "partName": "KHENSA III"
+    "partName": "KHENSA III",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 1089,
@@ -1812,7 +2140,9 @@
     "acNumber": 28,
     "acName": "KORIDANG",
     "partNumber": 22,
-    "partName": "LONGTSUKTEP"
+    "partName": "LONGTSUKTEP",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 1090,
@@ -1823,7 +2153,9 @@
     "acNumber": 28,
     "acName": "KORIDANG",
     "partNumber": 23,
-    "partName": "KONGRUKONG"
+    "partName": "KONGRUKONG",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 1091,
@@ -1834,7 +2166,9 @@
     "acNumber": 28,
     "acName": "KORIDANG",
     "partNumber": 24,
-    "partName": "ALICHEN IV"
+    "partName": "ALICHEN IV",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 1092,
@@ -1845,7 +2179,9 @@
     "acNumber": 28,
     "acName": "KORIDANG",
     "partNumber": 25,
-    "partName": "LONGKHUM IV"
+    "partName": "LONGKHUM IV",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 1093,
@@ -1856,7 +2192,9 @@
     "acNumber": 28,
     "acName": "KORIDANG",
     "partNumber": 26,
-    "partName": "LONGKHUM V"
+    "partName": "LONGKHUM V",
+    "lat": 26.2609908,
+    "lon": 94.4133931
   },
   {
     "partId": 1094,
@@ -1867,7 +2205,9 @@
     "acNumber": 28,
     "acName": "KORIDANG",
     "partNumber": 27,
-    "partName": "MANGMETONG IV"
+    "partName": "MANGMETONG IV",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 1095,
@@ -1878,7 +2218,9 @@
     "acNumber": 28,
     "acName": "KORIDANG",
     "partNumber": 28,
-    "partName": "MANGMETONG V"
+    "partName": "MANGMETONG V",
+    "lat": 26.2941892,
+    "lon": 94.40166
   },
   {
     "partId": 1096,
@@ -1889,7 +2231,9 @@
     "acNumber": 28,
     "acName": "KORIDANG",
     "partNumber": 29,
-    "partName": "CHUNGTIA-III"
+    "partName": "CHUNGTIA-III",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 1097,
@@ -1900,7 +2244,9 @@
     "acNumber": 28,
     "acName": "KORIDANG",
     "partNumber": 30,
-    "partName": "SATTSU"
+    "partName": "SATTSU",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 1060,
@@ -1911,7 +2257,9 @@
     "acNumber": 27,
     "acName": "MOKOKCHUNG TOWN",
     "partNumber": 1,
-    "partName": "SALANGTEM WARD-I"
+    "partName": "SALANGTEM WARD-I",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 1061,
@@ -1922,7 +2270,9 @@
     "acNumber": 27,
     "acName": "MOKOKCHUNG TOWN",
     "partNumber": 2,
-    "partName": "SALANGTEM WARD-II"
+    "partName": "SALANGTEM WARD-II",
+    "lat": 26.3265423,
+    "lon": 94.515995
   },
   {
     "partId": 1062,
@@ -1933,7 +2283,9 @@
     "acNumber": 27,
     "acName": "MOKOKCHUNG TOWN",
     "partNumber": 3,
-    "partName": "AONGZA WARD"
+    "partName": "AONGZA WARD",
+    "lat": 26.3271889,
+    "lon": 94.5106226
   },
   {
     "partId": 1063,
@@ -1944,7 +2296,9 @@
     "acNumber": 27,
     "acName": "MOKOKCHUNG TOWN",
     "partNumber": 4,
-    "partName": "KICHUTIP WARD"
+    "partName": "KICHUTIP WARD",
+    "lat": 26.3278685,
+    "lon": 94.5132193
   },
   {
     "partId": 1064,
@@ -1955,7 +2309,9 @@
     "acNumber": 27,
     "acName": "MOKOKCHUNG TOWN",
     "partNumber": 5,
-    "partName": "KUMLONG WARD-I"
+    "partName": "KUMLONG WARD-I",
+    "lat": 26.3223349,
+    "lon": 94.51885011197503
   },
   {
     "partId": 1065,
@@ -1966,7 +2322,9 @@
     "acNumber": 27,
     "acName": "MOKOKCHUNG TOWN",
     "partNumber": 6,
-    "partName": "KUMLONG WARD-II"
+    "partName": "KUMLONG WARD-II",
+    "lat": 26.3223349,
+    "lon": 94.51885011197503
   },
   {
     "partId": 1066,
@@ -1977,7 +2335,9 @@
     "acNumber": 27,
     "acName": "MOKOKCHUNG TOWN",
     "partNumber": 7,
-    "partName": "MONGSENBAI-I"
+    "partName": "MONGSENBAI-I",
+    "lat": 26.3223349,
+    "lon": 94.51885011197503
   },
   {
     "partId": 1067,
@@ -1988,7 +2348,9 @@
     "acNumber": 27,
     "acName": "MOKOKCHUNG TOWN",
     "partNumber": 8,
-    "partName": "MONGSENBAI-II"
+    "partName": "MONGSENBAI-II",
+    "lat": 26.3223349,
+    "lon": 94.51885011197503
   },
   {
     "partId": 1019,
@@ -1999,7 +2361,9 @@
     "acNumber": 25,
     "acName": "MONGOYA",
     "partNumber": 1,
-    "partName": "MAJAKONG WARD - I"
+    "partName": "MAJAKONG WARD - I",
+    "lat": 26.3610824,
+    "lon": 94.5615628
   },
   {
     "partId": 1020,
@@ -2010,7 +2374,9 @@
     "acNumber": 25,
     "acName": "MONGOYA",
     "partNumber": 2,
-    "partName": "MAJAKONG WARD II"
+    "partName": "MAJAKONG WARD II",
+    "lat": 26.3610824,
+    "lon": 94.5615628
   },
   {
     "partId": 1021,
@@ -2021,7 +2387,9 @@
     "acNumber": 25,
     "acName": "MONGOYA",
     "partNumber": 3,
-    "partName": "ARTANG WARD"
+    "partName": "ARTANG WARD",
+    "lat": 26.3174789,
+    "lon": 94.5163999
   },
   {
     "partId": 1022,
@@ -2032,7 +2400,9 @@
     "acNumber": 25,
     "acName": "MONGOYA",
     "partNumber": 4,
-    "partName": "PENLI WARD (B-II)"
+    "partName": "PENLI WARD (B-II)",
+    "lat": 26.3610824,
+    "lon": 94.5615628
   },
   {
     "partId": 1023,
@@ -2043,7 +2413,9 @@
     "acNumber": 25,
     "acName": "MONGOYA",
     "partNumber": 5,
-    "partName": "ALONGMEN WARD"
+    "partName": "ALONGMEN WARD",
+    "lat": 26.32705985,
+    "lon": 94.52318831367671
   },
   {
     "partId": 1024,
@@ -2054,7 +2426,9 @@
     "acNumber": 25,
     "acName": "MONGOYA",
     "partNumber": 6,
-    "partName": "LONGSA I"
+    "partName": "LONGSA I",
+    "lat": 26.3610824,
+    "lon": 94.5615628
   },
   {
     "partId": 1025,
@@ -2065,7 +2439,9 @@
     "acNumber": 25,
     "acName": "MONGOYA",
     "partNumber": 7,
-    "partName": "LONGSA II"
+    "partName": "LONGSA II",
+    "lat": 26.3610824,
+    "lon": 94.5615628
   },
   {
     "partId": 1026,
@@ -2076,7 +2452,9 @@
     "acNumber": 25,
     "acName": "MONGOYA",
     "partNumber": 8,
-    "partName": "LONGSA III"
+    "partName": "LONGSA III",
+    "lat": 26.3610824,
+    "lon": 94.5615628
   },
   {
     "partId": 1027,
@@ -2087,7 +2465,9 @@
     "acNumber": 25,
     "acName": "MONGOYA",
     "partNumber": 9,
-    "partName": "LONGSA IV"
+    "partName": "LONGSA IV",
+    "lat": 26.3610824,
+    "lon": 94.5615628
   },
   {
     "partId": 1028,
@@ -2098,7 +2478,9 @@
     "acNumber": 25,
     "acName": "MONGOYA",
     "partNumber": 10,
-    "partName": "CHUBAYIMKUM"
+    "partName": "CHUBAYIMKUM",
+    "lat": 26.3610824,
+    "lon": 94.5615628
   },
   {
     "partId": 1029,
@@ -2109,7 +2491,9 @@
     "acNumber": 25,
     "acName": "MONGOYA",
     "partNumber": 11,
-    "partName": "MEYILONG"
+    "partName": "MEYILONG",
+    "lat": 26.3610824,
+    "lon": 94.5615628
   },
   {
     "partId": 1030,
@@ -2120,7 +2504,9 @@
     "acNumber": 25,
     "acName": "MONGOYA",
     "partNumber": 12,
-    "partName": "MOKOKCHUNG VILLAGE-I ARICHUMA BLOCK"
+    "partName": "MOKOKCHUNG VILLAGE-I ARICHUMA BLOCK",
+    "lat": 26.3610824,
+    "lon": 94.5615628
   },
   {
     "partId": 1031,
@@ -2131,7 +2517,9 @@
     "acNumber": 25,
     "acName": "MONGOYA",
     "partNumber": 13,
-    "partName": "MOKOKCHUNG VILLAGE-II ARICHUMA BLOCK"
+    "partName": "MOKOKCHUNG VILLAGE-II ARICHUMA BLOCK",
+    "lat": 26.3610824,
+    "lon": 94.5615628
   },
   {
     "partId": 1032,
@@ -2142,7 +2530,9 @@
     "acNumber": 25,
     "acName": "MONGOYA",
     "partNumber": 14,
-    "partName": "MOKOKCHUNG VILLAGE-III IMTSUNGDA BLOCK"
+    "partName": "MOKOKCHUNG VILLAGE-III IMTSUNGDA BLOCK",
+    "lat": 26.3610824,
+    "lon": 94.5615628
   },
   {
     "partId": 1033,
@@ -2153,7 +2543,9 @@
     "acNumber": 25,
     "acName": "MONGOYA",
     "partNumber": 15,
-    "partName": "CHUCHUYIMPANG I CHANGCHANG LENDEN"
+    "partName": "CHUCHUYIMPANG I CHANGCHANG LENDEN",
+    "lat": 26.3610824,
+    "lon": 94.5615628
   },
   {
     "partId": 1034,
@@ -2164,7 +2556,9 @@
     "acNumber": 25,
     "acName": "MONGOYA",
     "partNumber": 16,
-    "partName": "CHUCHUYIMPANG II"
+    "partName": "CHUCHUYIMPANG II",
+    "lat": 26.3610824,
+    "lon": 94.5615628
   },
   {
     "partId": 1035,
@@ -2175,7 +2569,9 @@
     "acNumber": 25,
     "acName": "MONGOYA",
     "partNumber": 17,
-    "partName": "DISTRICT EXECUTIVE FORCE COLONY (CHUCHU)"
+    "partName": "DISTRICT EXECUTIVE FORCE COLONY (CHUCHU)",
+    "lat": 26.3610824,
+    "lon": 94.5615628
   },
   {
     "partId": 1036,
@@ -2186,7 +2582,9 @@
     "acNumber": 25,
     "acName": "MONGOYA",
     "partNumber": 18,
-    "partName": "MOALENDEN"
+    "partName": "MOALENDEN",
+    "lat": 26.3610824,
+    "lon": 94.5615628
   },
   {
     "partId": 1037,
@@ -2197,7 +2595,9 @@
     "acNumber": 25,
     "acName": "MONGOYA",
     "partNumber": 19,
-    "partName": "TSUSAPANG"
+    "partName": "TSUSAPANG",
+    "lat": 26.3285422,
+    "lon": 94.5413847
   },
   {
     "partId": 1038,
@@ -2208,7 +2608,9 @@
     "acNumber": 25,
     "acName": "MONGOYA",
     "partNumber": 20,
-    "partName": "LIJABA LIJEN WARD"
+    "partName": "LIJABA LIJEN WARD",
+    "lat": 26.3610824,
+    "lon": 94.5615628
   },
   {
     "partId": 1039,
@@ -2219,7 +2621,9 @@
     "acNumber": 25,
     "acName": "MONGOYA",
     "partNumber": 21,
-    "partName": "ARTANG WARD I"
+    "partName": "ARTANG WARD I",
+    "lat": 26.3610824,
+    "lon": 94.5615628
   },
   {
     "partId": 1040,
@@ -2230,7 +2634,9 @@
     "acNumber": 25,
     "acName": "MONGOYA",
     "partNumber": 22,
-    "partName": "LONGSA V"
+    "partName": "LONGSA V",
+    "lat": 26.3610824,
+    "lon": 94.5615628
   },
   {
     "partId": 1041,
@@ -2241,7 +2647,9 @@
     "acNumber": 25,
     "acName": "MONGOYA",
     "partNumber": 23,
-    "partName": "MOKOCHUNG VILLAGE - IV"
+    "partName": "MOKOCHUNG VILLAGE - IV",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 1042,
@@ -2252,7 +2660,9 @@
     "acNumber": 25,
     "acName": "MONGOYA",
     "partNumber": 24,
-    "partName": "CHUCHUYIMPANG-III"
+    "partName": "CHUCHUYIMPANG-III",
+    "lat": 26.3610824,
+    "lon": 94.5615628
   },
   {
     "partId": 1043,
@@ -2263,7 +2673,9 @@
     "acNumber": 25,
     "acName": "MONGOYA",
     "partNumber": 25,
-    "partName": "SCHOOL COMPOUND LONGSA"
+    "partName": "SCHOOL COMPOUND LONGSA",
+    "lat": 26.3610824,
+    "lon": 94.5615628
   },
   {
     "partId": 2326,
@@ -2274,7 +2686,9 @@
     "acNumber": 25,
     "acName": "MONGOYA",
     "partNumber": 26,
-    "partName": "MOKOKCHUNG VILLAGE-V"
+    "partName": "MOKOKCHUNG VILLAGE-V",
+    "lat": 26.4795861,
+    "lon": 94.51052754768273
   },
   {
     "partId": 3186,
@@ -2285,7 +2699,9 @@
     "acNumber": 21,
     "acName": "TULI",
     "partNumber": 1,
-    "partName": "MERANGKONG COMPOUND"
+    "partName": "MERANGKONG COMPOUND",
+    "lat": 26.649242299999997,
+    "lon": 94.65638939888001
   },
   {
     "partId": 3187,
@@ -2296,7 +2712,9 @@
     "acNumber": 21,
     "acName": "TULI",
     "partNumber": 2,
-    "partName": "TULIKONG WARD"
+    "partName": "TULIKONG WARD",
+    "lat": 26.649242299999997,
+    "lon": 94.65638939888001
   },
   {
     "partId": 3188,
@@ -2307,7 +2725,9 @@
     "acNumber": 21,
     "acName": "TULI",
     "partNumber": 3,
-    "partName": "SITIKOLAK & AITLENDEN WARD"
+    "partName": "SITIKOLAK & AITLENDEN WARD",
+    "lat": 26.649242299999997,
+    "lon": 94.65638939888001
   },
   {
     "partId": 3189,
@@ -2318,7 +2738,9 @@
     "acNumber": 21,
     "acName": "TULI",
     "partNumber": 4,
-    "partName": "TZUDIKONG-I"
+    "partName": "TZUDIKONG-I",
+    "lat": 26.7160204,
+    "lon": 94.6354794
   },
   {
     "partId": 3190,
@@ -2329,7 +2751,9 @@
     "acNumber": 21,
     "acName": "TULI",
     "partNumber": 5,
-    "partName": "TZUDIKONG-II"
+    "partName": "TZUDIKONG-II",
+    "lat": 26.7160204,
+    "lon": 94.6354794
   },
   {
     "partId": 3191,
@@ -2340,7 +2764,9 @@
     "acNumber": 21,
     "acName": "TULI",
     "partNumber": 6,
-    "partName": "TZUDIKONG-III"
+    "partName": "TZUDIKONG-III",
+    "lat": 26.649242299999997,
+    "lon": 94.65638939888001
   },
   {
     "partId": 3192,
@@ -2351,7 +2777,9 @@
     "acNumber": 21,
     "acName": "TULI",
     "partNumber": 7,
-    "partName": "TZUDIKONG-IV"
+    "partName": "TZUDIKONG-IV",
+    "lat": 26.649242299999997,
+    "lon": 94.65638939888001
   },
   {
     "partId": 3193,
@@ -2362,7 +2790,9 @@
     "acNumber": 21,
     "acName": "TULI",
     "partNumber": 8,
-    "partName": "PONGENTENEM, MERANGKONG"
+    "partName": "PONGENTENEM, MERANGKONG",
+    "lat": 26.649242299999997,
+    "lon": 94.65638939888001
   },
   {
     "partId": 3194,
@@ -2373,7 +2803,9 @@
     "acNumber": 21,
     "acName": "TULI",
     "partNumber": 9,
-    "partName": "LONGHAPANG, MERANGKONG"
+    "partName": "LONGHAPANG, MERANGKONG",
+    "lat": 26.649242299999997,
+    "lon": 94.65638939888001
   },
   {
     "partId": 3195,
@@ -2384,7 +2816,9 @@
     "acNumber": 21,
     "acName": "TULI",
     "partNumber": 10,
-    "partName": "MOPONGSEN MERANGKONG"
+    "partName": "MOPONGSEN MERANGKONG",
+    "lat": 26.649242299999997,
+    "lon": 94.65638939888001
   },
   {
     "partId": 3196,
@@ -2395,7 +2829,9 @@
     "acNumber": 21,
     "acName": "TULI",
     "partNumber": 11,
-    "partName": "WAMEKEN"
+    "partName": "WAMEKEN",
+    "lat": 26.649242299999997,
+    "lon": 94.65638939888001
   },
   {
     "partId": 3197,
@@ -2406,7 +2842,9 @@
     "acNumber": 21,
     "acName": "TULI",
     "partNumber": 12,
-    "partName": "KANGTSUNG TULUBA - I S/ WING"
+    "partName": "KANGTSUNG TULUBA - I S/ WING",
+    "lat": 26.649242299999997,
+    "lon": 94.65638939888001
   },
   {
     "partId": 3198,
@@ -2417,7 +2855,9 @@
     "acNumber": 21,
     "acName": "TULI",
     "partNumber": 13,
-    "partName": "KANGTSUNG- TULUBA - I N/ WING"
+    "partName": "KANGTSUNG- TULUBA - I N/ WING",
+    "lat": 26.649242299999997,
+    "lon": 94.65638939888001
   },
   {
     "partId": 3199,
@@ -2428,7 +2868,9 @@
     "acNumber": 21,
     "acName": "TULI",
     "partNumber": 14,
-    "partName": "KANGTSUNG TULUBA - III"
+    "partName": "KANGTSUNG TULUBA - III",
+    "lat": 26.649242299999997,
+    "lon": 94.65638939888001
   },
   {
     "partId": 3200,
@@ -2439,7 +2881,9 @@
     "acNumber": 21,
     "acName": "TULI",
     "partNumber": 15,
-    "partName": "ANAKI"
+    "partName": "ANAKI",
+    "lat": 26.649242299999997,
+    "lon": 94.65638939888001
   },
   {
     "partId": 3201,
@@ -2450,7 +2894,9 @@
     "acNumber": 21,
     "acName": "TULI",
     "partNumber": 16,
-    "partName": "MOLUNGYIMSEN-I RANGPANG MEPU"
+    "partName": "MOLUNGYIMSEN-I RANGPANG MEPU",
+    "lat": 26.649242299999997,
+    "lon": 94.65638939888001
   },
   {
     "partId": 3202,
@@ -2461,7 +2907,9 @@
     "acNumber": 21,
     "acName": "TULI",
     "partNumber": 17,
-    "partName": "MOLUNGYIMSEN-II LODONG MEPU"
+    "partName": "MOLUNGYIMSEN-II LODONG MEPU",
+    "lat": 26.649242299999997,
+    "lon": 94.65638939888001
   },
   {
     "partId": 3203,
@@ -2472,7 +2920,9 @@
     "acNumber": 21,
     "acName": "TULI",
     "partNumber": 18,
-    "partName": "LUYONG VILLAGE"
+    "partName": "LUYONG VILLAGE",
+    "lat": 26.649242299999997,
+    "lon": 94.65638939888001
   },
   {
     "partId": 3204,
@@ -2483,7 +2933,9 @@
     "acNumber": 21,
     "acName": "TULI",
     "partNumber": 19,
-    "partName": "ASANGMA"
+    "partName": "ASANGMA",
+    "lat": 26.649242299999997,
+    "lon": 94.65638939888001
   },
   {
     "partId": 3205,
@@ -2494,7 +2946,9 @@
     "acNumber": 21,
     "acName": "TULI",
     "partNumber": 20,
-    "partName": "TULIYONG WARD"
+    "partName": "TULIYONG WARD",
+    "lat": 26.649242299999997,
+    "lon": 94.65638939888001
   },
   {
     "partId": 3206,
@@ -2505,7 +2959,9 @@
     "acNumber": 21,
     "acName": "TULI",
     "partNumber": 21,
-    "partName": "LONGLI LENDEN WARD & PIGGERY FARM"
+    "partName": "LONGLI LENDEN WARD & PIGGERY FARM",
+    "lat": 26.649242299999997,
+    "lon": 94.65638939888001
   },
   {
     "partId": 3207,
@@ -2516,7 +2972,9 @@
     "acNumber": 21,
     "acName": "TULI",
     "partNumber": 22,
-    "partName": "ANAKI YIMSEN"
+    "partName": "ANAKI YIMSEN",
+    "lat": 26.649242299999997,
+    "lon": 94.65638939888001
   },
   {
     "partId": 3208,
@@ -2527,7 +2985,9 @@
     "acNumber": 21,
     "acName": "TULI",
     "partNumber": 23,
-    "partName": "ANAKI C"
+    "partName": "ANAKI C",
+    "lat": 26.649242299999997,
+    "lon": 94.65638939888001
   },
   {
     "partId": 3209,
@@ -2538,7 +2998,9 @@
     "acNumber": 21,
     "acName": "TULI",
     "partNumber": 24,
-    "partName": "LUKONGMENDANG WARD"
+    "partName": "LUKONGMENDANG WARD",
+    "lat": 26.649242299999997,
+    "lon": 94.65638939888001
   },
   {
     "partId": 3210,
@@ -2549,7 +3011,9 @@
     "acNumber": 21,
     "acName": "TULI",
     "partNumber": 25,
-    "partName": "KANGTSUNG TULUBA-IV"
+    "partName": "KANGTSUNG TULUBA-IV",
+    "lat": 26.649242299999997,
+    "lon": 94.65638939888001
   },
   {
     "partId": 3211,
@@ -2560,7 +3024,9 @@
     "acNumber": 21,
     "acName": "TULI",
     "partNumber": 26,
-    "partName": "AOPENZU"
+    "partName": "AOPENZU",
+    "lat": 26.649242299999997,
+    "lon": 94.65638939888001
   },
   {
     "partId": 3212,
@@ -2571,7 +3037,9 @@
     "acNumber": 21,
     "acName": "TULI",
     "partNumber": 27,
-    "partName": "PATIZUNG WARD"
+    "partName": "PATIZUNG WARD",
+    "lat": 26.649242299999997,
+    "lon": 94.65638939888001
   },
   {
     "partId": 3213,
@@ -2582,7 +3050,9 @@
     "acNumber": 21,
     "acName": "TULI",
     "partNumber": 28,
-    "partName": "MENDENTI WARD"
+    "partName": "MENDENTI WARD",
+    "lat": 26.649242299999997,
+    "lon": 94.65638939888001
   },
   {
     "partId": 3214,
@@ -2593,7 +3063,9 @@
     "acNumber": 21,
     "acName": "TULI",
     "partNumber": 29,
-    "partName": "KANGTSUNGYIMSEN VILLAGE"
+    "partName": "KANGTSUNGYIMSEN VILLAGE",
+    "lat": 26.649242299999997,
+    "lon": 94.65638939888001
   },
   {
     "partId": 3215,
@@ -2604,7 +3076,9 @@
     "acNumber": 21,
     "acName": "TULI",
     "partNumber": 30,
-    "partName": "LONGPONG WARD"
+    "partName": "LONGPONG WARD",
+    "lat": 26.649242299999997,
+    "lon": 94.65638939888001
   },
   {
     "partId": 3185,
@@ -2615,7 +3089,9 @@
     "acNumber": 21,
     "acName": "TULI",
     "partNumber": 31,
-    "partName": "AITLENDEN WARD"
+    "partName": "AITLENDEN WARD",
+    "lat": 26.649242299999997,
+    "lon": 94.65638939888001
   },
   {
     "partId": 3216,
@@ -2626,7 +3102,9 @@
     "acNumber": 21,
     "acName": "TULI",
     "partNumber": 32,
-    "partName": "WAMAKENYIMSEN"
+    "partName": "WAMAKENYIMSEN",
+    "lat": 26.649242299999997,
+    "lon": 94.65638939888001
   },
   {
     "partId": 3217,
@@ -2637,7 +3115,9 @@
     "acNumber": 21,
     "acName": "TULI",
     "partNumber": 33,
-    "partName": "ASANGMA-II"
+    "partName": "ASANGMA-II",
+    "lat": 26.649242299999997,
+    "lon": 94.65638939888001
   },
   {
     "partId": 3218,
@@ -2648,7 +3128,9 @@
     "acNumber": 21,
     "acName": "TULI",
     "partNumber": 34,
-    "partName": "MERANGKONG SCHOOL COMPOUND"
+    "partName": "MERANGKONG SCHOOL COMPOUND",
+    "lat": 26.649242299999997,
+    "lon": 94.65638939888001
   },
   {
     "partId": 3219,
@@ -2659,7 +3141,9 @@
     "acNumber": 21,
     "acName": "TULI",
     "partNumber": 35,
-    "partName": "CHUBARONGPANG"
+    "partName": "CHUBARONGPANG",
+    "lat": 26.649242299999997,
+    "lon": 94.65638939888001
   },
   {
     "partId": 3220,
@@ -2670,7 +3154,9 @@
     "acNumber": 21,
     "acName": "TULI",
     "partNumber": 36,
-    "partName": "LUYONG VILLAGE-II"
+    "partName": "LUYONG VILLAGE-II",
+    "lat": 26.649242299999997,
+    "lon": 94.65638939888001
   },
   {
     "partId": 3221,
@@ -2681,6 +3167,8 @@
     "acNumber": 21,
     "acName": "TULI",
     "partNumber": 37,
-    "partName": "WATIYONGPANG WARD"
+    "partName": "WATIYONGPANG WARD",
+    "lat": 26.649242299999997,
+    "lon": 94.65638939888001
   }
 ]

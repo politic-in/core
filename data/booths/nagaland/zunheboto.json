@@ -8,7 +8,9 @@
     "acNumber": 34,
     "acName": "AGHUNATO",
     "partNumber": 1,
-    "partName": "SATAMI"
+    "partName": "SATAMI",
+    "lat": 25.9593759,
+    "lon": 94.5797629805504
   },
   {
     "partId": 1239,
@@ -19,7 +21,9 @@
     "acNumber": 34,
     "acName": "AGHUNATO",
     "partNumber": 2,
-    "partName": "AGHULIMI"
+    "partName": "AGHULIMI",
+    "lat": 25.9593759,
+    "lon": 94.5797629805504
   },
   {
     "partId": 1240,
@@ -30,7 +34,9 @@
     "acNumber": 34,
     "acName": "AGHUNATO",
     "partNumber": 3,
-    "partName": "LIZUTOMI"
+    "partName": "LIZUTOMI",
+    "lat": 26.0885621,
+    "lon": 94.6621629
   },
   {
     "partId": 1241,
@@ -41,7 +47,9 @@
     "acNumber": 34,
     "acName": "AGHUNATO",
     "partNumber": 4,
-    "partName": "NGOZUBOMI"
+    "partName": "NGOZUBOMI",
+    "lat": 25.9593759,
+    "lon": 94.5797629805504
   },
   {
     "partId": 1242,
@@ -52,7 +60,9 @@
     "acNumber": 34,
     "acName": "AGHUNATO",
     "partNumber": 5,
-    "partName": "MELAHUMI"
+    "partName": "MELAHUMI",
+    "lat": 25.9593759,
+    "lon": 94.5797629805504
   },
   {
     "partId": 1243,
@@ -63,7 +73,9 @@
     "acNumber": 34,
     "acName": "AGHUNATO",
     "partNumber": 6,
-    "partName": "PHULESHETOMI"
+    "partName": "PHULESHETOMI",
+    "lat": 26.0516649,
+    "lon": 94.6172249
   },
   {
     "partId": 1244,
@@ -74,7 +86,9 @@
     "acNumber": 34,
     "acName": "AGHUNATO",
     "partNumber": 7,
-    "partName": "KELTOMI"
+    "partName": "KELTOMI",
+    "lat": 25.9593759,
+    "lon": 94.5797629805504
   },
   {
     "partId": 1245,
@@ -85,7 +99,9 @@
     "acNumber": 34,
     "acName": "AGHUNATO",
     "partNumber": 8,
-    "partName": "LUTSHUMI"
+    "partName": "LUTSHUMI",
+    "lat": 25.9593759,
+    "lon": 94.5797629805504
   },
   {
     "partId": 1246,
@@ -96,7 +112,9 @@
     "acNumber": 34,
     "acName": "AGHUNATO",
     "partNumber": 9,
-    "partName": "AGHUNATO"
+    "partName": "AGHUNATO",
+    "lat": 25.9593759,
+    "lon": 94.5797629805504
   },
   {
     "partId": 1247,
@@ -107,7 +125,9 @@
     "acNumber": 34,
     "acName": "AGHUNATO",
     "partNumber": 10,
-    "partName": "AGHUNATO TOWN"
+    "partName": "AGHUNATO TOWN",
+    "lat": 25.9593759,
+    "lon": 94.5797629805504
   },
   {
     "partId": 1248,
@@ -118,7 +138,9 @@
     "acNumber": 34,
     "acName": "AGHUNATO",
     "partNumber": 11,
-    "partName": "AGHUNATO PWD"
+    "partName": "AGHUNATO PWD",
+    "lat": 25.9593759,
+    "lon": 94.5797629805504
   },
   {
     "partId": 1249,
@@ -129,7 +151,9 @@
     "acNumber": 34,
     "acName": "AGHUNATO",
     "partNumber": 12,
-    "partName": "LUVISHE (A)"
+    "partName": "LUVISHE (A)",
+    "lat": 25.9593759,
+    "lon": 94.5797629805504
   },
   {
     "partId": 1250,
@@ -140,7 +164,9 @@
     "acNumber": 34,
     "acName": "AGHUNATO",
     "partNumber": 13,
-    "partName": "LUVISHE (B)"
+    "partName": "LUVISHE (B)",
+    "lat": 25.9593759,
+    "lon": 94.5797629805504
   },
   {
     "partId": 1251,
@@ -151,7 +177,9 @@
     "acNumber": 34,
     "acName": "AGHUNATO",
     "partNumber": 14,
-    "partName": "GHUVISHE"
+    "partName": "GHUVISHE",
+    "lat": 25.9593759,
+    "lon": 94.5797629805504
   },
   {
     "partId": 1252,
@@ -162,7 +190,9 @@
     "acNumber": 34,
     "acName": "AGHUNATO",
     "partNumber": 15,
-    "partName": "YEZASHIMI"
+    "partName": "YEZASHIMI",
+    "lat": 25.964215,
+    "lon": 94.6204849
   },
   {
     "partId": 1253,
@@ -173,7 +203,9 @@
     "acNumber": 34,
     "acName": "AGHUNATO",
     "partNumber": 16,
-    "partName": "AGHUYILIMI"
+    "partName": "AGHUYILIMI",
+    "lat": 25.9593759,
+    "lon": 94.5797629805504
   },
   {
     "partId": 1254,
@@ -184,7 +216,9 @@
     "acNumber": 34,
     "acName": "AGHUNATO",
     "partNumber": 17,
-    "partName": "TOKIYE TOWN"
+    "partName": "TOKIYE TOWN",
+    "lat": 25.9593759,
+    "lon": 94.5797629805504
   },
   {
     "partId": 1255,
@@ -195,7 +229,9 @@
     "acNumber": 34,
     "acName": "AGHUNATO",
     "partNumber": 18,
-    "partName": "VIYILHO"
+    "partName": "VIYILHO",
+    "lat": 25.9746381,
+    "lon": 94.6023946
   },
   {
     "partId": 1256,
@@ -206,7 +242,9 @@
     "acNumber": 34,
     "acName": "AGHUNATO",
     "partNumber": 19,
-    "partName": "AKUBA A"
+    "partName": "AKUBA A",
+    "lat": 25.9593759,
+    "lon": 94.5797629805504
   },
   {
     "partId": 1257,
@@ -217,7 +255,9 @@
     "acNumber": 34,
     "acName": "AGHUNATO",
     "partNumber": 20,
-    "partName": "AKUBA B"
+    "partName": "AKUBA B",
+    "lat": 25.9593759,
+    "lon": 94.5797629805504
   },
   {
     "partId": 1258,
@@ -228,7 +268,9 @@
     "acNumber": 34,
     "acName": "AGHUNATO",
     "partNumber": 21,
-    "partName": "LUKHUYIMI"
+    "partName": "LUKHUYIMI",
+    "lat": 25.9593759,
+    "lon": 94.5797629805504
   },
   {
     "partId": 1259,
@@ -239,7 +281,9 @@
     "acNumber": 34,
     "acName": "AGHUNATO",
     "partNumber": 22,
-    "partName": "THOKIHIMI"
+    "partName": "THOKIHIMI",
+    "lat": 25.9593759,
+    "lon": 94.5797629805504
   },
   {
     "partId": 1260,
@@ -250,7 +294,9 @@
     "acNumber": 34,
     "acName": "AGHUNATO",
     "partNumber": 23,
-    "partName": "KHUKISHE"
+    "partName": "KHUKISHE",
+    "lat": 25.9593759,
+    "lon": 94.5797629805504
   },
   {
     "partId": 1261,
@@ -261,7 +307,9 @@
     "acNumber": 34,
     "acName": "AGHUNATO",
     "partNumber": 24,
-    "partName": "HOSHEPU A AND B"
+    "partName": "HOSHEPU A AND B",
+    "lat": 25.9593759,
+    "lon": 94.5797629805504
   },
   {
     "partId": 1262,
@@ -272,7 +320,9 @@
     "acNumber": 34,
     "acName": "AGHUNATO",
     "partNumber": 25,
-    "partName": "KHEKIYI"
+    "partName": "KHEKIYI",
+    "lat": 25.9593759,
+    "lon": 94.5797629805504
   },
   {
     "partId": 1263,
@@ -283,7 +333,9 @@
     "acNumber": 34,
     "acName": "AGHUNATO",
     "partNumber": 26,
-    "partName": "NIHOSHE (S)/TSUTHA H/PROJECT"
+    "partName": "NIHOSHE (S)/TSUTHA H/PROJECT",
+    "lat": 25.9593759,
+    "lon": 94.5797629805504
   },
   {
     "partId": 1264,
@@ -294,7 +346,9 @@
     "acNumber": 34,
     "acName": "AGHUNATO",
     "partNumber": 27,
-    "partName": "KHETOI"
+    "partName": "KHETOI",
+    "lat": 25.9593759,
+    "lon": 94.5797629805504
   },
   {
     "partId": 1265,
@@ -305,7 +359,9 @@
     "acNumber": 34,
     "acName": "AGHUNATO",
     "partNumber": 28,
-    "partName": "ZHEYISHE"
+    "partName": "ZHEYISHE",
+    "lat": 25.9593759,
+    "lon": 94.5797629805504
   },
   {
     "partId": 1266,
@@ -316,7 +372,9 @@
     "acNumber": 34,
     "acName": "AGHUNATO",
     "partNumber": 29,
-    "partName": "LUKIKHE"
+    "partName": "LUKIKHE",
+    "lat": 25.9593759,
+    "lon": 94.5797629805504
   },
   {
     "partId": 1267,
@@ -327,7 +385,9 @@
     "acNumber": 34,
     "acName": "AGHUNATO",
     "partNumber": 30,
-    "partName": "SHEVISHE"
+    "partName": "SHEVISHE",
+    "lat": 25.9593759,
+    "lon": 94.5797629805504
   },
   {
     "partId": 1268,
@@ -338,7 +398,9 @@
     "acNumber": 34,
     "acName": "AGHUNATO",
     "partNumber": 31,
-    "partName": "GHOKISHE"
+    "partName": "GHOKISHE",
+    "lat": 25.9593759,
+    "lon": 94.5797629805504
   },
   {
     "partId": 1269,
@@ -349,7 +411,9 @@
     "acNumber": 34,
     "acName": "AGHUNATO",
     "partNumber": 32,
-    "partName": "VIYIXE"
+    "partName": "VIYIXE",
+    "lat": 25.9593759,
+    "lon": 94.5797629805504
   },
   {
     "partId": 1270,
@@ -360,7 +424,9 @@
     "acNumber": 34,
     "acName": "AGHUNATO",
     "partNumber": 33,
-    "partName": "KHEWOTO"
+    "partName": "KHEWOTO",
+    "lat": 25.9593759,
+    "lon": 94.5797629805504
   },
   {
     "partId": 1271,
@@ -371,7 +437,9 @@
     "acNumber": 34,
     "acName": "AGHUNATO",
     "partNumber": 34,
-    "partName": "NIZHEVI VILLAGE"
+    "partName": "NIZHEVI VILLAGE",
+    "lat": 25.9593759,
+    "lon": 94.5797629805504
   },
   {
     "partId": 1272,
@@ -382,7 +450,9 @@
     "acNumber": 34,
     "acName": "AGHUNATO",
     "partNumber": 35,
-    "partName": "TSUKOMI"
+    "partName": "TSUKOMI",
+    "lat": 25.9903975,
+    "lon": 94.6396763
   },
   {
     "partId": 1151,
@@ -393,7 +463,9 @@
     "acNumber": 31,
     "acName": "AKULUTO",
     "partNumber": 1,
-    "partName": "LOTISAMI/TISHI VALLEY"
+    "partName": "LOTISAMI/TISHI VALLEY",
+    "lat": 26.2050616,
+    "lon": 94.473716353078
   },
   {
     "partId": 1152,
@@ -404,7 +476,9 @@
     "acNumber": 31,
     "acName": "AKULUTO",
     "partNumber": 2,
-    "partName": "MAPULUMI"
+    "partName": "MAPULUMI",
+    "lat": 26.2050616,
+    "lon": 94.473716353078
   },
   {
     "partId": 1153,
@@ -415,7 +489,9 @@
     "acNumber": 31,
     "acName": "AKULUTO",
     "partNumber": 3,
-    "partName": "AKULUTO TOWN N/W"
+    "partName": "AKULUTO TOWN N/W",
+    "lat": 26.2050616,
+    "lon": 94.473716353078
   },
   {
     "partId": 1154,
@@ -426,7 +502,9 @@
     "acNumber": 31,
     "acName": "AKULUTO",
     "partNumber": 4,
-    "partName": "AKULUTO TOWN S/W"
+    "partName": "AKULUTO TOWN S/W",
+    "lat": 26.2050616,
+    "lon": 94.473716353078
   },
   {
     "partId": 1155,
@@ -437,7 +515,9 @@
     "acNumber": 31,
     "acName": "AKULUTO",
     "partNumber": 5,
-    "partName": "LIMTHSAMI"
+    "partName": "LIMTHSAMI",
+    "lat": 26.2050616,
+    "lon": 94.473716353078
   },
   {
     "partId": 1156,
@@ -448,7 +528,9 @@
     "acNumber": 31,
     "acName": "AKULUTO",
     "partNumber": 6,
-    "partName": "SUTEMI"
+    "partName": "SUTEMI",
+    "lat": 26.2050616,
+    "lon": 94.473716353078
   },
   {
     "partId": 1157,
@@ -459,7 +541,9 @@
     "acNumber": 31,
     "acName": "AKULUTO",
     "partNumber": 7,
-    "partName": "SUMI SETTSU"
+    "partName": "SUMI SETTSU",
+    "lat": 26.2050616,
+    "lon": 94.473716353078
   },
   {
     "partId": 1158,
@@ -470,7 +554,9 @@
     "acNumber": 31,
     "acName": "AKULUTO",
     "partNumber": 8,
-    "partName": "LUMAMI"
+    "partName": "LUMAMI",
+    "lat": 26.22290845,
+    "lon": 94.47538260875676
   },
   {
     "partId": 1159,
@@ -481,7 +567,9 @@
     "acNumber": 31,
     "acName": "AKULUTO",
     "partNumber": 9,
-    "partName": "ALAPHUMI"
+    "partName": "ALAPHUMI",
+    "lat": 26.2050616,
+    "lon": 94.473716353078
   },
   {
     "partId": 1160,
@@ -492,7 +580,9 @@
     "acNumber": 31,
     "acName": "AKULUTO",
     "partNumber": 10,
-    "partName": "V.K. TOWN"
+    "partName": "V.K. TOWN",
+    "lat": 26.2050616,
+    "lon": 94.473716353078
   },
   {
     "partId": 1161,
@@ -503,7 +593,9 @@
     "acNumber": 31,
     "acName": "AKULUTO",
     "partNumber": 11,
-    "partName": "SASTAMI"
+    "partName": "SASTAMI",
+    "lat": 26.2050616,
+    "lon": 94.473716353078
   },
   {
     "partId": 1162,
@@ -514,7 +606,9 @@
     "acNumber": 31,
     "acName": "AKULUTO",
     "partNumber": 12,
-    "partName": "LITTA OLD"
+    "partName": "LITTA OLD",
+    "lat": 26.2050616,
+    "lon": 94.473716353078
   },
   {
     "partId": 1163,
@@ -525,7 +619,9 @@
     "acNumber": 31,
     "acName": "AKULUTO",
     "partNumber": 13,
-    "partName": "PHUSHUMI"
+    "partName": "PHUSHUMI",
+    "lat": 26.2050616,
+    "lon": 94.473716353078
   },
   {
     "partId": 1164,
@@ -536,7 +632,9 @@
     "acNumber": 31,
     "acName": "AKULUTO",
     "partNumber": 14,
-    "partName": "MUKHAMI"
+    "partName": "MUKHAMI",
+    "lat": 26.2050616,
+    "lon": 94.473716353078
   },
   {
     "partId": 1165,
@@ -547,7 +645,9 @@
     "acNumber": 31,
     "acName": "AKULUTO",
     "partNumber": 15,
-    "partName": "LOTISAMI NEW"
+    "partName": "LOTISAMI NEW",
+    "lat": 26.2050616,
+    "lon": 94.473716353078
   },
   {
     "partId": 1167,
@@ -558,7 +658,9 @@
     "acNumber": 31,
     "acName": "AKULUTO",
     "partNumber": 16,
-    "partName": "ZAPHUMI"
+    "partName": "ZAPHUMI",
+    "lat": 26.2050616,
+    "lon": 94.473716353078
   },
   {
     "partId": 1168,
@@ -569,7 +671,9 @@
     "acNumber": 31,
     "acName": "AKULUTO",
     "partNumber": 17,
-    "partName": "MAROMI"
+    "partName": "MAROMI",
+    "lat": 26.2050616,
+    "lon": 94.473716353078
   },
   {
     "partId": 1169,
@@ -580,7 +684,9 @@
     "acNumber": 31,
     "acName": "AKULUTO",
     "partNumber": 18,
-    "partName": "LITTA NEW"
+    "partName": "LITTA NEW",
+    "lat": 26.2050616,
+    "lon": 94.473716353078
   },
   {
     "partId": 1170,
@@ -591,7 +697,9 @@
     "acNumber": 31,
     "acName": "AKULUTO",
     "partNumber": 19,
-    "partName": "N.U CAMPUS"
+    "partName": "N.U CAMPUS",
+    "lat": 26.2050616,
+    "lon": 94.473716353078
   },
   {
     "partId": 1171,
@@ -602,7 +710,9 @@
     "acNumber": 31,
     "acName": "AKULUTO",
     "partNumber": 20,
-    "partName": "SHICHIMI VILLAGE"
+    "partName": "SHICHIMI VILLAGE",
+    "lat": 26.2050616,
+    "lon": 94.473716353078
   },
   {
     "partId": 1172,
@@ -613,7 +723,9 @@
     "acNumber": 31,
     "acName": "AKULUTO",
     "partNumber": 21,
-    "partName": "IZHETO VILLAGE"
+    "partName": "IZHETO VILLAGE",
+    "lat": 26.2050616,
+    "lon": 94.473716353078
   },
   {
     "partId": 1173,
@@ -624,7 +736,9 @@
     "acNumber": 31,
     "acName": "AKULUTO",
     "partNumber": 22,
-    "partName": "AJIQAMI VILLAGE"
+    "partName": "AJIQAMI VILLAGE",
+    "lat": 26.2050616,
+    "lon": 94.473716353078
   },
   {
     "partId": 1174,
@@ -635,7 +749,9 @@
     "acNumber": 31,
     "acName": "AKULUTO",
     "partNumber": 23,
-    "partName": "ZAPHUMI A-KHEL"
+    "partName": "ZAPHUMI A-KHEL",
+    "lat": 26.2050616,
+    "lon": 94.473716353078
   },
   {
     "partId": 2185,
@@ -646,7 +762,9 @@
     "acNumber": 31,
     "acName": "AKULUTO",
     "partNumber": 24,
-    "partName": "SUNRISE COLONY - B"
+    "partName": "SUNRISE COLONY - B",
+    "lat": 26.2050616,
+    "lon": 94.473716353078
   },
   {
     "partId": 1175,
@@ -657,7 +775,9 @@
     "acNumber": 32,
     "acName": "ATOIZU",
     "partNumber": 1,
-    "partName": "AIZUTO/APUKITO"
+    "partName": "AIZUTO/APUKITO",
+    "lat": 26.1017276,
+    "lon": 94.50873843009538
   },
   {
     "partId": 1176,
@@ -668,7 +788,9 @@
     "acNumber": 32,
     "acName": "ATOIZU",
     "partNumber": 2,
-    "partName": "AWOTSAKILIMI"
+    "partName": "AWOTSAKILIMI",
+    "lat": 26.1017276,
+    "lon": 94.50873843009538
   },
   {
     "partId": 1177,
@@ -679,7 +801,9 @@
     "acNumber": 32,
     "acName": "ATOIZU",
     "partNumber": 3,
-    "partName": "ATOIZU TOWN"
+    "partName": "ATOIZU TOWN",
+    "lat": 26.1017276,
+    "lon": 94.50873843009538
   },
   {
     "partId": 1178,
@@ -690,7 +814,9 @@
     "acNumber": 32,
     "acName": "ATOIZU",
     "partNumber": 4,
-    "partName": "VEKUHO OLD"
+    "partName": "VEKUHO OLD",
+    "lat": 26.1017276,
+    "lon": 94.50873843009538
   },
   {
     "partId": 1179,
@@ -701,7 +827,9 @@
     "acNumber": 32,
     "acName": "ATOIZU",
     "partNumber": 5,
-    "partName": "KHELHOSHE POLYTECHNIC"
+    "partName": "KHELHOSHE POLYTECHNIC",
+    "lat": 26.1017276,
+    "lon": 94.50873843009538
   },
   {
     "partId": 1180,
@@ -712,7 +840,9 @@
     "acNumber": 32,
     "acName": "ATOIZU",
     "partNumber": 6,
-    "partName": "LITSAMI"
+    "partName": "LITSAMI",
+    "lat": 26.1006518,
+    "lon": 94.5043155
   },
   {
     "partId": 1181,
@@ -723,7 +853,9 @@
     "acNumber": 32,
     "acName": "ATOIZU",
     "partNumber": 7,
-    "partName": "EMLOMI"
+    "partName": "EMLOMI",
+    "lat": 26.1017276,
+    "lon": 94.50873843009538
   },
   {
     "partId": 1182,
@@ -734,7 +866,9 @@
     "acNumber": 32,
     "acName": "ATOIZU",
     "partNumber": 8,
-    "partName": "SHENA NEW"
+    "partName": "SHENA NEW",
+    "lat": 26.0,
+    "lon": 94.5
   },
   {
     "partId": 1183,
@@ -745,7 +879,9 @@
     "acNumber": 32,
     "acName": "ATOIZU",
     "partNumber": 9,
-    "partName": "SHENA OLD N/WING"
+    "partName": "SHENA OLD N/WING",
+    "lat": 26.1017276,
+    "lon": 94.50873843009538
   },
   {
     "partId": 1184,
@@ -756,7 +892,9 @@
     "acNumber": 32,
     "acName": "ATOIZU",
     "partNumber": 10,
-    "partName": "SHENA OLD S/WING"
+    "partName": "SHENA OLD S/WING",
+    "lat": 26.1017276,
+    "lon": 94.50873843009538
   },
   {
     "partId": 1185,
@@ -767,7 +905,9 @@
     "acNumber": 32,
     "acName": "ATOIZU",
     "partNumber": 11,
-    "partName": "NAGHUTO OLD"
+    "partName": "NAGHUTO OLD",
+    "lat": 26.1017276,
+    "lon": 94.50873843009538
   },
   {
     "partId": 1186,
@@ -778,7 +918,9 @@
     "acNumber": 32,
     "acName": "ATOIZU",
     "partNumber": 12,
-    "partName": "USUTOMI"
+    "partName": "USUTOMI",
+    "lat": 25.973798,
+    "lon": 94.3833114
   },
   {
     "partId": 1187,
@@ -789,7 +931,9 @@
     "acNumber": 32,
     "acName": "ATOIZU",
     "partNumber": 13,
-    "partName": "PHILIMI"
+    "partName": "PHILIMI",
+    "lat": 26.1017276,
+    "lon": 94.50873843009538
   },
   {
     "partId": 1188,
@@ -800,7 +944,9 @@
     "acNumber": 32,
     "acName": "ATOIZU",
     "partNumber": 14,
-    "partName": "KHRIMTOMI"
+    "partName": "KHRIMTOMI",
+    "lat": 26.1017276,
+    "lon": 94.50873843009538
   },
   {
     "partId": 1189,
@@ -811,7 +957,9 @@
     "acNumber": 32,
     "acName": "ATOIZU",
     "partNumber": 15,
-    "partName": "AKUHAITO"
+    "partName": "AKUHAITO",
+    "lat": 26.082610850000002,
+    "lon": 94.42955537044344
   },
   {
     "partId": 1190,
@@ -822,7 +970,9 @@
     "acNumber": 32,
     "acName": "ATOIZU",
     "partNumber": 16,
-    "partName": "ROTTO OLD-I"
+    "partName": "ROTTO OLD-I",
+    "lat": 26.1017276,
+    "lon": 94.50873843009538
   },
   {
     "partId": 1191,
@@ -833,7 +983,9 @@
     "acNumber": 32,
     "acName": "ATOIZU",
     "partNumber": 17,
-    "partName": "SUKOMI"
+    "partName": "SUKOMI",
+    "lat": 26.1017276,
+    "lon": 94.50873843009538
   },
   {
     "partId": 1192,
@@ -844,7 +996,9 @@
     "acNumber": 32,
     "acName": "ATOIZU",
     "partNumber": 18,
-    "partName": "LOKOBOMI"
+    "partName": "LOKOBOMI",
+    "lat": 26.1017276,
+    "lon": 94.50873843009538
   },
   {
     "partId": 1193,
@@ -855,7 +1009,9 @@
     "acNumber": 32,
     "acName": "ATOIZU",
     "partNumber": 19,
-    "partName": "VEKUHO NEW"
+    "partName": "VEKUHO NEW",
+    "lat": 26.1017276,
+    "lon": 94.50873843009538
   },
   {
     "partId": 1194,
@@ -866,7 +1022,9 @@
     "acNumber": 32,
     "acName": "ATOIZU",
     "partNumber": 20,
-    "partName": "YESHOLUTO"
+    "partName": "YESHOLUTO",
+    "lat": 26.1017276,
+    "lon": 94.50873843009538
   },
   {
     "partId": 1195,
@@ -877,7 +1035,9 @@
     "acNumber": 32,
     "acName": "ATOIZU",
     "partNumber": 21,
-    "partName": "NAGHUTO NEW"
+    "partName": "NAGHUTO NEW",
+    "lat": 26.1017276,
+    "lon": 94.50873843009538
   },
   {
     "partId": 1196,
@@ -888,7 +1048,9 @@
     "acNumber": 32,
     "acName": "ATOIZU",
     "partNumber": 22,
-    "partName": "ROTTO OLD - II"
+    "partName": "ROTTO OLD - II",
+    "lat": 26.1017276,
+    "lon": 94.50873843009538
   },
   {
     "partId": 1197,
@@ -899,7 +1061,9 @@
     "acNumber": 32,
     "acName": "ATOIZU",
     "partNumber": 23,
-    "partName": "ROTTO NEW - II"
+    "partName": "ROTTO NEW - II",
+    "lat": 26.1017276,
+    "lon": 94.50873843009538
   },
   {
     "partId": 1198,
@@ -910,7 +1074,9 @@
     "acNumber": 32,
     "acName": "ATOIZU",
     "partNumber": 24,
-    "partName": "ASUKHUTOMI VILLAGE"
+    "partName": "ASUKHUTOMI VILLAGE",
+    "lat": 26.1017276,
+    "lon": 94.50873843009538
   },
   {
     "partId": 1199,
@@ -921,7 +1087,9 @@
     "acNumber": 32,
     "acName": "ATOIZU",
     "partNumber": 25,
-    "partName": "ZHEVISHE VILLAGE"
+    "partName": "ZHEVISHE VILLAGE",
+    "lat": 26.1017276,
+    "lon": 94.50873843009538
   },
   {
     "partId": 1200,
@@ -932,7 +1100,9 @@
     "acNumber": 32,
     "acName": "ATOIZU",
     "partNumber": 26,
-    "partName": "ROTTO NEW - I"
+    "partName": "ROTTO NEW - I",
+    "lat": 26.1017276,
+    "lon": 94.50873843009538
   },
   {
     "partId": 1312,
@@ -943,7 +1113,9 @@
     "acNumber": 36,
     "acName": "SATAKHA",
     "partNumber": 1,
-    "partName": "ZUNGTI"
+    "partName": "ZUNGTI",
+    "lat": 25.90370815,
+    "lon": 94.464426925
   },
   {
     "partId": 1313,
@@ -954,7 +1126,9 @@
     "acNumber": 36,
     "acName": "SATAKHA",
     "partNumber": 2,
-    "partName": "XUKHEPU"
+    "partName": "XUKHEPU",
+    "lat": 25.90370815,
+    "lon": 94.464426925
   },
   {
     "partId": 1314,
@@ -965,7 +1139,9 @@
     "acNumber": 36,
     "acName": "SATAKHA",
     "partNumber": 3,
-    "partName": "GHUKIYE"
+    "partName": "GHUKIYE",
+    "lat": 25.9979518,
+    "lon": 94.4480799
   },
   {
     "partId": 1315,
@@ -976,7 +1152,9 @@
     "acNumber": 36,
     "acName": "SATAKHA",
     "partNumber": 4,
-    "partName": "AGHUYITO"
+    "partName": "AGHUYITO",
+    "lat": 25.90370815,
+    "lon": 94.464426925
   },
   {
     "partId": 1316,
@@ -987,7 +1165,9 @@
     "acNumber": 36,
     "acName": "SATAKHA",
     "partNumber": 5,
-    "partName": "SHOIXE"
+    "partName": "SHOIXE",
+    "lat": 25.90370815,
+    "lon": 94.464426925
   },
   {
     "partId": 1317,
@@ -998,7 +1178,9 @@
     "acNumber": 36,
     "acName": "SATAKHA",
     "partNumber": 6,
-    "partName": "KIYEKHU"
+    "partName": "KIYEKHU",
+    "lat": 25.90370815,
+    "lon": 94.464426925
   },
   {
     "partId": 1318,
@@ -1009,7 +1191,9 @@
     "acNumber": 36,
     "acName": "SATAKHA",
     "partNumber": 7,
-    "partName": "SATAKHA TOWN OLD A"
+    "partName": "SATAKHA TOWN OLD A",
+    "lat": 25.90370815,
+    "lon": 94.464426925
   },
   {
     "partId": 1319,
@@ -1020,7 +1204,9 @@
     "acNumber": 36,
     "acName": "SATAKHA",
     "partNumber": 8,
-    "partName": "SATAKHA TOWN NEW B"
+    "partName": "SATAKHA TOWN NEW B",
+    "lat": 25.90370815,
+    "lon": 94.464426925
   },
   {
     "partId": 1320,
@@ -1031,7 +1217,9 @@
     "acNumber": 36,
     "acName": "SATAKHA",
     "partNumber": 9,
-    "partName": "KILO OLD"
+    "partName": "KILO OLD",
+    "lat": 25.909813,
+    "lon": 94.4495525
   },
   {
     "partId": 1321,
@@ -1042,7 +1230,9 @@
     "acNumber": 36,
     "acName": "SATAKHA",
     "partNumber": 10,
-    "partName": "SATAKHA VILLAGE"
+    "partName": "SATAKHA VILLAGE",
+    "lat": 25.90370815,
+    "lon": 94.464426925
   },
   {
     "partId": 1322,
@@ -1053,7 +1243,9 @@
     "acNumber": 36,
     "acName": "SATAKHA",
     "partNumber": 11,
-    "partName": "KHUKIYE"
+    "partName": "KHUKIYE",
+    "lat": 25.916390625000002,
+    "lon": 94.47122350512694
   },
   {
     "partId": 1323,
@@ -1064,7 +1256,9 @@
     "acNumber": 36,
     "acName": "SATAKHA",
     "partNumber": 12,
-    "partName": "SHOIPU"
+    "partName": "SHOIPU",
+    "lat": 25.916390625000002,
+    "lon": 94.47122350512694
   },
   {
     "partId": 1324,
@@ -1075,7 +1269,9 @@
     "acNumber": 36,
     "acName": "SATAKHA",
     "partNumber": 13,
-    "partName": "HOISHE"
+    "partName": "HOISHE",
+    "lat": 26.0,
+    "lon": 94.5
   },
   {
     "partId": 1325,
@@ -1086,7 +1282,9 @@
     "acNumber": 36,
     "acName": "SATAKHA",
     "partNumber": 14,
-    "partName": "NUNUMI VILLAGE"
+    "partName": "NUNUMI VILLAGE",
+    "lat": 25.90370815,
+    "lon": 94.464426925
   },
   {
     "partId": 1326,
@@ -1097,7 +1295,9 @@
     "acNumber": 36,
     "acName": "SATAKHA",
     "partNumber": 15,
-    "partName": "TUKUNASAMI"
+    "partName": "TUKUNASAMI",
+    "lat": 25.916390625000002,
+    "lon": 94.47122350512694
   },
   {
     "partId": 1327,
@@ -1108,7 +1308,9 @@
     "acNumber": 36,
     "acName": "SATAKHA",
     "partNumber": 16,
-    "partName": "XUIVI"
+    "partName": "XUIVI",
+    "lat": 25.8904239,
+    "lon": 94.4660743
   },
   {
     "partId": 1328,
@@ -1119,7 +1321,9 @@
     "acNumber": 36,
     "acName": "SATAKHA",
     "partNumber": 17,
-    "partName": "SUKHAYI"
+    "partName": "SUKHAYI",
+    "lat": 25.90370815,
+    "lon": 94.464426925
   },
   {
     "partId": 1329,
@@ -1130,7 +1334,9 @@
     "acNumber": 36,
     "acName": "SATAKHA",
     "partNumber": 18,
-    "partName": "GHUKHUYI"
+    "partName": "GHUKHUYI",
+    "lat": 25.90370815,
+    "lon": 94.464426925
   },
   {
     "partId": 1330,
@@ -1141,7 +1347,9 @@
     "acNumber": 36,
     "acName": "SATAKHA",
     "partNumber": 19,
-    "partName": "VISHEPU"
+    "partName": "VISHEPU",
+    "lat": 25.90370815,
+    "lon": 94.464426925
   },
   {
     "partId": 1331,
@@ -1152,7 +1360,9 @@
     "acNumber": 36,
     "acName": "SATAKHA",
     "partNumber": 20,
-    "partName": "XAMUNUBOTO/KIVIKHU"
+    "partName": "XAMUNUBOTO/KIVIKHU",
+    "lat": 25.90370815,
+    "lon": 94.464426925
   },
   {
     "partId": 1332,
@@ -1163,7 +1373,9 @@
     "acNumber": 36,
     "acName": "SATAKHA",
     "partNumber": 21,
-    "partName": "GHOKHUVI"
+    "partName": "GHOKHUVI",
+    "lat": 25.8480815,
+    "lon": 94.5525198
   },
   {
     "partId": 1333,
@@ -1174,7 +1386,9 @@
     "acNumber": 36,
     "acName": "SATAKHA",
     "partNumber": 22,
-    "partName": "IKIYE"
+    "partName": "IKIYE",
+    "lat": 25.90370815,
+    "lon": 94.464426925
   },
   {
     "partId": 1334,
@@ -1185,7 +1399,9 @@
     "acNumber": 36,
     "acName": "SATAKHA",
     "partNumber": 23,
-    "partName": "SATOI TOWN"
+    "partName": "SATOI TOWN",
+    "lat": 25.8310553,
+    "lon": 94.5850036
   },
   {
     "partId": 1335,
@@ -1196,7 +1412,9 @@
     "acNumber": 36,
     "acName": "SATAKHA",
     "partNumber": 24,
-    "partName": "KHESHITO"
+    "partName": "KHESHITO",
+    "lat": 25.90370815,
+    "lon": 94.464426925
   },
   {
     "partId": 1336,
@@ -1207,7 +1425,9 @@
     "acNumber": 36,
     "acName": "SATAKHA",
     "partNumber": 25,
-    "partName": "THSURUHU"
+    "partName": "THSURUHU",
+    "lat": 25.916390625000002,
+    "lon": 94.47122350512694
   },
   {
     "partId": 1337,
@@ -1218,7 +1438,9 @@
     "acNumber": 36,
     "acName": "SATAKHA",
     "partNumber": 26,
-    "partName": "HOKIYE"
+    "partName": "HOKIYE",
+    "lat": 25.90370815,
+    "lon": 94.464426925
   },
   {
     "partId": 1338,
@@ -1229,7 +1451,9 @@
     "acNumber": 36,
     "acName": "SATAKHA",
     "partNumber": 27,
-    "partName": "TSUTOHO"
+    "partName": "TSUTOHO",
+    "lat": 25.90370815,
+    "lon": 94.464426925
   },
   {
     "partId": 1339,
@@ -1240,7 +1464,9 @@
     "acNumber": 36,
     "acName": "SATAKHA",
     "partNumber": 28,
-    "partName": "THAKIYE"
+    "partName": "THAKIYE",
+    "lat": 26.0,
+    "lon": 94.5
   },
   {
     "partId": 1340,
@@ -1251,7 +1477,9 @@
     "acNumber": 36,
     "acName": "SATAKHA",
     "partNumber": 29,
-    "partName": "KHUVUXU"
+    "partName": "KHUVUXU",
+    "lat": 26.0,
+    "lon": 94.5
   },
   {
     "partId": 1341,
@@ -1262,7 +1490,9 @@
     "acNumber": 36,
     "acName": "SATAKHA",
     "partNumber": 30,
-    "partName": "KHULHOPU"
+    "partName": "KHULHOPU",
+    "lat": 25.90370815,
+    "lon": 94.464426925
   },
   {
     "partId": 1342,
@@ -1273,7 +1503,9 @@
     "acNumber": 36,
     "acName": "SATAKHA",
     "partNumber": 31,
-    "partName": "SATAKHA OLD"
+    "partName": "SATAKHA OLD",
+    "lat": 25.9256279,
+    "lon": 94.4542994
   },
   {
     "partId": 1343,
@@ -1284,7 +1516,9 @@
     "acNumber": 36,
     "acName": "SATAKHA",
     "partNumber": 32,
-    "partName": "LUKHAI"
+    "partName": "LUKHAI",
+    "lat": 25.90370815,
+    "lon": 94.464426925
   },
   {
     "partId": 1344,
@@ -1295,7 +1529,9 @@
     "acNumber": 36,
     "acName": "SATAKHA",
     "partNumber": 33,
-    "partName": "SAPTIQA"
+    "partName": "SAPTIQA",
+    "lat": 26.0076896,
+    "lon": 94.3961961845699
   },
   {
     "partId": 1345,
@@ -1306,7 +1542,9 @@
     "acNumber": 36,
     "acName": "SATAKHA",
     "partNumber": 34,
-    "partName": "ITOVI"
+    "partName": "ITOVI",
+    "lat": 25.90370815,
+    "lon": 94.464426925
   },
   {
     "partId": 1346,
@@ -1317,7 +1555,9 @@
     "acNumber": 36,
     "acName": "SATAKHA",
     "partNumber": 35,
-    "partName": "SATOI VILLAGE"
+    "partName": "SATOI VILLAGE",
+    "lat": 25.90370815,
+    "lon": 94.464426925
   },
   {
     "partId": 1347,
@@ -1328,7 +1568,9 @@
     "acNumber": 36,
     "acName": "SATAKHA",
     "partNumber": 36,
-    "partName": "SATAKHA TOWN OLD A"
+    "partName": "SATAKHA TOWN OLD A",
+    "lat": 25.90370815,
+    "lon": 94.464426925
   },
   {
     "partId": 1348,
@@ -1339,7 +1581,9 @@
     "acNumber": 36,
     "acName": "SATAKHA",
     "partNumber": 37,
-    "partName": "SATAKHA TOWN NEW B"
+    "partName": "SATAKHA TOWN NEW B",
+    "lat": 26.0,
+    "lon": 94.5
   },
   {
     "partId": 1349,
@@ -1350,7 +1594,9 @@
     "acNumber": 36,
     "acName": "SATAKHA",
     "partNumber": 38,
-    "partName": "ZHEKIYE"
+    "partName": "ZHEKIYE",
+    "lat": 25.90370815,
+    "lon": 94.464426925
   },
   {
     "partId": 1350,
@@ -1361,7 +1607,9 @@
     "acNumber": 36,
     "acName": "SATAKHA",
     "partNumber": 39,
-    "partName": "NIKUTO VILLAGE"
+    "partName": "NIKUTO VILLAGE",
+    "lat": 25.90370815,
+    "lon": 94.464426925
   },
   {
     "partId": 1351,
@@ -1372,7 +1620,9 @@
     "acNumber": 36,
     "acName": "SATAKHA",
     "partNumber": 40,
-    "partName": "XUIVI"
+    "partName": "XUIVI",
+    "lat": 25.8904239,
+    "lon": 94.4660743
   },
   {
     "partId": 1201,
@@ -1383,7 +1633,9 @@
     "acNumber": 33,
     "acName": "SURUHUTO",
     "partNumber": 1,
-    "partName": "KHUMISHI A/T.ISLAND"
+    "partName": "KHUMISHI A/T.ISLAND",
+    "lat": 26.16010855,
+    "lon": 94.59165403886443
   },
   {
     "partId": 1202,
@@ -1394,7 +1646,9 @@
     "acNumber": 33,
     "acName": "SURUHUTO",
     "partNumber": 2,
-    "partName": "AKHAKHI/KHUMISHI B"
+    "partName": "AKHAKHI/KHUMISHI B",
+    "lat": 26.16010855,
+    "lon": 94.59165403886443
   },
   {
     "partId": 1203,
@@ -1405,7 +1659,9 @@
     "acNumber": 33,
     "acName": "SURUHUTO",
     "partNumber": 3,
-    "partName": "YEHEMI  N/WING"
+    "partName": "YEHEMI  N/WING",
+    "lat": 26.16010855,
+    "lon": 94.59165403886443
   },
   {
     "partId": 1204,
@@ -1416,7 +1672,9 @@
     "acNumber": 33,
     "acName": "SURUHUTO",
     "partNumber": 4,
-    "partName": "YEHEMI S/WING"
+    "partName": "YEHEMI S/WING",
+    "lat": 26.16010855,
+    "lon": 94.59165403886443
   },
   {
     "partId": 1205,
@@ -1427,7 +1685,9 @@
     "acNumber": 33,
     "acName": "SURUHUTO",
     "partNumber": 5,
-    "partName": "KIYETHA"
+    "partName": "KIYETHA",
+    "lat": 26.16010855,
+    "lon": 94.59165403886443
   },
   {
     "partId": 1206,
@@ -1438,7 +1698,9 @@
     "acNumber": 33,
     "acName": "SURUHUTO",
     "partNumber": 6,
-    "partName": "A/SAGHEMI N"
+    "partName": "A/SAGHEMI N",
+    "lat": 26.16010855,
+    "lon": 94.59165403886443
   },
   {
     "partId": 1207,
@@ -1449,7 +1711,9 @@
     "acNumber": 33,
     "acName": "SURUHUTO",
     "partNumber": 7,
-    "partName": "VEDAMI"
+    "partName": "VEDAMI",
+    "lat": 26.16010855,
+    "lon": 94.59165403886443
   },
   {
     "partId": 1208,
@@ -1460,7 +1724,9 @@
     "acNumber": 33,
     "acName": "SURUHUTO",
     "partNumber": 8,
-    "partName": "A/SAGHEMI S"
+    "partName": "A/SAGHEMI S",
+    "lat": 26.16010855,
+    "lon": 94.59165403886443
   },
   {
     "partId": 1209,
@@ -1471,7 +1737,9 @@
     "acNumber": 33,
     "acName": "SURUHUTO",
     "partNumber": 9,
-    "partName": "SURUHOTO TOWN"
+    "partName": "SURUHOTO TOWN",
+    "lat": 26.16010855,
+    "lon": 94.59165403886443
   },
   {
     "partId": 1210,
@@ -1482,7 +1750,9 @@
     "acNumber": 33,
     "acName": "SURUHUTO",
     "partNumber": 10,
-    "partName": "KHOLEBOTO"
+    "partName": "KHOLEBOTO",
+    "lat": 26.16010855,
+    "lon": 94.59165403886443
   },
   {
     "partId": 1211,
@@ -1493,7 +1763,9 @@
     "acNumber": 33,
     "acName": "SURUHUTO",
     "partNumber": 11,
-    "partName": "SURUMI (N) N/W"
+    "partName": "SURUMI (N) N/W",
+    "lat": 26.16010855,
+    "lon": 94.59165403886443
   },
   {
     "partId": 1212,
@@ -1504,7 +1776,9 @@
     "acNumber": 33,
     "acName": "SURUHUTO",
     "partNumber": 12,
-    "partName": "SURUMI (S) N/W"
+    "partName": "SURUMI (S) N/W",
+    "lat": 26.16010855,
+    "lon": 94.59165403886443
   },
   {
     "partId": 1213,
@@ -1515,7 +1789,9 @@
     "acNumber": 33,
     "acName": "SURUHUTO",
     "partNumber": 13,
-    "partName": "SURUMI (S) S/W"
+    "partName": "SURUMI (S) S/W",
+    "lat": 26.16010855,
+    "lon": 94.59165403886443
   },
   {
     "partId": 1214,
@@ -1526,7 +1802,9 @@
     "acNumber": 33,
     "acName": "SURUHUTO",
     "partNumber": 14,
-    "partName": "TICHIPAMI"
+    "partName": "TICHIPAMI",
+    "lat": 26.16010855,
+    "lon": 94.59165403886443
   },
   {
     "partId": 1215,
@@ -1537,7 +1815,9 @@
     "acNumber": 33,
     "acName": "SURUHUTO",
     "partNumber": 15,
-    "partName": "PHUYE OLD"
+    "partName": "PHUYE OLD",
+    "lat": 26.16010855,
+    "lon": 94.59165403886443
   },
   {
     "partId": 1216,
@@ -1548,7 +1828,9 @@
     "acNumber": 33,
     "acName": "SURUHUTO",
     "partNumber": 16,
-    "partName": "PHUYE NEW"
+    "partName": "PHUYE NEW",
+    "lat": 26.16010855,
+    "lon": 94.59165403886443
   },
   {
     "partId": 1217,
@@ -1559,7 +1841,9 @@
     "acNumber": 33,
     "acName": "SURUHUTO",
     "partNumber": 17,
-    "partName": "SAPOTIMI"
+    "partName": "SAPOTIMI",
+    "lat": 26.2010328,
+    "lon": 94.5431407
   },
   {
     "partId": 1218,
@@ -1570,7 +1854,9 @@
     "acNumber": 33,
     "acName": "SURUHUTO",
     "partNumber": 18,
-    "partName": "KATHARA"
+    "partName": "KATHARA",
+    "lat": 26.16010855,
+    "lon": 94.59165403886443
   },
   {
     "partId": 1219,
@@ -1581,7 +1867,9 @@
     "acNumber": 33,
     "acName": "SURUHUTO",
     "partNumber": 19,
-    "partName": "YESHITO/YEVISHE"
+    "partName": "YESHITO/YEVISHE",
+    "lat": 26.16010855,
+    "lon": 94.59165403886443
   },
   {
     "partId": 1220,
@@ -1592,7 +1880,9 @@
     "acNumber": 33,
     "acName": "SURUHUTO",
     "partNumber": 20,
-    "partName": "ACHIKUCHU (A)/ACHIKUCHU (B)"
+    "partName": "ACHIKUCHU (A)/ACHIKUCHU (B)",
+    "lat": 26.16010855,
+    "lon": 94.59165403886443
   },
   {
     "partId": 1221,
@@ -1603,7 +1893,9 @@
     "acNumber": 33,
     "acName": "SURUHUTO",
     "partNumber": 21,
-    "partName": "ASUTO TOWN/ASUTO VILLAGE"
+    "partName": "ASUTO TOWN/ASUTO VILLAGE",
+    "lat": 26.16010855,
+    "lon": 94.59165403886443
   },
   {
     "partId": 1222,
@@ -1614,7 +1906,9 @@
     "acNumber": 33,
     "acName": "SURUHUTO",
     "partNumber": 22,
-    "partName": "TUZUHUMI/TAZUHUMI"
+    "partName": "TUZUHUMI/TAZUHUMI",
+    "lat": 26.16010855,
+    "lon": 94.59165403886443
   },
   {
     "partId": 1223,
@@ -1625,7 +1919,9 @@
     "acNumber": 33,
     "acName": "SURUHUTO",
     "partNumber": 23,
-    "partName": "KOIBOTO"
+    "partName": "KOIBOTO",
+    "lat": 26.102856,
+    "lon": 94.6687094
   },
   {
     "partId": 1224,
@@ -1636,7 +1932,9 @@
     "acNumber": 33,
     "acName": "SURUHUTO",
     "partNumber": 24,
-    "partName": "LITHSAMI"
+    "partName": "LITHSAMI",
+    "lat": 26.1965103,
+    "lon": 94.6430006
   },
   {
     "partId": 1225,
@@ -1647,7 +1945,9 @@
     "acNumber": 33,
     "acName": "SURUHUTO",
     "partNumber": 25,
-    "partName": "NALTOKA"
+    "partName": "NALTOKA",
+    "lat": 26.16010855,
+    "lon": 94.59165403886443
   },
   {
     "partId": 1226,
@@ -1658,7 +1958,9 @@
     "acNumber": 33,
     "acName": "SURUHUTO",
     "partNumber": 26,
-    "partName": "MEDICAL COLONY"
+    "partName": "MEDICAL COLONY",
+    "lat": 26.16010855,
+    "lon": 94.59165403886443
   },
   {
     "partId": 1227,
@@ -1669,7 +1971,9 @@
     "acNumber": 33,
     "acName": "SURUHUTO",
     "partNumber": 27,
-    "partName": "ZHEKUTO"
+    "partName": "ZHEKUTO",
+    "lat": 26.16010855,
+    "lon": 94.59165403886443
   },
   {
     "partId": 1228,
@@ -1680,7 +1984,9 @@
     "acNumber": 33,
     "acName": "SURUHUTO",
     "partNumber": 28,
-    "partName": "KITAHUMI"
+    "partName": "KITAHUMI",
+    "lat": 26.16010855,
+    "lon": 94.59165403886443
   },
   {
     "partId": 1229,
@@ -1691,7 +1997,9 @@
     "acNumber": 33,
     "acName": "SURUHUTO",
     "partNumber": 29,
-    "partName": "NALTOQA - II"
+    "partName": "NALTOQA - II",
+    "lat": 26.16010855,
+    "lon": 94.59165403886443
   },
   {
     "partId": 1230,
@@ -1702,7 +2010,9 @@
     "acNumber": 33,
     "acName": "SURUHUTO",
     "partNumber": 30,
-    "partName": "TOKIZHE"
+    "partName": "TOKIZHE",
+    "lat": 26.0,
+    "lon": 94.5
   },
   {
     "partId": 1231,
@@ -1713,7 +2023,9 @@
     "acNumber": 33,
     "acName": "SURUHUTO",
     "partNumber": 31,
-    "partName": "SURUHUTO TOWN A-KHEL"
+    "partName": "SURUHUTO TOWN A-KHEL",
+    "lat": 26.16010855,
+    "lon": 94.59165403886443
   },
   {
     "partId": 1232,
@@ -1724,7 +2036,9 @@
     "acNumber": 33,
     "acName": "SURUHUTO",
     "partNumber": 32,
-    "partName": "TICHIBAMI B"
+    "partName": "TICHIBAMI B",
+    "lat": 26.16010855,
+    "lon": 94.59165403886443
   },
   {
     "partId": 1233,
@@ -1735,7 +2049,9 @@
     "acNumber": 33,
     "acName": "SURUHUTO",
     "partNumber": 33,
-    "partName": "KIKHEVI VILLAGE"
+    "partName": "KIKHEVI VILLAGE",
+    "lat": 26.16010855,
+    "lon": 94.59165403886443
   },
   {
     "partId": 1234,
@@ -1746,7 +2062,9 @@
     "acNumber": 33,
     "acName": "SURUHUTO",
     "partNumber": 34,
-    "partName": "TAZUHUMI"
+    "partName": "TAZUHUMI",
+    "lat": 26.16010855,
+    "lon": 94.59165403886443
   },
   {
     "partId": 1235,
@@ -1757,7 +2075,9 @@
     "acNumber": 33,
     "acName": "SURUHUTO",
     "partNumber": 35,
-    "partName": "ASUTO TOWN"
+    "partName": "ASUTO TOWN",
+    "lat": 26.16010855,
+    "lon": 94.59165403886443
   },
   {
     "partId": 1236,
@@ -1768,7 +2088,9 @@
     "acNumber": 33,
     "acName": "SURUHUTO",
     "partNumber": 36,
-    "partName": "ATUNAKUGHA"
+    "partName": "ATUNAKUGHA",
+    "lat": 26.16010855,
+    "lon": 94.59165403886443
   },
   {
     "partId": 1237,
@@ -1779,7 +2101,9 @@
     "acNumber": 33,
     "acName": "SURUHUTO",
     "partNumber": 37,
-    "partName": "SURUMI C-KHEL"
+    "partName": "SURUMI C-KHEL",
+    "lat": 26.16010855,
+    "lon": 94.59165403886443
   },
   {
     "partId": 2186,
@@ -1790,7 +2114,9 @@
     "acNumber": 33,
     "acName": "SURUHUTO",
     "partNumber": 38,
-    "partName": "KHUMISHI - B TIZU ISLAND"
+    "partName": "KHUMISHI - B TIZU ISLAND",
+    "lat": 26.16010855,
+    "lon": 94.59165403886443
   },
   {
     "partId": 1273,
@@ -1801,7 +2127,9 @@
     "acNumber": 35,
     "acName": "ZUNHEBOTO",
     "partNumber": 1,
-    "partName": "SUKHALU"
+    "partName": "SUKHALU",
+    "lat": 26.0,
+    "lon": 94.5
   },
   {
     "partId": 1274,
@@ -1812,7 +2140,9 @@
     "acNumber": 35,
     "acName": "ZUNHEBOTO",
     "partNumber": 2,
-    "partName": "YEMISHE"
+    "partName": "YEMISHE",
+    "lat": 26.0,
+    "lon": 94.5
   },
   {
     "partId": 1275,
@@ -1823,7 +2153,9 @@
     "acNumber": 35,
     "acName": "ZUNHEBOTO",
     "partNumber": 3,
-    "partName": "NORTH POINT"
+    "partName": "NORTH POINT",
+    "lat": 26.0,
+    "lon": 94.5
   },
   {
     "partId": 1276,
@@ -1834,7 +2166,9 @@
     "acNumber": 35,
     "acName": "ZUNHEBOTO",
     "partNumber": 4,
-    "partName": "KHUWABOTO"
+    "partName": "KHUWABOTO",
+    "lat": 26.0,
+    "lon": 94.5
   },
   {
     "partId": 1277,
@@ -1845,7 +2179,9 @@
     "acNumber": 35,
     "acName": "ZUNHEBOTO",
     "partNumber": 5,
-    "partName": "LIZU NAGHUTO"
+    "partName": "LIZU NAGHUTO",
+    "lat": 26.0,
+    "lon": 94.5
   },
   {
     "partId": 1278,
@@ -1856,7 +2192,9 @@
     "acNumber": 35,
     "acName": "ZUNHEBOTO",
     "partNumber": 6,
-    "partName": "OLD ZUNHEBOTO N/W-I"
+    "partName": "OLD ZUNHEBOTO N/W-I",
+    "lat": 26.0,
+    "lon": 94.5
   },
   {
     "partId": 1279,
@@ -1867,7 +2205,9 @@
     "acNumber": 35,
     "acName": "ZUNHEBOTO",
     "partNumber": 7,
-    "partName": "ALAHUTO N/W"
+    "partName": "ALAHUTO N/W",
+    "lat": 26.0,
+    "lon": 94.5
   },
   {
     "partId": 1280,
@@ -1878,7 +2218,9 @@
     "acNumber": 35,
     "acName": "ZUNHEBOTO",
     "partNumber": 8,
-    "partName": "NEW COLONY N/W"
+    "partName": "NEW COLONY N/W",
+    "lat": 26.0,
+    "lon": 94.5
   },
   {
     "partId": 1281,
@@ -1889,7 +2231,9 @@
     "acNumber": 35,
     "acName": "ZUNHEBOTO",
     "partNumber": 9,
-    "partName": "NEW COLONY S/W"
+    "partName": "NEW COLONY S/W",
+    "lat": 26.0,
+    "lon": 94.5
   },
   {
     "partId": 1282,
@@ -1900,7 +2244,9 @@
     "acNumber": 35,
     "acName": "ZUNHEBOTO",
     "partNumber": 10,
-    "partName": "SHOTOMI"
+    "partName": "SHOTOMI",
+    "lat": 26.0,
+    "lon": 94.5
   },
   {
     "partId": 1284,
@@ -1911,7 +2257,9 @@
     "acNumber": 35,
     "acName": "ZUNHEBOTO",
     "partNumber": 11,
-    "partName": "PROJECT WEST"
+    "partName": "PROJECT WEST",
+    "lat": 26.0,
+    "lon": 94.5
   },
   {
     "partId": 1285,
@@ -1922,7 +2270,9 @@
     "acNumber": 35,
     "acName": "ZUNHEBOTO",
     "partNumber": 12,
-    "partName": "PROJECT EAST"
+    "partName": "PROJECT EAST",
+    "lat": 26.0,
+    "lon": 94.5
   },
   {
     "partId": 1286,
@@ -1933,7 +2283,9 @@
     "acNumber": 35,
     "acName": "ZUNHEBOTO",
     "partNumber": 13,
-    "partName": "SOUTH POINT (N)"
+    "partName": "SOUTH POINT (N)",
+    "lat": 26.0,
+    "lon": 94.5
   },
   {
     "partId": 1287,
@@ -1944,7 +2296,9 @@
     "acNumber": 35,
     "acName": "ZUNHEBOTO",
     "partNumber": 14,
-    "partName": "SOUTH POINT (S)"
+    "partName": "SOUTH POINT (S)",
+    "lat": 26.0,
+    "lon": 94.5
   },
   {
     "partId": 1288,
@@ -1955,7 +2309,9 @@
     "acNumber": 35,
     "acName": "ZUNHEBOTO",
     "partNumber": 15,
-    "partName": "D.C. HILL (N)"
+    "partName": "D.C. HILL (N)",
+    "lat": 26.0,
+    "lon": 94.5
   },
   {
     "partId": 1289,
@@ -1966,7 +2322,9 @@
     "acNumber": 35,
     "acName": "ZUNHEBOTO",
     "partNumber": 16,
-    "partName": "D.C. HILL (S)"
+    "partName": "D.C. HILL (S)",
+    "lat": 26.0,
+    "lon": 94.5
   },
   {
     "partId": 1290,
@@ -1977,7 +2335,9 @@
     "acNumber": 35,
     "acName": "ZUNHEBOTO",
     "partNumber": 17,
-    "partName": "SHEYIPU"
+    "partName": "SHEYIPU",
+    "lat": 26.0,
+    "lon": 94.5
   },
   {
     "partId": 1291,
@@ -1988,7 +2348,9 @@
     "acNumber": 35,
     "acName": "ZUNHEBOTO",
     "partNumber": 18,
-    "partName": "BAIMHO"
+    "partName": "BAIMHO",
+    "lat": 26.0,
+    "lon": 94.5
   },
   {
     "partId": 1292,
@@ -1999,7 +2361,9 @@
     "acNumber": 35,
     "acName": "ZUNHEBOTO",
     "partNumber": 19,
-    "partName": "ASUKHOMI"
+    "partName": "ASUKHOMI",
+    "lat": 26.0,
+    "lon": 94.5
   },
   {
     "partId": 1293,
@@ -2010,7 +2374,9 @@
     "acNumber": 35,
     "acName": "ZUNHEBOTO",
     "partNumber": 20,
-    "partName": "LOCHOMI"
+    "partName": "LOCHOMI",
+    "lat": 26.0,
+    "lon": 94.5
   },
   {
     "partId": 1294,
@@ -2021,7 +2387,9 @@
     "acNumber": 35,
     "acName": "ZUNHEBOTO",
     "partNumber": 21,
-    "partName": "YEZAMI"
+    "partName": "YEZAMI",
+    "lat": 26.0,
+    "lon": 94.5
   },
   {
     "partId": 1295,
@@ -2032,7 +2400,9 @@
     "acNumber": 35,
     "acName": "ZUNHEBOTO",
     "partNumber": 22,
-    "partName": "LIZU PHUYEU"
+    "partName": "LIZU PHUYEU",
+    "lat": 26.0,
+    "lon": 94.5
   },
   {
     "partId": 1296,
@@ -2043,7 +2413,9 @@
     "acNumber": 35,
     "acName": "ZUNHEBOTO",
     "partNumber": 23,
-    "partName": "NATHA OLD"
+    "partName": "NATHA OLD",
+    "lat": 26.0,
+    "lon": 94.5
   },
   {
     "partId": 1297,
@@ -2054,7 +2426,9 @@
     "acNumber": 35,
     "acName": "ZUNHEBOTO",
     "partNumber": 24,
-    "partName": "NATHA NEW"
+    "partName": "NATHA NEW",
+    "lat": 26.0,
+    "lon": 94.5
   },
   {
     "partId": 1298,
@@ -2065,7 +2439,9 @@
     "acNumber": 35,
     "acName": "ZUNHEBOTO",
     "partNumber": 25,
-    "partName": "KAWOTO"
+    "partName": "KAWOTO",
+    "lat": 26.0,
+    "lon": 94.5
   },
   {
     "partId": 1299,
@@ -2076,7 +2452,9 @@
     "acNumber": 35,
     "acName": "ZUNHEBOTO",
     "partNumber": 26,
-    "partName": "LAGHILATO"
+    "partName": "LAGHILATO",
+    "lat": 26.0,
+    "lon": 94.5
   },
   {
     "partId": 1300,
@@ -2087,7 +2465,9 @@
     "acNumber": 35,
     "acName": "ZUNHEBOTO",
     "partNumber": 27,
-    "partName": "AMIPHOTO"
+    "partName": "AMIPHOTO",
+    "lat": 26.0,
+    "lon": 94.5
   },
   {
     "partId": 1301,
@@ -2098,7 +2478,9 @@
     "acNumber": 35,
     "acName": "ZUNHEBOTO",
     "partNumber": 28,
-    "partName": "LIZU AVIQUATO"
+    "partName": "LIZU AVIQUATO",
+    "lat": 26.0,
+    "lon": 94.5
   },
   {
     "partId": 1302,
@@ -2109,7 +2491,9 @@
     "acNumber": 35,
     "acName": "ZUNHEBOTO",
     "partNumber": 29,
-    "partName": "OLD ZUNHEBOTO N WING - II"
+    "partName": "OLD ZUNHEBOTO N WING - II",
+    "lat": 26.0,
+    "lon": 94.5
   },
   {
     "partId": 1303,
@@ -2120,7 +2504,9 @@
     "acNumber": 35,
     "acName": "ZUNHEBOTO",
     "partNumber": 30,
-    "partName": "ALAHUTO S/W"
+    "partName": "ALAHUTO S/W",
+    "lat": 26.0,
+    "lon": 94.5
   },
   {
     "partId": 1304,
@@ -2131,7 +2517,9 @@
     "acNumber": 35,
     "acName": "ZUNHEBOTO",
     "partNumber": 31,
-    "partName": "SOUTH POINT N-WING - II"
+    "partName": "SOUTH POINT N-WING - II",
+    "lat": 26.0,
+    "lon": 94.5
   },
   {
     "partId": 1305,
@@ -2142,7 +2530,9 @@
     "acNumber": 35,
     "acName": "ZUNHEBOTO",
     "partNumber": 32,
-    "partName": "SOUTH POINT S-WING - II"
+    "partName": "SOUTH POINT S-WING - II",
+    "lat": 26.0,
+    "lon": 94.5
   },
   {
     "partId": 1306,
@@ -2153,7 +2543,9 @@
     "acNumber": 35,
     "acName": "ZUNHEBOTO",
     "partNumber": 33,
-    "partName": "DC HILL N-WING - II"
+    "partName": "DC HILL N-WING - II",
+    "lat": 26.0,
+    "lon": 94.5
   },
   {
     "partId": 1307,
@@ -2164,7 +2556,9 @@
     "acNumber": 35,
     "acName": "ZUNHEBOTO",
     "partNumber": 34,
-    "partName": "DC HILL S-WING - II"
+    "partName": "DC HILL S-WING - II",
+    "lat": 26.0,
+    "lon": 94.5
   },
   {
     "partId": 1308,
@@ -2175,7 +2569,9 @@
     "acNumber": 35,
     "acName": "ZUNHEBOTO",
     "partNumber": 35,
-    "partName": "LIZU NEW"
+    "partName": "LIZU NEW",
+    "lat": 26.0,
+    "lon": 94.5
   },
   {
     "partId": 1309,
@@ -2186,7 +2582,9 @@
     "acNumber": 35,
     "acName": "ZUNHEBOTO",
     "partNumber": 36,
-    "partName": "HEKIYE VILLAGE"
+    "partName": "HEKIYE VILLAGE",
+    "lat": 26.0,
+    "lon": 94.5
   },
   {
     "partId": 1310,
@@ -2197,7 +2595,9 @@
     "acNumber": 35,
     "acName": "ZUNHEBOTO",
     "partNumber": 37,
-    "partName": "NEWLAND"
+    "partName": "NEWLAND",
+    "lat": 26.0,
+    "lon": 94.5
   },
   {
     "partId": 1311,
@@ -2208,7 +2608,9 @@
     "acNumber": 35,
     "acName": "ZUNHEBOTO",
     "partNumber": 38,
-    "partName": "ASUKHOMI - B"
+    "partName": "ASUKHOMI - B",
+    "lat": 26.0,
+    "lon": 94.5
   },
   {
     "partId": 2187,
@@ -2219,7 +2621,9 @@
     "acNumber": 35,
     "acName": "ZUNHEBOTO",
     "partNumber": 39,
-    "partName": "KHUWABOTO - B"
+    "partName": "KHUWABOTO - B",
+    "lat": 26.0,
+    "lon": 94.5
   },
   {
     "partId": 2286,
@@ -2230,6 +2634,8 @@
     "acNumber": 35,
     "acName": "ZUNHEBOTO",
     "partNumber": 40,
-    "partName": "AMIPHOTO SOUTH WING"
+    "partName": "AMIPHOTO SOUTH WING",
+    "lat": 26.0,
+    "lon": 94.5
   }
 ]

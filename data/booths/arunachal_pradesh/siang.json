@@ -8,7 +8,9 @@
     "acNumber": 35,
     "acName": "PANGIN",
     "partNumber": 1,
-    "partName": "PANGIN"
+    "partName": "PANGIN",
+    "lat": 28.1414863,
+    "lon": 95.2725886
   },
   {
     "partId": 1337,
@@ -19,7 +21,9 @@
     "acNumber": 35,
     "acName": "PANGIN",
     "partNumber": 2,
-    "partName": "PANGIN VILLAGE"
+    "partName": "PANGIN VILLAGE",
+    "lat": 28.1414863,
+    "lon": 95.2725886
   },
   {
     "partId": 1338,
@@ -30,7 +34,9 @@
     "acNumber": 35,
     "acName": "PANGIN",
     "partNumber": 3,
-    "partName": "KORENG"
+    "partName": "KORENG",
+    "lat": 28.1414863,
+    "lon": 95.2725886
   },
   {
     "partId": 1339,
@@ -41,7 +47,9 @@
     "acNumber": 35,
     "acName": "PANGIN",
     "partNumber": 4,
-    "partName": "YEKSHI"
+    "partName": "YEKSHI",
+    "lat": 28.1414863,
+    "lon": 95.2725886
   },
   {
     "partId": 1340,
@@ -52,7 +60,9 @@
     "acNumber": 35,
     "acName": "PANGIN",
     "partNumber": 5,
-    "partName": "LOKPENG"
+    "partName": "LOKPENG",
+    "lat": 28.2227551,
+    "lon": 94.8934369
   },
   {
     "partId": 1341,
@@ -63,7 +73,9 @@
     "acNumber": 35,
     "acName": "PANGIN",
     "partNumber": 6,
-    "partName": "TARAK"
+    "partName": "TARAK",
+    "lat": 28.1414863,
+    "lon": 95.2725886
   },
   {
     "partId": 1342,
@@ -74,7 +86,9 @@
     "acNumber": 35,
     "acName": "PANGIN",
     "partNumber": 7,
-    "partName": "MOPIT"
+    "partName": "MOPIT",
+    "lat": 28.1414863,
+    "lon": 95.2725886
   },
   {
     "partId": 1343,
@@ -85,7 +99,9 @@
     "acNumber": 35,
     "acName": "PANGIN",
     "partNumber": 8,
-    "partName": "BEGGING"
+    "partName": "BEGGING",
+    "lat": 28.1414863,
+    "lon": 95.2725886
   },
   {
     "partId": 1344,
@@ -96,7 +112,9 @@
     "acNumber": 35,
     "acName": "PANGIN",
     "partNumber": 9,
-    "partName": "RIEW (N/W)"
+    "partName": "RIEW (N/W)",
+    "lat": 28.1414863,
+    "lon": 95.2725886
   },
   {
     "partId": 1345,
@@ -107,7 +125,9 @@
     "acNumber": 35,
     "acName": "PANGIN",
     "partNumber": 10,
-    "partName": "RIEW (S/W)"
+    "partName": "RIEW (S/W)",
+    "lat": 28.1414863,
+    "lon": 95.2725886
   },
   {
     "partId": 1346,
@@ -118,7 +138,9 @@
     "acNumber": 35,
     "acName": "PANGIN",
     "partNumber": 11,
-    "partName": "KOMSING (KARO)"
+    "partName": "KOMSING (KARO)",
+    "lat": 28.1414863,
+    "lon": 95.2725886
   },
   {
     "partId": 1347,
@@ -129,7 +151,9 @@
     "acNumber": 35,
     "acName": "PANGIN",
     "partNumber": 12,
-    "partName": "KOMSING (KUMKU)"
+    "partName": "KOMSING (KUMKU)",
+    "lat": 28.1414863,
+    "lon": 95.2725886
   },
   {
     "partId": 1348,
@@ -140,7 +164,9 @@
     "acNumber": 35,
     "acName": "PANGIN",
     "partNumber": 13,
-    "partName": "JORSING"
+    "partName": "JORSING",
+    "lat": 28.2570921,
+    "lon": 95.0470564
   },
   {
     "partId": 1349,
@@ -151,7 +177,9 @@
     "acNumber": 35,
     "acName": "PANGIN",
     "partNumber": 14,
-    "partName": "PANGI"
+    "partName": "PANGI",
+    "lat": 28.1414863,
+    "lon": 95.2725886
   },
   {
     "partId": 1350,
@@ -162,7 +190,9 @@
     "acNumber": 35,
     "acName": "PANGIN",
     "partNumber": 15,
-    "partName": "SISSEN"
+    "partName": "SISSEN",
+    "lat": 28.1414863,
+    "lon": 95.2725886
   },
   {
     "partId": 1351,
@@ -173,7 +203,9 @@
     "acNumber": 35,
     "acName": "PANGIN",
     "partNumber": 16,
-    "partName": "ROTTUNG"
+    "partName": "ROTTUNG",
+    "lat": 28.1414863,
+    "lon": 95.2725886
   },
   {
     "partId": 1352,
@@ -184,7 +216,9 @@
     "acNumber": 35,
     "acName": "PANGIN",
     "partNumber": 17,
-    "partName": "KALLEK"
+    "partName": "KALLEK",
+    "lat": 28.1414863,
+    "lon": 95.2725886
   },
   {
     "partId": 1353,
@@ -195,7 +229,9 @@
     "acNumber": 35,
     "acName": "PANGIN",
     "partNumber": 18,
-    "partName": "BABUK"
+    "partName": "BABUK",
+    "lat": 28.1414863,
+    "lon": 95.2725886
   },
   {
     "partId": 1354,
@@ -206,7 +242,9 @@
     "acNumber": 35,
     "acName": "PANGIN",
     "partNumber": 19,
-    "partName": "KEBANG"
+    "partName": "KEBANG",
+    "lat": 28.1414863,
+    "lon": 95.2725886
   },
   {
     "partId": 1355,
@@ -217,7 +255,9 @@
     "acNumber": 35,
     "acName": "PANGIN",
     "partNumber": 20,
-    "partName": "KEBANG SOLE"
+    "partName": "KEBANG SOLE",
+    "lat": 28.1414863,
+    "lon": 95.2725886
   },
   {
     "partId": 1356,
@@ -228,7 +268,9 @@
     "acNumber": 35,
     "acName": "PANGIN",
     "partNumber": 21,
-    "partName": "KEBANG RADA"
+    "partName": "KEBANG RADA",
+    "lat": 28.1414863,
+    "lon": 95.2725886
   },
   {
     "partId": 1357,
@@ -239,7 +281,9 @@
     "acNumber": 35,
     "acName": "PANGIN",
     "partNumber": 22,
-    "partName": "YEMSING"
+    "partName": "YEMSING",
+    "lat": 28.1414863,
+    "lon": 95.2725886
   },
   {
     "partId": 1358,
@@ -250,7 +294,9 @@
     "acNumber": 35,
     "acName": "PANGIN",
     "partNumber": 23,
-    "partName": "BOLENG TOWN (N/W)"
+    "partName": "BOLENG TOWN (N/W)",
+    "lat": 28.1414863,
+    "lon": 95.2725886
   },
   {
     "partId": 1359,
@@ -261,7 +307,9 @@
     "acNumber": 35,
     "acName": "PANGIN",
     "partNumber": 24,
-    "partName": "BOLENG TOWN (S/W)"
+    "partName": "BOLENG TOWN (S/W)",
+    "lat": 28.1414863,
+    "lon": 95.2725886
   },
   {
     "partId": 1360,
@@ -272,7 +320,9 @@
     "acNumber": 35,
     "acName": "PANGIN",
     "partNumber": 25,
-    "partName": "DOSING"
+    "partName": "DOSING",
+    "lat": 28.1414863,
+    "lon": 95.2725886
   },
   {
     "partId": 1361,
@@ -283,7 +333,9 @@
     "acNumber": 35,
     "acName": "PANGIN",
     "partNumber": 26,
-    "partName": "RENGO"
+    "partName": "RENGO",
+    "lat": 28.1414863,
+    "lon": 95.2725886
   },
   {
     "partId": 1362,
@@ -294,7 +346,9 @@
     "acNumber": 35,
     "acName": "PANGIN",
     "partNumber": 27,
-    "partName": "LILENG"
+    "partName": "LILENG",
+    "lat": 28.1414863,
+    "lon": 95.2725886
   },
   {
     "partId": 1363,
@@ -305,7 +359,9 @@
     "acNumber": 35,
     "acName": "PANGIN",
     "partNumber": 28,
-    "partName": "PARENG"
+    "partName": "PARENG",
+    "lat": 28.1414863,
+    "lon": 95.2725886
   },
   {
     "partId": 1364,
@@ -316,7 +372,9 @@
     "acNumber": 35,
     "acName": "PANGIN",
     "partNumber": 29,
-    "partName": "SUPSING"
+    "partName": "SUPSING",
+    "lat": 28.1414863,
+    "lon": 95.2725886
   },
   {
     "partId": 1365,
@@ -327,7 +385,9 @@
     "acNumber": 35,
     "acName": "PANGIN",
     "partNumber": 30,
-    "partName": "YINGKU"
+    "partName": "YINGKU",
+    "lat": 28.1414863,
+    "lon": 95.2725886
   },
   {
     "partId": 1366,
@@ -338,7 +398,9 @@
     "acNumber": 35,
     "acName": "PANGIN",
     "partNumber": 31,
-    "partName": "SINE VILLAGE"
+    "partName": "SINE VILLAGE",
+    "lat": 28.1414863,
+    "lon": 95.2725886
   },
   {
     "partId": 1367,
@@ -349,7 +411,9 @@
     "acNumber": 35,
     "acName": "PANGIN",
     "partNumber": 32,
-    "partName": "YIBUK"
+    "partName": "YIBUK",
+    "lat": 28.1414863,
+    "lon": 95.2725886
   },
   {
     "partId": 1368,
@@ -360,7 +424,9 @@
     "acNumber": 35,
     "acName": "PANGIN",
     "partNumber": 33,
-    "partName": "LISSING"
+    "partName": "LISSING",
+    "lat": 28.1414863,
+    "lon": 95.2725886
   },
   {
     "partId": 1369,
@@ -371,7 +437,9 @@
     "acNumber": 35,
     "acName": "PANGIN",
     "partNumber": 34,
-    "partName": "MESSING"
+    "partName": "MESSING",
+    "lat": 28.1414863,
+    "lon": 95.2725886
   },
   {
     "partId": 1370,
@@ -382,7 +450,9 @@
     "acNumber": 35,
     "acName": "PANGIN",
     "partNumber": 35,
-    "partName": "PARONG (KINNE)"
+    "partName": "PARONG (KINNE)",
+    "lat": 28.1414863,
+    "lon": 95.2725886
   },
   {
     "partId": 1371,
@@ -393,7 +463,9 @@
     "acNumber": 35,
     "acName": "PANGIN",
     "partNumber": 36,
-    "partName": "PARONG"
+    "partName": "PARONG",
+    "lat": 28.1414863,
+    "lon": 95.2725886
   },
   {
     "partId": 1372,
@@ -404,7 +476,9 @@
     "acNumber": 35,
     "acName": "PANGIN",
     "partNumber": 37,
-    "partName": "DITE - DIME"
+    "partName": "DITE - DIME",
+    "lat": 28.3516137,
+    "lon": 95.0223928
   },
   {
     "partId": 1373,
@@ -415,7 +489,9 @@
     "acNumber": 35,
     "acName": "PANGIN",
     "partNumber": 38,
-    "partName": "SITANG"
+    "partName": "SITANG",
+    "lat": 28.1414863,
+    "lon": 95.2725886
   },
   {
     "partId": 1374,
@@ -426,7 +502,9 @@
     "acNumber": 35,
     "acName": "PANGIN",
     "partNumber": 39,
-    "partName": "RIGA MOBUK (N/W)"
+    "partName": "RIGA MOBUK (N/W)",
+    "lat": 28.1414863,
+    "lon": 95.2725886
   },
   {
     "partId": 1375,
@@ -437,7 +515,9 @@
     "acNumber": 35,
     "acName": "PANGIN",
     "partNumber": 40,
-    "partName": "RIGA MOBUK (S/W)"
+    "partName": "RIGA MOBUK (S/W)",
+    "lat": 28.1414863,
+    "lon": 95.2725886
   },
   {
     "partId": 1376,
@@ -448,7 +528,9 @@
     "acNumber": 35,
     "acName": "PANGIN",
     "partNumber": 41,
-    "partName": "RIGA MONGKU"
+    "partName": "RIGA MONGKU",
+    "lat": 28.1414863,
+    "lon": 95.2725886
   },
   {
     "partId": 1377,
@@ -459,7 +541,9 @@
     "acNumber": 35,
     "acName": "PANGIN",
     "partNumber": 42,
-    "partName": "RIGA SIRAM"
+    "partName": "RIGA SIRAM",
+    "lat": 28.1414863,
+    "lon": 95.2725886
   },
   {
     "partId": 1378,
@@ -470,7 +554,9 @@
     "acNumber": 35,
     "acName": "PANGIN",
     "partNumber": 43,
-    "partName": "PANGKANG (JORKONG)"
+    "partName": "PANGKANG (JORKONG)",
+    "lat": 28.1414863,
+    "lon": 95.2725886
   },
   {
     "partId": 1379,
@@ -481,7 +567,9 @@
     "acNumber": 35,
     "acName": "PANGIN",
     "partNumber": 44,
-    "partName": "PANGKANG (KUMKU)"
+    "partName": "PANGKANG (KUMKU)",
+    "lat": 28.1414863,
+    "lon": 95.2725886
   },
   {
     "partId": 1380,
@@ -492,7 +580,9 @@
     "acNumber": 35,
     "acName": "PANGIN",
     "partNumber": 45,
-    "partName": "RIGA HQ"
+    "partName": "RIGA HQ",
+    "lat": 28.1414863,
+    "lon": 95.2725886
   },
   {
     "partId": 1220,
@@ -503,7 +593,9 @@
     "acNumber": 32,
     "acName": "RUMGONG",
     "partNumber": 1,
-    "partName": "PAYUM"
+    "partName": "PAYUM",
+    "lat": 28.4,
+    "lon": 94.55
   },
   {
     "partId": 1221,
@@ -514,7 +606,9 @@
     "acNumber": 32,
     "acName": "RUMGONG",
     "partNumber": 2,
-    "partName": "GAMENG"
+    "partName": "GAMENG",
+    "lat": 28.4,
+    "lon": 94.55
   },
   {
     "partId": 1222,
@@ -525,7 +619,9 @@
     "acNumber": 32,
     "acName": "RUMGONG",
     "partNumber": 3,
-    "partName": "YIO VILLAGE"
+    "partName": "YIO VILLAGE",
+    "lat": 28.4,
+    "lon": 94.55
   },
   {
     "partId": 1223,
@@ -536,7 +632,9 @@
     "acNumber": 32,
     "acName": "RUMGONG",
     "partNumber": 4,
-    "partName": "YIO (MOLO)"
+    "partName": "YIO (MOLO)",
+    "lat": 28.4,
+    "lon": 94.55
   },
   {
     "partId": 1224,
@@ -547,7 +645,9 @@
     "acNumber": 32,
     "acName": "RUMGONG",
     "partNumber": 5,
-    "partName": "MEGA"
+    "partName": "MEGA",
+    "lat": 28.4,
+    "lon": 94.55
   },
   {
     "partId": 1225,
@@ -558,7 +658,9 @@
     "acNumber": 32,
     "acName": "RUMGONG",
     "partNumber": 6,
-    "partName": "PAME"
+    "partName": "PAME",
+    "lat": 28.4,
+    "lon": 94.55
   },
   {
     "partId": 1226,
@@ -569,7 +671,9 @@
     "acNumber": 32,
     "acName": "RUMGONG",
     "partNumber": 7,
-    "partName": "BOGU"
+    "partName": "BOGU",
+    "lat": 28.4,
+    "lon": 94.55
   },
   {
     "partId": 1227,
@@ -580,7 +684,9 @@
     "acNumber": 32,
     "acName": "RUMGONG",
     "partNumber": 8,
-    "partName": "GASHENG"
+    "partName": "GASHENG",
+    "lat": 28.4,
+    "lon": 94.55
   },
   {
     "partId": 1228,
@@ -591,7 +697,9 @@
     "acNumber": 32,
     "acName": "RUMGONG",
     "partNumber": 9,
-    "partName": "GATE"
+    "partName": "GATE",
+    "lat": 28.4,
+    "lon": 94.55
   },
   {
     "partId": 1229,
@@ -602,7 +710,9 @@
     "acNumber": 32,
     "acName": "RUMGONG",
     "partNumber": 10,
-    "partName": "DUPU VILLAGE"
+    "partName": "DUPU VILLAGE",
+    "lat": 28.4,
+    "lon": 94.55
   },
   {
     "partId": 1230,
@@ -613,7 +723,9 @@
     "acNumber": 32,
     "acName": "RUMGONG",
     "partNumber": 11,
-    "partName": "ROW VILLAGE"
+    "partName": "ROW VILLAGE",
+    "lat": 28.4,
+    "lon": 94.55
   },
   {
     "partId": 1231,
@@ -624,7 +736,9 @@
     "acNumber": 32,
     "acName": "RUMGONG",
     "partNumber": 12,
-    "partName": "KAYING"
+    "partName": "KAYING",
+    "lat": 28.4,
+    "lon": 94.55
   },
   {
     "partId": 1232,
@@ -635,7 +749,9 @@
     "acNumber": 32,
     "acName": "RUMGONG",
     "partNumber": 13,
-    "partName": "KAYING"
+    "partName": "KAYING",
+    "lat": 28.4,
+    "lon": 94.55
   },
   {
     "partId": 1233,
@@ -646,7 +762,9 @@
     "acNumber": 32,
     "acName": "RUMGONG",
     "partNumber": 14,
-    "partName": "SIRUM"
+    "partName": "SIRUM",
+    "lat": 28.4,
+    "lon": 94.55
   },
   {
     "partId": 1234,
@@ -657,7 +775,9 @@
     "acNumber": 32,
     "acName": "RUMGONG",
     "partNumber": 15,
-    "partName": "SAMPONG"
+    "partName": "SAMPONG",
+    "lat": 28.4,
+    "lon": 94.55
   },
   {
     "partId": 1235,
@@ -668,7 +788,9 @@
     "acNumber": 32,
     "acName": "RUMGONG",
     "partNumber": 16,
-    "partName": "TUMBIN"
+    "partName": "TUMBIN",
+    "lat": 28.4,
+    "lon": 94.55
   },
   {
     "partId": 1236,
@@ -679,7 +801,9 @@
     "acNumber": 32,
     "acName": "RUMGONG",
     "partNumber": 17,
-    "partName": "RIGONG"
+    "partName": "RIGONG",
+    "lat": 28.4,
+    "lon": 94.55
   },
   {
     "partId": 1237,
@@ -690,7 +814,9 @@
     "acNumber": 32,
     "acName": "RUMGONG",
     "partNumber": 18,
-    "partName": "PAKSING"
+    "partName": "PAKSING",
+    "lat": 28.4,
+    "lon": 94.55
   },
   {
     "partId": 1238,
@@ -701,7 +827,9 @@
     "acNumber": 32,
     "acName": "RUMGONG",
     "partNumber": 19,
-    "partName": "BOGNE"
+    "partName": "BOGNE",
+    "lat": 28.4,
+    "lon": 94.55
   },
   {
     "partId": 1239,
@@ -712,7 +840,9 @@
     "acNumber": 32,
     "acName": "RUMGONG",
     "partNumber": 20,
-    "partName": "KERANG - I"
+    "partName": "KERANG - I",
+    "lat": 28.4,
+    "lon": 94.55
   },
   {
     "partId": 1240,
@@ -723,7 +853,9 @@
     "acNumber": 32,
     "acName": "RUMGONG",
     "partNumber": 21,
-    "partName": "KERANG - II"
+    "partName": "KERANG - II",
+    "lat": 28.4,
+    "lon": 94.55
   },
   {
     "partId": 1241,
@@ -734,7 +866,9 @@
     "acNumber": 32,
     "acName": "RUMGONG",
     "partNumber": 22,
-    "partName": "MOLOM"
+    "partName": "MOLOM",
+    "lat": 28.4,
+    "lon": 94.55
   },
   {
     "partId": 1242,
@@ -745,7 +879,9 @@
     "acNumber": 32,
     "acName": "RUMGONG",
     "partNumber": 23,
-    "partName": "BINGUNG"
+    "partName": "BINGUNG",
+    "lat": 28.4,
+    "lon": 94.55
   },
   {
     "partId": 1243,
@@ -756,7 +892,9 @@
     "acNumber": 32,
     "acName": "RUMGONG",
     "partNumber": 24,
-    "partName": "YOSING"
+    "partName": "YOSING",
+    "lat": 28.4,
+    "lon": 94.55
   },
   {
     "partId": 1244,
@@ -767,7 +905,9 @@
     "acNumber": 32,
     "acName": "RUMGONG",
     "partNumber": 25,
-    "partName": "MOPUNG PUNGKU"
+    "partName": "MOPUNG PUNGKU",
+    "lat": 28.4,
+    "lon": 94.55
   },
   {
     "partId": 1245,
@@ -778,7 +918,9 @@
     "acNumber": 32,
     "acName": "RUMGONG",
     "partNumber": 26,
-    "partName": "YOGONG"
+    "partName": "YOGONG",
+    "lat": 28.4,
+    "lon": 94.55
   },
   {
     "partId": 1246,
@@ -789,7 +931,9 @@
     "acNumber": 32,
     "acName": "RUMGONG",
     "partNumber": 27,
-    "partName": "RUMGONG"
+    "partName": "RUMGONG",
+    "lat": 28.4,
+    "lon": 94.55
   },
   {
     "partId": 1247,
@@ -800,7 +944,9 @@
     "acNumber": 32,
     "acName": "RUMGONG",
     "partNumber": 28,
-    "partName": "JOMO"
+    "partName": "JOMO",
+    "lat": 28.4,
+    "lon": 94.55
   },
   {
     "partId": 1248,
@@ -811,7 +957,9 @@
     "acNumber": 32,
     "acName": "RUMGONG",
     "partNumber": 29,
-    "partName": "MORI"
+    "partName": "MORI",
+    "lat": 28.4,
+    "lon": 94.55
   },
   {
     "partId": 1249,
@@ -822,7 +970,9 @@
     "acNumber": 32,
     "acName": "RUMGONG",
     "partNumber": 30,
-    "partName": "DAMDA DEKU"
+    "partName": "DAMDA DEKU",
+    "lat": 28.4,
+    "lon": 94.55
   },
   {
     "partId": 1250,
@@ -833,7 +983,9 @@
     "acNumber": 32,
     "acName": "RUMGONG",
     "partNumber": 31,
-    "partName": "DAMDA DEBUK VILLAGE"
+    "partName": "DAMDA DEBUK VILLAGE",
+    "lat": 28.4,
+    "lon": 94.55
   },
   {
     "partId": 1251,
@@ -844,7 +996,9 @@
     "acNumber": 32,
     "acName": "RUMGONG",
     "partNumber": 32,
-    "partName": "LORGING"
+    "partName": "LORGING",
+    "lat": 28.4,
+    "lon": 94.55
   },
   {
     "partId": 1252,
@@ -855,7 +1009,9 @@
     "acNumber": 32,
     "acName": "RUMGONG",
     "partNumber": 33,
-    "partName": "BEGGING"
+    "partName": "BEGGING",
+    "lat": 28.4,
+    "lon": 94.55
   },
   {
     "partId": 1253,
@@ -866,7 +1022,9 @@
     "acNumber": 32,
     "acName": "RUMGONG",
     "partNumber": 34,
-    "partName": "JOMLO-BARI"
+    "partName": "JOMLO-BARI",
+    "lat": 28.4,
+    "lon": 94.55
   },
   {
     "partId": 1254,
@@ -877,7 +1035,9 @@
     "acNumber": 32,
     "acName": "RUMGONG",
     "partNumber": 35,
-    "partName": "JOMLO-MOBUK"
+    "partName": "JOMLO-MOBUK",
+    "lat": 28.4,
+    "lon": 94.55
   },
   {
     "partId": 1255,
@@ -888,7 +1048,9 @@
     "acNumber": 32,
     "acName": "RUMGONG",
     "partNumber": 36,
-    "partName": "JOMLO-MONGKU"
+    "partName": "JOMLO-MONGKU",
+    "lat": 28.4,
+    "lon": 94.55
   },
   {
     "partId": 1256,
@@ -899,7 +1061,9 @@
     "acNumber": 32,
     "acName": "RUMGONG",
     "partNumber": 37,
-    "partName": "PESSING"
+    "partName": "PESSING",
+    "lat": 28.4,
+    "lon": 94.55
   },
   {
     "partId": 1257,
@@ -910,7 +1074,9 @@
     "acNumber": 32,
     "acName": "RUMGONG",
     "partNumber": 38,
-    "partName": "PANGKENG"
+    "partName": "PANGKENG",
+    "lat": 28.4,
+    "lon": 94.55
   },
   {
     "partId": 1258,
@@ -921,6 +1087,8 @@
     "acNumber": 32,
     "acName": "RUMGONG",
     "partNumber": 39,
-    "partName": "SIPENG"
+    "partName": "SIPENG",
+    "lat": 28.4,
+    "lon": 94.55
   }
 ]

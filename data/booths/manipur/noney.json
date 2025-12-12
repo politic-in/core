@@ -8,7 +8,9 @@
     "acNumber": 54,
     "acName": "Nungba",
     "partNumber": 1,
-    "partName": "Khongsang"
+    "partName": "Khongsang",
+    "lat": 24.8229869,
+    "lon": 93.4754176
   },
   {
     "partId": 3251,
@@ -19,7 +21,9 @@
     "acNumber": 54,
     "acName": "Nungba",
     "partNumber": 2,
-    "partName": "Longmai A"
+    "partName": "Longmai A",
+    "lat": 24.7435152,
+    "lon": 93.4175039
   },
   {
     "partId": 3295,
@@ -30,7 +34,9 @@
     "acNumber": 54,
     "acName": "Nungba",
     "partNumber": 3,
-    "partName": "Longmai C"
+    "partName": "Longmai C",
+    "lat": 24.7435152,
+    "lon": 93.4175039
   },
   {
     "partId": 3252,
@@ -41,7 +47,9 @@
     "acNumber": 54,
     "acName": "Nungba",
     "partNumber": 4,
-    "partName": "Longmai (B)"
+    "partName": "Longmai (B)",
+    "lat": 24.7435152,
+    "lon": 93.4175039
   },
   {
     "partId": 3296,
@@ -52,7 +60,9 @@
     "acNumber": 54,
     "acName": "Nungba",
     "partNumber": 5,
-    "partName": "Longmai-D"
+    "partName": "Longmai-D",
+    "lat": 24.7435152,
+    "lon": 93.4175039
   },
   {
     "partId": 3253,
@@ -63,7 +73,9 @@
     "acNumber": 54,
     "acName": "Nungba",
     "partNumber": 6,
-    "partName": "Longmai IV (B)"
+    "partName": "Longmai IV (B)",
+    "lat": 24.7435152,
+    "lon": 93.4175039
   },
   {
     "partId": 3254,
@@ -74,7 +86,9 @@
     "acNumber": 54,
     "acName": "Nungba",
     "partNumber": 7,
-    "partName": "Okoklong"
+    "partName": "Okoklong",
+    "lat": 24.7840852,
+    "lon": 93.4022426
   },
   {
     "partId": 3255,
@@ -85,7 +99,9 @@
     "acNumber": 54,
     "acName": "Nungba",
     "partNumber": 8,
-    "partName": "Thingou"
+    "partName": "Thingou",
+    "lat": 24.8069931,
+    "lon": 93.426361
   },
   {
     "partId": 3256,
@@ -96,7 +112,9 @@
     "acNumber": 54,
     "acName": "Nungba",
     "partNumber": 9,
-    "partName": "Rengpang"
+    "partName": "Rengpang",
+    "lat": 24.7435152,
+    "lon": 93.4175039
   },
   {
     "partId": 3297,
@@ -107,7 +125,9 @@
     "acNumber": 54,
     "acName": "Nungba",
     "partNumber": 10,
-    "partName": "Mongjarong khunou"
+    "partName": "Mongjarong khunou",
+    "lat": 24.7435152,
+    "lon": 93.4175039
   },
   {
     "partId": 3257,
@@ -118,7 +138,9 @@
     "acNumber": 54,
     "acName": "Nungba",
     "partNumber": 11,
-    "partName": "Nungnang (A)"
+    "partName": "Nungnang (A)",
+    "lat": 24.7755207,
+    "lon": 93.5273861
   },
   {
     "partId": 3258,
@@ -129,7 +151,9 @@
     "acNumber": 54,
     "acName": "Nungba",
     "partNumber": 12,
-    "partName": "Nungnang (B)"
+    "partName": "Nungnang (B)",
+    "lat": 24.7755207,
+    "lon": 93.5273861
   },
   {
     "partId": 3259,
@@ -140,7 +164,9 @@
     "acNumber": 54,
     "acName": "Nungba",
     "partNumber": 13,
-    "partName": "Tupul"
+    "partName": "Tupul",
+    "lat": 24.7822241,
+    "lon": 93.6631495
   },
   {
     "partId": 3298,
@@ -151,7 +177,9 @@
     "acNumber": 54,
     "acName": "Nungba",
     "partNumber": 14,
-    "partName": "Tupul B"
+    "partName": "Tupul B",
+    "lat": 24.7822241,
+    "lon": 93.6631495
   },
   {
     "partId": 3260,
@@ -162,7 +190,9 @@
     "acNumber": 54,
     "acName": "Nungba",
     "partNumber": 15,
-    "partName": "Taosang Khullen"
+    "partName": "Taosang Khullen",
+    "lat": 24.7435152,
+    "lon": 93.4175039
   },
   {
     "partId": 3261,
@@ -173,7 +203,9 @@
     "acNumber": 54,
     "acName": "Nungba",
     "partNumber": 16,
-    "partName": "Taosang Khunou"
+    "partName": "Taosang Khunou",
+    "lat": 24.7435152,
+    "lon": 93.4175039
   },
   {
     "partId": 3262,
@@ -184,7 +216,9 @@
     "acNumber": 54,
     "acName": "Nungba",
     "partNumber": 17,
-    "partName": "Leishok"
+    "partName": "Leishok",
+    "lat": 24.7435152,
+    "lon": 93.4175039
   },
   {
     "partId": 3263,
@@ -195,7 +229,9 @@
     "acNumber": 54,
     "acName": "Nungba",
     "partNumber": 18,
-    "partName": "Taodaijang"
+    "partName": "Taodaijang",
+    "lat": 24.6786742,
+    "lon": 93.4930166
   },
   {
     "partId": 3264,
@@ -206,7 +242,9 @@
     "acNumber": 54,
     "acName": "Nungba",
     "partNumber": 19,
-    "partName": "Nungba (A)"
+    "partName": "Nungba (A)",
+    "lat": 24.7435152,
+    "lon": 93.4175039
   },
   {
     "partId": 3265,
@@ -217,7 +255,9 @@
     "acNumber": 54,
     "acName": "Nungba",
     "partNumber": 20,
-    "partName": "Nungba (B)"
+    "partName": "Nungba (B)",
+    "lat": 24.7435152,
+    "lon": 93.4175039
   },
   {
     "partId": 3266,
@@ -228,7 +268,9 @@
     "acNumber": 54,
     "acName": "Nungba",
     "partNumber": 21,
-    "partName": "Tajeiphun (Kekru)"
+    "partName": "Tajeiphun (Kekru)",
+    "lat": 24.7435152,
+    "lon": 93.4175039
   },
   {
     "partId": 3267,
@@ -239,7 +281,9 @@
     "acNumber": 54,
     "acName": "Nungba",
     "partNumber": 22,
-    "partName": "Bolongdai"
+    "partName": "Bolongdai",
+    "lat": 24.777924,
+    "lon": 93.4514397
   },
   {
     "partId": 3268,
@@ -250,7 +294,9 @@
     "acNumber": 54,
     "acName": "Nungba",
     "partNumber": 23,
-    "partName": "Kambiron"
+    "partName": "Kambiron",
+    "lat": 24.7435152,
+    "lon": 93.4175039
   },
   {
     "partId": 3269,
@@ -261,7 +307,9 @@
     "acNumber": 54,
     "acName": "Nungba",
     "partNumber": 24,
-    "partName": "Thangal"
+    "partName": "Thangal",
+    "lat": 24.7435152,
+    "lon": 93.4175039
   },
   {
     "partId": 3270,
@@ -272,7 +320,9 @@
     "acNumber": 54,
     "acName": "Nungba",
     "partNumber": 25,
-    "partName": "Lamdangmei"
+    "partName": "Lamdangmei",
+    "lat": 24.7435152,
+    "lon": 93.4175039
   },
   {
     "partId": 3271,
@@ -283,7 +333,9 @@
     "acNumber": 54,
     "acName": "Nungba",
     "partNumber": 26,
-    "partName": "Lubanglong"
+    "partName": "Lubanglong",
+    "lat": 24.7435152,
+    "lon": 93.4175039
   },
   {
     "partId": 3299,
@@ -294,7 +346,9 @@
     "acNumber": 54,
     "acName": "Nungba",
     "partNumber": 27,
-    "partName": "Gahtao"
+    "partName": "Gahtao",
+    "lat": 24.7435152,
+    "lon": 93.4175039
   },
   {
     "partId": 3272,
@@ -305,7 +359,9 @@
     "acNumber": 54,
     "acName": "Nungba",
     "partNumber": 28,
-    "partName": "Dollang"
+    "partName": "Dollang",
+    "lat": 24.6733857,
+    "lon": 93.674618
   },
   {
     "partId": 3273,
@@ -316,7 +372,9 @@
     "acNumber": 54,
     "acName": "Nungba",
     "partNumber": 29,
-    "partName": "Sangji"
+    "partName": "Sangji",
+    "lat": 24.7435152,
+    "lon": 93.4175039
   },
   {
     "partId": 3274,
@@ -327,7 +385,9 @@
     "acNumber": 54,
     "acName": "Nungba",
     "partNumber": 30,
-    "partName": "Namkaolong"
+    "partName": "Namkaolong",
+    "lat": 24.7435152,
+    "lon": 93.4175039
   },
   {
     "partId": 3275,
@@ -338,7 +398,9 @@
     "acNumber": 54,
     "acName": "Nungba",
     "partNumber": 31,
-    "partName": "Thanagong"
+    "partName": "Thanagong",
+    "lat": 24.7435152,
+    "lon": 93.4175039
   },
   {
     "partId": 3276,
@@ -349,7 +411,9 @@
     "acNumber": 54,
     "acName": "Nungba",
     "partNumber": 32,
-    "partName": "Gaidimjang (A)"
+    "partName": "Gaidimjang (A)",
+    "lat": 24.6827768,
+    "lon": 93.5181296
   },
   {
     "partId": 3277,
@@ -360,7 +424,9 @@
     "acNumber": 54,
     "acName": "Nungba",
     "partNumber": 33,
-    "partName": "Gaidimjang (B)"
+    "partName": "Gaidimjang (B)",
+    "lat": 24.6827768,
+    "lon": 93.5181296
   },
   {
     "partId": 3278,
@@ -371,7 +437,9 @@
     "acNumber": 54,
     "acName": "Nungba",
     "partNumber": 34,
-    "partName": "Satudai"
+    "partName": "Satudai",
+    "lat": 24.7435152,
+    "lon": 93.4175039
   },
   {
     "partId": 3279,
@@ -382,7 +450,9 @@
     "acNumber": 54,
     "acName": "Nungba",
     "partNumber": 35,
-    "partName": "Khoupum  Taodaijang"
+    "partName": "Khoupum  Taodaijang",
+    "lat": 24.7435152,
+    "lon": 93.4175039
   },
   {
     "partId": 3280,
@@ -393,7 +463,9 @@
     "acNumber": 54,
     "acName": "Nungba",
     "partNumber": 36,
-    "partName": "Mukti khullen"
+    "partName": "Mukti khullen",
+    "lat": 24.7435152,
+    "lon": 93.4175039
   },
   {
     "partId": 3281,
@@ -404,7 +476,9 @@
     "acNumber": 54,
     "acName": "Nungba",
     "partNumber": 37,
-    "partName": "Muktina"
+    "partName": "Muktina",
+    "lat": 24.7435152,
+    "lon": 93.4175039
   },
   {
     "partId": 3282,
@@ -415,7 +489,9 @@
     "acNumber": 54,
     "acName": "Nungba",
     "partNumber": 38,
-    "partName": "Longkaiphun"
+    "partName": "Longkaiphun",
+    "lat": 24.7435152,
+    "lon": 93.4175039
   },
   {
     "partId": 3283,
@@ -426,7 +502,9 @@
     "acNumber": 54,
     "acName": "Nungba",
     "partNumber": 39,
-    "partName": "Nungbai"
+    "partName": "Nungbai",
+    "lat": 24.7435152,
+    "lon": 93.4175039
   },
   {
     "partId": 3284,
@@ -437,7 +515,9 @@
     "acNumber": 54,
     "acName": "Nungba",
     "partNumber": 40,
-    "partName": "Nungadang"
+    "partName": "Nungadang",
+    "lat": 24.7435152,
+    "lon": 93.4175039
   },
   {
     "partId": 3285,
@@ -448,7 +528,9 @@
     "acNumber": 54,
     "acName": "Nungba",
     "partNumber": 41,
-    "partName": "Gangluan-A"
+    "partName": "Gangluan-A",
+    "lat": 24.6550629,
+    "lon": 93.5929048
   },
   {
     "partId": 3300,
@@ -459,7 +541,9 @@
     "acNumber": 54,
     "acName": "Nungba",
     "partNumber": 42,
-    "partName": "Gangluan-B"
+    "partName": "Gangluan-B",
+    "lat": 24.6550629,
+    "lon": 93.5929048
   },
   {
     "partId": 3286,
@@ -470,7 +554,9 @@
     "acNumber": 54,
     "acName": "Nungba",
     "partNumber": 43,
-    "partName": "Nungsai-A"
+    "partName": "Nungsai-A",
+    "lat": 24.6429738,
+    "lon": 93.6670559
   },
   {
     "partId": 3301,
@@ -481,7 +567,9 @@
     "acNumber": 54,
     "acName": "Nungba",
     "partNumber": 44,
-    "partName": "Nungsai-B"
+    "partName": "Nungsai-B",
+    "lat": 24.6429738,
+    "lon": 93.6670559
   },
   {
     "partId": 3287,
@@ -492,7 +580,9 @@
     "acNumber": 54,
     "acName": "Nungba",
     "partNumber": 45,
-    "partName": "Joujangtek"
+    "partName": "Joujangtek",
+    "lat": 24.6526225,
+    "lon": 93.6865886
   },
   {
     "partId": 3288,
@@ -503,7 +593,9 @@
     "acNumber": 54,
     "acName": "Nungba",
     "partNumber": 46,
-    "partName": "Longpi"
+    "partName": "Longpi",
+    "lat": 24.7435152,
+    "lon": 93.4175039
   },
   {
     "partId": 3289,
@@ -514,7 +606,9 @@
     "acNumber": 54,
     "acName": "Nungba",
     "partNumber": 47,
-    "partName": "Teikhang"
+    "partName": "Teikhang",
+    "lat": 24.7435152,
+    "lon": 93.4175039
   },
   {
     "partId": 3290,
@@ -525,7 +619,9 @@
     "acNumber": 54,
     "acName": "Nungba",
     "partNumber": 48,
-    "partName": "Sempat Gangte"
+    "partName": "Sempat Gangte",
+    "lat": 24.7435152,
+    "lon": 93.4175039
   },
   {
     "partId": 3291,
@@ -536,7 +632,9 @@
     "acNumber": 54,
     "acName": "Nungba",
     "partNumber": 49,
-    "partName": "Chongmun"
+    "partName": "Chongmun",
+    "lat": 24.7435152,
+    "lon": 93.4175039
   },
   {
     "partId": 3292,
@@ -547,7 +645,9 @@
     "acNumber": 54,
     "acName": "Nungba",
     "partNumber": 50,
-    "partName": "Tuiphai"
+    "partName": "Tuiphai",
+    "lat": 24.7320133,
+    "lon": 93.6716274
   },
   {
     "partId": 3293,
@@ -558,7 +658,9 @@
     "acNumber": 54,
     "acName": "Nungba",
     "partNumber": 51,
-    "partName": "Longphailum"
+    "partName": "Longphailum",
+    "lat": 24.7435152,
+    "lon": 93.4175039
   },
   {
     "partId": 3294,
@@ -569,6 +671,8 @@
     "acNumber": 54,
     "acName": "Nungba",
     "partNumber": 52,
-    "partName": "Gallon"
+    "partName": "Gallon",
+    "lat": 24.7435152,
+    "lon": 93.4175039
   }
 ]

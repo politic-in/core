@@ -8,7 +8,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 1,
-    "partName": "Upgraded Middle School Kanikend Hindi"
+    "partName": "Upgraded Middle School Kanikend Hindi",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9032,
@@ -19,7 +21,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 2,
-    "partName": "Upgraded Middle School Bhadali"
+    "partName": "Upgraded Middle School Bhadali",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9033,
@@ -30,7 +34,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 3,
-    "partName": "Middle School Mirganj (E)"
+    "partName": "Middle School Mirganj (E)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9034,
@@ -41,7 +47,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 4,
-    "partName": "Middle School Mirganj (W)"
+    "partName": "Middle School Mirganj (W)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9035,
@@ -52,7 +60,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 5,
-    "partName": "Upgraded Middle School Pachoudi"
+    "partName": "Upgraded Middle School Pachoudi",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9036,
@@ -63,7 +73,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 6,
-    "partName": "Purv Upgraded Middle School Modidih Makatab"
+    "partName": "Purv Upgraded Middle School Modidih Makatab",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9037,
@@ -74,7 +86,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 7,
-    "partName": "Upgraded Middle School Pokhardih"
+    "partName": "Upgraded Middle School Pokhardih",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9038,
@@ -85,7 +99,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 8,
-    "partName": "Upgraded Middle School, Kataiya (North)"
+    "partName": "Upgraded Middle School, Kataiya (North)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9039,
@@ -96,7 +112,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 9,
-    "partName": "Upgraded Middle School, Kataiya (South)"
+    "partName": "Upgraded Middle School, Kataiya (South)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9040,
@@ -107,7 +125,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 10,
-    "partName": "Primary School, Bhakhra"
+    "partName": "Primary School, Bhakhra",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9041,
@@ -118,7 +138,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 11,
-    "partName": "Upgraded Middle School Dhab"
+    "partName": "Upgraded Middle School Dhab",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9042,
@@ -129,7 +151,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 12,
-    "partName": "Primary  School Khairakala (South)"
+    "partName": "Primary  School Khairakala (South)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9043,
@@ -140,7 +164,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 13,
-    "partName": "Primary School Khairakala Uttari"
+    "partName": "Primary School Khairakala Uttari",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9044,
@@ -151,7 +177,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 14,
-    "partName": "Upgraded Kanya Middle School Sihas"
+    "partName": "Upgraded Kanya Middle School Sihas",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9045,
@@ -162,7 +190,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 15,
-    "partName": "Middle School Shivpur, East"
+    "partName": "Middle School Shivpur, East",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9046,
@@ -173,7 +203,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 16,
-    "partName": "Middle School Shivpur, West"
+    "partName": "Middle School Shivpur, West",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9047,
@@ -184,7 +216,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 17,
-    "partName": "Primary School Makatab Shivpur, East"
+    "partName": "Primary School Makatab Shivpur, East",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9048,
@@ -195,7 +229,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 18,
-    "partName": "Primary School Makatab Shivpur, West"
+    "partName": "Primary School Makatab Shivpur, West",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9049,
@@ -206,7 +242,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 19,
-    "partName": "Primary School Satgawan kanya"
+    "partName": "Primary School Satgawan kanya",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9050,
@@ -217,7 +255,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 20,
-    "partName": "Primary School Ramdih"
+    "partName": "Primary School Ramdih",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9051,
@@ -228,7 +268,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 21,
-    "partName": "Primary School Chanddih"
+    "partName": "Primary School Chanddih",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9052,
@@ -239,7 +281,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 22,
-    "partName": "Upgraded Middle School Dharampur"
+    "partName": "Upgraded Middle School Dharampur",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9053,
@@ -250,7 +294,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 23,
-    "partName": "Upgraded Middle School Madhopur Hindi , East"
+    "partName": "Upgraded Middle School Madhopur Hindi , East",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9054,
@@ -261,7 +307,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 24,
-    "partName": "Upgraded Middle School Madhopur Hindi , West"
+    "partName": "Upgraded Middle School Madhopur Hindi , West",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9055,
@@ -272,7 +320,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 25,
-    "partName": "Upgraded Middle School Selari"
+    "partName": "Upgraded Middle School Selari",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9056,
@@ -283,7 +333,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 26,
-    "partName": "Primary School Sarbahana"
+    "partName": "Primary School Sarbahana",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9057,
@@ -294,7 +346,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 27,
-    "partName": "Upgraded Middle School, Bajaniya, Urdu"
+    "partName": "Upgraded Middle School, Bajaniya, Urdu",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9058,
@@ -305,7 +359,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 28,
-    "partName": "Upgraded Middle School Naraydih"
+    "partName": "Upgraded Middle School Naraydih",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9059,
@@ -316,7 +372,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 29,
-    "partName": "Upgraded Middle School Samaldih (E)"
+    "partName": "Upgraded Middle School Samaldih (E)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9060,
@@ -327,7 +385,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 30,
-    "partName": "Upgraded Middle School Samaldih (West)"
+    "partName": "Upgraded Middle School Samaldih (West)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9061,
@@ -338,7 +398,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 31,
-    "partName": "Panchayat Bhawan, Basodih"
+    "partName": "Panchayat Bhawan, Basodih",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9062,
@@ -349,7 +411,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 32,
-    "partName": "Primary School, Makatab, Basodih"
+    "partName": "Primary School, Makatab, Basodih",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9063,
@@ -360,7 +424,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 33,
-    "partName": "Upgraded Middle School Rajghati"
+    "partName": "Upgraded Middle School Rajghati",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9064,
@@ -371,7 +437,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 34,
-    "partName": "Upgraded Middle School Rautdih"
+    "partName": "Upgraded Middle School Rautdih",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9065,
@@ -382,7 +450,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 35,
-    "partName": "Upgraded Middle School Dumri"
+    "partName": "Upgraded Middle School Dumri",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9066,
@@ -393,7 +463,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 36,
-    "partName": "+2 High School, Basodih"
+    "partName": "+2 High School, Basodih",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9067,
@@ -404,7 +476,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 37,
-    "partName": "Upgraded Middle School Galwati"
+    "partName": "Upgraded Middle School Galwati",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9068,
@@ -415,7 +489,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 38,
-    "partName": "Middle School Marchoi (East)"
+    "partName": "Middle School Marchoi (East)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9069,
@@ -426,7 +502,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 39,
-    "partName": "Upgraded High School Marchoi (West)"
+    "partName": "Upgraded High School Marchoi (West)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9070,
@@ -437,7 +515,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 40,
-    "partName": "Middle School Marchoi (West)"
+    "partName": "Middle School Marchoi (West)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9071,
@@ -448,7 +528,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 41,
-    "partName": "Upgraded High School Marchoi (East)"
+    "partName": "Upgraded High School Marchoi (East)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9072,
@@ -459,7 +541,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 42,
-    "partName": "Primary School Gonardih (New Building)"
+    "partName": "Primary School Gonardih (New Building)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9073,
@@ -470,7 +554,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 43,
-    "partName": "Upgraded Middle School Jogidih"
+    "partName": "Upgraded Middle School Jogidih",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9074,
@@ -481,7 +567,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 44,
-    "partName": "Upgraded Middle School Mohanpur"
+    "partName": "Upgraded Middle School Mohanpur",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9075,
@@ -492,7 +580,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 45,
-    "partName": "Middle School Itai, East"
+    "partName": "Middle School Itai, East",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9076,
@@ -503,7 +593,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 46,
-    "partName": "Middle School Itai, West"
+    "partName": "Middle School Itai, West",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9077,
@@ -514,7 +606,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 47,
-    "partName": "Upgraded Middle School Rajawar, East"
+    "partName": "Upgraded Middle School Rajawar, East",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9078,
@@ -525,7 +619,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 48,
-    "partName": "Upgraded Middle School Rajawar, West"
+    "partName": "Upgraded Middle School Rajawar, West",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9079,
@@ -536,7 +632,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 49,
-    "partName": "Middle School Devodih, West"
+    "partName": "Middle School Devodih, West",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9080,
@@ -547,7 +645,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 50,
-    "partName": "Middle School Devodih, Eest"
+    "partName": "Middle School Devodih, Eest",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9081,
@@ -558,7 +658,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 51,
-    "partName": "Middle School Nawadih, East"
+    "partName": "Middle School Nawadih, East",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9082,
@@ -569,7 +671,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 52,
-    "partName": "Middle School Nawadih, Wast"
+    "partName": "Middle School Nawadih, Wast",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9083,
@@ -580,7 +684,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 53,
-    "partName": "Primary School Bad"
+    "partName": "Primary School Bad",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9084,
@@ -591,7 +697,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 54,
-    "partName": "PrimarySchool Bhagadih"
+    "partName": "PrimarySchool Bhagadih",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9085,
@@ -602,7 +710,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 55,
-    "partName": "Middle School Khutta"
+    "partName": "Middle School Khutta",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9086,
@@ -613,7 +723,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 56,
-    "partName": "Panchayat Bhawan, Khutta"
+    "partName": "Panchayat Bhawan, Khutta",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9087,
@@ -624,7 +736,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 57,
-    "partName": "Upgraded Middle School Jhanjhidih"
+    "partName": "Upgraded Middle School Jhanjhidih",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9088,
@@ -635,7 +749,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 58,
-    "partName": "Upgraded Middle School Gajedih, East"
+    "partName": "Upgraded Middle School Gajedih, East",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9089,
@@ -646,7 +762,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 59,
-    "partName": "Upgraded Middle School Gajedih, Wast"
+    "partName": "Upgraded Middle School Gajedih, Wast",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9090,
@@ -657,7 +775,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 60,
-    "partName": "Middle School Basodih (E)"
+    "partName": "Middle School Basodih (E)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9091,
@@ -668,7 +788,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 61,
-    "partName": "Upgraded Middle School, MATHURADIH"
+    "partName": "Upgraded Middle School, MATHURADIH",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9092,
@@ -679,7 +801,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 62,
-    "partName": "Middle School Basodih (West)"
+    "partName": "Middle School Basodih (West)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9093,
@@ -690,7 +814,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 63,
-    "partName": "Upgraded Middle School, kalidih"
+    "partName": "Upgraded Middle School, kalidih",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9094,
@@ -701,7 +827,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 64,
-    "partName": "Panchayat Bhawan Teharo (old)"
+    "partName": "Panchayat Bhawan Teharo (old)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9095,
@@ -712,7 +840,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 65,
-    "partName": "Primary School, Nandudih Balak"
+    "partName": "Primary School, Nandudih Balak",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9096,
@@ -723,7 +853,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 66,
-    "partName": "Middle School Donaiya"
+    "partName": "Middle School Donaiya",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9097,
@@ -734,7 +866,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 67,
-    "partName": "Upgraded Middle School, Pachane"
+    "partName": "Upgraded Middle School, Pachane",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9098,
@@ -745,7 +879,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 68,
-    "partName": "Upgraded Middle School, Kothiyar, East"
+    "partName": "Upgraded Middle School, Kothiyar, East",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9099,
@@ -756,7 +892,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 69,
-    "partName": "Upgraded Middle School, Kothiyar, Wast"
+    "partName": "Upgraded Middle School, Kothiyar, Wast",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9100,
@@ -767,7 +905,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 70,
-    "partName": "Upgraded Primary  School, RATANPUR"
+    "partName": "Upgraded Primary  School, RATANPUR",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9101,
@@ -778,7 +918,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 71,
-    "partName": "Upgrated Middle School, Karchaita"
+    "partName": "Upgrated Middle School, Karchaita",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9102,
@@ -789,7 +931,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 72,
-    "partName": "Upgraded Middle School Angar"
+    "partName": "Upgraded Middle School Angar",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9103,
@@ -800,7 +944,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 73,
-    "partName": "Primary  School Ambabad (Putodih)"
+    "partName": "Primary  School Ambabad (Putodih)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9104,
@@ -811,7 +957,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 74,
-    "partName": "Panchyat Bhawan Ambabad"
+    "partName": "Panchyat Bhawan Ambabad",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9105,
@@ -822,7 +970,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 75,
-    "partName": "Middle School Samaydih"
+    "partName": "Middle School Samaydih",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9106,
@@ -833,7 +983,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 76,
-    "partName": "Upgraded Primary School Turiya tola, khawasdih"
+    "partName": "Upgraded Primary School Turiya tola, khawasdih",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9107,
@@ -844,7 +996,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 77,
-    "partName": "Upgraded Middle School Telaiya Basti, North"
+    "partName": "Upgraded Middle School Telaiya Basti, North",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9108,
@@ -855,7 +1009,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 78,
-    "partName": "Upgraded Middle School Telaiya Basti, South"
+    "partName": "Upgraded Middle School Telaiya Basti, South",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9109,
@@ -866,7 +1022,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 79,
-    "partName": "Upgraded Middle School Telaiya Basti, (Middle Part)"
+    "partName": "Upgraded Middle School Telaiya Basti, (Middle Part)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9110,
@@ -877,7 +1035,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 80,
-    "partName": "Upgraded Primary School, Telaiya Basti"
+    "partName": "Upgraded Primary School, Telaiya Basti",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9111,
@@ -888,7 +1048,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 81,
-    "partName": "Anganwadi Kendra, Turiyatola, Telaiya Basti"
+    "partName": "Anganwadi Kendra, Turiyatola, Telaiya Basti",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9112,
@@ -899,7 +1061,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 82,
-    "partName": "Community Hall Ranatola (W)"
+    "partName": "Community Hall Ranatola (W)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9113,
@@ -910,7 +1074,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 83,
-    "partName": "Middle School Inderwa Urban (West)"
+    "partName": "Middle School Inderwa Urban (West)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9114,
@@ -921,7 +1087,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 84,
-    "partName": "Middle School Inderwa Urban (E)"
+    "partName": "Middle School Inderwa Urban (E)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9115,
@@ -932,7 +1100,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 85,
-    "partName": "Primary School Asnabad (East)"
+    "partName": "Primary School Asnabad (East)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9116,
@@ -943,7 +1113,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 86,
-    "partName": "Primary School Asnabad (W)"
+    "partName": "Primary School Asnabad (W)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9117,
@@ -954,7 +1126,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 87,
-    "partName": "Urdu Middle School Asnabad (North Part)"
+    "partName": "Urdu Middle School Asnabad (North Part)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9118,
@@ -965,7 +1139,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 88,
-    "partName": "Urdu Middle School Asnabad (West)"
+    "partName": "Urdu Middle School Asnabad (West)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9119,
@@ -976,7 +1152,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 89,
-    "partName": "Block-Cum-Anchal Office Koderma (North)"
+    "partName": "Block-Cum-Anchal Office Koderma (North)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9120,
@@ -987,7 +1165,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 90,
-    "partName": "J.S.L.P.S. Office, Block Campus, Jhumri Telaiya"
+    "partName": "J.S.L.P.S. Office, Block Campus, Jhumri Telaiya",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9121,
@@ -998,7 +1178,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 91,
-    "partName": "Block-Cum-Anchal Office Koderma (South)"
+    "partName": "Block-Cum-Anchal Office Koderma (South)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9122,
@@ -1009,7 +1191,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 92,
-    "partName": "Vridha Asram, Jhumri Telaiya (E)"
+    "partName": "Vridha Asram, Jhumri Telaiya (E)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9123,
@@ -1020,7 +1204,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 93,
-    "partName": "Bridha Asram, Jhumri Telaiya (W)"
+    "partName": "Bridha Asram, Jhumri Telaiya (W)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9124,
@@ -1031,7 +1217,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 94,
-    "partName": "Sita Sukhani Girls Middle School (South)"
+    "partName": "Sita Sukhani Girls Middle School (South)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9125,
@@ -1042,7 +1230,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 95,
-    "partName": "Sita Sukhani Girls Middle  School (North)"
+    "partName": "Sita Sukhani Girls Middle  School (North)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9126,
@@ -1053,7 +1243,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 96,
-    "partName": "Sita Sukhani Girls Middle School, East"
+    "partName": "Sita Sukhani Girls Middle School, East",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9127,
@@ -1064,7 +1256,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 97,
-    "partName": "Sita Sukhani Girls Middle School, West"
+    "partName": "Sita Sukhani Girls Middle School, West",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9128,
@@ -1075,7 +1269,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 98,
-    "partName": "C.D. Girls High School,"
+    "partName": "C.D. Girls High School,",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9129,
@@ -1086,7 +1282,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 99,
-    "partName": "Krishi Bazar Samiti, Jhumritelaiya"
+    "partName": "Krishi Bazar Samiti, Jhumritelaiya",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9130,
@@ -1097,7 +1295,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 100,
-    "partName": "C. H. +2High School (West Part)"
+    "partName": "C. H. +2High School (West Part)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9131,
@@ -1108,7 +1308,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 101,
-    "partName": "C. H. +2 High School (East Part )"
+    "partName": "C. H. +2 High School (East Part )",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9132,
@@ -1119,7 +1321,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 102,
-    "partName": "C. H.+2 High School (Middle Part)"
+    "partName": "C. H.+2 High School (Middle Part)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9133,
@@ -1130,7 +1334,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 103,
-    "partName": "C. H. +2 High School (North Part)"
+    "partName": "C. H. +2 High School (North Part)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9134,
@@ -1141,7 +1347,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 104,
-    "partName": "Primary School Vidyapuri (West)"
+    "partName": "Primary School Vidyapuri (West)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9135,
@@ -1152,7 +1360,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 105,
-    "partName": "Primary School Vidyapuri (East)"
+    "partName": "Primary School Vidyapuri (East)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9136,
@@ -1163,7 +1373,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 106,
-    "partName": "Rajkiya Shram Kalyan Kendra (North)"
+    "partName": "Rajkiya Shram Kalyan Kendra (North)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9137,
@@ -1174,7 +1386,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 107,
-    "partName": "Rajkiya Shram Kalyan Kendra (Middle Part)"
+    "partName": "Rajkiya Shram Kalyan Kendra (Middle Part)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9138,
@@ -1185,7 +1399,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 108,
-    "partName": "Rajkiya Shram Kalyan Kendra (South)"
+    "partName": "Rajkiya Shram Kalyan Kendra (South)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9139,
@@ -1196,7 +1412,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 109,
-    "partName": "Upgraded Middle School Jholpo (E)"
+    "partName": "Upgraded Middle School Jholpo (E)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9140,
@@ -1207,7 +1425,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 110,
-    "partName": "Upgraded Middle School Jholpo west part"
+    "partName": "Upgraded Middle School Jholpo west part",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9141,
@@ -1218,7 +1438,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 111,
-    "partName": "Rajkiyakrit Upgraded Middle School Maduwatand (East Part)"
+    "partName": "Rajkiyakrit Upgraded Middle School Maduwatand (East Part)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9142,
@@ -1229,7 +1451,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 112,
-    "partName": "New Primary School, Moriyawan"
+    "partName": "New Primary School, Moriyawan",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9143,
@@ -1240,7 +1464,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 113,
-    "partName": "Rajkiyakrit Upgraded Middle School Manduwatand (West)"
+    "partName": "Rajkiyakrit Upgraded Middle School Manduwatand (West)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9144,
@@ -1251,7 +1477,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 114,
-    "partName": "Upgraded Primary School, Yadutand"
+    "partName": "Upgraded Primary School, Yadutand",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9145,
@@ -1262,7 +1490,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 115,
-    "partName": "Rajkiya Middle School Belatand No. - 1 (North)"
+    "partName": "Rajkiya Middle School Belatand No. - 1 (North)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9146,
@@ -1273,7 +1503,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 116,
-    "partName": "C.D. Girls School, (North)"
+    "partName": "C.D. Girls School, (North)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9147,
@@ -1284,7 +1516,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 117,
-    "partName": "Rajkiya Middle School Belatand No. - 1 (Middle Part)"
+    "partName": "Rajkiya Middle School Belatand No. - 1 (Middle Part)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9148,
@@ -1295,7 +1529,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 118,
-    "partName": "C.D. Girls School, (West)"
+    "partName": "C.D. Girls School, (West)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9149,
@@ -1306,7 +1542,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 119,
-    "partName": "Rajkiya Middle School Belatand No. - 1 (South)"
+    "partName": "Rajkiya Middle School Belatand No. - 1 (South)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9150,
@@ -1317,7 +1555,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 120,
-    "partName": "Rajkiyakrit Middle School Belatand No. - 2 (East Part)"
+    "partName": "Rajkiyakrit Middle School Belatand No. - 2 (East Part)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9151,
@@ -1328,7 +1568,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 121,
-    "partName": "Rajkiyakrit Middle School Belatand No. - 2 (West Part)"
+    "partName": "Rajkiyakrit Middle School Belatand No. - 2 (West Part)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9152,
@@ -1339,7 +1581,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 122,
-    "partName": "Upgreted Middle School, Bhadodih, Urdu, Middle Part"
+    "partName": "Upgreted Middle School, Bhadodih, Urdu, Middle Part",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9153,
@@ -1350,7 +1594,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 123,
-    "partName": "Tehsil Kachahri-cum-Aanganbadi, Bhadodih"
+    "partName": "Tehsil Kachahri-cum-Aanganbadi, Bhadodih",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9154,
@@ -1361,7 +1607,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 124,
-    "partName": "Upgreted Middle School, Bhadodih, Urdu, East Part"
+    "partName": "Upgreted Middle School, Bhadodih, Urdu, East Part",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9155,
@@ -1372,7 +1620,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 125,
-    "partName": "Upgreted Middle School, Bhadodih, Urdu, West Part"
+    "partName": "Upgreted Middle School, Bhadodih, Urdu, West Part",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9156,
@@ -1383,7 +1633,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 126,
-    "partName": "Community Hall Bhadodih"
+    "partName": "Community Hall Bhadodih",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9157,
@@ -1394,7 +1646,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 127,
-    "partName": "Bharat Dursanchar Nigar Limited, Post Office Campus, Tilaiya"
+    "partName": "Bharat Dursanchar Nigar Limited, Post Office Campus, Tilaiya",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9158,
@@ -1405,7 +1659,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 128,
-    "partName": "Recreation Club B C Bishunpur"
+    "partName": "Recreation Club B C Bishunpur",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9159,
@@ -1416,7 +1672,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 129,
-    "partName": "Upgraded Primary School (Naresh Nagar)"
+    "partName": "Upgraded Primary School (Naresh Nagar)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9160,
@@ -1427,7 +1685,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 130,
-    "partName": "Upgraded Primary School Beldar muhall ( (West Part)"
+    "partName": "Upgraded Primary School Beldar muhall ( (West Part)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9161,
@@ -1438,7 +1698,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 131,
-    "partName": "Upgraded Primary School Beldar Muhalla (North Part)"
+    "partName": "Upgraded Primary School Beldar Muhalla (North Part)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9162,
@@ -1449,7 +1711,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 132,
-    "partName": "Upgraded Middle School Navada (East)"
+    "partName": "Upgraded Middle School Navada (East)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9163,
@@ -1460,7 +1724,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 133,
-    "partName": "Upgraded Middle School Navada (Middle Part)"
+    "partName": "Upgraded Middle School Navada (Middle Part)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9164,
@@ -1471,7 +1737,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 134,
-    "partName": "Upgraded Middle School Navada Pakka Bhawan (West)"
+    "partName": "Upgraded Middle School Navada Pakka Bhawan (West)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9165,
@@ -1482,7 +1750,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 135,
-    "partName": "Gandhi High School, JMT (North)"
+    "partName": "Gandhi High School, JMT (North)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9166,
@@ -1493,7 +1763,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 136,
-    "partName": "Gandhi High School, JMT (South)"
+    "partName": "Gandhi High School, JMT (South)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9167,
@@ -1504,7 +1776,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 137,
-    "partName": "Gandhi High School (middle part)"
+    "partName": "Gandhi High School (middle part)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9168,
@@ -1515,7 +1789,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 138,
-    "partName": "Quality Control L.N. V. Path (North)"
+    "partName": "Quality Control L.N. V. Path (North)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9169,
@@ -1526,7 +1802,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 139,
-    "partName": "New Primary School, Gumo, Muslim Tola"
+    "partName": "New Primary School, Gumo, Muslim Tola",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9170,
@@ -1537,7 +1815,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 140,
-    "partName": "Quality Control L.N. V. Path (M)"
+    "partName": "Quality Control L.N. V. Path (M)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9171,
@@ -1548,7 +1828,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 141,
-    "partName": "Community Hall Chitragupta Nagar"
+    "partName": "Community Hall Chitragupta Nagar",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9172,
@@ -1559,7 +1841,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 142,
-    "partName": "Road Construction Department, Quality Control Sub Division, Koderma"
+    "partName": "Road Construction Department, Quality Control Sub Division, Koderma",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9173,
@@ -1570,7 +1854,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 143,
-    "partName": "Gandhi high School , Jhumri Telaiya, (West)"
+    "partName": "Gandhi high School , Jhumri Telaiya, (West)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9174,
@@ -1581,7 +1867,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 144,
-    "partName": "Rajkiya Middle School Gumo No. 2 Barwadih (North Part)"
+    "partName": "Rajkiya Middle School Gumo No. 2 Barwadih (North Part)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9175,
@@ -1592,7 +1880,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 145,
-    "partName": "Rajkiya Middle School Gumo No. 2 Barwadih (South Part)"
+    "partName": "Rajkiya Middle School Gumo No. 2 Barwadih (South Part)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9176,
@@ -1603,7 +1893,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 146,
-    "partName": "Rajkiya Middle School Gumo No. 2 Barwadih (Middle Part)"
+    "partName": "Rajkiya Middle School Gumo No. 2 Barwadih (Middle Part)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9177,
@@ -1614,7 +1906,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 147,
-    "partName": "Upgraded Primary School, Kumhar Tola, Gumo"
+    "partName": "Upgraded Primary School, Kumhar Tola, Gumo",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9178,
@@ -1625,7 +1919,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 148,
-    "partName": "Akal Singh Rajkiya Middle School Gumo No. 1 (Right Part)"
+    "partName": "Akal Singh Rajkiya Middle School Gumo No. 1 (Right Part)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9179,
@@ -1636,7 +1932,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 149,
-    "partName": "Akal Singh Rajkiya Middle School Gumo No. 1 (Left Part)"
+    "partName": "Akal Singh Rajkiya Middle School Gumo No. 1 (Left Part)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9180,
@@ -1647,7 +1945,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 150,
-    "partName": "Upgraded Pramary School, Badki Gali Gumo"
+    "partName": "Upgraded Pramary School, Badki Gali Gumo",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9181,
@@ -1658,7 +1958,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 151,
-    "partName": "Girls Middle School Koderma (North Part)"
+    "partName": "Girls Middle School Koderma (North Part)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9182,
@@ -1669,7 +1971,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 152,
-    "partName": "Navsrijit  Primary School, Phulwariya, Virhortola"
+    "partName": "Navsrijit  Primary School, Phulwariya, Virhortola",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9183,
@@ -1680,7 +1984,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 153,
-    "partName": "Upgraded Middle School Bagitand North Part)"
+    "partName": "Upgraded Middle School Bagitand North Part)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9184,
@@ -1691,7 +1997,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 154,
-    "partName": "Upgraded Middle School Bagitand (West Part)"
+    "partName": "Upgraded Middle School Bagitand (West Part)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9185,
@@ -1702,7 +2010,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 155,
-    "partName": "Community Hall, Farenda"
+    "partName": "Community Hall, Farenda",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9186,
@@ -1713,7 +2023,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 156,
-    "partName": "Community Hall, Pandey Tola, Lakhibagi"
+    "partName": "Community Hall, Pandey Tola, Lakhibagi",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9187,
@@ -1724,7 +2036,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 157,
-    "partName": "Community Hall, Durga Mandap, Koderma Bazar"
+    "partName": "Community Hall, Durga Mandap, Koderma Bazar",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9188,
@@ -1735,7 +2049,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 158,
-    "partName": "Upgraded Middle School Barsotiyabar"
+    "partName": "Upgraded Middle School Barsotiyabar",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9189,
@@ -1746,7 +2062,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 159,
-    "partName": "Urdu Middle School Jalawabad (East Part)"
+    "partName": "Urdu Middle School Jalawabad (East Part)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9190,
@@ -1757,7 +2075,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 160,
-    "partName": "Urdu Middle School, Jalawabad, (West Part)"
+    "partName": "Urdu Middle School, Jalawabad, (West Part)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9191,
@@ -1768,7 +2088,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 161,
-    "partName": "Upgraded Middle School Nagarkhara (Left Part)"
+    "partName": "Upgraded Middle School Nagarkhara (Left Part)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9192,
@@ -1779,7 +2101,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 162,
-    "partName": "Upgraded Middle School Nagarkhara (East Part)"
+    "partName": "Upgraded Middle School Nagarkhara (East Part)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9193,
@@ -1790,7 +2114,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 163,
-    "partName": "Adarsh Middle School, Koderma, North"
+    "partName": "Adarsh Middle School, Koderma, North",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9194,
@@ -1801,7 +2127,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 164,
-    "partName": "Adarsh Middle School, Koderma, South"
+    "partName": "Adarsh Middle School, Koderma, South",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9195,
@@ -1812,7 +2140,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 165,
-    "partName": "Rajkiyakrit +2 High School, Koderma, East"
+    "partName": "Rajkiyakrit +2 High School, Koderma, East",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9196,
@@ -1823,7 +2153,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 166,
-    "partName": "Rajkiyakrit +2 High School, Koderma, West Part"
+    "partName": "Rajkiyakrit +2 High School, Koderma, West Part",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9197,
@@ -1834,7 +2166,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 167,
-    "partName": "Upgrated Middle School, Baherwatand, North Part"
+    "partName": "Upgrated Middle School, Baherwatand, North Part",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9198,
@@ -1845,7 +2179,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 168,
-    "partName": "Community Hall, Baherwatand"
+    "partName": "Community Hall, Baherwatand",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9199,
@@ -1856,7 +2192,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 169,
-    "partName": "Upgraded Middle School Behrwatand (South part)"
+    "partName": "Upgraded Middle School Behrwatand (South part)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9200,
@@ -1867,7 +2205,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 170,
-    "partName": "Project Girls High School Koderma (East Part)"
+    "partName": "Project Girls High School Koderma (East Part)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9201,
@@ -1878,7 +2218,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 171,
-    "partName": "New building Project Girls High School Koderma  (West Part)"
+    "partName": "New building Project Girls High School Koderma  (West Part)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9202,
@@ -1889,7 +2231,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 172,
-    "partName": "Project Girls High School Koderma (West Part)"
+    "partName": "Project Girls High School Koderma (West Part)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9203,
@@ -1900,7 +2244,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 173,
-    "partName": "New building Project Girls High School Koderma  (North Part)"
+    "partName": "New building Project Girls High School Koderma  (North Part)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9204,
@@ -1911,7 +2257,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 174,
-    "partName": "Upgrated +2 High School, Meghatari, East Part"
+    "partName": "Upgrated +2 High School, Meghatari, East Part",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9205,
@@ -1922,7 +2270,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 175,
-    "partName": "Upgrated +2 High School, Meghatari(West PART)"
+    "partName": "Upgrated +2 High School, Meghatari(West PART)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9206,
@@ -1933,7 +2283,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 176,
-    "partName": "Upgraded Primary School, Kushahana"
+    "partName": "Upgraded Primary School, Kushahana",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9207,
@@ -1944,7 +2296,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 177,
-    "partName": "Upgraded High School Gajhandi (North)"
+    "partName": "Upgraded High School Gajhandi (North)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9208,
@@ -1955,7 +2309,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 178,
-    "partName": "Panchayat Sachivalaya Gajhandi"
+    "partName": "Panchayat Sachivalaya Gajhandi",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9209,
@@ -1966,7 +2322,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 179,
-    "partName": "Upgraded High School Gajhandi (South))"
+    "partName": "Upgraded High School Gajhandi (South))",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9210,
@@ -1977,7 +2335,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 180,
-    "partName": "Upgraded Middle School Jarga"
+    "partName": "Upgraded Middle School Jarga",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9211,
@@ -1988,7 +2348,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 181,
-    "partName": "Upgraded Middle School Bishunpur (Jharkhi)"
+    "partName": "Upgraded Middle School Bishunpur (Jharkhi)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9212,
@@ -1999,7 +2361,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 182,
-    "partName": "Upgraded Urdu Middle School Chhatarbar"
+    "partName": "Upgraded Urdu Middle School Chhatarbar",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9213,
@@ -2010,7 +2374,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 183,
-    "partName": "Panchayat Bhawan Chhatarbar"
+    "partName": "Panchayat Bhawan Chhatarbar",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9214,
@@ -2021,7 +2387,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 184,
-    "partName": "Upgraded Middle School Chechai (Left Part)"
+    "partName": "Upgraded Middle School Chechai (Left Part)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9215,
@@ -2032,7 +2400,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 185,
-    "partName": "Upgraded Middle School Chechai (Right Part)"
+    "partName": "Upgraded Middle School Chechai (Right Part)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9216,
@@ -2043,7 +2413,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 186,
-    "partName": "Upgraded Middle School Baratala (South Part)"
+    "partName": "Upgraded Middle School Baratala (South Part)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9217,
@@ -2054,7 +2426,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 187,
-    "partName": "Upgraded Middle School Baratala (West)"
+    "partName": "Upgraded Middle School Baratala (West)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9218,
@@ -2065,7 +2439,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 188,
-    "partName": "Karma Hospital Purana Bhavan"
+    "partName": "Karma Hospital Purana Bhavan",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9219,
@@ -2076,7 +2452,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 189,
-    "partName": "General Directorate of Mine Safety, Karma, Koderma"
+    "partName": "General Directorate of Mine Safety, Karma, Koderma",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9220,
@@ -2087,7 +2465,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 190,
-    "partName": "Anganbari kendra 18 karma"
+    "partName": "Anganbari kendra 18 karma",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9221,
@@ -2098,7 +2478,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 191,
-    "partName": "Upgraded Middle School Karma (Harijan Karma)"
+    "partName": "Upgraded Middle School Karma (Harijan Karma)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9222,
@@ -2109,7 +2491,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 192,
-    "partName": "Upgraded Primary school Doinyandih"
+    "partName": "Upgraded Primary school Doinyandih",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9223,
@@ -2120,7 +2504,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 193,
-    "partName": "Upgraded Middle School Jhumri (West)"
+    "partName": "Upgraded Middle School Jhumri (West)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9224,
@@ -2131,7 +2517,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 194,
-    "partName": "Upgraded Middle School Jhumri (East)"
+    "partName": "Upgraded Middle School Jhumri (East)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9225,
@@ -2142,7 +2530,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 195,
-    "partName": "Primary school, Charadih"
+    "partName": "Primary school, Charadih",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9226,
@@ -2153,7 +2543,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 196,
-    "partName": "Upgraded Middle School Kariyabar"
+    "partName": "Upgraded Middle School Kariyabar",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9227,
@@ -2164,7 +2556,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 197,
-    "partName": "Rajkiyakrit Primary School, Chutiyaro"
+    "partName": "Rajkiyakrit Primary School, Chutiyaro",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9228,
@@ -2175,7 +2569,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 198,
-    "partName": "Upgraded Middle School Puto"
+    "partName": "Upgraded Middle School Puto",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9229,
@@ -2186,7 +2582,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 199,
-    "partName": "Upgraded Middle School Purna Nagar (Left Part)"
+    "partName": "Upgraded Middle School Purna Nagar (Left Part)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9230,
@@ -2197,7 +2595,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 200,
-    "partName": "Upgrated Middle School, Chandrodih"
+    "partName": "Upgrated Middle School, Chandrodih",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9231,
@@ -2208,7 +2608,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 201,
-    "partName": "Upgraded Middle School Purna Nagar (Right Part)"
+    "partName": "Upgraded Middle School Purna Nagar (Right Part)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9232,
@@ -2219,7 +2621,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 202,
-    "partName": "Primary School, Nauwadih"
+    "partName": "Primary School, Nauwadih",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9233,
@@ -2230,7 +2634,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 203,
-    "partName": "Upgraded Middle School Lochanpur"
+    "partName": "Upgraded Middle School Lochanpur",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9234,
@@ -2241,7 +2647,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 204,
-    "partName": "Upgraded Middle School Bhandrwa"
+    "partName": "Upgraded Middle School Bhandrwa",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9235,
@@ -2252,7 +2660,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 205,
-    "partName": "Upgrated Middle School, Sangramdih"
+    "partName": "Upgrated Middle School, Sangramdih",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9236,
@@ -2263,7 +2673,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 206,
-    "partName": "Ra Upgraded Middle School Chandedih"
+    "partName": "Ra Upgraded Middle School Chandedih",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9237,
@@ -2274,7 +2686,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 207,
-    "partName": "Upgraded Middle School Pipradih"
+    "partName": "Upgraded Middle School Pipradih",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9238,
@@ -2285,7 +2699,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 208,
-    "partName": "Upgraded Primary  School Dhongopahari"
+    "partName": "Upgraded Primary  School Dhongopahari",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9239,
@@ -2296,7 +2712,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 209,
-    "partName": "Rajkiya Primary School, Bichhipahari"
+    "partName": "Rajkiya Primary School, Bichhipahari",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9240,
@@ -2307,7 +2725,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 210,
-    "partName": "Anganbari Kendra Dhongo Pahri"
+    "partName": "Anganbari Kendra Dhongo Pahri",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9241,
@@ -2318,7 +2738,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 211,
-    "partName": "Upgraded High School Bekobar (East)"
+    "partName": "Upgraded High School Bekobar (East)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9242,
@@ -2329,7 +2751,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 212,
-    "partName": "Upgraded High School Bekobar (West)"
+    "partName": "Upgraded High School Bekobar (West)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9243,
@@ -2340,7 +2764,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 213,
-    "partName": "Upgraded +2 High School Dumardiha (South)"
+    "partName": "Upgraded +2 High School Dumardiha (South)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9244,
@@ -2351,7 +2777,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 214,
-    "partName": "Upgraded +2 High School Dumardiha (North)"
+    "partName": "Upgraded +2 High School Dumardiha (North)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9245,
@@ -2362,7 +2790,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 215,
-    "partName": "Upgraded +2 High School Dumardiha (Middle Part)"
+    "partName": "Upgraded +2 High School Dumardiha (Middle Part)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9246,
@@ -2373,7 +2803,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 216,
-    "partName": "Upgraded Middle School Belgadha (East)"
+    "partName": "Upgraded Middle School Belgadha (East)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9247,
@@ -2384,7 +2816,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 217,
-    "partName": "Upgraded Middle School Belgadha (West)"
+    "partName": "Upgraded Middle School Belgadha (West)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9248,
@@ -2395,7 +2829,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 218,
-    "partName": "Upgraded High School, Pathaldiha, East"
+    "partName": "Upgraded High School, Pathaldiha, East",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9249,
@@ -2406,7 +2842,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 219,
-    "partName": "Upgraded High School, Pathaldiha, West"
+    "partName": "Upgraded High School, Pathaldiha, West",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9250,
@@ -2417,7 +2855,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 220,
-    "partName": "Newly created Primary School Behradih"
+    "partName": "Newly created Primary School Behradih",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9251,
@@ -2428,7 +2868,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 221,
-    "partName": "Upgraded Middle School Salaiya"
+    "partName": "Upgraded Middle School Salaiya",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9252,
@@ -2439,7 +2881,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 222,
-    "partName": "Upgraded primary school, siyaritand"
+    "partName": "Upgraded primary school, siyaritand",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9253,
@@ -2450,7 +2894,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 223,
-    "partName": "Upgrated Middle School Anantdih"
+    "partName": "Upgrated Middle School Anantdih",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9254,
@@ -2461,7 +2907,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 224,
-    "partName": "Aadarsh Middle School Lariyadih (East)"
+    "partName": "Aadarsh Middle School Lariyadih (East)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9255,
@@ -2472,7 +2920,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 225,
-    "partName": "Aadarsh Middle School Lariyadih (West)"
+    "partName": "Aadarsh Middle School Lariyadih (West)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9256,
@@ -2483,7 +2933,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 226,
-    "partName": "Upgraded Middle School Garhai"
+    "partName": "Upgraded Middle School Garhai",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9257,
@@ -2494,7 +2946,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 227,
-    "partName": "Upgraded Middle School Pandedih"
+    "partName": "Upgraded Middle School Pandedih",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9258,
@@ -2505,7 +2959,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 228,
-    "partName": "Panchayat  Bhavan, Pandeydih"
+    "partName": "Panchayat  Bhavan, Pandeydih",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9259,
@@ -2516,7 +2972,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 229,
-    "partName": "Upgraded Middle School Khairidih"
+    "partName": "Upgraded Middle School Khairidih",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9260,
@@ -2527,7 +2985,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 230,
-    "partName": "Upgraded Middle School Ratithamai"
+    "partName": "Upgraded Middle School Ratithamai",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9261,
@@ -2538,7 +2998,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 231,
-    "partName": "Upgraded Middle School Lokai"
+    "partName": "Upgraded Middle School Lokai",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9262,
@@ -2549,7 +3011,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 232,
-    "partName": "Nawsrijit Primary School, Balarotand"
+    "partName": "Nawsrijit Primary School, Balarotand",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9263,
@@ -2560,7 +3024,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 233,
-    "partName": "Upgraded Middle School Basdharwa"
+    "partName": "Upgraded Middle School Basdharwa",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9264,
@@ -2571,7 +3037,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 234,
-    "partName": "Rajkiya Middle School, Baddiha"
+    "partName": "Rajkiya Middle School, Baddiha",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9265,
@@ -2582,7 +3050,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 235,
-    "partName": "Upgraded High School Inderwa (Dehati), (West Part)"
+    "partName": "Upgraded High School Inderwa (Dehati), (West Part)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9266,
@@ -2593,7 +3063,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 236,
-    "partName": "Upgraded High School, Inderwa (Dehati), (East Part)"
+    "partName": "Upgraded High School, Inderwa (Dehati), (East Part)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9267,
@@ -2604,7 +3076,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 237,
-    "partName": "Upgraded Middle School Salaidih"
+    "partName": "Upgraded Middle School Salaidih",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9268,
@@ -2615,7 +3089,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 238,
-    "partName": "Rajkiya Primary School, Chitarpur"
+    "partName": "Rajkiya Primary School, Chitarpur",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9269,
@@ -2626,7 +3102,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 239,
-    "partName": "Rajkiya Upgraded Middle School Jharitand"
+    "partName": "Rajkiya Upgraded Middle School Jharitand",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9270,
@@ -2637,7 +3115,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 240,
-    "partName": "Upgraded Middle School Navadih (East Part)"
+    "partName": "Upgraded Middle School Navadih (East Part)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9271,
@@ -2648,7 +3128,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 241,
-    "partName": "Upgraded Middle School Navadih (West)"
+    "partName": "Upgraded Middle School Navadih (West)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9272,
@@ -2659,7 +3141,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 242,
-    "partName": "Upgraded Middle School Dhebuwadih"
+    "partName": "Upgraded Middle School Dhebuwadih",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9273,
@@ -2670,7 +3154,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 243,
-    "partName": "Rajkiyakrit Middle School Kharkota"
+    "partName": "Rajkiyakrit Middle School Kharkota",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9274,
@@ -2681,7 +3167,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 244,
-    "partName": "Upgraded Middle School Golwadhab"
+    "partName": "Upgraded Middle School Golwadhab",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9275,
@@ -2692,7 +3180,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 245,
-    "partName": "Upgraded Middle School Kolgarma"
+    "partName": "Upgraded Middle School Kolgarma",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9276,
@@ -2703,7 +3193,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 246,
-    "partName": "Upgraded Middle School Birjamu"
+    "partName": "Upgraded Middle School Birjamu",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9277,
@@ -2714,7 +3206,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 247,
-    "partName": "Primary School,  Buchchiitand"
+    "partName": "Primary School,  Buchchiitand",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9278,
@@ -2725,7 +3219,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 248,
-    "partName": "Navsirjit Primary School, Lachhandih"
+    "partName": "Navsirjit Primary School, Lachhandih",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9279,
@@ -2736,7 +3232,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 249,
-    "partName": "Community Hall Bagridih"
+    "partName": "Community Hall Bagridih",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9280,
@@ -2747,7 +3245,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 250,
-    "partName": "Upgraded Middle School BagridIh New Building"
+    "partName": "Upgraded Middle School BagridIh New Building",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9281,
@@ -2758,7 +3258,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 251,
-    "partName": "Upgraded Primary School  KALIMANDA Bagdo"
+    "partName": "Upgraded Primary School  KALIMANDA Bagdo",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9282,
@@ -2769,7 +3271,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 252,
-    "partName": "Upgraded primary School,  KALIMANDA,  Bagdo (South)"
+    "partName": "Upgraded primary School,  KALIMANDA,  Bagdo (South)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9283,
@@ -2780,7 +3284,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 253,
-    "partName": "Upgraded high School Bagro (North)"
+    "partName": "Upgraded high School Bagro (North)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9284,
@@ -2791,7 +3297,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 254,
-    "partName": "Upgraded High School Bagro (South)"
+    "partName": "Upgraded High School Bagro (South)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9285,
@@ -2802,7 +3310,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 255,
-    "partName": "Upgraded Middle School Gaithibad Urff Partango"
+    "partName": "Upgraded Middle School Gaithibad Urff Partango",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9286,
@@ -2813,7 +3323,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 256,
-    "partName": "Upgraded Middle School, Karakhunt East"
+    "partName": "Upgraded Middle School, Karakhunt East",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9287,
@@ -2824,7 +3336,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 257,
-    "partName": "Upgrated Middle School Karakhunt, West"
+    "partName": "Upgrated Middle School Karakhunt, West",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9288,
@@ -2835,7 +3349,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 258,
-    "partName": "Upgrated Middle School, Bangaikala"
+    "partName": "Upgrated Middle School, Bangaikala",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9289,
@@ -2846,7 +3362,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 259,
-    "partName": "Upgraded MiddleSchool Tetariyadih (East)"
+    "partName": "Upgraded MiddleSchool Tetariyadih (East)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9290,
@@ -2857,7 +3375,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 260,
-    "partName": "Upgraded Middle School Tetariyadih (West)"
+    "partName": "Upgraded Middle School Tetariyadih (West)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9291,
@@ -2868,7 +3388,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 261,
-    "partName": "Upgraded Middle School Durodih"
+    "partName": "Upgraded Middle School Durodih",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9292,
@@ -2879,7 +3401,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 262,
-    "partName": "Rajkiya Primary School, Mahthadih (West Part)"
+    "partName": "Rajkiya Primary School, Mahthadih (West Part)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9293,
@@ -2890,7 +3414,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 263,
-    "partName": "Rajkiya Primary School, Mahthadih  (Eest Part)"
+    "partName": "Rajkiya Primary School, Mahthadih  (Eest Part)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9294,
@@ -2901,7 +3427,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 264,
-    "partName": "Rajkiya Primary School, Mahthadih  (Middle Part)"
+    "partName": "Rajkiya Primary School, Mahthadih  (Middle Part)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9295,
@@ -2912,7 +3440,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 265,
-    "partName": "Model Aaganbadi Pre-Nursery School, Domchanch (South)"
+    "partName": "Model Aaganbadi Pre-Nursery School, Domchanch (South)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9296,
@@ -2923,7 +3453,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 266,
-    "partName": "Aganbari Kendra, Singlodih, Domchanch"
+    "partName": "Aganbari Kendra, Singlodih, Domchanch",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9297,
@@ -2934,7 +3466,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 267,
-    "partName": "Upgraded Primary School Manjhlitand (Ayush)"
+    "partName": "Upgraded Primary School Manjhlitand (Ayush)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9298,
@@ -2945,7 +3479,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 268,
-    "partName": "Panchayat Bhawan, Domchanch"
+    "partName": "Panchayat Bhawan, Domchanch",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9299,
@@ -2956,7 +3492,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 269,
-    "partName": "Upgraded Middle School, Heth Tola (East Part)"
+    "partName": "Upgraded Middle School, Heth Tola (East Part)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9300,
@@ -2967,7 +3505,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 270,
-    "partName": "Upgraded Middle School  Heth Tola (West)"
+    "partName": "Upgraded Middle School  Heth Tola (West)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9301,
@@ -2978,7 +3518,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 271,
-    "partName": "Upgraded Primary School Gudar Tola (East)"
+    "partName": "Upgraded Primary School Gudar Tola (East)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9302,
@@ -2989,7 +3531,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 272,
-    "partName": "Upgraded Middle School, Mandhoutimahuwa"
+    "partName": "Upgraded Middle School, Mandhoutimahuwa",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9303,
@@ -3000,7 +3544,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 273,
-    "partName": "Upgraded Middle School, Maheshpur (Left Part, North)"
+    "partName": "Upgraded Middle School, Maheshpur (Left Part, North)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9304,
@@ -3011,7 +3557,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 274,
-    "partName": "Upgraded Middle School Maheshpur (South)"
+    "partName": "Upgraded Middle School Maheshpur (South)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9305,
@@ -3022,7 +3570,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 275,
-    "partName": "Rajkiay Aadarsh  Utkaramit  High School , Domchanh  North"
+    "partName": "Rajkiay Aadarsh  Utkaramit  High School , Domchanh  North",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9306,
@@ -3033,7 +3583,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 276,
-    "partName": "Rajkiay Aadarsh Utkaramit High School, Domchanh \t(South)"
+    "partName": "Rajkiay Aadarsh Utkaramit High School, Domchanh \t(South)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9307,
@@ -3044,7 +3596,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 277,
-    "partName": "Upgraded Middle school Lengrapipar"
+    "partName": "Upgraded Middle school Lengrapipar",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9308,
@@ -3055,7 +3609,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 278,
-    "partName": "Upgraded Middle School, Nawadih, North"
+    "partName": "Upgraded Middle School, Nawadih, North",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9309,
@@ -3066,7 +3622,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 279,
-    "partName": "Upgraded Middle School Nawadih (Right Part)"
+    "partName": "Upgraded Middle School Nawadih (Right Part)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9310,
@@ -3077,7 +3635,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 280,
-    "partName": "Upgraded Middle School Jeruwadih"
+    "partName": "Upgraded Middle School Jeruwadih",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9311,
@@ -3088,7 +3648,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 281,
-    "partName": "Upgraded Middle School Navadih (Left Part)"
+    "partName": "Upgraded Middle School Navadih (Left Part)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9312,
@@ -3099,7 +3661,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 282,
-    "partName": "Panchayat Bhawan, Nawadih"
+    "partName": "Panchayat Bhawan, Nawadih",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9313,
@@ -3110,7 +3674,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 283,
-    "partName": "Upgraded High School Behradih (North)"
+    "partName": "Upgraded High School Behradih (North)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9314,
@@ -3121,7 +3687,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 284,
-    "partName": "Panchayat Bhawan, Behradih"
+    "partName": "Panchayat Bhawan, Behradih",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9315,
@@ -3132,7 +3700,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 285,
-    "partName": "Upgraded High School Behradih (South)"
+    "partName": "Upgraded High School Behradih (South)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9316,
@@ -3143,7 +3713,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 286,
-    "partName": "Upgraded High School, Behradih (South-1)"
+    "partName": "Upgraded High School, Behradih (South-1)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9317,
@@ -3154,7 +3726,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 287,
-    "partName": "Upgraded Middle School Gharbriabar"
+    "partName": "Upgraded Middle School Gharbriabar",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9318,
@@ -3165,7 +3739,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 288,
-    "partName": "Upgraded Middle School Bhelwatanr"
+    "partName": "Upgraded Middle School Bhelwatanr",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9319,
@@ -3176,7 +3752,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 289,
-    "partName": "Upgraded Middle School Madhuban"
+    "partName": "Upgraded Middle School Madhuban",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9320,
@@ -3187,7 +3765,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 290,
-    "partName": "Upgraded Middle School Madhuban (West)"
+    "partName": "Upgraded Middle School Madhuban (West)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9321,
@@ -3198,7 +3778,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 291,
-    "partName": "Upgraded Middle School Simariya New Building"
+    "partName": "Upgraded Middle School Simariya New Building",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9322,
@@ -3209,7 +3791,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 292,
-    "partName": "Upgraded Middle School Simariya (South)"
+    "partName": "Upgraded Middle School Simariya (South)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9323,
@@ -3220,7 +3804,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 293,
-    "partName": "Upgraded Middle School Jamuniatanr Tand, Pasiya"
+    "partName": "Upgraded Middle School Jamuniatanr Tand, Pasiya",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9324,
@@ -3231,7 +3817,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 294,
-    "partName": "Panchayat Bhavan Dhodhakola"
+    "partName": "Panchayat Bhavan Dhodhakola",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9325,
@@ -3242,7 +3830,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 295,
-    "partName": "Upgraded Middle School Sitwa Jamuniya"
+    "partName": "Upgraded Middle School Sitwa Jamuniya",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9326,
@@ -3253,7 +3843,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 296,
-    "partName": "Middle School Parho (East)"
+    "partName": "Middle School Parho (East)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9327,
@@ -3264,7 +3856,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 297,
-    "partName": "Middle School Parho (North)"
+    "partName": "Middle School Parho (North)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9328,
@@ -3275,7 +3869,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 298,
-    "partName": "Middle School Parho (South)"
+    "partName": "Middle School Parho (South)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9329,
@@ -3286,7 +3882,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 299,
-    "partName": "Upgraded Middle School Jorasimar"
+    "partName": "Upgraded Middle School Jorasimar",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9330,
@@ -3297,7 +3895,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 300,
-    "partName": "Upgraded  High School Janpur, East"
+    "partName": "Upgraded  High School Janpur, East",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9331,
@@ -3308,7 +3908,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 301,
-    "partName": "Upgraded  High School Janpur, West"
+    "partName": "Upgraded  High School Janpur, West",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9332,
@@ -3319,7 +3921,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 302,
-    "partName": "Upgraded High School, Dhab (East)"
+    "partName": "Upgraded High School, Dhab (East)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9333,
@@ -3330,7 +3934,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 303,
-    "partName": "Upgreded High School, Dhab (West)"
+    "partName": "Upgreded High School, Dhab (West)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9334,
@@ -3341,7 +3947,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 304,
-    "partName": "Upgraded Middle School Karmikund"
+    "partName": "Upgraded Middle School Karmikund",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9335,
@@ -3352,7 +3960,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 305,
-    "partName": "Upgraded Middle School Bangakhalar"
+    "partName": "Upgraded Middle School Bangakhalar",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9336,
@@ -3363,7 +3973,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 306,
-    "partName": "Upgraded Primary School Baswariya"
+    "partName": "Upgraded Primary School Baswariya",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9337,
@@ -3374,7 +3986,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 307,
-    "partName": "Upgraded Middle School Masnodih (Tanr Par)"
+    "partName": "Upgraded Middle School Masnodih (Tanr Par)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9338,
@@ -3385,7 +3999,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 308,
-    "partName": "Middle School Masnodih (North)"
+    "partName": "Middle School Masnodih (North)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9339,
@@ -3396,7 +4012,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 309,
-    "partName": "Middle School Masnodih (South)"
+    "partName": "Middle School Masnodih (South)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9340,
@@ -3407,7 +4025,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 310,
-    "partName": "Upgraded Middle School Panchgawn"
+    "partName": "Upgraded Middle School Panchgawn",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9341,
@@ -3418,7 +4038,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 311,
-    "partName": "Upgraded Middle School Dhargaon"
+    "partName": "Upgraded Middle School Dhargaon",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9342,
@@ -3429,7 +4051,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 312,
-    "partName": "Upgraded Middle School Dhargaon (South)"
+    "partName": "Upgraded Middle School Dhargaon (South)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9343,
@@ -3440,7 +4064,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 313,
-    "partName": "Panchayat Bhawan Dhargaon"
+    "partName": "Panchayat Bhawan Dhargaon",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9344,
@@ -3451,7 +4077,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 314,
-    "partName": "Upgraded High School Lakshamipur"
+    "partName": "Upgraded High School Lakshamipur",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9345,
@@ -3462,7 +4090,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 315,
-    "partName": "Upgraded Primary School Banpok"
+    "partName": "Upgraded Primary School Banpok",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9346,
@@ -3473,7 +4103,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 316,
-    "partName": "Middle School Fulwariya (Left Part)"
+    "partName": "Middle School Fulwariya (Left Part)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9347,
@@ -3484,7 +4116,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 317,
-    "partName": "Sthapna anumati prapt High School, Phulwariya (East)"
+    "partName": "Sthapna anumati prapt High School, Phulwariya (East)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9348,
@@ -3495,7 +4129,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 318,
-    "partName": "Middle School Fulwariya (Right Part)"
+    "partName": "Middle School Fulwariya (Right Part)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9349,
@@ -3506,7 +4142,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 319,
-    "partName": "Sthapna anumati prapt High School, Phulwariya (East)"
+    "partName": "Sthapna anumati prapt High School, Phulwariya (East)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9350,
@@ -3517,7 +4155,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 320,
-    "partName": "Upgraded Middle School Bigha, West Part"
+    "partName": "Upgraded Middle School Bigha, West Part",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9351,
@@ -3528,7 +4168,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 321,
-    "partName": "Upgraded Middle School   Bigha,  East Part"
+    "partName": "Upgraded Middle School   Bigha,  East Part",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9352,
@@ -3539,7 +4181,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 322,
-    "partName": "Upgraded Middle School Navada"
+    "partName": "Upgraded Middle School Navada",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9353,
@@ -3550,7 +4194,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 323,
-    "partName": "Upgraded Middle School Purnadih"
+    "partName": "Upgraded Middle School Purnadih",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9354,
@@ -3561,7 +4207,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 324,
-    "partName": "Upgraded Middle School Purnadih, North"
+    "partName": "Upgraded Middle School Purnadih, North",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9355,
@@ -3572,7 +4220,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 325,
-    "partName": "Upgraded Middle School  Karmandih"
+    "partName": "Upgraded Middle School  Karmandih",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9356,
@@ -3583,7 +4233,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 326,
-    "partName": "Upgraded Middle School Raidih East"
+    "partName": "Upgraded Middle School Raidih East",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9357,
@@ -3594,7 +4246,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 327,
-    "partName": "Upgraded Middle School Raidih (West)"
+    "partName": "Upgraded Middle School Raidih (West)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9358,
@@ -3605,7 +4259,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 328,
-    "partName": "Upgraded Middle School Kharkhar (Left Part)"
+    "partName": "Upgraded Middle School Kharkhar (Left Part)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9359,
@@ -3616,7 +4272,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 329,
-    "partName": "Upgraded Middle School Kharkhar (Right Part)"
+    "partName": "Upgraded Middle School Kharkhar (Right Part)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9360,
@@ -3627,7 +4285,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 330,
-    "partName": "Panchayat Bhawan, Kharkhar"
+    "partName": "Panchayat Bhawan, Kharkhar",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9361,
@@ -3638,7 +4298,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 331,
-    "partName": "Rajkiay Kanya Primary School, Nawalsahi"
+    "partName": "Rajkiay Kanya Primary School, Nawalsahi",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9362,
@@ -3649,7 +4311,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 332,
-    "partName": "Nawsirjit Primary School, Paisra"
+    "partName": "Nawsirjit Primary School, Paisra",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9363,
@@ -3660,7 +4324,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 333,
-    "partName": "Upgraded High School, Bachhedih (Left Part)"
+    "partName": "Upgraded High School, Bachhedih (Left Part)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9364,
@@ -3671,7 +4337,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 334,
-    "partName": "Panchayat Bhwan, Bachhedih"
+    "partName": "Panchayat Bhwan, Bachhedih",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9365,
@@ -3682,7 +4350,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 335,
-    "partName": "Upgraded High School, Bachhedih (Right Part)"
+    "partName": "Upgraded High School, Bachhedih (Right Part)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9366,
@@ -3693,7 +4363,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 336,
-    "partName": "Upgraded Primary School, Bindomoh"
+    "partName": "Upgraded Primary School, Bindomoh",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9367,
@@ -3704,7 +4376,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 337,
-    "partName": "Upgraded High School, Bachhedih (Middle Part)"
+    "partName": "Upgraded High School, Bachhedih (Middle Part)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9368,
@@ -3715,7 +4389,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 338,
-    "partName": "Aaganbadi Kendra, Kusmai"
+    "partName": "Aaganbadi Kendra, Kusmai",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9369,
@@ -3726,7 +4402,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 339,
-    "partName": "Middle School Masmohna (North)"
+    "partName": "Middle School Masmohna (North)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9370,
@@ -3737,7 +4415,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 340,
-    "partName": "Upgraded Kanya Middle School Masmohna"
+    "partName": "Upgraded Kanya Middle School Masmohna",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9371,
@@ -3748,7 +4428,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 341,
-    "partName": "Middle School Masmohna (South)"
+    "partName": "Middle School Masmohna (South)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9372,
@@ -3759,7 +4441,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 342,
-    "partName": "Upgraded Middle School  Asnabad"
+    "partName": "Upgraded Middle School  Asnabad",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9373,
@@ -3770,7 +4454,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 343,
-    "partName": "Primary School Dhumadih"
+    "partName": "Primary School Dhumadih",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9374,
@@ -3781,7 +4467,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 344,
-    "partName": "Upgraded Middle School Kundidhanwar New Building"
+    "partName": "Upgraded Middle School Kundidhanwar New Building",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9375,
@@ -3792,7 +4480,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 345,
-    "partName": "Upgraded Middle School Kundidhanwar (Old Building)"
+    "partName": "Upgraded Middle School Kundidhanwar (Old Building)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9376,
@@ -3803,7 +4493,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 346,
-    "partName": "Upgraded Middle School Nimadih (Left Part)"
+    "partName": "Upgraded Middle School Nimadih (Left Part)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9377,
@@ -3814,7 +4506,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 347,
-    "partName": "Upgraded Middle School Nimadih right part"
+    "partName": "Upgraded Middle School Nimadih right part",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9378,
@@ -3825,7 +4519,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 348,
-    "partName": "Upgraded Middle School Mahugay (Right Part)"
+    "partName": "Upgraded Middle School Mahugay (Right Part)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9379,
@@ -3836,7 +4532,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 349,
-    "partName": "Upgraded Middle School Mahugay (Left Part)"
+    "partName": "Upgraded Middle School Mahugay (Left Part)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9380,
@@ -3847,7 +4545,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 350,
-    "partName": "Upgraded Middle School Barwadih"
+    "partName": "Upgraded Middle School Barwadih",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9381,
@@ -3858,7 +4558,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 351,
-    "partName": "Upgraded Middle School Gairagi"
+    "partName": "Upgraded Middle School Gairagi",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9382,
@@ -3869,7 +4571,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 352,
-    "partName": "Upgraded Middle School Sonedih Debwa  (Left Part)"
+    "partName": "Upgraded Middle School Sonedih Debwa  (Left Part)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9383,
@@ -3880,7 +4584,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 353,
-    "partName": "Upgraded Middle School Sonedih Debwa  (Right Part)"
+    "partName": "Upgraded Middle School Sonedih Debwa  (Right Part)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9386,
@@ -3891,7 +4597,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 354,
-    "partName": "Upgraded High School Jagdishpur (Left part)"
+    "partName": "Upgraded High School Jagdishpur (Left part)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9387,
@@ -3902,7 +4610,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 355,
-    "partName": "Middle School, Beladih"
+    "partName": "Middle School, Beladih",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9388,
@@ -3913,7 +4623,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 356,
-    "partName": "Upgraded High School Jagdishpur (Right part)"
+    "partName": "Upgraded High School Jagdishpur (Right part)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9391,
@@ -3924,7 +4636,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 357,
-    "partName": "Upgraded Middle School Babhandih"
+    "partName": "Upgraded Middle School Babhandih",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9392,
@@ -3935,7 +4649,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 358,
-    "partName": "Upgraded Middle School, Kondradih"
+    "partName": "Upgraded Middle School, Kondradih",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9395,
@@ -3946,7 +4662,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 359,
-    "partName": "Upgraded Middle School Bansdih"
+    "partName": "Upgraded Middle School Bansdih",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9396,
@@ -3957,7 +4675,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 360,
-    "partName": "Primary  School, Araiya"
+    "partName": "Primary  School, Araiya",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9399,
@@ -3968,7 +4688,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 361,
-    "partName": "Upgraded +2 High School Dagranwa"
+    "partName": "Upgraded +2 High School Dagranwa",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9400,
@@ -3979,7 +4701,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 362,
-    "partName": "New Primary School, Vanmurha"
+    "partName": "New Primary School, Vanmurha",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9403,
@@ -3990,7 +4714,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 363,
-    "partName": "Upgraded Middle School Parsabad"
+    "partName": "Upgraded Middle School Parsabad",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9404,
@@ -4001,7 +4727,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 364,
-    "partName": "Goverment  Middle School, Baryardih"
+    "partName": "Goverment  Middle School, Baryardih",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9407,
@@ -4012,7 +4740,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 365,
-    "partName": "Urdu  Upgraded Middle School Murkmanay (Matatab)"
+    "partName": "Urdu  Upgraded Middle School Murkmanay (Matatab)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9408,
@@ -4023,7 +4753,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 366,
-    "partName": "Upgraded Middle School Murkmanay (North)"
+    "partName": "Upgraded Middle School Murkmanay (North)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9411,
@@ -4034,7 +4766,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 367,
-    "partName": "Upgraded Middle School Murkmanay (Sourth)"
+    "partName": "Upgraded Middle School Murkmanay (Sourth)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9412,
@@ -4045,7 +4779,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 368,
-    "partName": "Upgraded Middle School Bela"
+    "partName": "Upgraded Middle School Bela",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9415,
@@ -4056,7 +4792,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 369,
-    "partName": "Middle School Devipur (East)"
+    "partName": "Middle School Devipur (East)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9416,
@@ -4067,7 +4805,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 370,
-    "partName": "Middle School Devipur (West)"
+    "partName": "Middle School Devipur (West)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9419,
@@ -4078,7 +4818,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 371,
-    "partName": "Upgraded Middle School Gurha (West Part)"
+    "partName": "Upgraded Middle School Gurha (West Part)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9420,
@@ -4089,7 +4831,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 372,
-    "partName": "Nav Primary School, Laludih"
+    "partName": "Nav Primary School, Laludih",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9423,
@@ -4100,7 +4844,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 373,
-    "partName": "Upgraded Middle School Gurha"
+    "partName": "Upgraded Middle School Gurha",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9424,
@@ -4111,7 +4857,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 374,
-    "partName": "Upgraded Middle School Khesmi (Right Part)"
+    "partName": "Upgraded Middle School Khesmi (Right Part)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9427,
@@ -4122,7 +4870,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 375,
-    "partName": "Nawsirjit  Primary  School  Dhobiyadih"
+    "partName": "Nawsirjit  Primary  School  Dhobiyadih",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9428,
@@ -4133,7 +4883,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 376,
-    "partName": "Upgraded Middle School Khesmi (Left Part)"
+    "partName": "Upgraded Middle School Khesmi (Left Part)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9431,
@@ -4144,7 +4896,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 377,
-    "partName": "Primary School Pasiyadih"
+    "partName": "Primary School Pasiyadih",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9432,
@@ -4155,7 +4909,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 378,
-    "partName": "New Primary School, Bisunpur"
+    "partName": "New Primary School, Bisunpur",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9435,
@@ -4166,7 +4922,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 379,
-    "partName": "Middle School Navadih (East Part)"
+    "partName": "Middle School Navadih (East Part)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9436,
@@ -4177,7 +4935,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 380,
-    "partName": "Middle School Navadih (West Part)"
+    "partName": "Middle School Navadih (West Part)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9437,
@@ -4188,7 +4948,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 381,
-    "partName": "Anganbadi Kendra, Nawadih"
+    "partName": "Anganbadi Kendra, Nawadih",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9440,
@@ -4199,7 +4961,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 382,
-    "partName": "Upgraded Primary School, Gargdiha"
+    "partName": "Upgraded Primary School, Gargdiha",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9441,
@@ -4210,7 +4974,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 383,
-    "partName": "Upgraded Middle School, Bahadurpur"
+    "partName": "Upgraded Middle School, Bahadurpur",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9444,
@@ -4221,7 +4987,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 384,
-    "partName": "New Primary School, Lohandiyo"
+    "partName": "New Primary School, Lohandiyo",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9445,
@@ -4232,7 +5000,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 385,
-    "partName": "Middle School Bichariya (Left Part)"
+    "partName": "Middle School Bichariya (Left Part)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9448,
@@ -4243,7 +5013,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 386,
-    "partName": "Upgraded Primary School, Bichariya"
+    "partName": "Upgraded Primary School, Bichariya",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9449,
@@ -4254,7 +5026,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 387,
-    "partName": "Primary School Telodih"
+    "partName": "Primary School Telodih",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9452,
@@ -4265,7 +5039,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 388,
-    "partName": "Middle School Bichariya (West Part)"
+    "partName": "Middle School Bichariya (West Part)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9453,
@@ -4276,7 +5052,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 389,
-    "partName": "Nav Sirjit Primary School, Arkosha"
+    "partName": "Nav Sirjit Primary School, Arkosha",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9456,
@@ -4287,7 +5065,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 390,
-    "partName": "Upgraded Middle School Kadodih (East)"
+    "partName": "Upgraded Middle School Kadodih (East)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9457,
@@ -4298,7 +5078,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 391,
-    "partName": "Upgraded Middle School Kadodih (West)"
+    "partName": "Upgraded Middle School Kadodih (West)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9460,
@@ -4309,7 +5091,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 392,
-    "partName": "Upgraded Primary School, Yogidih (Left Part)"
+    "partName": "Upgraded Primary School, Yogidih (Left Part)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9461,
@@ -4320,7 +5104,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 393,
-    "partName": "Upgraded Primary School, Yogidih (Right Part"
+    "partName": "Upgraded Primary School, Yogidih (Right Part",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9464,
@@ -4331,7 +5117,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 394,
-    "partName": "Upgraded Primary School, Bigaha"
+    "partName": "Upgraded Primary School, Bigaha",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9465,
@@ -4342,7 +5130,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 395,
-    "partName": "Nav Sirjit Primary School, Rajaraydih"
+    "partName": "Nav Sirjit Primary School, Rajaraydih",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9468,
@@ -4353,7 +5143,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 396,
-    "partName": "Upgraded High School Jammu(West)"
+    "partName": "Upgraded High School Jammu(West)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9469,
@@ -4364,7 +5156,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 397,
-    "partName": "Upgraded High  School Jammu (East)"
+    "partName": "Upgraded High  School Jammu (East)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9472,
@@ -4375,7 +5169,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 398,
-    "partName": "Upgraded High  School Jammu (South)"
+    "partName": "Upgraded High  School Jammu (South)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9473,
@@ -4386,7 +5182,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 399,
-    "partName": "Panchayat Bhawan Jammu"
+    "partName": "Panchayat Bhawan Jammu",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9476,
@@ -4397,7 +5195,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 400,
-    "partName": "Upgraded Primary School Koshdihra"
+    "partName": "Upgraded Primary School Koshdihra",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9477,
@@ -4408,7 +5208,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 401,
-    "partName": "Upgraded Middle School Nadkari"
+    "partName": "Upgraded Middle School Nadkari",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9480,
@@ -4419,7 +5221,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 402,
-    "partName": "Upgraded Middle School Dasharokhurd"
+    "partName": "Upgraded Middle School Dasharokhurd",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9481,
@@ -4430,7 +5234,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 403,
-    "partName": "Upgraded Middle School Dasharokhurd (South Part)"
+    "partName": "Upgraded Middle School Dasharokhurd (South Part)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9484,
@@ -4441,7 +5247,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 404,
-    "partName": "anganbari kendra dasarokhurd purani bakhari"
+    "partName": "anganbari kendra dasarokhurd purani bakhari",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9485,
@@ -4452,7 +5260,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 405,
-    "partName": "Panchayat Mandap Dasharokhurd"
+    "partName": "Panchayat Mandap Dasharokhurd",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9488,
@@ -4463,7 +5273,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 406,
-    "partName": "Upgraded High School Simariya"
+    "partName": "Upgraded High School Simariya",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9489,
@@ -4474,7 +5286,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 407,
-    "partName": "Upgraded High School Simariya NORTH PART"
+    "partName": "Upgraded High School Simariya NORTH PART",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9492,
@@ -4485,7 +5299,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 408,
-    "partName": "Upgraded Middle School Dumardiha"
+    "partName": "Upgraded Middle School Dumardiha",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9493,
@@ -4496,7 +5312,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 409,
-    "partName": "Upgraded Primary School Baradih"
+    "partName": "Upgraded Primary School Baradih",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9496,
@@ -4507,7 +5325,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 410,
-    "partName": "Upgraded Middle School Barotanr"
+    "partName": "Upgraded Middle School Barotanr",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9497,
@@ -4518,7 +5338,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 411,
-    "partName": "Sarvodaya +2High School Markacho (East)"
+    "partName": "Sarvodaya +2High School Markacho (East)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9500,
@@ -4529,7 +5351,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 412,
-    "partName": "Sarvodaya +2High School Markacho (West)"
+    "partName": "Sarvodaya +2High School Markacho (West)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9501,
@@ -4540,7 +5364,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 413,
-    "partName": "Upgraded Kanya Middle School Markacho (North)"
+    "partName": "Upgraded Kanya Middle School Markacho (North)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9504,
@@ -4551,7 +5377,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 414,
-    "partName": "Panchayat Bhawan Markacho Middle"
+    "partName": "Panchayat Bhawan Markacho Middle",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9505,
@@ -4562,7 +5390,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 415,
-    "partName": "Upgraded Kanya Middle School Markacho Kali Manda (West)"
+    "partName": "Upgraded Kanya Middle School Markacho Kali Manda (West)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9508,
@@ -4573,7 +5403,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 416,
-    "partName": "Middle School Markacho"
+    "partName": "Middle School Markacho",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9509,
@@ -4584,7 +5416,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 417,
-    "partName": "Anganbadi Kendra, Raushanbag"
+    "partName": "Anganbadi Kendra, Raushanbag",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9512,
@@ -4595,7 +5429,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 418,
-    "partName": "New primary school pandeydih"
+    "partName": "New primary school pandeydih",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9513,
@@ -4606,7 +5442,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 419,
-    "partName": "Panchayat bhawan markacho south"
+    "partName": "Panchayat bhawan markacho south",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9516,
@@ -4617,7 +5455,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 420,
-    "partName": "Upgraded Middle School Dhubadih (Right Part)"
+    "partName": "Upgraded Middle School Dhubadih (Right Part)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9517,
@@ -4628,7 +5468,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 421,
-    "partName": "Upgraded Middle School, Dhubadih (North Part)"
+    "partName": "Upgraded Middle School, Dhubadih (North Part)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9520,
@@ -4639,7 +5481,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 422,
-    "partName": "Upgraded Middle School Block Head Quarter"
+    "partName": "Upgraded Middle School Block Head Quarter",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9521,
@@ -4650,7 +5494,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 423,
-    "partName": "Upgraded  Girl School, Markachcho Kali Manda (East)"
+    "partName": "Upgraded  Girl School, Markachcho Kali Manda (East)",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9522,
@@ -4661,7 +5507,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 424,
-    "partName": "New Primary School Papahara"
+    "partName": "New Primary School Papahara",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9525,
@@ -4672,7 +5520,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 425,
-    "partName": "Upgraded High School Ambadih"
+    "partName": "Upgraded High School Ambadih",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9526,
@@ -4683,7 +5533,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 426,
-    "partName": "Upgraded Middle School Paplo"
+    "partName": "Upgraded Middle School Paplo",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9529,
@@ -4694,7 +5546,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 427,
-    "partName": "Primary School Mahuatand"
+    "partName": "Primary School Mahuatand",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9530,
@@ -4705,7 +5559,9 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 428,
-    "partName": "Upgraded Middle School Nawadih"
+    "partName": "Upgraded Middle School Nawadih",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   },
   {
     "partId": 9533,
@@ -4716,6 +5572,8 @@
     "acNumber": 19,
     "acName": "Kodarma",
     "partNumber": 429,
-    "partName": "Upgraded Primary School, Lalkapani"
+    "partName": "Upgraded Primary School, Lalkapani",
+    "lat": 24.4675477,
+    "lon": 85.5939641
   }
 ]

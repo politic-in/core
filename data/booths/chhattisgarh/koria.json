@@ -8,7 +8,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 1,
-    "partName": "JAGATPUR"
+    "partName": "JAGATPUR",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19639,
@@ -19,7 +21,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 2,
-    "partName": "NAGAR - 01"
+    "partName": "NAGAR - 01",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 23242,
@@ -30,7 +34,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 3,
-    "partName": "NAGAR - 02"
+    "partName": "NAGAR - 02",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19640,
@@ -41,7 +47,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 4,
-    "partName": "UMAJHAR"
+    "partName": "UMAJHAR",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19759,
@@ -52,7 +60,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 5,
-    "partName": "RATAGA"
+    "partName": "RATAGA",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19822,
@@ -63,7 +73,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 6,
-    "partName": "DURGAPUR"
+    "partName": "DURGAPUR",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19760,
@@ -74,7 +86,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 7,
-    "partName": "TILWANDAND"
+    "partName": "TILWANDAND",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19641,
@@ -85,7 +99,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 8,
-    "partName": "VISHUNPUR"
+    "partName": "VISHUNPUR",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19761,
@@ -96,7 +112,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 9,
-    "partName": "JUNAPARA"
+    "partName": "JUNAPARA",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19642,
@@ -107,7 +125,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 10,
-    "partName": "SARDI - 01"
+    "partName": "SARDI - 01",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19762,
@@ -118,7 +138,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 11,
-    "partName": "SARDI - 02"
+    "partName": "SARDI - 02",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19643,
@@ -129,7 +151,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 12,
-    "partName": "SARDI - 03"
+    "partName": "SARDI - 03",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19763,
@@ -140,7 +164,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 13,
-    "partName": "SHIVPUR"
+    "partName": "SHIVPUR",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19764,
@@ -151,7 +177,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 14,
-    "partName": "PHOOLPUR"
+    "partName": "PHOOLPUR",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19644,
@@ -162,7 +190,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 15,
-    "partName": "KHARAVAT - 01"
+    "partName": "KHARAVAT - 01",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19645,
@@ -173,7 +203,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 16,
-    "partName": "KHARAVAT - 02"
+    "partName": "KHARAVAT - 02",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19646,
@@ -184,7 +216,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 17,
-    "partName": "CHARCHA  COLLIERY - 1"
+    "partName": "CHARCHA  COLLIERY - 1",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19765,
@@ -195,7 +229,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 18,
-    "partName": "CHARCHA COLLIERY -2"
+    "partName": "CHARCHA COLLIERY -2",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19647,
@@ -206,7 +242,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 19,
-    "partName": "CHARCHA COLLIERY -3"
+    "partName": "CHARCHA COLLIERY -3",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19824,
@@ -217,7 +255,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 20,
-    "partName": "CHARCHA COLLIERY- 4"
+    "partName": "CHARCHA COLLIERY- 4",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19648,
@@ -228,7 +268,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 21,
-    "partName": "CHARCHA COLLIERY - 5"
+    "partName": "CHARCHA COLLIERY - 5",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19649,
@@ -239,7 +281,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 22,
-    "partName": "CHARCHA COLLIERY - 6"
+    "partName": "CHARCHA COLLIERY - 6",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19650,
@@ -250,7 +294,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 23,
-    "partName": "CHARCHA COLLIERY - 7"
+    "partName": "CHARCHA COLLIERY - 7",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19651,
@@ -261,7 +307,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 24,
-    "partName": "CHARCHA COLLIERY- 8"
+    "partName": "CHARCHA COLLIERY- 8",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19766,
@@ -272,7 +320,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 25,
-    "partName": "CHARCHA COLLIERY - 9"
+    "partName": "CHARCHA COLLIERY - 9",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19652,
@@ -283,7 +333,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 26,
-    "partName": "CHARCHA COLLIERY - 10"
+    "partName": "CHARCHA COLLIERY - 10",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19767,
@@ -294,7 +346,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 27,
-    "partName": "CHARCHA COLLARY - 11"
+    "partName": "CHARCHA COLLARY - 11",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19653,
@@ -305,7 +359,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 28,
-    "partName": "CHARCHA COLLIERY-12"
+    "partName": "CHARCHA COLLIERY-12",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19654,
@@ -316,7 +372,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 29,
-    "partName": "CHARCHA COLLIERY - 13"
+    "partName": "CHARCHA COLLIERY - 13",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19655,
@@ -327,7 +385,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 30,
-    "partName": "CHARCHA COLLIERY - 14"
+    "partName": "CHARCHA COLLIERY - 14",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19656,
@@ -338,7 +398,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 31,
-    "partName": "CHERVAPARA"
+    "partName": "CHERVAPARA",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19768,
@@ -349,7 +411,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 32,
-    "partName": "CHHARCHHA"
+    "partName": "CHHARCHHA",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19657,
@@ -360,7 +424,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 33,
-    "partName": "UROOMDUGA"
+    "partName": "UROOMDUGA",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19769,
@@ -371,7 +437,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 34,
-    "partName": "RAKAYA"
+    "partName": "RAKAYA",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19718,
@@ -382,7 +450,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 35,
-    "partName": "MURMA - 01"
+    "partName": "MURMA - 01",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19825,
@@ -393,7 +463,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 36,
-    "partName": "MURMA - 02"
+    "partName": "MURMA - 02",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19719,
@@ -404,7 +476,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 37,
-    "partName": "MAHORA - 01"
+    "partName": "MAHORA - 01",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 23241,
@@ -415,7 +489,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 38,
-    "partName": "MAHORA - 02"
+    "partName": "MAHORA - 02",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19720,
@@ -426,7 +502,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 39,
-    "partName": "DAKAIPARA"
+    "partName": "DAKAIPARA",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 22598,
@@ -437,7 +515,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 40,
-    "partName": "MANPUR"
+    "partName": "MANPUR",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19721,
@@ -448,7 +528,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 41,
-    "partName": "KOTAKTAL"
+    "partName": "KOTAKTAL",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19770,
@@ -459,7 +541,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 42,
-    "partName": "HATHVAR"
+    "partName": "HATHVAR",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19722,
@@ -470,7 +554,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 43,
-    "partName": "CHAMPAJHAR"
+    "partName": "CHAMPAJHAR",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19723,
@@ -481,7 +567,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 44,
-    "partName": "PUTTA"
+    "partName": "PUTTA",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19771,
@@ -492,7 +580,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 45,
-    "partName": "AANGA"
+    "partName": "AANGA",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19724,
@@ -503,7 +593,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 46,
-    "partName": "KATKONA - 01"
+    "partName": "KATKONA - 01",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19725,
@@ -514,7 +606,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 47,
-    "partName": "KATKONA - 02"
+    "partName": "KATKONA - 02",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19726,
@@ -525,7 +619,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 48,
-    "partName": "KATKONA - 03"
+    "partName": "KATKONA - 03",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19727,
@@ -536,7 +632,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 49,
-    "partName": "BARDIYA"
+    "partName": "BARDIYA",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19728,
@@ -547,7 +645,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 50,
-    "partName": "PIPARDAND"
+    "partName": "PIPARDAND",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19772,
@@ -558,7 +658,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 51,
-    "partName": "NANDBHAN"
+    "partName": "NANDBHAN",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19729,
@@ -569,7 +671,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 52,
-    "partName": "PATNA - 01"
+    "partName": "PATNA - 01",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 23240,
@@ -580,7 +684,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 53,
-    "partName": "PATNA - 02"
+    "partName": "PATNA - 02",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19730,
@@ -591,7 +697,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 54,
-    "partName": "PATNA - 03"
+    "partName": "PATNA - 03",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19731,
@@ -602,7 +710,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 55,
-    "partName": "PATNA - 04"
+    "partName": "PATNA - 04",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19773,
@@ -613,7 +723,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 56,
-    "partName": "PATNA - 05"
+    "partName": "PATNA - 05",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19732,
@@ -624,7 +736,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 57,
-    "partName": "KATORA"
+    "partName": "KATORA",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19774,
@@ -635,7 +749,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 58,
-    "partName": "KARHIYAKHAND"
+    "partName": "KARHIYAKHAND",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19733,
@@ -646,7 +762,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 59,
-    "partName": "SORGA - 01"
+    "partName": "SORGA - 01",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 23239,
@@ -657,7 +775,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 60,
-    "partName": "SORGA - 02"
+    "partName": "SORGA - 02",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19734,
@@ -668,7 +788,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 61,
-    "partName": "SORGA - 03"
+    "partName": "SORGA - 03",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 23238,
@@ -679,7 +801,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 62,
-    "partName": "SORGA - 04"
+    "partName": "SORGA - 04",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19775,
@@ -690,7 +814,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 63,
-    "partName": "SORGHA - 05"
+    "partName": "SORGHA - 05",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 22599,
@@ -701,7 +827,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 64,
-    "partName": "SORGA - 06"
+    "partName": "SORGA - 06",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19776,
@@ -712,7 +840,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 65,
-    "partName": "KHODH"
+    "partName": "KHODH",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19777,
@@ -723,7 +853,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 66,
-    "partName": "TEMARI"
+    "partName": "TEMARI",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19735,
@@ -734,7 +866,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 67,
-    "partName": "TENGNI - 01"
+    "partName": "TENGNI - 01",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 23237,
@@ -745,7 +879,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 68,
-    "partName": "TENGANI - 02"
+    "partName": "TENGANI - 02",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19736,
@@ -756,7 +892,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 69,
-    "partName": "BILARO"
+    "partName": "BILARO",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19737,
@@ -767,7 +905,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 70,
-    "partName": "SAWARANWA"
+    "partName": "SAWARANWA",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19738,
@@ -778,7 +918,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 71,
-    "partName": "AANJOKHURD"
+    "partName": "AANJOKHURD",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19778,
@@ -789,7 +931,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 72,
-    "partName": "ANJOKALLA"
+    "partName": "ANJOKALLA",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19779,
@@ -800,7 +944,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 73,
-    "partName": "PEPRA"
+    "partName": "PEPRA",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19739,
@@ -811,7 +957,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 74,
-    "partName": "GIRJAPUR"
+    "partName": "GIRJAPUR",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19740,
@@ -822,7 +970,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 75,
-    "partName": "JAMDHI"
+    "partName": "JAMDHI",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19741,
@@ -833,7 +983,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 76,
-    "partName": "KARJI"
+    "partName": "KARJI",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19742,
@@ -844,7 +996,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 77,
-    "partName": "RANAI - 01"
+    "partName": "RANAI - 01",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 23235,
@@ -855,7 +1009,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 78,
-    "partName": "RANAI - 02"
+    "partName": "RANAI - 02",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19658,
@@ -866,7 +1022,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 79,
-    "partName": "CHIRGUDA"
+    "partName": "CHIRGUDA",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19827,
@@ -877,7 +1035,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 80,
-    "partName": "KOCHILA"
+    "partName": "KOCHILA",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19659,
@@ -888,7 +1048,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 81,
-    "partName": "DUMARIYA - 01"
+    "partName": "DUMARIYA - 01",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19780,
@@ -899,7 +1061,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 82,
-    "partName": "DUMARIYA - 02"
+    "partName": "DUMARIYA - 02",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19660,
@@ -910,7 +1074,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 83,
-    "partName": "TENDUA  - 1"
+    "partName": "TENDUA  - 1",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19781,
@@ -921,7 +1087,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 84,
-    "partName": "TENDUA - 2"
+    "partName": "TENDUA - 2",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19661,
@@ -932,7 +1100,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 85,
-    "partName": "TENDUA - 3"
+    "partName": "TENDUA - 3",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19662,
@@ -943,7 +1113,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 86,
-    "partName": "CHHIDINYA - 01"
+    "partName": "CHHIDINYA - 01",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19663,
@@ -954,7 +1126,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 87,
-    "partName": "CHHIDINYA - 02"
+    "partName": "CHHIDINYA - 02",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19664,
@@ -965,7 +1139,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 88,
-    "partName": "SARBHOKA - 01"
+    "partName": "SARBHOKA - 01",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19665,
@@ -976,7 +1152,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 89,
-    "partName": "SARBHOKA - 02"
+    "partName": "SARBHOKA - 02",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19828,
@@ -987,7 +1165,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 90,
-    "partName": "SARBHOKA - 03"
+    "partName": "SARBHOKA - 03",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19666,
@@ -998,7 +1178,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 91,
-    "partName": "KUDELI  - 01"
+    "partName": "KUDELI  - 01",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19667,
@@ -1009,7 +1191,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 92,
-    "partName": "KUDELI - 02"
+    "partName": "KUDELI - 02",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19668,
@@ -1020,7 +1204,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 93,
-    "partName": "BUDAR - 01"
+    "partName": "BUDAR - 01",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19669,
@@ -1031,7 +1217,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 94,
-    "partName": "BUDAR - 02"
+    "partName": "BUDAR - 02",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19830,
@@ -1042,7 +1230,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 95,
-    "partName": "BUDAR - 03"
+    "partName": "BUDAR - 03",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19670,
@@ -1053,7 +1243,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 96,
-    "partName": "BUDAR - 04"
+    "partName": "BUDAR - 04",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19831,
@@ -1064,7 +1256,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 97,
-    "partName": "BUDAR - 05"
+    "partName": "BUDAR - 05",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19671,
@@ -1075,7 +1269,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 98,
-    "partName": "RAMPUR (P)"
+    "partName": "RAMPUR (P)",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19833,
@@ -1086,7 +1282,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 99,
-    "partName": "PASLA"
+    "partName": "PASLA",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19672,
@@ -1097,7 +1295,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 100,
-    "partName": "AMAHAR"
+    "partName": "AMAHAR",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19673,
@@ -1108,7 +1308,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 101,
-    "partName": "TARAGANVA"
+    "partName": "TARAGANVA",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19782,
@@ -1119,7 +1321,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 102,
-    "partName": "DABRIPARA"
+    "partName": "DABRIPARA",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19674,
@@ -1130,7 +1334,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 103,
-    "partName": "KASRA - 01"
+    "partName": "KASRA - 01",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19834,
@@ -1141,7 +1347,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 104,
-    "partName": "KASRA - 02"
+    "partName": "KASRA - 02",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19675,
@@ -1152,7 +1360,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 105,
-    "partName": "KASRA - 03"
+    "partName": "KASRA - 03",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19783,
@@ -1163,7 +1373,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 106,
-    "partName": "KHODARI"
+    "partName": "KHODARI",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19676,
@@ -1174,7 +1386,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 107,
-    "partName": "BAIKUNTHPUR~1"
+    "partName": "BAIKUNTHPUR~1",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19784,
@@ -1185,7 +1399,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 108,
-    "partName": "BAIKUNTHPUR~2"
+    "partName": "BAIKUNTHPUR~2",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19677,
@@ -1196,7 +1412,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 109,
-    "partName": "BAIKUNTHPUR~3"
+    "partName": "BAIKUNTHPUR~3",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19836,
@@ -1207,7 +1425,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 110,
-    "partName": "BAIKUNTHPUR~4"
+    "partName": "BAIKUNTHPUR~4",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19678,
@@ -1218,7 +1438,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 111,
-    "partName": "BAIKUNTHPUR~5"
+    "partName": "BAIKUNTHPUR~5",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19785,
@@ -1229,7 +1451,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 112,
-    "partName": "BAIKUNTHPUR~6"
+    "partName": "BAIKUNTHPUR~6",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19679,
@@ -1240,7 +1464,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 113,
-    "partName": "BAIKUNTHPUR~7"
+    "partName": "BAIKUNTHPUR~7",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19786,
@@ -1251,7 +1477,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 114,
-    "partName": "BAIKUNTHPUR~8"
+    "partName": "BAIKUNTHPUR~8",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 22600,
@@ -1262,7 +1490,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 115,
-    "partName": "BAIKUNTHPUR~9"
+    "partName": "BAIKUNTHPUR~9",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19680,
@@ -1273,7 +1503,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 116,
-    "partName": "BAIKUNTHPUR~10"
+    "partName": "BAIKUNTHPUR~10",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19743,
@@ -1284,7 +1516,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 117,
-    "partName": "BAIKUNTHPUR~ 11"
+    "partName": "BAIKUNTHPUR~ 11",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19787,
@@ -1295,7 +1529,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 118,
-    "partName": "CHER"
+    "partName": "CHER",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19744,
@@ -1306,7 +1542,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 119,
-    "partName": "KHADHA"
+    "partName": "KHADHA",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19788,
@@ -1317,7 +1555,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 120,
-    "partName": "JAMGHANA"
+    "partName": "JAMGHANA",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19745,
@@ -1328,7 +1568,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 121,
-    "partName": "AANI 01"
+    "partName": "AANI 01",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 23234,
@@ -1339,7 +1581,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 122,
-    "partName": "AANI 02"
+    "partName": "AANI 02",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19789,
@@ -1350,7 +1594,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 123,
-    "partName": "AANI 03"
+    "partName": "AANI 03",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19746,
@@ -1361,7 +1607,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 124,
-    "partName": "BHANDHI"
+    "partName": "BHANDHI",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19790,
@@ -1372,7 +1620,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 125,
-    "partName": "JANAKPUR"
+    "partName": "JANAKPUR",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19747,
@@ -1383,7 +1633,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 126,
-    "partName": "RAMPUR [J]"
+    "partName": "RAMPUR [J]",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19748,
@@ -1394,7 +1646,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 127,
-    "partName": "AMGAON - 01"
+    "partName": "AMGAON - 01",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 23233,
@@ -1405,7 +1659,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 128,
-    "partName": "AMGANW 02"
+    "partName": "AMGANW 02",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19749,
@@ -1416,7 +1672,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 129,
-    "partName": "TALVAPARA"
+    "partName": "TALVAPARA",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19750,
@@ -1427,7 +1685,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 130,
-    "partName": "ODAGI ~ 1"
+    "partName": "ODAGI ~ 1",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19791,
@@ -1438,7 +1698,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 131,
-    "partName": "ODAGI ~ 2"
+    "partName": "ODAGI ~ 2",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19792,
@@ -1449,7 +1711,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 132,
-    "partName": "SANKARPUR"
+    "partName": "SANKARPUR",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19751,
@@ -1460,7 +1724,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 133,
-    "partName": "SAGRPUR"
+    "partName": "SAGRPUR",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19793,
@@ -1471,7 +1737,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 134,
-    "partName": "DHORATIGRA"
+    "partName": "DHORATIGRA",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19752,
@@ -1482,7 +1750,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 135,
-    "partName": "KENAPARA"
+    "partName": "KENAPARA",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19753,
@@ -1493,7 +1763,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 136,
-    "partName": "JAMPARA"
+    "partName": "JAMPARA",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19754,
@@ -1504,7 +1776,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 137,
-    "partName": "SALKA"
+    "partName": "SALKA",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19794,
@@ -1515,7 +1789,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 138,
-    "partName": "BHANDARPARA"
+    "partName": "BHANDARPARA",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19755,
@@ -1526,7 +1802,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 139,
-    "partName": "SALVA"
+    "partName": "SALVA",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19838,
@@ -1537,7 +1815,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 140,
-    "partName": "MEKO"
+    "partName": "MEKO",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19795,
@@ -1548,7 +1828,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 141,
-    "partName": "SURMI"
+    "partName": "SURMI",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19840,
@@ -1559,7 +1841,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 142,
-    "partName": "KARILDHOWA"
+    "partName": "KARILDHOWA",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19756,
@@ -1570,7 +1854,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 143,
-    "partName": "SARA"
+    "partName": "SARA",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19841,
@@ -1581,7 +1867,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 144,
-    "partName": "JALIYADAND"
+    "partName": "JALIYADAND",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19843,
@@ -1592,7 +1880,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 145,
-    "partName": "DHODHIBAHRA"
+    "partName": "DHODHIBAHRA",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19757,
@@ -1603,7 +1893,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 146,
-    "partName": "GADBADI"
+    "partName": "GADBADI",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19845,
@@ -1614,7 +1906,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 147,
-    "partName": "DONGARIPARA"
+    "partName": "DONGARIPARA",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19636,
@@ -1625,7 +1919,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 148,
-    "partName": "DOHDHA"
+    "partName": "DOHDHA",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19846,
@@ -1636,7 +1932,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 149,
-    "partName": "TENGNI"
+    "partName": "TENGNI",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19796,
@@ -1647,7 +1945,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 150,
-    "partName": "MATIJHARIYA"
+    "partName": "MATIJHARIYA",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19847,
@@ -1658,7 +1958,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 151,
-    "partName": "MADANUR"
+    "partName": "MADANUR",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19797,
@@ -1669,7 +1971,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 152,
-    "partName": "POTEDAND"
+    "partName": "POTEDAND",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19637,
@@ -1680,7 +1984,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 153,
-    "partName": "MANSUKH"
+    "partName": "MANSUKH",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19798,
@@ -1691,7 +1997,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 154,
-    "partName": "AMARPUR"
+    "partName": "AMARPUR",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19681,
@@ -1702,7 +2010,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 155,
-    "partName": "CHILKA"
+    "partName": "CHILKA",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19848,
@@ -1713,7 +2023,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 156,
-    "partName": "ROBO"
+    "partName": "ROBO",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19850,
@@ -1724,7 +2036,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 157,
-    "partName": "PIPRAHIYA"
+    "partName": "PIPRAHIYA",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19852,
@@ -1735,7 +2049,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 158,
-    "partName": "DHARAMPUR (VANGRAM)"
+    "partName": "DHARAMPUR (VANGRAM)",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19682,
@@ -1746,7 +2062,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 159,
-    "partName": "PARCHA"
+    "partName": "PARCHA",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19799,
@@ -1757,7 +2075,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 160,
-    "partName": "BASTI"
+    "partName": "BASTI",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19758,
@@ -1768,7 +2088,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 161,
-    "partName": "NARKELI"
+    "partName": "NARKELI",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19800,
@@ -1779,7 +2101,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 162,
-    "partName": "MAJHGAWON"
+    "partName": "MAJHGAWON",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19801,
@@ -1790,7 +2114,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 163,
-    "partName": "MANDALPARA"
+    "partName": "MANDALPARA",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19683,
@@ -1801,7 +2127,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 164,
-    "partName": "MUDIJHRIYA"
+    "partName": "MUDIJHRIYA",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19802,
@@ -1812,7 +2140,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 165,
-    "partName": "SHARIGHANA"
+    "partName": "SHARIGHANA",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19803,
@@ -1823,7 +2153,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 166,
-    "partName": "DEWARI"
+    "partName": "DEWARI",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19684,
@@ -1834,7 +2166,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 167,
-    "partName": "JAMPANI"
+    "partName": "JAMPANI",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19804,
@@ -1845,7 +2179,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 168,
-    "partName": "DHUBHAPANI"
+    "partName": "DHUBHAPANI",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19854,
@@ -1856,7 +2192,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 169,
-    "partName": "KORCHADAND"
+    "partName": "KORCHADAND",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19805,
@@ -1867,7 +2205,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 170,
-    "partName": "TELAIDHAR"
+    "partName": "TELAIDHAR",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19685,
@@ -1878,7 +2218,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 171,
-    "partName": "BADHGAON"
+    "partName": "BADHGAON",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19686,
@@ -1889,7 +2231,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 172,
-    "partName": "PATRAPALI"
+    "partName": "PATRAPALI",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19806,
@@ -1900,7 +2244,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 173,
-    "partName": "MODIPARA"
+    "partName": "MODIPARA",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19687,
@@ -1911,7 +2257,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 174,
-    "partName": "KANCHANPUR"
+    "partName": "KANCHANPUR",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19807,
@@ -1922,7 +2270,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 175,
-    "partName": "KHUTRAPARA"
+    "partName": "KHUTRAPARA",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19688,
@@ -1933,7 +2283,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 176,
-    "partName": "AMAPARA"
+    "partName": "AMAPARA",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19689,
@@ -1944,7 +2296,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 177,
-    "partName": "CHARPARA"
+    "partName": "CHARPARA",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19690,
@@ -1955,7 +2309,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 178,
-    "partName": "BARPARA"
+    "partName": "BARPARA",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19808,
@@ -1966,7 +2322,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 179,
-    "partName": "JATASEMAR"
+    "partName": "JATASEMAR",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19809,
@@ -1977,7 +2335,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 180,
-    "partName": "CHOPAN"
+    "partName": "CHOPAN",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19691,
@@ -1988,7 +2348,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 181,
-    "partName": "JHARNAPARA"
+    "partName": "JHARNAPARA",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19810,
@@ -1999,7 +2361,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 182,
-    "partName": "SATIPARA"
+    "partName": "SATIPARA",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19692,
@@ -2010,7 +2374,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 183,
-    "partName": "KADAMNARA"
+    "partName": "KADAMNARA",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19811,
@@ -2021,7 +2387,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 184,
-    "partName": "JAIPUR"
+    "partName": "JAIPUR",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19812,
@@ -2032,7 +2400,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 185,
-    "partName": "RAGHUVIRPUR"
+    "partName": "RAGHUVIRPUR",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19699,
@@ -2043,7 +2413,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 186,
-    "partName": "BANJARIDAND ~ 1"
+    "partName": "BANJARIDAND ~ 1",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19856,
@@ -2054,7 +2426,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 187,
-    "partName": "BANJARIDAND ~ 2"
+    "partName": "BANJARIDAND ~ 2",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19700,
@@ -2065,7 +2439,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 188,
-    "partName": "GARHATAR"
+    "partName": "GARHATAR",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19701,
@@ -2076,7 +2452,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 189,
-    "partName": "PATMA"
+    "partName": "PATMA",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19813,
@@ -2087,7 +2465,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 190,
-    "partName": "GOVINDPUR"
+    "partName": "GOVINDPUR",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19702,
@@ -2098,7 +2478,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 191,
-    "partName": "SONS"
+    "partName": "SONS",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19703,
@@ -2109,7 +2491,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 192,
-    "partName": "KHANDHORA"
+    "partName": "KHANDHORA",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19814,
@@ -2120,7 +2504,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 193,
-    "partName": "INDERPUR"
+    "partName": "INDERPUR",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 23906,
@@ -2131,7 +2517,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 194,
-    "partName": "KANSHIDAND"
+    "partName": "KANSHIDAND",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19704,
@@ -2142,7 +2530,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 195,
-    "partName": "CHIRMI ~ 1"
+    "partName": "CHIRMI ~ 1",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19705,
@@ -2153,7 +2543,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 196,
-    "partName": "CHIRMI ~ 2"
+    "partName": "CHIRMI ~ 2",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19706,
@@ -2164,7 +2556,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 197,
-    "partName": "SANVLA"
+    "partName": "SANVLA",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19815,
@@ -2175,7 +2569,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 198,
-    "partName": "GANESHPUR"
+    "partName": "GANESHPUR",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19708,
@@ -2186,7 +2582,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 199,
-    "partName": "CHHOTE SALHI"
+    "partName": "CHHOTE SALHI",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19709,
@@ -2197,7 +2595,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 200,
-    "partName": "BADHESALHI ~ 1"
+    "partName": "BADHESALHI ~ 1",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19857,
@@ -2208,7 +2608,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 201,
-    "partName": "BADESALHI ~ 2"
+    "partName": "BADESALHI ~ 2",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19698,
@@ -2219,7 +2621,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 202,
-    "partName": "KANHARVAHRA"
+    "partName": "KANHARVAHRA",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19697,
@@ -2230,7 +2634,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 203,
-    "partName": "JILIVANDH"
+    "partName": "JILIVANDH",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19693,
@@ -2241,7 +2647,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 204,
-    "partName": "TAMDAND"
+    "partName": "TAMDAND",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19695,
@@ -2252,7 +2660,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 205,
-    "partName": "JILDA ~ 1"
+    "partName": "JILDA ~ 1",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19859,
@@ -2263,7 +2673,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 206,
-    "partName": "JILDA ~ 2"
+    "partName": "JILDA ~ 2",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19710,
@@ -2274,7 +2686,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 207,
-    "partName": "PONDI - 1"
+    "partName": "PONDI - 1",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19711,
@@ -2285,7 +2699,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 208,
-    "partName": "PONDI - 2"
+    "partName": "PONDI - 2",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19707,
@@ -2296,7 +2712,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 209,
-    "partName": "BACHRA"
+    "partName": "BACHRA",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19696,
@@ -2307,7 +2725,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 210,
-    "partName": "BHARDA"
+    "partName": "BHARDA",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19694,
@@ -2318,7 +2738,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 211,
-    "partName": "BARI"
+    "partName": "BARI",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19861,
@@ -2329,7 +2751,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 212,
-    "partName": "CHHURI"
+    "partName": "CHHURI",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19816,
@@ -2340,7 +2764,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 213,
-    "partName": "MUGUM"
+    "partName": "MUGUM",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19862,
@@ -2351,7 +2777,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 214,
-    "partName": "KANSABAHRA"
+    "partName": "KANSABAHRA",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19712,
@@ -2362,7 +2790,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 215,
-    "partName": "SAKARIYA -01"
+    "partName": "SAKARIYA -01",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 23232,
@@ -2373,7 +2803,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 216,
-    "partName": "SAKARIYA 02"
+    "partName": "SAKARIYA 02",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19817,
@@ -2384,7 +2816,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 217,
-    "partName": "AMAKA"
+    "partName": "AMAKA",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19713,
@@ -2395,7 +2829,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 218,
-    "partName": "TOLGA-1"
+    "partName": "TOLGA-1",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19818,
@@ -2406,7 +2842,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 219,
-    "partName": "TOLGA-2"
+    "partName": "TOLGA-2",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19714,
@@ -2417,7 +2855,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 220,
-    "partName": "BADHEKLUA"
+    "partName": "BADHEKLUA",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19864,
@@ -2428,7 +2868,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 221,
-    "partName": "CHAPARPARA"
+    "partName": "CHAPARPARA",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19866,
@@ -2439,7 +2881,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 222,
-    "partName": "GANPATPUR"
+    "partName": "GANPATPUR",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19715,
@@ -2450,7 +2894,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 223,
-    "partName": "BAIMA -01"
+    "partName": "BAIMA -01",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 23230,
@@ -2461,7 +2907,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 224,
-    "partName": "BAIMA 02"
+    "partName": "BAIMA 02",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19716,
@@ -2472,7 +2920,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 225,
-    "partName": "TEDMA"
+    "partName": "TEDMA",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19868,
@@ -2483,7 +2933,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 226,
-    "partName": "LOTABAHRA"
+    "partName": "LOTABAHRA",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19717,
@@ -2494,7 +2946,9 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 227,
-    "partName": "GEJI"
+    "partName": "GEJI",
+    "lat": 21.2787,
+    "lon": 81.8661
   },
   {
     "partId": 19819,
@@ -2505,6 +2959,8 @@
     "acNumber": 3,
     "acName": "Baikunthpur",
     "partNumber": 228,
-    "partName": "SAGARPUR"
+    "partName": "SAGARPUR",
+    "lat": 21.2787,
+    "lon": 81.8661
   }
 ]

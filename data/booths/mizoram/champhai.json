@@ -8,7 +8,9 @@
     "acNumber": 23,
     "acName": "CHAMPHAI NORTH",
     "partNumber": 1,
-    "partName": "Selam"
+    "partName": "Selam",
+    "lat": 23.8042521,
+    "lon": 93.2923794
   },
   {
     "partId": 577,
@@ -19,7 +21,9 @@
     "acNumber": 23,
     "acName": "CHAMPHAI NORTH",
     "partNumber": 2,
-    "partName": "Vaikhawtlang"
+    "partName": "Vaikhawtlang",
+    "lat": 23.6317319,
+    "lon": 93.34931854269607
   },
   {
     "partId": 578,
@@ -30,7 +34,9 @@
     "acNumber": 23,
     "acName": "CHAMPHAI NORTH",
     "partNumber": 3,
-    "partName": "Khuangphah"
+    "partName": "Khuangphah",
+    "lat": 23.7745196,
+    "lon": 93.3794888
   },
   {
     "partId": 579,
@@ -41,7 +47,9 @@
     "acNumber": 23,
     "acName": "CHAMPHAI NORTH",
     "partNumber": 4,
-    "partName": "Lungphunlian"
+    "partName": "Lungphunlian",
+    "lat": 23.6317319,
+    "lon": 93.34931854269607
   },
   {
     "partId": 580,
@@ -52,7 +60,9 @@
     "acNumber": 23,
     "acName": "CHAMPHAI NORTH",
     "partNumber": 5,
-    "partName": "Pamchung"
+    "partName": "Pamchung",
+    "lat": 23.6317319,
+    "lon": 93.34931854269607
   },
   {
     "partId": 581,
@@ -63,7 +73,9 @@
     "acNumber": 23,
     "acName": "CHAMPHAI NORTH",
     "partNumber": 6,
-    "partName": "Hnahlan-I"
+    "partName": "Hnahlan-I",
+    "lat": 23.6974603,
+    "lon": 93.382161
   },
   {
     "partId": 582,
@@ -74,7 +86,9 @@
     "acNumber": 23,
     "acName": "CHAMPHAI NORTH",
     "partNumber": 7,
-    "partName": "Hnahlan-II"
+    "partName": "Hnahlan-II",
+    "lat": 23.6974603,
+    "lon": 93.382161
   },
   {
     "partId": 583,
@@ -85,7 +99,9 @@
     "acNumber": 23,
     "acName": "CHAMPHAI NORTH",
     "partNumber": 8,
-    "partName": "Tualcheng"
+    "partName": "Tualcheng",
+    "lat": 23.724609,
+    "lon": 93.3035695
   },
   {
     "partId": 1,
@@ -96,7 +112,9 @@
     "acNumber": 23,
     "acName": "CHAMPHAI NORTH",
     "partNumber": 9,
-    "partName": "Aiduzawl"
+    "partName": "Aiduzawl",
+    "lat": 23.6317319,
+    "lon": 93.34931854269607
   },
   {
     "partId": 2,
@@ -107,7 +125,9 @@
     "acNumber": 23,
     "acName": "CHAMPHAI NORTH",
     "partNumber": 10,
-    "partName": "Murlen"
+    "partName": "Murlen",
+    "lat": 23.6595998,
+    "lon": 93.2848263
   },
   {
     "partId": 3,
@@ -118,7 +138,9 @@
     "acNumber": 23,
     "acName": "CHAMPHAI NORTH",
     "partNumber": 11,
-    "partName": "N.Diltlang"
+    "partName": "N.Diltlang",
+    "lat": 23.6317319,
+    "lon": 93.34931854269607
   },
   {
     "partId": 4,
@@ -129,7 +151,9 @@
     "acNumber": 23,
     "acName": "CHAMPHAI NORTH",
     "partNumber": 12,
-    "partName": "Rabung"
+    "partName": "Rabung",
+    "lat": 23.6783217,
+    "lon": 93.2026537
   },
   {
     "partId": 237,
@@ -140,7 +164,9 @@
     "acNumber": 23,
     "acName": "CHAMPHAI NORTH",
     "partNumber": 13,
-    "partName": "Vapar"
+    "partName": "Vapar",
+    "lat": 23.6194993,
+    "lon": 93.3496284
   },
   {
     "partId": 238,
@@ -151,7 +177,9 @@
     "acNumber": 23,
     "acName": "CHAMPHAI NORTH",
     "partNumber": 14,
-    "partName": "Tualpui"
+    "partName": "Tualpui",
+    "lat": 23.5881512,
+    "lon": 93.242605
   },
   {
     "partId": 239,
@@ -162,7 +190,9 @@
     "acNumber": 23,
     "acName": "CHAMPHAI NORTH",
     "partNumber": 15,
-    "partName": "Ngaizawl"
+    "partName": "Ngaizawl",
+    "lat": 23.5412717,
+    "lon": 93.2534964
   },
   {
     "partId": 240,
@@ -173,7 +203,9 @@
     "acNumber": 23,
     "acName": "CHAMPHAI NORTH",
     "partNumber": 16,
-    "partName": "Neihdawn"
+    "partName": "Neihdawn",
+    "lat": 23.5060843,
+    "lon": 93.2417086
   },
   {
     "partId": 241,
@@ -184,7 +216,9 @@
     "acNumber": 23,
     "acName": "CHAMPHAI NORTH",
     "partNumber": 17,
-    "partName": "N.Khawbung"
+    "partName": "N.Khawbung",
+    "lat": 23.1717094,
+    "lon": 93.2201314
   },
   {
     "partId": 242,
@@ -195,7 +229,9 @@
     "acNumber": 23,
     "acName": "CHAMPHAI NORTH",
     "partNumber": 18,
-    "partName": "Ngur"
+    "partName": "Ngur",
+    "lat": 23.5384649,
+    "lon": 93.3737039
   },
   {
     "partId": 243,
@@ -206,7 +242,9 @@
     "acNumber": 23,
     "acName": "CHAMPHAI NORTH",
     "partNumber": 19,
-    "partName": "Zote"
+    "partName": "Zote",
+    "lat": 23.4952318,
+    "lon": 93.359393
   },
   {
     "partId": 244,
@@ -217,7 +255,9 @@
     "acNumber": 23,
     "acName": "CHAMPHAI NORTH",
     "partNumber": 20,
-    "partName": "Hmunhmeltha"
+    "partName": "Hmunhmeltha",
+    "lat": 23.496523,
+    "lon": 93.3199845
   },
   {
     "partId": 245,
@@ -228,7 +268,9 @@
     "acNumber": 23,
     "acName": "CHAMPHAI NORTH",
     "partNumber": 21,
-    "partName": "Keifangtlang"
+    "partName": "Keifangtlang",
+    "lat": 23.6317319,
+    "lon": 93.34931854269607
   },
   {
     "partId": 246,
@@ -239,7 +281,9 @@
     "acNumber": 23,
     "acName": "CHAMPHAI NORTH",
     "partNumber": 22,
-    "partName": "Vengsang I"
+    "partName": "Vengsang I",
+    "lat": 23.6317319,
+    "lon": 93.34931854269607
   },
   {
     "partId": 247,
@@ -250,7 +294,9 @@
     "acNumber": 23,
     "acName": "CHAMPHAI NORTH",
     "partNumber": 23,
-    "partName": "Vengsang II"
+    "partName": "Vengsang II",
+    "lat": 23.6317319,
+    "lon": 93.34931854269607
   },
   {
     "partId": 248,
@@ -261,7 +307,9 @@
     "acNumber": 23,
     "acName": "CHAMPHAI NORTH",
     "partNumber": 24,
-    "partName": "Kahrawt I"
+    "partName": "Kahrawt I",
+    "lat": 23.6317319,
+    "lon": 93.34931854269607
   },
   {
     "partId": 249,
@@ -272,7 +320,9 @@
     "acNumber": 23,
     "acName": "CHAMPHAI NORTH",
     "partNumber": 25,
-    "partName": "Kahrawt II"
+    "partName": "Kahrawt II",
+    "lat": 23.6317319,
+    "lon": 93.34931854269607
   },
   {
     "partId": 250,
@@ -283,7 +333,9 @@
     "acNumber": 23,
     "acName": "CHAMPHAI NORTH",
     "partNumber": 26,
-    "partName": "Rahsi Veng"
+    "partName": "Rahsi Veng",
+    "lat": 23.6317319,
+    "lon": 93.34931854269607
   },
   {
     "partId": 251,
@@ -294,7 +346,9 @@
     "acNumber": 23,
     "acName": "CHAMPHAI NORTH",
     "partNumber": 27,
-    "partName": "IB Veng"
+    "partName": "IB Veng",
+    "lat": 23.6317319,
+    "lon": 93.34931854269607
   },
   {
     "partId": 252,
@@ -305,7 +359,9 @@
     "acNumber": 23,
     "acName": "CHAMPHAI NORTH",
     "partNumber": 28,
-    "partName": "Awmpui Veng"
+    "partName": "Awmpui Veng",
+    "lat": 23.6317319,
+    "lon": 93.34931854269607
   },
   {
     "partId": 383,
@@ -316,7 +372,9 @@
     "acNumber": 23,
     "acName": "CHAMPHAI NORTH",
     "partNumber": 29,
-    "partName": "Dawr Veng"
+    "partName": "Dawr Veng",
+    "lat": 23.6317319,
+    "lon": 93.34931854269607
   },
   {
     "partId": 667,
@@ -327,7 +385,9 @@
     "acNumber": 23,
     "acName": "CHAMPHAI NORTH",
     "partNumber": 30,
-    "partName": "Vengthlang North"
+    "partName": "Vengthlang North",
+    "lat": 23.6317319,
+    "lon": 93.34931854269607
   },
   {
     "partId": 948,
@@ -338,7 +398,9 @@
     "acNumber": 24,
     "acName": "CHAMPHAI SOUTH",
     "partNumber": 1,
-    "partName": "Tuipui"
+    "partName": "Tuipui",
+    "lat": 23.5557163,
+    "lon": 93.3154678
   },
   {
     "partId": 949,
@@ -349,7 +411,9 @@
     "acNumber": 24,
     "acName": "CHAMPHAI SOUTH",
     "partNumber": 2,
-    "partName": "Chhungte"
+    "partName": "Chhungte",
+    "lat": 23.6317319,
+    "lon": 93.34931854269607
   },
   {
     "partId": 950,
@@ -360,7 +424,9 @@
     "acNumber": 24,
     "acName": "CHAMPHAI SOUTH",
     "partNumber": 3,
-    "partName": "Kanan I"
+    "partName": "Kanan I",
+    "lat": 23.6317319,
+    "lon": 93.34931854269607
   },
   {
     "partId": 951,
@@ -371,7 +437,9 @@
     "acNumber": 24,
     "acName": "CHAMPHAI SOUTH",
     "partNumber": 4,
-    "partName": "Kanan II"
+    "partName": "Kanan II",
+    "lat": 23.6317319,
+    "lon": 93.34931854269607
   },
   {
     "partId": 382,
@@ -382,7 +450,9 @@
     "acNumber": 24,
     "acName": "CHAMPHAI SOUTH",
     "partNumber": 5,
-    "partName": "Dinthar"
+    "partName": "Dinthar",
+    "lat": 23.6317319,
+    "lon": 93.34931854269607
   },
   {
     "partId": 952,
@@ -393,7 +463,9 @@
     "acNumber": 24,
     "acName": "CHAMPHAI SOUTH",
     "partNumber": 6,
-    "partName": "Venglai I"
+    "partName": "Venglai I",
+    "lat": 23.6317319,
+    "lon": 93.34931854269607
   },
   {
     "partId": 953,
@@ -404,7 +476,9 @@
     "acNumber": 24,
     "acName": "CHAMPHAI SOUTH",
     "partNumber": 7,
-    "partName": "Venglai II"
+    "partName": "Venglai II",
+    "lat": 23.6317319,
+    "lon": 93.34931854269607
   },
   {
     "partId": 954,
@@ -415,7 +489,9 @@
     "acNumber": 24,
     "acName": "CHAMPHAI SOUTH",
     "partNumber": 8,
-    "partName": "Electric Veng"
+    "partName": "Electric Veng",
+    "lat": 23.6317319,
+    "lon": 93.34931854269607
   },
   {
     "partId": 955,
@@ -426,7 +502,9 @@
     "acNumber": 24,
     "acName": "CHAMPHAI SOUTH",
     "partNumber": 9,
-    "partName": "Bethel I"
+    "partName": "Bethel I",
+    "lat": 23.6317319,
+    "lon": 93.34931854269607
   },
   {
     "partId": 956,
@@ -437,7 +515,9 @@
     "acNumber": 24,
     "acName": "CHAMPHAI SOUTH",
     "partNumber": 10,
-    "partName": "Bethel II"
+    "partName": "Bethel II",
+    "lat": 23.6317319,
+    "lon": 93.34931854269607
   },
   {
     "partId": 957,
@@ -448,7 +528,9 @@
     "acNumber": 24,
     "acName": "CHAMPHAI SOUTH",
     "partNumber": 11,
-    "partName": "Zion Veng"
+    "partName": "Zion Veng",
+    "lat": 23.6317319,
+    "lon": 93.34931854269607
   },
   {
     "partId": 958,
@@ -459,7 +541,9 @@
     "acNumber": 24,
     "acName": "CHAMPHAI SOUTH",
     "partNumber": 12,
-    "partName": "Champhai Vengthar"
+    "partName": "Champhai Vengthar",
+    "lat": 23.6317319,
+    "lon": 93.34931854269607
   },
   {
     "partId": 959,
@@ -470,7 +554,9 @@
     "acNumber": 24,
     "acName": "CHAMPHAI SOUTH",
     "partNumber": 13,
-    "partName": "New Champhai"
+    "partName": "New Champhai",
+    "lat": 23.4719714,
+    "lon": 93.3344818
   },
   {
     "partId": 960,
@@ -481,7 +567,9 @@
     "acNumber": 24,
     "acName": "CHAMPHAI SOUTH",
     "partNumber": 14,
-    "partName": "Tlangsam-I"
+    "partName": "Tlangsam-I",
+    "lat": 23.6317319,
+    "lon": 93.34931854269607
   },
   {
     "partId": 961,
@@ -492,7 +580,9 @@
     "acNumber": 24,
     "acName": "CHAMPHAI SOUTH",
     "partNumber": 15,
-    "partName": "Tlangsam-II"
+    "partName": "Tlangsam-II",
+    "lat": 23.6317319,
+    "lon": 93.34931854269607
   },
   {
     "partId": 962,
@@ -503,7 +593,9 @@
     "acNumber": 24,
     "acName": "CHAMPHAI SOUTH",
     "partNumber": 16,
-    "partName": "Zotlang I"
+    "partName": "Zotlang I",
+    "lat": 23.4457269,
+    "lon": 93.3388137
   },
   {
     "partId": 963,
@@ -514,7 +606,9 @@
     "acNumber": 24,
     "acName": "CHAMPHAI SOUTH",
     "partNumber": 17,
-    "partName": "Zotlang II"
+    "partName": "Zotlang II",
+    "lat": 23.4457269,
+    "lon": 93.3388137
   },
   {
     "partId": 975,
@@ -525,7 +619,9 @@
     "acNumber": 24,
     "acName": "CHAMPHAI SOUTH",
     "partNumber": 18,
-    "partName": "Ruantlang"
+    "partName": "Ruantlang",
+    "lat": 23.4417752,
+    "lon": 93.339492
   },
   {
     "partId": 976,
@@ -536,7 +632,9 @@
     "acNumber": 24,
     "acName": "CHAMPHAI SOUTH",
     "partNumber": 19,
-    "partName": "Ruantlang Mualveng"
+    "partName": "Ruantlang Mualveng",
+    "lat": 23.6317319,
+    "lon": 93.34931854269607
   },
   {
     "partId": 377,
@@ -547,7 +645,9 @@
     "acNumber": 24,
     "acName": "CHAMPHAI SOUTH",
     "partNumber": 20,
-    "partName": "Mualkawi"
+    "partName": "Mualkawi",
+    "lat": 23.4209201,
+    "lon": 93.333106
   },
   {
     "partId": 378,
@@ -558,7 +658,9 @@
     "acNumber": 24,
     "acName": "CHAMPHAI SOUTH",
     "partNumber": 21,
-    "partName": "Melbuk"
+    "partName": "Melbuk",
+    "lat": 23.6317319,
+    "lon": 93.34931854269607
   },
   {
     "partId": 379,
@@ -569,7 +671,9 @@
     "acNumber": 24,
     "acName": "CHAMPHAI SOUTH",
     "partNumber": 22,
-    "partName": "Zokhawthar I"
+    "partName": "Zokhawthar I",
+    "lat": 23.36595,
+    "lon": 93.383898
   },
   {
     "partId": 1151,
@@ -580,7 +684,9 @@
     "acNumber": 24,
     "acName": "CHAMPHAI SOUTH",
     "partNumber": 23,
-    "partName": "Zokhawthar II"
+    "partName": "Zokhawthar II",
+    "lat": 23.36595,
+    "lon": 93.383898
   },
   {
     "partId": 380,
@@ -591,7 +697,9 @@
     "acNumber": 24,
     "acName": "CHAMPHAI SOUTH",
     "partNumber": 24,
-    "partName": "Kelkang"
+    "partName": "Kelkang",
+    "lat": 23.4036905,
+    "lon": 93.3188394
   },
   {
     "partId": 381,
@@ -602,7 +710,9 @@
     "acNumber": 24,
     "acName": "CHAMPHAI SOUTH",
     "partNumber": 25,
-    "partName": "Dilkawn"
+    "partName": "Dilkawn",
+    "lat": 23.6317319,
+    "lon": 93.34931854269607
   },
   {
     "partId": 224,
@@ -613,7 +723,9 @@
     "acNumber": 25,
     "acName": "EAST TUIPUI",
     "partNumber": 1,
-    "partName": "Buang"
+    "partName": "Buang",
+    "lat": 23.6317319,
+    "lon": 93.34931854269607
   },
   {
     "partId": 225,
@@ -624,7 +736,9 @@
     "acNumber": 25,
     "acName": "EAST TUIPUI",
     "partNumber": 2,
-    "partName": "Hruaikawn"
+    "partName": "Hruaikawn",
+    "lat": 23.6317319,
+    "lon": 93.34931854269607
   },
   {
     "partId": 226,
@@ -635,7 +749,9 @@
     "acNumber": 25,
     "acName": "EAST TUIPUI",
     "partNumber": 3,
-    "partName": "New Hruaikawn"
+    "partName": "New Hruaikawn",
+    "lat": 23.6317319,
+    "lon": 93.34931854269607
   },
   {
     "partId": 227,
@@ -646,7 +762,9 @@
     "acNumber": 25,
     "acName": "EAST TUIPUI",
     "partNumber": 4,
-    "partName": "Bulfekzawl"
+    "partName": "Bulfekzawl",
+    "lat": 23.3174074,
+    "lon": 93.3651244
   },
   {
     "partId": 228,
@@ -657,7 +775,9 @@
     "acNumber": 25,
     "acName": "EAST TUIPUI",
     "partNumber": 5,
-    "partName": "Khuangleng"
+    "partName": "Khuangleng",
+    "lat": 23.3066589,
+    "lon": 93.3131647
   },
   {
     "partId": 229,
@@ -668,7 +788,9 @@
     "acNumber": 25,
     "acName": "EAST TUIPUI",
     "partNumber": 6,
-    "partName": "Zawngtetui"
+    "partName": "Zawngtetui",
+    "lat": 23.6317319,
+    "lon": 93.34931854269607
   },
   {
     "partId": 230,
@@ -679,7 +801,9 @@
     "acNumber": 25,
     "acName": "EAST TUIPUI",
     "partNumber": 7,
-    "partName": "Bungzung"
+    "partName": "Bungzung",
+    "lat": 23.2856156,
+    "lon": 93.2381196
   },
   {
     "partId": 231,
@@ -690,7 +814,9 @@
     "acNumber": 25,
     "acName": "EAST TUIPUI",
     "partNumber": 8,
-    "partName": "Sesih"
+    "partName": "Sesih",
+    "lat": 23.2938365,
+    "lon": 93.3355767
   },
   {
     "partId": 232,
@@ -701,7 +827,9 @@
     "acNumber": 25,
     "acName": "EAST TUIPUI",
     "partNumber": 9,
-    "partName": "Leisenzo"
+    "partName": "Leisenzo",
+    "lat": 23.6317319,
+    "lon": 93.34931854269607
   },
   {
     "partId": 233,
@@ -712,7 +840,9 @@
     "acNumber": 25,
     "acName": "EAST TUIPUI",
     "partNumber": 10,
-    "partName": "Lianpui"
+    "partName": "Lianpui",
+    "lat": 23.6317319,
+    "lon": 93.34931854269607
   },
   {
     "partId": 234,
@@ -723,7 +853,9 @@
     "acNumber": 25,
     "acName": "EAST TUIPUI",
     "partNumber": 11,
-    "partName": "Vanzau"
+    "partName": "Vanzau",
+    "lat": 23.2451051,
+    "lon": 93.2511173
   },
   {
     "partId": 235,
@@ -734,7 +866,9 @@
     "acNumber": 25,
     "acName": "EAST TUIPUI",
     "partNumber": 12,
-    "partName": "Leithum"
+    "partName": "Leithum",
+    "lat": 23.6317319,
+    "lon": 93.34931854269607
   },
   {
     "partId": 236,
@@ -745,7 +879,9 @@
     "acNumber": 25,
     "acName": "EAST TUIPUI",
     "partNumber": 13,
-    "partName": "Sazep"
+    "partName": "Sazep",
+    "lat": 23.2370999,
+    "lon": 93.3022209
   },
   {
     "partId": 5,
@@ -756,7 +892,9 @@
     "acNumber": 25,
     "acName": "EAST TUIPUI",
     "partNumber": 14,
-    "partName": "Vangchhia"
+    "partName": "Vangchhia",
+    "lat": 23.2038414,
+    "lon": 93.3309405
   },
   {
     "partId": 6,
@@ -767,7 +905,9 @@
     "acNumber": 25,
     "acName": "EAST TUIPUI",
     "partNumber": 15,
-    "partName": "Vaphai I"
+    "partName": "Vaphai I",
+    "lat": 23.1480729,
+    "lon": 93.3253721
   },
   {
     "partId": 7,
@@ -778,7 +918,9 @@
     "acNumber": 25,
     "acName": "EAST TUIPUI",
     "partNumber": 16,
-    "partName": "Vaphai II"
+    "partName": "Vaphai II",
+    "lat": 23.1480729,
+    "lon": 93.3253721
   },
   {
     "partId": 8,
@@ -789,7 +931,9 @@
     "acNumber": 25,
     "acName": "EAST TUIPUI",
     "partNumber": 17,
-    "partName": "Vaphai - III"
+    "partName": "Vaphai - III",
+    "lat": 23.6317319,
+    "lon": 93.34931854269607
   },
   {
     "partId": 9,
@@ -800,7 +944,9 @@
     "acNumber": 25,
     "acName": "EAST TUIPUI",
     "partNumber": 18,
-    "partName": "Samthang"
+    "partName": "Samthang",
+    "lat": 23.1602523,
+    "lon": 93.2650557
   },
   {
     "partId": 10,
@@ -811,7 +957,9 @@
     "acNumber": 25,
     "acName": "EAST TUIPUI",
     "partNumber": 19,
-    "partName": "Dungtlang"
+    "partName": "Dungtlang",
+    "lat": 23.1948415,
+    "lon": 93.2509084
   },
   {
     "partId": 11,
@@ -822,7 +970,9 @@
     "acNumber": 25,
     "acName": "EAST TUIPUI",
     "partNumber": 20,
-    "partName": "Khawbung-I"
+    "partName": "Khawbung-I",
+    "lat": 23.1717094,
+    "lon": 93.2201314
   },
   {
     "partId": 12,
@@ -833,7 +983,9 @@
     "acNumber": 25,
     "acName": "EAST TUIPUI",
     "partNumber": 21,
-    "partName": "Khawbung-II"
+    "partName": "Khawbung-II",
+    "lat": 23.1717094,
+    "lon": 93.2201314
   },
   {
     "partId": 13,
@@ -844,7 +996,9 @@
     "acNumber": 25,
     "acName": "EAST TUIPUI",
     "partNumber": 22,
-    "partName": "Zawlsei"
+    "partName": "Zawlsei",
+    "lat": 23.6317319,
+    "lon": 93.34931854269607
   },
   {
     "partId": 14,
@@ -855,7 +1009,9 @@
     "acNumber": 25,
     "acName": "EAST TUIPUI",
     "partNumber": 23,
-    "partName": "Chawngtui E"
+    "partName": "Chawngtui E",
+    "lat": 23.6317319,
+    "lon": 93.34931854269607
   },
   {
     "partId": 15,
@@ -866,7 +1022,9 @@
     "acNumber": 25,
     "acName": "EAST TUIPUI",
     "partNumber": 24,
-    "partName": "Khuangthing"
+    "partName": "Khuangthing",
+    "lat": 23.0986101,
+    "lon": 93.1984588
   },
   {
     "partId": 16,
@@ -877,7 +1035,9 @@
     "acNumber": 25,
     "acName": "EAST TUIPUI",
     "partNumber": 25,
-    "partName": "Thekpui"
+    "partName": "Thekpui",
+    "lat": 23.6317319,
+    "lon": 93.34931854269607
   },
   {
     "partId": 17,
@@ -888,7 +1048,9 @@
     "acNumber": 25,
     "acName": "EAST TUIPUI",
     "partNumber": 26,
-    "partName": "Thekte"
+    "partName": "Thekte",
+    "lat": 23.6317319,
+    "lon": 93.34931854269607
   },
   {
     "partId": 18,
@@ -899,7 +1061,9 @@
     "acNumber": 25,
     "acName": "EAST TUIPUI",
     "partNumber": 27,
-    "partName": "Khankawn"
+    "partName": "Khankawn",
+    "lat": 23.067917,
+    "lon": 93.2606103
   },
   {
     "partId": 19,
@@ -910,7 +1074,9 @@
     "acNumber": 25,
     "acName": "EAST TUIPUI",
     "partNumber": 28,
-    "partName": "Farkawn -I"
+    "partName": "Farkawn -I",
+    "lat": 23.0791316,
+    "lon": 93.2947036
   },
   {
     "partId": 617,
@@ -921,6 +1087,8 @@
     "acNumber": 25,
     "acName": "EAST TUIPUI",
     "partNumber": 29,
-    "partName": "Farkawn-II"
+    "partName": "Farkawn-II",
+    "lat": 23.0791316,
+    "lon": 93.2947036
   }
 ]

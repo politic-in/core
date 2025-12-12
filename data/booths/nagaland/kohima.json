@@ -8,7 +8,9 @@
     "acNumber": 9,
     "acName": "KOHIMA TOWN",
     "partNumber": 1,
-    "partName": "D.BLOCK (UPPER)"
+    "partName": "D.BLOCK (UPPER)",
+    "lat": 25.6709026,
+    "lon": 94.1076934
   },
   {
     "partId": 492,
@@ -19,7 +21,9 @@
     "acNumber": 9,
     "acName": "KOHIMA TOWN",
     "partNumber": 2,
-    "partName": "D.BLOCK (MIDDLE)"
+    "partName": "D.BLOCK (MIDDLE)",
+    "lat": 25.6709026,
+    "lon": 94.1076934
   },
   {
     "partId": 493,
@@ -30,7 +34,9 @@
     "acNumber": 9,
     "acName": "KOHIMA TOWN",
     "partNumber": 3,
-    "partName": "D.BLOCK (LOWER)"
+    "partName": "D.BLOCK (LOWER)",
+    "lat": 25.6709026,
+    "lon": 94.1076934
   },
   {
     "partId": 494,
@@ -41,7 +47,9 @@
     "acNumber": 9,
     "acName": "KOHIMA TOWN",
     "partNumber": 4,
-    "partName": "NAGA BAZAR (UPPER)"
+    "partName": "NAGA BAZAR (UPPER)",
+    "lat": 25.6709026,
+    "lon": 94.1076934
   },
   {
     "partId": 495,
@@ -52,7 +60,9 @@
     "acNumber": 9,
     "acName": "KOHIMA TOWN",
     "partNumber": 5,
-    "partName": "NAGA BAZAR  (LOWER)"
+    "partName": "NAGA BAZAR  (LOWER)",
+    "lat": 25.6709026,
+    "lon": 94.1076934
   },
   {
     "partId": 496,
@@ -63,7 +73,9 @@
     "acNumber": 9,
     "acName": "KOHIMA TOWN",
     "partNumber": 6,
-    "partName": "PORTER LANE (UPPER)"
+    "partName": "PORTER LANE (UPPER)",
+    "lat": 25.6709026,
+    "lon": 94.1076934
   },
   {
     "partId": 497,
@@ -74,7 +86,9 @@
     "acNumber": 9,
     "acName": "KOHIMA TOWN",
     "partNumber": 7,
-    "partName": "PORTER LANE (LOWER)"
+    "partName": "PORTER LANE (LOWER)",
+    "lat": 25.6709026,
+    "lon": 94.1076934
   },
   {
     "partId": 498,
@@ -85,7 +99,9 @@
     "acNumber": 9,
     "acName": "KOHIMA TOWN",
     "partNumber": 8,
-    "partName": "NEW MINISTERS' HILL-I"
+    "partName": "NEW MINISTERS' HILL-I",
+    "lat": 25.6709026,
+    "lon": 94.1076934
   },
   {
     "partId": 499,
@@ -96,7 +112,9 @@
     "acNumber": 9,
     "acName": "KOHIMA TOWN",
     "partNumber": 9,
-    "partName": "P.W.D.(UPPER-I)"
+    "partName": "P.W.D.(UPPER-I)",
+    "lat": 25.6709026,
+    "lon": 94.1076934
   },
   {
     "partId": 500,
@@ -107,7 +125,9 @@
     "acNumber": 9,
     "acName": "KOHIMA TOWN",
     "partNumber": 10,
-    "partName": "MIDDLE PWD-I"
+    "partName": "MIDDLE PWD-I",
+    "lat": 25.6709026,
+    "lon": 94.1076934
   },
   {
     "partId": 501,
@@ -118,7 +138,9 @@
     "acNumber": 9,
     "acName": "KOHIMA TOWN",
     "partNumber": 11,
-    "partName": "MIDDLE PWD-II"
+    "partName": "MIDDLE PWD-II",
+    "lat": 25.6709026,
+    "lon": 94.1076934
   },
   {
     "partId": 502,
@@ -129,7 +151,9 @@
     "acNumber": 9,
     "acName": "KOHIMA TOWN",
     "partNumber": 12,
-    "partName": "PWD LOWER-I"
+    "partName": "PWD LOWER-I",
+    "lat": 25.6709026,
+    "lon": 94.1076934
   },
   {
     "partId": 503,
@@ -140,7 +164,9 @@
     "acNumber": 9,
     "acName": "KOHIMA TOWN",
     "partNumber": 13,
-    "partName": "CHANDMARI (LOWER)"
+    "partName": "CHANDMARI (LOWER)",
+    "lat": 25.6709026,
+    "lon": 94.1076934
   },
   {
     "partId": 504,
@@ -151,7 +177,9 @@
     "acNumber": 9,
     "acName": "KOHIMA TOWN",
     "partNumber": 14,
-    "partName": "CHANDMARI (UPPER-I)"
+    "partName": "CHANDMARI (UPPER-I)",
+    "lat": 25.6709026,
+    "lon": 94.1076934
   },
   {
     "partId": 505,
@@ -162,7 +190,9 @@
     "acNumber": 9,
     "acName": "KOHIMA TOWN",
     "partNumber": 15,
-    "partName": "CHANDMARI (UPPER-II)"
+    "partName": "CHANDMARI (UPPER-II)",
+    "lat": 25.6709026,
+    "lon": 94.1076934
   },
   {
     "partId": 506,
@@ -173,7 +203,9 @@
     "acNumber": 9,
     "acName": "KOHIMA TOWN",
     "partNumber": 16,
-    "partName": "CHANDMARI (UPPER-III)"
+    "partName": "CHANDMARI (UPPER-III)",
+    "lat": 25.6709026,
+    "lon": 94.1076934
   },
   {
     "partId": 507,
@@ -184,7 +216,9 @@
     "acNumber": 9,
     "acName": "KOHIMA TOWN",
     "partNumber": 17,
-    "partName": "CHANDMARI (MIDDLE)"
+    "partName": "CHANDMARI (MIDDLE)",
+    "lat": 25.6709026,
+    "lon": 94.1076934
   },
   {
     "partId": 508,
@@ -195,7 +229,9 @@
     "acNumber": 9,
     "acName": "KOHIMA TOWN",
     "partNumber": 18,
-    "partName": "P.R HILL (LOWER-I)"
+    "partName": "P.R HILL (LOWER-I)",
+    "lat": 25.6709026,
+    "lon": 94.1076934
   },
   {
     "partId": 509,
@@ -206,7 +242,9 @@
     "acNumber": 9,
     "acName": "KOHIMA TOWN",
     "partNumber": 19,
-    "partName": "P.R HILL (LOWER-II)"
+    "partName": "P.R HILL (LOWER-II)",
+    "lat": 25.6709026,
+    "lon": 94.1076934
   },
   {
     "partId": 510,
@@ -217,7 +255,9 @@
     "acNumber": 9,
     "acName": "KOHIMA TOWN",
     "partNumber": 20,
-    "partName": "P.R HILL (UPPER)"
+    "partName": "P.R HILL (UPPER)",
+    "lat": 25.6709026,
+    "lon": 94.1076934
   },
   {
     "partId": 511,
@@ -228,7 +268,9 @@
     "acNumber": 9,
     "acName": "KOHIMA TOWN",
     "partNumber": 21,
-    "partName": "PARA MEDICAL UPPER"
+    "partName": "PARA MEDICAL UPPER",
+    "lat": 25.6709026,
+    "lon": 94.1076934
   },
   {
     "partId": 512,
@@ -239,7 +281,9 @@
     "acNumber": 9,
     "acName": "KOHIMA TOWN",
     "partNumber": 22,
-    "partName": "PARA MEDICAL LOWER"
+    "partName": "PARA MEDICAL LOWER",
+    "lat": 25.6709026,
+    "lon": 94.1076934
   },
   {
     "partId": 513,
@@ -250,7 +294,9 @@
     "acNumber": 9,
     "acName": "KOHIMA TOWN",
     "partNumber": 23,
-    "partName": "OLD MINISTERS' HILL-I N/W"
+    "partName": "OLD MINISTERS' HILL-I N/W",
+    "lat": 25.6709026,
+    "lon": 94.1076934
   },
   {
     "partId": 514,
@@ -261,7 +307,9 @@
     "acNumber": 9,
     "acName": "KOHIMA TOWN",
     "partNumber": 24,
-    "partName": "AGRI FARM COLONY"
+    "partName": "AGRI FARM COLONY",
+    "lat": 25.6709026,
+    "lon": 94.1076934
   },
   {
     "partId": 515,
@@ -272,7 +320,9 @@
     "acNumber": 9,
     "acName": "KOHIMA TOWN",
     "partNumber": 25,
-    "partName": "AGRI/ ELECTRICAL COLONY-I"
+    "partName": "AGRI/ ELECTRICAL COLONY-I",
+    "lat": 25.6709026,
+    "lon": 94.1076934
   },
   {
     "partId": 516,
@@ -283,7 +333,9 @@
     "acNumber": 9,
     "acName": "KOHIMA TOWN",
     "partNumber": 26,
-    "partName": "UPPER AGRI COLONY"
+    "partName": "UPPER AGRI COLONY",
+    "lat": 25.6709026,
+    "lon": 94.1076934
   },
   {
     "partId": 517,
@@ -294,7 +346,9 @@
     "acNumber": 9,
     "acName": "KOHIMA TOWN",
     "partNumber": 27,
-    "partName": "LERIE CHAZOU"
+    "partName": "LERIE CHAZOU",
+    "lat": 25.6709026,
+    "lon": 94.1076934
   },
   {
     "partId": 518,
@@ -305,7 +359,9 @@
     "acNumber": 9,
     "acName": "KOHIMA TOWN",
     "partNumber": 28,
-    "partName": "POLICE PROJECT-I"
+    "partName": "POLICE PROJECT-I",
+    "lat": 25.6709026,
+    "lon": 94.1076934
   },
   {
     "partId": 519,
@@ -316,7 +372,9 @@
     "acNumber": 9,
     "acName": "KOHIMA TOWN",
     "partNumber": 29,
-    "partName": "A.G. COLONY (UPPER-I)"
+    "partName": "A.G. COLONY (UPPER-I)",
+    "lat": 25.6709026,
+    "lon": 94.1076934
   },
   {
     "partId": 520,
@@ -327,7 +385,9 @@
     "acNumber": 9,
     "acName": "KOHIMA TOWN",
     "partNumber": 30,
-    "partName": "A.G.COLONY (UPPER-II)"
+    "partName": "A.G.COLONY (UPPER-II)",
+    "lat": 25.6709026,
+    "lon": 94.1076934
   },
   {
     "partId": 521,
@@ -338,7 +398,9 @@
     "acNumber": 9,
     "acName": "KOHIMA TOWN",
     "partNumber": 31,
-    "partName": "A.G.COLONY(LOWER-I)"
+    "partName": "A.G.COLONY(LOWER-I)",
+    "lat": 25.6709026,
+    "lon": 94.1076934
   },
   {
     "partId": 522,
@@ -349,7 +411,9 @@
     "acNumber": 9,
     "acName": "KOHIMA TOWN",
     "partNumber": 32,
-    "partName": "A.G.COLONY(LOWER-II)"
+    "partName": "A.G.COLONY(LOWER-II)",
+    "lat": 25.6709026,
+    "lon": 94.1076934
   },
   {
     "partId": 523,
@@ -360,7 +424,9 @@
     "acNumber": 9,
     "acName": "KOHIMA TOWN",
     "partNumber": 33,
-    "partName": "NEW MINISTERS HILL - II"
+    "partName": "NEW MINISTERS HILL - II",
+    "lat": 25.6709026,
+    "lon": 94.1076934
   },
   {
     "partId": 524,
@@ -371,7 +437,9 @@
     "acNumber": 9,
     "acName": "KOHIMA TOWN",
     "partNumber": 34,
-    "partName": "PWD LOWER - II"
+    "partName": "PWD LOWER - II",
+    "lat": 25.6709026,
+    "lon": 94.1076934
   },
   {
     "partId": 525,
@@ -382,7 +450,9 @@
     "acNumber": 9,
     "acName": "KOHIMA TOWN",
     "partNumber": 35,
-    "partName": "OLD MINISTERS HILL - II"
+    "partName": "OLD MINISTERS HILL - II",
+    "lat": 25.6709026,
+    "lon": 94.1076934
   },
   {
     "partId": 526,
@@ -393,7 +463,9 @@
     "acNumber": 9,
     "acName": "KOHIMA TOWN",
     "partNumber": 36,
-    "partName": "AGRI/ELECTRICAL COLONY- II"
+    "partName": "AGRI/ELECTRICAL COLONY- II",
+    "lat": 25.6709026,
+    "lon": 94.1076934
   },
   {
     "partId": 527,
@@ -404,7 +476,9 @@
     "acNumber": 9,
     "acName": "KOHIMA TOWN",
     "partNumber": 37,
-    "partName": "FOREST COLONY- I"
+    "partName": "FOREST COLONY- I",
+    "lat": 25.6709026,
+    "lon": 94.1076934
   },
   {
     "partId": 528,
@@ -415,7 +489,9 @@
     "acNumber": 9,
     "acName": "KOHIMA TOWN",
     "partNumber": 38,
-    "partName": "LERIE COLONY-I"
+    "partName": "LERIE COLONY-I",
+    "lat": 25.6537026,
+    "lon": 94.1149394
   },
   {
     "partId": 529,
@@ -426,7 +502,9 @@
     "acNumber": 9,
     "acName": "KOHIMA TOWN",
     "partNumber": 39,
-    "partName": "POLICE PROJECT- II"
+    "partName": "POLICE PROJECT- II",
+    "lat": 25.6709026,
+    "lon": 94.1076934
   },
   {
     "partId": 530,
@@ -437,7 +515,9 @@
     "acNumber": 9,
     "acName": "KOHIMA TOWN",
     "partNumber": 40,
-    "partName": "LERIE COLONY - II"
+    "partName": "LERIE COLONY - II",
+    "lat": 25.6537026,
+    "lon": 94.1149394
   },
   {
     "partId": 531,
@@ -448,7 +528,9 @@
     "acNumber": 9,
     "acName": "KOHIMA TOWN",
     "partNumber": 41,
-    "partName": "JAIL COLONY"
+    "partName": "JAIL COLONY",
+    "lat": 25.6621901,
+    "lon": 94.0942103
   },
   {
     "partId": 532,
@@ -459,7 +541,9 @@
     "acNumber": 9,
     "acName": "KOHIMA TOWN",
     "partNumber": 42,
-    "partName": "FOREST COLONY-II"
+    "partName": "FOREST COLONY-II",
+    "lat": 25.6709026,
+    "lon": 94.1076934
   },
   {
     "partId": 533,
@@ -470,7 +554,9 @@
     "acNumber": 10,
     "acName": "NORTHERN ANGAMI-I",
     "partNumber": 1,
-    "partName": "ZIENUOBADZE"
+    "partName": "ZIENUOBADZE",
+    "lat": 25.71698035,
+    "lon": 94.09821939854675
   },
   {
     "partId": 534,
@@ -481,7 +567,9 @@
     "acNumber": 10,
     "acName": "NORTHERN ANGAMI-I",
     "partNumber": 2,
-    "partName": "PERACIEZIE"
+    "partName": "PERACIEZIE",
+    "lat": 25.6894006,
+    "lon": 94.09797351682232
   },
   {
     "partId": 535,
@@ -492,7 +580,9 @@
     "acNumber": 10,
     "acName": "NORTHERN ANGAMI-I",
     "partNumber": 3,
-    "partName": "GAURILANE"
+    "partName": "GAURILANE",
+    "lat": 25.71698035,
+    "lon": 94.09821939854675
   },
   {
     "partId": 536,
@@ -503,7 +593,9 @@
     "acNumber": 10,
     "acName": "NORTHERN ANGAMI-I",
     "partNumber": 4,
-    "partName": "KEZIEKE"
+    "partName": "KEZIEKE",
+    "lat": 25.6771479,
+    "lon": 94.109457
   },
   {
     "partId": 537,
@@ -514,7 +606,9 @@
     "acNumber": 10,
     "acName": "NORTHERN ANGAMI-I",
     "partNumber": 5,
-    "partName": "KENUOZOU"
+    "partName": "KENUOZOU",
+    "lat": 25.710064115,
+    "lon": 94.10348137467852
   },
   {
     "partId": 538,
@@ -525,7 +619,9 @@
     "acNumber": 10,
     "acName": "NORTHERN ANGAMI-I",
     "partNumber": 6,
-    "partName": "BAYAVU MIDDLE"
+    "partName": "BAYAVU MIDDLE",
+    "lat": 25.71698035,
+    "lon": 94.09821939854675
   },
   {
     "partId": 539,
@@ -536,7 +632,9 @@
     "acNumber": 10,
     "acName": "NORTHERN ANGAMI-I",
     "partNumber": 7,
-    "partName": "BAYAVU UPPER"
+    "partName": "BAYAVU UPPER",
+    "lat": 25.71698035,
+    "lon": 94.09821939854675
   },
   {
     "partId": 540,
@@ -547,7 +645,9 @@
     "acNumber": 10,
     "acName": "NORTHERN ANGAMI-I",
     "partNumber": 8,
-    "partName": "BAYAVU HILL LOWER-I"
+    "partName": "BAYAVU HILL LOWER-I",
+    "lat": 25.710064115,
+    "lon": 94.10348137467852
   },
   {
     "partId": 541,
@@ -558,7 +658,9 @@
     "acNumber": 10,
     "acName": "NORTHERN ANGAMI-I",
     "partNumber": 9,
-    "partName": "D.KHEL-I"
+    "partName": "D.KHEL-I",
+    "lat": 25.71698035,
+    "lon": 94.09821939854675
   },
   {
     "partId": 542,
@@ -569,7 +671,9 @@
     "acNumber": 10,
     "acName": "NORTHERN ANGAMI-I",
     "partNumber": 10,
-    "partName": "D.KHEL-II"
+    "partName": "D.KHEL-II",
+    "lat": 25.71698035,
+    "lon": 94.09821939854675
   },
   {
     "partId": 543,
@@ -580,7 +684,9 @@
     "acNumber": 10,
     "acName": "NORTHERN ANGAMI-I",
     "partNumber": 11,
-    "partName": "P.KHEL-I"
+    "partName": "P.KHEL-I",
+    "lat": 25.71698035,
+    "lon": 94.09821939854675
   },
   {
     "partId": 544,
@@ -591,7 +697,9 @@
     "acNumber": 10,
     "acName": "NORTHERN ANGAMI-I",
     "partNumber": 12,
-    "partName": "P.KHEL - II (S/W)"
+    "partName": "P.KHEL - II (S/W)",
+    "lat": 25.71698035,
+    "lon": 94.09821939854675
   },
   {
     "partId": 545,
@@ -602,7 +710,9 @@
     "acNumber": 10,
     "acName": "NORTHERN ANGAMI-I",
     "partNumber": 13,
-    "partName": "L.KHEL (UPPER-I)"
+    "partName": "L.KHEL (UPPER-I)",
+    "lat": 25.710064115,
+    "lon": 94.10348137467852
   },
   {
     "partId": 546,
@@ -613,7 +723,9 @@
     "acNumber": 10,
     "acName": "NORTHERN ANGAMI-I",
     "partNumber": 14,
-    "partName": "L.KHEL (UPPER-II)"
+    "partName": "L.KHEL (UPPER-II)",
+    "lat": 25.710064115,
+    "lon": 94.10348137467852
   },
   {
     "partId": 547,
@@ -624,7 +736,9 @@
     "acNumber": 10,
     "acName": "NORTHERN ANGAMI-I",
     "partNumber": 15,
-    "partName": "L.KHEL(LOWER-I)"
+    "partName": "L.KHEL(LOWER-I)",
+    "lat": 25.710064115,
+    "lon": 94.10348137467852
   },
   {
     "partId": 548,
@@ -635,7 +749,9 @@
     "acNumber": 10,
     "acName": "NORTHERN ANGAMI-I",
     "partNumber": 16,
-    "partName": "L.KHEL(LOWER-II)"
+    "partName": "L.KHEL(LOWER-II)",
+    "lat": 25.71698035,
+    "lon": 94.09821939854675
   },
   {
     "partId": 549,
@@ -646,7 +762,9 @@
     "acNumber": 10,
     "acName": "NORTHERN ANGAMI-I",
     "partNumber": 17,
-    "partName": "T.KHEL (UPPER)"
+    "partName": "T.KHEL (UPPER)",
+    "lat": 25.71698035,
+    "lon": 94.09821939854675
   },
   {
     "partId": 550,
@@ -657,7 +775,9 @@
     "acNumber": 10,
     "acName": "NORTHERN ANGAMI-I",
     "partNumber": 18,
-    "partName": "T.KHEL (LOWER)"
+    "partName": "T.KHEL (LOWER)",
+    "lat": 25.71698035,
+    "lon": 94.09821939854675
   },
   {
     "partId": 551,
@@ -668,7 +788,9 @@
     "acNumber": 10,
     "acName": "NORTHERN ANGAMI-I",
     "partNumber": 19,
-    "partName": "CHEDEMA-I"
+    "partName": "CHEDEMA-I",
+    "lat": 25.6815241,
+    "lon": 94.1453433
   },
   {
     "partId": 552,
@@ -679,7 +801,9 @@
     "acNumber": 10,
     "acName": "NORTHERN ANGAMI-I",
     "partNumber": 20,
-    "partName": "MISSION COMPOUND"
+    "partName": "MISSION COMPOUND",
+    "lat": 25.710064115,
+    "lon": 94.10348137467852
   },
   {
     "partId": 553,
@@ -690,7 +814,9 @@
     "acNumber": 10,
     "acName": "NORTHERN ANGAMI-I",
     "partNumber": 21,
-    "partName": "KEYAKE"
+    "partName": "KEYAKE",
+    "lat": 25.710064115,
+    "lon": 94.10348137467852
   },
   {
     "partId": 554,
@@ -701,7 +827,9 @@
     "acNumber": 10,
     "acName": "NORTHERN ANGAMI-I",
     "partNumber": 22,
-    "partName": "SEPFUZOU"
+    "partName": "SEPFUZOU",
+    "lat": 25.71698035,
+    "lon": 94.09821939854675
   },
   {
     "partId": 555,
@@ -712,7 +840,9 @@
     "acNumber": 10,
     "acName": "NORTHERN ANGAMI-I",
     "partNumber": 23,
-    "partName": "BAYAVU HILL LOWER - II"
+    "partName": "BAYAVU HILL LOWER - II",
+    "lat": 25.71698035,
+    "lon": 94.09821939854675
   },
   {
     "partId": 556,
@@ -723,7 +853,9 @@
     "acNumber": 10,
     "acName": "NORTHERN ANGAMI-I",
     "partNumber": 24,
-    "partName": "CHEDEMA MODEL VILLAGE"
+    "partName": "CHEDEMA MODEL VILLAGE",
+    "lat": 25.71698035,
+    "lon": 94.09821939854675
   },
   {
     "partId": 557,
@@ -734,7 +866,9 @@
     "acNumber": 10,
     "acName": "NORTHERN ANGAMI-I",
     "partNumber": 25,
-    "partName": "PEZIELIETSIE"
+    "partName": "PEZIELIETSIE",
+    "lat": 25.71698035,
+    "lon": 94.09821939854675
   },
   {
     "partId": 558,
@@ -745,7 +879,9 @@
     "acNumber": 10,
     "acName": "NORTHERN ANGAMI-I",
     "partNumber": 26,
-    "partName": "P-KHEL-III"
+    "partName": "P-KHEL-III",
+    "lat": 25.710064115,
+    "lon": 94.10348137467852
   },
   {
     "partId": 559,
@@ -756,7 +892,9 @@
     "acNumber": 10,
     "acName": "NORTHERN ANGAMI-I",
     "partNumber": 27,
-    "partName": "CHEDEMA-II"
+    "partName": "CHEDEMA-II",
+    "lat": 25.6815241,
+    "lon": 94.1453433
   },
   {
     "partId": 2282,
@@ -767,7 +905,9 @@
     "acNumber": 10,
     "acName": "NORTHERN ANGAMI-I",
     "partNumber": 28,
-    "partName": "T KHEL MODEL VILLAGE"
+    "partName": "T KHEL MODEL VILLAGE",
+    "lat": 25.71698035,
+    "lon": 94.09821939854675
   },
   {
     "partId": 560,
@@ -778,7 +918,9 @@
     "acNumber": 11,
     "acName": "NORTHERN ANGAMI-II",
     "partNumber": 1,
-    "partName": "ZHADI BAWE"
+    "partName": "ZHADI BAWE",
+    "lat": 25.71698035,
+    "lon": 94.09821939854675
   },
   {
     "partId": 561,
@@ -789,7 +931,9 @@
     "acNumber": 11,
     "acName": "NORTHERN ANGAMI-II",
     "partNumber": 2,
-    "partName": "ZHADI KIMHO"
+    "partName": "ZHADI KIMHO",
+    "lat": 25.733511720689656,
+    "lon": 94.11396944647699
   },
   {
     "partId": 562,
@@ -800,7 +944,9 @@
     "acNumber": 11,
     "acName": "NORTHERN ANGAMI-II",
     "partNumber": 3,
-    "partName": "TEICHUMA"
+    "partName": "TEICHUMA",
+    "lat": 25.733511720689656,
+    "lon": 94.11396944647699
   },
   {
     "partId": 563,
@@ -811,7 +957,9 @@
     "acNumber": 11,
     "acName": "NORTHERN ANGAMI-II",
     "partNumber": 4,
-    "partName": "BOTSA"
+    "partName": "BOTSA",
+    "lat": 25.8484944,
+    "lon": 94.14949051826824
   },
   {
     "partId": 564,
@@ -822,7 +970,9 @@
     "acNumber": 11,
     "acName": "NORTHERN ANGAMI-II",
     "partNumber": 5,
-    "partName": "TOUPHEMA BASA"
+    "partName": "TOUPHEMA BASA",
+    "lat": 25.71698035,
+    "lon": 94.09821939854675
   },
   {
     "partId": 565,
@@ -833,7 +983,9 @@
     "acNumber": 11,
     "acName": "NORTHERN ANGAMI-II",
     "partNumber": 6,
-    "partName": "TOUPHEMA BAWE"
+    "partName": "TOUPHEMA BAWE",
+    "lat": 25.71698035,
+    "lon": 94.09821939854675
   },
   {
     "partId": 566,
@@ -844,7 +996,9 @@
     "acNumber": 11,
     "acName": "NORTHERN ANGAMI-II",
     "partNumber": 7,
-    "partName": "NACHAMA"
+    "partName": "NACHAMA",
+    "lat": 25.71698035,
+    "lon": 94.09821939854675
   },
   {
     "partId": 567,
@@ -855,7 +1009,9 @@
     "acNumber": 11,
     "acName": "NORTHERN ANGAMI-II",
     "partNumber": 8,
-    "partName": "SEIYHAMA"
+    "partName": "SEIYHAMA",
+    "lat": 25.8635907,
+    "lon": 94.108938
   },
   {
     "partId": 568,
@@ -866,7 +1022,9 @@
     "acNumber": 11,
     "acName": "NORTHERN ANGAMI-II",
     "partNumber": 9,
-    "partName": "NERHEMA LOWER"
+    "partName": "NERHEMA LOWER",
+    "lat": 25.71698035,
+    "lon": 94.09821939854675
   },
   {
     "partId": 570,
@@ -877,7 +1035,9 @@
     "acNumber": 11,
     "acName": "NORTHERN ANGAMI-II",
     "partNumber": 10,
-    "partName": "NERHEMA UPPER"
+    "partName": "NERHEMA UPPER",
+    "lat": 25.733511720689656,
+    "lon": 94.11396944647699
   },
   {
     "partId": 571,
@@ -888,7 +1048,9 @@
     "acNumber": 11,
     "acName": "NORTHERN ANGAMI-II",
     "partNumber": 11,
-    "partName": "CHIECHAMA BAWE"
+    "partName": "CHIECHAMA BAWE",
+    "lat": 25.71698035,
+    "lon": 94.09821939854675
   },
   {
     "partId": 572,
@@ -899,7 +1061,9 @@
     "acNumber": 11,
     "acName": "NORTHERN ANGAMI-II",
     "partNumber": 12,
-    "partName": "CHIECHAMA BASA"
+    "partName": "CHIECHAMA BASA",
+    "lat": 25.71698035,
+    "lon": 94.09821939854675
   },
   {
     "partId": 573,
@@ -910,7 +1074,9 @@
     "acNumber": 11,
     "acName": "NORTHERN ANGAMI-II",
     "partNumber": 13,
-    "partName": "CHIECHAMA PHESAZOU"
+    "partName": "CHIECHAMA PHESAZOU",
+    "lat": 25.71698035,
+    "lon": 94.09821939854675
   },
   {
     "partId": 574,
@@ -921,7 +1087,9 @@
     "acNumber": 11,
     "acName": "NORTHERN ANGAMI-II",
     "partNumber": 14,
-    "partName": "GARIPHEMA"
+    "partName": "GARIPHEMA",
+    "lat": 25.7778761,
+    "lon": 94.2099184
   },
   {
     "partId": 575,
@@ -932,7 +1100,9 @@
     "acNumber": 11,
     "acName": "NORTHERN ANGAMI-II",
     "partNumber": 15,
-    "partName": "GARIPHEMA BASA"
+    "partName": "GARIPHEMA BASA",
+    "lat": 25.733511720689656,
+    "lon": 94.11396944647699
   },
   {
     "partId": 576,
@@ -943,7 +1113,9 @@
     "acNumber": 11,
     "acName": "NORTHERN ANGAMI-II",
     "partNumber": 16,
-    "partName": "RUSOMA"
+    "partName": "RUSOMA",
+    "lat": 25.7244704,
+    "lon": 94.138093
   },
   {
     "partId": 577,
@@ -954,7 +1126,9 @@
     "acNumber": 11,
     "acName": "NORTHERN ANGAMI-II",
     "partNumber": 17,
-    "partName": "RUSOMA BASA"
+    "partName": "RUSOMA BASA",
+    "lat": 25.71698035,
+    "lon": 94.09821939854675
   },
   {
     "partId": 578,
@@ -965,7 +1139,9 @@
     "acNumber": 11,
     "acName": "NORTHERN ANGAMI-II",
     "partNumber": 18,
-    "partName": "PHEKERKRIEMA BAWE"
+    "partName": "PHEKERKRIEMA BAWE",
+    "lat": 25.733511720689656,
+    "lon": 94.11396944647699
   },
   {
     "partId": 579,
@@ -976,7 +1152,9 @@
     "acNumber": 11,
     "acName": "NORTHERN ANGAMI-II",
     "partNumber": 19,
-    "partName": "KIJUMETOUMA"
+    "partName": "KIJUMETOUMA",
+    "lat": 25.7648576,
+    "lon": 94.2307543
   },
   {
     "partId": 580,
@@ -987,7 +1165,9 @@
     "acNumber": 11,
     "acName": "NORTHERN ANGAMI-II",
     "partNumber": 20,
-    "partName": "DIHOMA"
+    "partName": "DIHOMA",
+    "lat": 25.7339302,
+    "lon": 94.1970685
   },
   {
     "partId": 581,
@@ -998,7 +1178,9 @@
     "acNumber": 11,
     "acName": "NORTHERN ANGAMI-II",
     "partNumber": 21,
-    "partName": "CHIEPHOBOZOU"
+    "partName": "CHIEPHOBOZOU",
+    "lat": 25.8009591,
+    "lon": 94.10912545862926
   },
   {
     "partId": 582,
@@ -1009,7 +1191,9 @@
     "acNumber": 11,
     "acName": "NORTHERN ANGAMI-II",
     "partNumber": 22,
-    "partName": "MEREMA"
+    "partName": "MEREMA",
+    "lat": 25.71698035,
+    "lon": 94.09821939854675
   },
   {
     "partId": 583,
@@ -1020,7 +1204,9 @@
     "acNumber": 11,
     "acName": "NORTHERN ANGAMI-II",
     "partNumber": 23,
-    "partName": "THIZAMA VILLAGE"
+    "partName": "THIZAMA VILLAGE",
+    "lat": 25.71698035,
+    "lon": 94.09821939854675
   },
   {
     "partId": 584,
@@ -1031,7 +1217,9 @@
     "acNumber": 11,
     "acName": "NORTHERN ANGAMI-II",
     "partNumber": 24,
-    "partName": "THIZAMA 4th NAP"
+    "partName": "THIZAMA 4th NAP",
+    "lat": 25.71698035,
+    "lon": 94.09821939854675
   },
   {
     "partId": 585,
@@ -1042,7 +1230,9 @@
     "acNumber": 11,
     "acName": "NORTHERN ANGAMI-II",
     "partNumber": 25,
-    "partName": "TSIESEMA BAWE"
+    "partName": "TSIESEMA BAWE",
+    "lat": 25.7427772,
+    "lon": 94.088666
   },
   {
     "partId": 586,
@@ -1053,7 +1243,9 @@
     "acNumber": 11,
     "acName": "NORTHERN ANGAMI-II",
     "partNumber": 26,
-    "partName": "TSIESEMA BASA"
+    "partName": "TSIESEMA BASA",
+    "lat": 25.6752772,
+    "lon": 94.1086718
   },
   {
     "partId": 587,
@@ -1064,7 +1256,9 @@
     "acNumber": 11,
     "acName": "NORTHERN ANGAMI-II",
     "partNumber": 27,
-    "partName": "ZIEZOU"
+    "partName": "ZIEZOU",
+    "lat": 25.733511720689656,
+    "lon": 94.11396944647699
   },
   {
     "partId": 588,
@@ -1075,7 +1269,9 @@
     "acNumber": 11,
     "acName": "NORTHERN ANGAMI-II",
     "partNumber": 28,
-    "partName": "PHEKERKRIEMA BASA"
+    "partName": "PHEKERKRIEMA BASA",
+    "lat": 25.733511720689656,
+    "lon": 94.11396944647699
   },
   {
     "partId": 589,
@@ -1086,7 +1282,9 @@
     "acNumber": 11,
     "acName": "NORTHERN ANGAMI-II",
     "partNumber": 29,
-    "partName": "TSIEMEKHUMA BASA"
+    "partName": "TSIEMEKHUMA BASA",
+    "lat": 25.71698035,
+    "lon": 94.09821939854675
   },
   {
     "partId": 590,
@@ -1097,7 +1295,9 @@
     "acNumber": 11,
     "acName": "NORTHERN ANGAMI-II",
     "partNumber": 30,
-    "partName": "TSIEMEKHUMA BAWE"
+    "partName": "TSIEMEKHUMA BAWE",
+    "lat": 25.733511720689656,
+    "lon": 94.11396944647699
   },
   {
     "partId": 591,
@@ -1108,7 +1308,9 @@
     "acNumber": 11,
     "acName": "NORTHERN ANGAMI-II",
     "partNumber": 31,
-    "partName": "10TH IRB ZHADIMA"
+    "partName": "10TH IRB ZHADIMA",
+    "lat": 25.71698035,
+    "lon": 94.09821939854675
   },
   {
     "partId": 592,
@@ -1119,7 +1321,9 @@
     "acNumber": 11,
     "acName": "NORTHERN ANGAMI-II",
     "partNumber": 32,
-    "partName": "SEIYHA PHESA"
+    "partName": "SEIYHA PHESA",
+    "lat": 25.733511720689656,
+    "lon": 94.11396944647699
   },
   {
     "partId": 593,
@@ -1130,7 +1334,9 @@
     "acNumber": 11,
     "acName": "NORTHERN ANGAMI-II",
     "partNumber": 33,
-    "partName": "PHEZHA VILLAGE"
+    "partName": "PHEZHA VILLAGE",
+    "lat": 25.71698035,
+    "lon": 94.09821939854675
   },
   {
     "partId": 594,
@@ -1141,7 +1347,9 @@
     "acNumber": 11,
     "acName": "NORTHERN ANGAMI-II",
     "partNumber": 34,
-    "partName": "TUOPHE HEZOU"
+    "partName": "TUOPHE HEZOU",
+    "lat": 25.733511720689656,
+    "lon": 94.11396944647699
   },
   {
     "partId": 595,
@@ -1152,7 +1360,9 @@
     "acNumber": 11,
     "acName": "NORTHERN ANGAMI-II",
     "partNumber": 35,
-    "partName": "ZHADI BASA"
+    "partName": "ZHADI BASA",
+    "lat": 25.71698035,
+    "lon": 94.09821939854675
   },
   {
     "partId": 596,
@@ -1163,7 +1373,9 @@
     "acNumber": 11,
     "acName": "NORTHERN ANGAMI-II",
     "partNumber": 36,
-    "partName": "TUOPHE BAWE - B"
+    "partName": "TUOPHE BAWE - B",
+    "lat": 25.71698035,
+    "lon": 94.09821939854675
   },
   {
     "partId": 597,
@@ -1174,7 +1386,9 @@
     "acNumber": 11,
     "acName": "NORTHERN ANGAMI-II",
     "partNumber": 37,
-    "partName": "CHIECHAMA PHELUO"
+    "partName": "CHIECHAMA PHELUO",
+    "lat": 25.733511720689656,
+    "lon": 94.11396944647699
   },
   {
     "partId": 598,
@@ -1185,7 +1399,9 @@
     "acNumber": 11,
     "acName": "NORTHERN ANGAMI-II",
     "partNumber": 38,
-    "partName": "NERHE MODEL VILLAGE"
+    "partName": "NERHE MODEL VILLAGE",
+    "lat": 25.71698035,
+    "lon": 94.09821939854675
   },
   {
     "partId": 599,
@@ -1196,7 +1412,9 @@
     "acNumber": 11,
     "acName": "NORTHERN ANGAMI-II",
     "partNumber": 39,
-    "partName": "KIJUMETOUMA BASA"
+    "partName": "KIJUMETOUMA BASA",
+    "lat": 25.71698035,
+    "lon": 94.09821939854675
   },
   {
     "partId": 600,
@@ -1207,7 +1425,9 @@
     "acNumber": 11,
     "acName": "NORTHERN ANGAMI-II",
     "partNumber": 40,
-    "partName": "NERHEMA MIDDLE"
+    "partName": "NERHEMA MIDDLE",
+    "lat": 25.71698035,
+    "lon": 94.09821939854675
   },
   {
     "partId": 2177,
@@ -1218,7 +1438,9 @@
     "acNumber": 11,
     "acName": "NORTHERN ANGAMI-II",
     "partNumber": 41,
-    "partName": "ZHADI-II"
+    "partName": "ZHADI-II",
+    "lat": 25.733511720689656,
+    "lon": 94.11396944647699
   },
   {
     "partId": 678,
@@ -1229,7 +1451,9 @@
     "acNumber": 14,
     "acName": "SOUTHERN ANGAMI-I",
     "partNumber": 1,
-    "partName": "PHESAMA (UPPER)"
+    "partName": "PHESAMA (UPPER)",
+    "lat": 25.71698035,
+    "lon": 94.09821939854675
   },
   {
     "partId": 679,
@@ -1240,7 +1464,9 @@
     "acNumber": 14,
     "acName": "SOUTHERN ANGAMI-I",
     "partNumber": 2,
-    "partName": "PHESAMA (LOWER)"
+    "partName": "PHESAMA (LOWER)",
+    "lat": 25.71698035,
+    "lon": 94.09821939854675
   },
   {
     "partId": 680,
@@ -1251,7 +1477,9 @@
     "acNumber": 14,
     "acName": "SOUTHERN ANGAMI-I",
     "partNumber": 3,
-    "partName": "PFUCHAMA"
+    "partName": "PFUCHAMA",
+    "lat": 25.6435176,
+    "lon": 94.1297065
   },
   {
     "partId": 681,
@@ -1262,7 +1490,9 @@
     "acNumber": 14,
     "acName": "SOUTHERN ANGAMI-I",
     "partNumber": 4,
-    "partName": "MIMA I"
+    "partName": "MIMA I",
+    "lat": 25.609784,
+    "lon": 94.1434707
   },
   {
     "partId": 682,
@@ -1273,7 +1503,9 @@
     "acNumber": 14,
     "acName": "SOUTHERN ANGAMI-I",
     "partNumber": 5,
-    "partName": "MIMA II"
+    "partName": "MIMA II",
+    "lat": 25.609784,
+    "lon": 94.1434707
   },
   {
     "partId": 683,
@@ -1284,7 +1516,9 @@
     "acNumber": 14,
     "acName": "SOUTHERN ANGAMI-I",
     "partNumber": 6,
-    "partName": "KIGWEMA UPPER-I"
+    "partName": "KIGWEMA UPPER-I",
+    "lat": 25.71698035,
+    "lon": 94.09821939854675
   },
   {
     "partId": 684,
@@ -1295,7 +1529,9 @@
     "acNumber": 14,
     "acName": "SOUTHERN ANGAMI-I",
     "partNumber": 7,
-    "partName": "KIGWEMA UPPER-II"
+    "partName": "KIGWEMA UPPER-II",
+    "lat": 25.71698035,
+    "lon": 94.09821939854675
   },
   {
     "partId": 685,
@@ -1306,7 +1542,9 @@
     "acNumber": 14,
     "acName": "SOUTHERN ANGAMI-I",
     "partNumber": 8,
-    "partName": "KIGWEMA LOWER"
+    "partName": "KIGWEMA LOWER",
+    "lat": 25.71698035,
+    "lon": 94.09821939854675
   },
   {
     "partId": 686,
@@ -1317,7 +1555,9 @@
     "acNumber": 14,
     "acName": "SOUTHERN ANGAMI-I",
     "partNumber": 9,
-    "partName": "JAKHAMA UPPER"
+    "partName": "JAKHAMA UPPER",
+    "lat": 25.71698035,
+    "lon": 94.09821939854675
   },
   {
     "partId": 687,
@@ -1328,7 +1568,9 @@
     "acNumber": 14,
     "acName": "SOUTHERN ANGAMI-I",
     "partNumber": 10,
-    "partName": "JAKHAMA MIDDLE"
+    "partName": "JAKHAMA MIDDLE",
+    "lat": 25.71698035,
+    "lon": 94.09821939854675
   },
   {
     "partId": 688,
@@ -1339,7 +1581,9 @@
     "acNumber": 14,
     "acName": "SOUTHERN ANGAMI-I",
     "partNumber": 11,
-    "partName": "JAKHAMA LOWER"
+    "partName": "JAKHAMA LOWER",
+    "lat": 25.71698035,
+    "lon": 94.09821939854675
   },
   {
     "partId": 689,
@@ -1350,7 +1594,9 @@
     "acNumber": 14,
     "acName": "SOUTHERN ANGAMI-I",
     "partNumber": 12,
-    "partName": "JAKHAMA TOWN-I"
+    "partName": "JAKHAMA TOWN-I",
+    "lat": 25.71698035,
+    "lon": 94.09821939854675
   },
   {
     "partId": 690,
@@ -1361,7 +1607,9 @@
     "acNumber": 14,
     "acName": "SOUTHERN ANGAMI-I",
     "partNumber": 13,
-    "partName": "MITELEPHE"
+    "partName": "MITELEPHE",
+    "lat": 25.6254388,
+    "lon": 94.1828704
   },
   {
     "partId": 691,
@@ -1372,7 +1620,9 @@
     "acNumber": 14,
     "acName": "SOUTHERN ANGAMI-I",
     "partNumber": 14,
-    "partName": "CHOTOBOSTI UPPER"
+    "partName": "CHOTOBOSTI UPPER",
+    "lat": 25.71698035,
+    "lon": 94.09821939854675
   },
   {
     "partId": 692,
@@ -1383,7 +1633,9 @@
     "acNumber": 14,
     "acName": "SOUTHERN ANGAMI-I",
     "partNumber": 15,
-    "partName": "CHOTOBOSTI LOWER I"
+    "partName": "CHOTOBOSTI LOWER I",
+    "lat": 25.71698035,
+    "lon": 94.09821939854675
   },
   {
     "partId": 693,
@@ -1394,7 +1646,9 @@
     "acNumber": 14,
     "acName": "SOUTHERN ANGAMI-I",
     "partNumber": 16,
-    "partName": "CHOTOBOSTI LOWER II"
+    "partName": "CHOTOBOSTI LOWER II",
+    "lat": 25.71698035,
+    "lon": 94.09821939854675
   },
   {
     "partId": 694,
@@ -1405,7 +1659,9 @@
     "acNumber": 14,
     "acName": "SOUTHERN ANGAMI-I",
     "partNumber": 17,
-    "partName": "KIPFUZHA SECTOR"
+    "partName": "KIPFUZHA SECTOR",
+    "lat": 25.71698035,
+    "lon": 94.09821939854675
   },
   {
     "partId": 695,
@@ -1416,7 +1672,9 @@
     "acNumber": 14,
     "acName": "SOUTHERN ANGAMI-I",
     "partNumber": 18,
-    "partName": "VIKHOZOU (KIGWEMA)"
+    "partName": "VIKHOZOU (KIGWEMA)",
+    "lat": 25.71698035,
+    "lon": 94.09821939854675
   },
   {
     "partId": 696,
@@ -1427,7 +1685,9 @@
     "acNumber": 14,
     "acName": "SOUTHERN ANGAMI-I",
     "partNumber": 19,
-    "partName": "JAKHAMA LOWER II"
+    "partName": "JAKHAMA LOWER II",
+    "lat": 25.71698035,
+    "lon": 94.09821939854675
   },
   {
     "partId": 697,
@@ -1438,7 +1698,9 @@
     "acNumber": 14,
     "acName": "SOUTHERN ANGAMI-I",
     "partNumber": 20,
-    "partName": "JAKHAMA TOWN II"
+    "partName": "JAKHAMA TOWN II",
+    "lat": 25.71698035,
+    "lon": 94.09821939854675
   },
   {
     "partId": 2320,
@@ -1449,7 +1711,9 @@
     "acNumber": 14,
     "acName": "SOUTHERN ANGAMI-I",
     "partNumber": 21,
-    "partName": "PHESA BASA KHEL"
+    "partName": "PHESA BASA KHEL",
+    "lat": 25.71698035,
+    "lon": 94.09821939854675
   },
   {
     "partId": 698,
@@ -1460,7 +1724,9 @@
     "acNumber": 15,
     "acName": "SOUTHERN ANGAMI-II",
     "partNumber": 1,
-    "partName": "VISWEMA (Z.KHEL)"
+    "partName": "VISWEMA (Z.KHEL)",
+    "lat": 25.71698035,
+    "lon": 94.09821939854675
   },
   {
     "partId": 699,
@@ -1471,7 +1737,9 @@
     "acNumber": 15,
     "acName": "SOUTHERN ANGAMI-II",
     "partNumber": 2,
-    "partName": "VISWEMA (Z.KHEL)"
+    "partName": "VISWEMA (Z.KHEL)",
+    "lat": 25.71698035,
+    "lon": 94.09821939854675
   },
   {
     "partId": 700,
@@ -1482,7 +1750,9 @@
     "acNumber": 15,
     "acName": "SOUTHERN ANGAMI-II",
     "partNumber": 3,
-    "partName": "VISWEMA (P.KHEL)"
+    "partName": "VISWEMA (P.KHEL)",
+    "lat": 25.71698035,
+    "lon": 94.09821939854675
   },
   {
     "partId": 701,
@@ -1493,7 +1763,9 @@
     "acNumber": 15,
     "acName": "SOUTHERN ANGAMI-II",
     "partNumber": 4,
-    "partName": "VISWEMA (K.KHEL)"
+    "partName": "VISWEMA (K.KHEL)",
+    "lat": 25.71698035,
+    "lon": 94.09821939854675
   },
   {
     "partId": 702,
@@ -1504,7 +1776,9 @@
     "acNumber": 15,
     "acName": "SOUTHERN ANGAMI-II",
     "partNumber": 5,
-    "partName": "VISWEMA (K.KHEL)"
+    "partName": "VISWEMA (K.KHEL)",
+    "lat": 25.71698035,
+    "lon": 94.09821939854675
   },
   {
     "partId": 703,
@@ -1515,7 +1789,9 @@
     "acNumber": 15,
     "acName": "SOUTHERN ANGAMI-II",
     "partNumber": 6,
-    "partName": "VISWEMA (R.KHEL)"
+    "partName": "VISWEMA (R.KHEL)",
+    "lat": 25.71698035,
+    "lon": 94.09821939854675
   },
   {
     "partId": 704,
@@ -1526,7 +1802,9 @@
     "acNumber": 15,
     "acName": "SOUTHERN ANGAMI-II",
     "partNumber": 7,
-    "partName": "VISWEMA (R.KHEL)"
+    "partName": "VISWEMA (R.KHEL)",
+    "lat": 25.71698035,
+    "lon": 94.09821939854675
   },
   {
     "partId": 705,
@@ -1537,7 +1815,9 @@
     "acNumber": 15,
     "acName": "SOUTHERN ANGAMI-II",
     "partNumber": 8,
-    "partName": "KHUZAMA (UPPER)"
+    "partName": "KHUZAMA (UPPER)",
+    "lat": 25.71698035,
+    "lon": 94.09821939854675
   },
   {
     "partId": 706,
@@ -1548,7 +1828,9 @@
     "acNumber": 15,
     "acName": "SOUTHERN ANGAMI-II",
     "partNumber": 9,
-    "partName": "KHUZUMA (LOWER)"
+    "partName": "KHUZUMA (LOWER)",
+    "lat": 25.71698035,
+    "lon": 94.09821939854675
   },
   {
     "partId": 707,
@@ -1559,7 +1841,9 @@
     "acNumber": 15,
     "acName": "SOUTHERN ANGAMI-II",
     "partNumber": 10,
-    "partName": "KIDIMA (UPPER)"
+    "partName": "KIDIMA (UPPER)",
+    "lat": 25.71698035,
+    "lon": 94.09821939854675
   },
   {
     "partId": 708,
@@ -1570,7 +1854,9 @@
     "acNumber": 15,
     "acName": "SOUTHERN ANGAMI-II",
     "partNumber": 11,
-    "partName": "KIDIMA (LOWER)"
+    "partName": "KIDIMA (LOWER)",
+    "lat": 25.71698035,
+    "lon": 94.09821939854675
   },
   {
     "partId": 709,
@@ -1581,7 +1867,9 @@
     "acNumber": 15,
     "acName": "SOUTHERN ANGAMI-II",
     "partNumber": 12,
-    "partName": "KEZOMA-I"
+    "partName": "KEZOMA-I",
+    "lat": 25.71698035,
+    "lon": 94.09821939854675
   },
   {
     "partId": 710,
@@ -1592,7 +1880,9 @@
     "acNumber": 15,
     "acName": "SOUTHERN ANGAMI-II",
     "partNumber": 13,
-    "partName": "SAKHABAMA"
+    "partName": "SAKHABAMA",
+    "lat": 25.71698035,
+    "lon": 94.09821939854675
   },
   {
     "partId": 711,
@@ -1603,7 +1893,9 @@
     "acNumber": 15,
     "acName": "SOUTHERN ANGAMI-II",
     "partNumber": 14,
-    "partName": "KEZO TOWN"
+    "partName": "KEZO TOWN",
+    "lat": 25.6427934,
+    "lon": 94.1998029
   },
   {
     "partId": 712,
@@ -1614,7 +1906,9 @@
     "acNumber": 15,
     "acName": "SOUTHERN ANGAMI-II",
     "partNumber": 15,
-    "partName": "KIDIMA (MIDDLE)"
+    "partName": "KIDIMA (MIDDLE)",
+    "lat": 25.71698035,
+    "lon": 94.09821939854675
   },
   {
     "partId": 713,
@@ -1625,7 +1919,9 @@
     "acNumber": 15,
     "acName": "SOUTHERN ANGAMI-II",
     "partNumber": 16,
-    "partName": "KEZO BASA"
+    "partName": "KEZO BASA",
+    "lat": 25.71698035,
+    "lon": 94.09821939854675
   },
   {
     "partId": 714,
@@ -1636,7 +1932,9 @@
     "acNumber": 15,
     "acName": "SOUTHERN ANGAMI-II",
     "partNumber": 17,
-    "partName": "KITHOZWU (K.KHEL VISWEMA)"
+    "partName": "KITHOZWU (K.KHEL VISWEMA)",
+    "lat": 25.71698035,
+    "lon": 94.09821939854675
   },
   {
     "partId": 715,
@@ -1647,7 +1945,9 @@
     "acNumber": 15,
     "acName": "SOUTHERN ANGAMI-II",
     "partNumber": 18,
-    "partName": "NEW COLONY (R.KHEL VISWEMA)"
+    "partName": "NEW COLONY (R.KHEL VISWEMA)",
+    "lat": 25.71698035,
+    "lon": 94.09821939854675
   },
   {
     "partId": 716,
@@ -1658,7 +1958,9 @@
     "acNumber": 15,
     "acName": "SOUTHERN ANGAMI-II",
     "partNumber": 19,
-    "partName": "KHUZAMA (MIDDLE)"
+    "partName": "KHUZAMA (MIDDLE)",
+    "lat": 25.71698035,
+    "lon": 94.09821939854675
   },
   {
     "partId": 717,
@@ -1669,7 +1971,9 @@
     "acNumber": 15,
     "acName": "SOUTHERN ANGAMI-II",
     "partNumber": 20,
-    "partName": "SOKRIBA (KHUZAMA)"
+    "partName": "SOKRIBA (KHUZAMA)",
+    "lat": 25.71698035,
+    "lon": 94.09821939854675
   },
   {
     "partId": 718,
@@ -1680,7 +1984,9 @@
     "acNumber": 15,
     "acName": "SOUTHERN ANGAMI-II",
     "partNumber": 21,
-    "partName": "VISABA (KIDIMA)"
+    "partName": "VISABA (KIDIMA)",
+    "lat": 25.71698035,
+    "lon": 94.09821939854675
   },
   {
     "partId": 719,
@@ -1691,7 +1997,9 @@
     "acNumber": 15,
     "acName": "SOUTHERN ANGAMI-II",
     "partNumber": 22,
-    "partName": "SACHUBA (KIDIMA)"
+    "partName": "SACHUBA (KIDIMA)",
+    "lat": 25.71698035,
+    "lon": 94.09821939854675
   },
   {
     "partId": 720,
@@ -1702,7 +2010,9 @@
     "acNumber": 15,
     "acName": "SOUTHERN ANGAMI-II",
     "partNumber": 23,
-    "partName": "SHE-KIDA (KIDIMA MIDDLE)"
+    "partName": "SHE-KIDA (KIDIMA MIDDLE)",
+    "lat": 25.71698035,
+    "lon": 94.09821939854675
   },
   {
     "partId": 721,
@@ -1713,7 +2023,9 @@
     "acNumber": 15,
     "acName": "SOUTHERN ANGAMI-II",
     "partNumber": 24,
-    "partName": "VISWEMA (Z.KHEL)"
+    "partName": "VISWEMA (Z.KHEL)",
+    "lat": 25.71698035,
+    "lon": 94.09821939854675
   },
   {
     "partId": 2321,
@@ -1724,7 +2036,9 @@
     "acNumber": 15,
     "acName": "SOUTHERN ANGAMI-II",
     "partNumber": 25,
-    "partName": "KEZOMA-II"
+    "partName": "KEZOMA-II",
+    "lat": 25.71698035,
+    "lon": 94.09821939854675
   },
   {
     "partId": 462,
@@ -1735,7 +2049,9 @@
     "acNumber": 8,
     "acName": "WESTERN ANGAMI",
     "partNumber": 1,
-    "partName": "JOTSOMA (UPPER-I)"
+    "partName": "JOTSOMA (UPPER-I)",
+    "lat": 25.71698035,
+    "lon": 94.09821939854675
   },
   {
     "partId": 463,
@@ -1746,7 +2062,9 @@
     "acNumber": 8,
     "acName": "WESTERN ANGAMI",
     "partNumber": 2,
-    "partName": "JOTSOMA (LOWER-I)"
+    "partName": "JOTSOMA (LOWER-I)",
+    "lat": 25.71698035,
+    "lon": 94.09821939854675
   },
   {
     "partId": 464,
@@ -1757,7 +2075,9 @@
     "acNumber": 8,
     "acName": "WESTERN ANGAMI",
     "partNumber": 3,
-    "partName": "KHONOMA (UPPER)"
+    "partName": "KHONOMA (UPPER)",
+    "lat": 25.71698035,
+    "lon": 94.09821939854675
   },
   {
     "partId": 465,
@@ -1768,7 +2088,9 @@
     "acNumber": 8,
     "acName": "WESTERN ANGAMI",
     "partNumber": 4,
-    "partName": "KHONOMA (LOWER)"
+    "partName": "KHONOMA (LOWER)",
+    "lat": 25.71698035,
+    "lon": 94.09821939854675
   },
   {
     "partId": 466,
@@ -1779,7 +2101,9 @@
     "acNumber": 8,
     "acName": "WESTERN ANGAMI",
     "partNumber": 5,
-    "partName": "MEZOMA-I"
+    "partName": "MEZOMA-I",
+    "lat": 25.71698035,
+    "lon": 94.09821939854675
   },
   {
     "partId": 467,
@@ -1790,7 +2114,9 @@
     "acNumber": 8,
     "acName": "WESTERN ANGAMI",
     "partNumber": 6,
-    "partName": "SECHUMA"
+    "partName": "SECHUMA",
+    "lat": 25.6947308,
+    "lon": 94.0335829
   },
   {
     "partId": 468,
@@ -1801,7 +2127,9 @@
     "acNumber": 8,
     "acName": "WESTERN ANGAMI",
     "partNumber": 7,
-    "partName": "KIRUPHEMA BAWE/BASA"
+    "partName": "KIRUPHEMA BAWE/BASA",
+    "lat": 25.7121972,
+    "lon": 94.0227762
   },
   {
     "partId": 469,
@@ -1812,7 +2140,9 @@
     "acNumber": 8,
     "acName": "WESTERN ANGAMI",
     "partNumber": 8,
-    "partName": "ZUBZA SECHU-I"
+    "partName": "ZUBZA SECHU-I",
+    "lat": 25.7118456,
+    "lon": 94.0407647
   },
   {
     "partId": 470,
@@ -1823,7 +2153,9 @@
     "acNumber": 8,
     "acName": "WESTERN ANGAMI",
     "partNumber": 9,
-    "partName": "MENGUJUMA"
+    "partName": "MENGUJUMA",
+    "lat": 25.7695639,
+    "lon": 94.0041876
   },
   {
     "partId": 471,
@@ -1834,7 +2166,9 @@
     "acNumber": 8,
     "acName": "WESTERN ANGAMI",
     "partNumber": 10,
-    "partName": "THEKREJUNAMA"
+    "partName": "THEKREJUNAMA",
+    "lat": 25.71698035,
+    "lon": 94.09821939854675
   },
   {
     "partId": 472,
@@ -1845,7 +2179,9 @@
     "acNumber": 8,
     "acName": "WESTERN ANGAMI",
     "partNumber": 11,
-    "partName": "DAKLANE-I"
+    "partName": "DAKLANE-I",
+    "lat": 25.6717387,
+    "lon": 94.1059899
   },
   {
     "partId": 473,
@@ -1856,7 +2192,9 @@
     "acNumber": 8,
     "acName": "WESTERN ANGAMI",
     "partNumber": 12,
-    "partName": "DAKLANE-II"
+    "partName": "DAKLANE-II",
+    "lat": 25.6717387,
+    "lon": 94.1059899
   },
   {
     "partId": 474,
@@ -1867,7 +2205,9 @@
     "acNumber": 8,
     "acName": "WESTERN ANGAMI",
     "partNumber": 13,
-    "partName": "DAKLANE-III"
+    "partName": "DAKLANE-III",
+    "lat": 25.71698035,
+    "lon": 94.09821939854675
   },
   {
     "partId": 475,
@@ -1878,7 +2218,9 @@
     "acNumber": 8,
     "acName": "WESTERN ANGAMI",
     "partNumber": 14,
-    "partName": "NEW MARKET- I"
+    "partName": "NEW MARKET- I",
+    "lat": 25.71698035,
+    "lon": 94.09821939854675
   },
   {
     "partId": 476,
@@ -1889,7 +2231,9 @@
     "acNumber": 8,
     "acName": "WESTERN ANGAMI",
     "partNumber": 15,
-    "partName": "NEW MARKET- II"
+    "partName": "NEW MARKET- II",
+    "lat": 25.71698035,
+    "lon": 94.09821939854675
   },
   {
     "partId": 477,
@@ -1900,7 +2244,9 @@
     "acNumber": 8,
     "acName": "WESTERN ANGAMI",
     "partNumber": 16,
-    "partName": "MIDLAND (LOWER)"
+    "partName": "MIDLAND (LOWER)",
+    "lat": 25.71698035,
+    "lon": 94.09821939854675
   },
   {
     "partId": 478,
@@ -1911,7 +2257,9 @@
     "acNumber": 8,
     "acName": "WESTERN ANGAMI",
     "partNumber": 17,
-    "partName": "OFFICERS HILL"
+    "partName": "OFFICERS HILL",
+    "lat": 25.66223615,
+    "lon": 94.10004042589625
   },
   {
     "partId": 479,
@@ -1922,7 +2270,9 @@
     "acNumber": 8,
     "acName": "WESTERN ANGAMI",
     "partNumber": 18,
-    "partName": "MIDLAND (MIDDLE)"
+    "partName": "MIDLAND (MIDDLE)",
+    "lat": 25.71698035,
+    "lon": 94.09821939854675
   },
   {
     "partId": 480,
@@ -1933,7 +2283,9 @@
     "acNumber": 8,
     "acName": "WESTERN ANGAMI",
     "partNumber": 19,
-    "partName": "MIDLAND (UPPER)"
+    "partName": "MIDLAND (UPPER)",
+    "lat": 25.71698035,
+    "lon": 94.09821939854675
   },
   {
     "partId": 481,
@@ -1944,7 +2296,9 @@
     "acNumber": 8,
     "acName": "WESTERN ANGAMI",
     "partNumber": 20,
-    "partName": "OFFICERS HILL LOWER"
+    "partName": "OFFICERS HILL LOWER",
+    "lat": 25.71698035,
+    "lon": 94.09821939854675
   },
   {
     "partId": 482,
@@ -1955,7 +2309,9 @@
     "acNumber": 8,
     "acName": "WESTERN ANGAMI",
     "partNumber": 21,
-    "partName": "HOSPITAL COLONY"
+    "partName": "HOSPITAL COLONY",
+    "lat": 25.6704796,
+    "lon": 94.0954317
   },
   {
     "partId": 483,
@@ -1966,7 +2322,9 @@
     "acNumber": 8,
     "acName": "WESTERN ANGAMI",
     "partNumber": 22,
-    "partName": "PEDUCHA"
+    "partName": "PEDUCHA",
+    "lat": 25.7392308,
+    "lon": 94.0074313
   },
   {
     "partId": 484,
@@ -1977,7 +2335,9 @@
     "acNumber": 8,
     "acName": "WESTERN ANGAMI",
     "partNumber": 23,
-    "partName": "SCIENCE COLLEGE-I"
+    "partName": "SCIENCE COLLEGE-I",
+    "lat": 25.71698035,
+    "lon": 94.09821939854675
   },
   {
     "partId": 485,
@@ -1988,7 +2348,9 @@
     "acNumber": 8,
     "acName": "WESTERN ANGAMI",
     "partNumber": 24,
-    "partName": "DZULAKEMA"
+    "partName": "DZULAKEMA",
+    "lat": 25.71698035,
+    "lon": 94.09821939854675
   },
   {
     "partId": 486,
@@ -1999,7 +2361,9 @@
     "acNumber": 8,
     "acName": "WESTERN ANGAMI",
     "partNumber": 25,
-    "partName": "DZUDZA"
+    "partName": "DZUDZA",
+    "lat": 25.71698035,
+    "lon": 94.09821939854675
   },
   {
     "partId": 487,
@@ -2010,7 +2374,9 @@
     "acNumber": 8,
     "acName": "WESTERN ANGAMI",
     "partNumber": 26,
-    "partName": "MEZOMA - II"
+    "partName": "MEZOMA - II",
+    "lat": 25.6729952,
+    "lon": 94.0179678
   },
   {
     "partId": 488,
@@ -2021,7 +2387,9 @@
     "acNumber": 8,
     "acName": "WESTERN ANGAMI",
     "partNumber": 27,
-    "partName": "ZUBZA/SECHU - II"
+    "partName": "ZUBZA/SECHU - II",
+    "lat": 25.7118456,
+    "lon": 94.0407647
   },
   {
     "partId": 489,
@@ -2032,7 +2400,9 @@
     "acNumber": 8,
     "acName": "WESTERN ANGAMI",
     "partNumber": 28,
-    "partName": "MEZO BASA"
+    "partName": "MEZO BASA",
+    "lat": 25.6815084,
+    "lon": 94.0330528
   },
   {
     "partId": 490,
@@ -2043,6 +2413,8 @@
     "acNumber": 8,
     "acName": "WESTERN ANGAMI",
     "partNumber": 29,
-    "partName": "SCIENCE COLLEGE (PHEZHU)"
+    "partName": "SCIENCE COLLEGE (PHEZHU)",
+    "lat": 25.6661663,
+    "lon": 94.0735460169371
   }
 ]

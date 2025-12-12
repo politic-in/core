@@ -8,7 +8,9 @@
     "acNumber": 42,
     "acName": "Tengnoupal",
     "partNumber": 1,
-    "partName": "Tollen"
+    "partName": "Tollen",
+    "lat": 24.3847802,
+    "lon": 94.1472634
   },
   {
     "partId": 3099,
@@ -19,7 +21,9 @@
     "acNumber": 42,
     "acName": "Tengnoupal",
     "partNumber": 2,
-    "partName": "Khoibu"
+    "partName": "Khoibu",
+    "lat": 24.5547023,
+    "lon": 94.1809535
   },
   {
     "partId": 3100,
@@ -30,7 +34,9 @@
     "acNumber": 42,
     "acName": "Tengnoupal",
     "partNumber": 3,
-    "partName": "Heinoukhong"
+    "partName": "Heinoukhong",
+    "lat": 24.3847802,
+    "lon": 94.1472634
   },
   {
     "partId": 3101,
@@ -41,7 +47,9 @@
     "acNumber": 42,
     "acName": "Tengnoupal",
     "partNumber": 4,
-    "partName": "Mumlo Ringpam"
+    "partName": "Mumlo Ringpam",
+    "lat": 24.3847802,
+    "lon": 94.1472634
   },
   {
     "partId": 3102,
@@ -52,7 +60,9 @@
     "acNumber": 42,
     "acName": "Tengnoupal",
     "partNumber": 5,
-    "partName": "Laiching Minou"
+    "partName": "Laiching Minou",
+    "lat": 24.3847802,
+    "lon": 94.1472634
   },
   {
     "partId": 3103,
@@ -63,7 +73,9 @@
     "acNumber": 42,
     "acName": "Tengnoupal",
     "partNumber": 6,
-    "partName": "Khangshim"
+    "partName": "Khangshim",
+    "lat": 24.3847802,
+    "lon": 94.1472634
   },
   {
     "partId": 3104,
@@ -74,7 +86,9 @@
     "acNumber": 42,
     "acName": "Tengnoupal",
     "partNumber": 7,
-    "partName": "Nungourok"
+    "partName": "Nungourok",
+    "lat": 24.3847802,
+    "lon": 94.1472634
   },
   {
     "partId": 3105,
@@ -85,7 +99,9 @@
     "acNumber": 42,
     "acName": "Tengnoupal",
     "partNumber": 8,
-    "partName": "Kangsang"
+    "partName": "Kangsang",
+    "lat": 24.4694363,
+    "lon": 94.038904
   },
   {
     "partId": 3106,
@@ -96,7 +112,9 @@
     "acNumber": 42,
     "acName": "Tengnoupal",
     "partNumber": 9,
-    "partName": "Maipouching"
+    "partName": "Maipouching",
+    "lat": 24.3847802,
+    "lon": 94.1472634
   },
   {
     "partId": 3107,
@@ -107,7 +125,9 @@
     "acNumber": 42,
     "acName": "Tengnoupal",
     "partNumber": 10,
-    "partName": "Khunbi Khunou"
+    "partName": "Khunbi Khunou",
+    "lat": 24.4712128,
+    "lon": 94.049029
   },
   {
     "partId": 3108,
@@ -118,7 +138,9 @@
     "acNumber": 42,
     "acName": "Tengnoupal",
     "partNumber": 11,
-    "partName": "Tuishimi"
+    "partName": "Tuishimi",
+    "lat": 24.3847802,
+    "lon": 94.1472634
   },
   {
     "partId": 3109,
@@ -129,7 +151,9 @@
     "acNumber": 42,
     "acName": "Tengnoupal",
     "partNumber": 12,
-    "partName": "Maringphai"
+    "partName": "Maringphai",
+    "lat": 24.3847802,
+    "lon": 94.1472634
   },
   {
     "partId": 3110,
@@ -140,7 +164,9 @@
     "acNumber": 42,
     "acName": "Tengnoupal",
     "partNumber": 13,
-    "partName": "Saibol"
+    "partName": "Saibol",
+    "lat": 24.4897134,
+    "lon": 94.3378261
   },
   {
     "partId": 3111,
@@ -151,7 +177,9 @@
     "acNumber": 42,
     "acName": "Tengnoupal",
     "partNumber": 14,
-    "partName": "Khulsaibung (A)"
+    "partName": "Khulsaibung (A)",
+    "lat": 24.51548,
+    "lon": 94.1010912
   },
   {
     "partId": 3112,
@@ -162,7 +190,9 @@
     "acNumber": 42,
     "acName": "Tengnoupal",
     "partNumber": 15,
-    "partName": "Khulsaibung (B)"
+    "partName": "Khulsaibung (B)",
+    "lat": 24.51548,
+    "lon": 94.1010912
   },
   {
     "partId": 3113,
@@ -173,7 +203,9 @@
     "acNumber": 42,
     "acName": "Tengnoupal",
     "partNumber": 16,
-    "partName": "Machi (A)"
+    "partName": "Machi (A)",
+    "lat": 24.5101466,
+    "lon": 94.1422363
   },
   {
     "partId": 3114,
@@ -184,7 +216,9 @@
     "acNumber": 42,
     "acName": "Tengnoupal",
     "partNumber": 17,
-    "partName": "Machi (B)"
+    "partName": "Machi (B)",
+    "lat": 24.5101466,
+    "lon": 94.1422363
   },
   {
     "partId": 3115,
@@ -195,7 +229,9 @@
     "acNumber": 42,
     "acName": "Tengnoupal",
     "partNumber": 18,
-    "partName": "Konaitong"
+    "partName": "Konaitong",
+    "lat": 24.5512607,
+    "lon": 94.1286326
   },
   {
     "partId": 3116,
@@ -206,7 +242,9 @@
     "acNumber": 42,
     "acName": "Tengnoupal",
     "partNumber": 19,
-    "partName": "Lamlong Khullen (A)"
+    "partName": "Lamlong Khullen (A)",
+    "lat": 24.5111174,
+    "lon": 94.1107906
   },
   {
     "partId": 3117,
@@ -217,7 +255,9 @@
     "acNumber": 42,
     "acName": "Tengnoupal",
     "partNumber": 20,
-    "partName": "Lamlong Khullen (B)"
+    "partName": "Lamlong Khullen (B)",
+    "lat": 24.5111174,
+    "lon": 94.1107906
   },
   {
     "partId": 3118,
@@ -228,7 +268,9 @@
     "acNumber": 42,
     "acName": "Tengnoupal",
     "partNumber": 21,
-    "partName": "Langol (A)"
+    "partName": "Langol (A)",
+    "lat": 24.4976629,
+    "lon": 94.0753982
   },
   {
     "partId": 3119,
@@ -239,7 +281,9 @@
     "acNumber": 42,
     "acName": "Tengnoupal",
     "partNumber": 22,
-    "partName": "Langol (B)"
+    "partName": "Langol (B)",
+    "lat": 24.4976629,
+    "lon": 94.0753982
   },
   {
     "partId": 3120,
@@ -250,7 +294,9 @@
     "acNumber": 42,
     "acName": "Tengnoupal",
     "partNumber": 23,
-    "partName": "Khunbi"
+    "partName": "Khunbi",
+    "lat": 24.4902491,
+    "lon": 94.0870923
   },
   {
     "partId": 3121,
@@ -261,7 +307,9 @@
     "acNumber": 42,
     "acName": "Tengnoupal",
     "partNumber": 24,
-    "partName": "Kangoi"
+    "partName": "Kangoi",
+    "lat": 24.460286,
+    "lon": 94.0788269
   },
   {
     "partId": 3122,
@@ -272,7 +320,9 @@
     "acNumber": 42,
     "acName": "Tengnoupal",
     "partNumber": 25,
-    "partName": "Phunchong"
+    "partName": "Phunchong",
+    "lat": 24.3847802,
+    "lon": 94.1472634
   },
   {
     "partId": 3123,
@@ -283,7 +333,9 @@
     "acNumber": 42,
     "acName": "Tengnoupal",
     "partNumber": 26,
-    "partName": "Kangoi Khuningsi"
+    "partName": "Kangoi Khuningsi",
+    "lat": 24.3847802,
+    "lon": 94.1472634
   },
   {
     "partId": 3124,
@@ -294,7 +346,9 @@
     "acNumber": 42,
     "acName": "Tengnoupal",
     "partNumber": 27,
-    "partName": "Sita"
+    "partName": "Sita",
+    "lat": 24.4552944,
+    "lon": 94.2237895
   },
   {
     "partId": 3125,
@@ -305,7 +359,9 @@
     "acNumber": 42,
     "acName": "Tengnoupal",
     "partNumber": 28,
-    "partName": "Bongli"
+    "partName": "Bongli",
+    "lat": 24.5382492,
+    "lon": 94.247913
   },
   {
     "partId": 3126,
@@ -316,7 +372,9 @@
     "acNumber": 42,
     "acName": "Tengnoupal",
     "partNumber": 29,
-    "partName": "Khudei Khullen"
+    "partName": "Khudei Khullen",
+    "lat": 24.4521489,
+    "lon": 94.152005
   },
   {
     "partId": 3127,
@@ -327,7 +385,9 @@
     "acNumber": 42,
     "acName": "Tengnoupal",
     "partNumber": 30,
-    "partName": "Aimol Khullen"
+    "partName": "Aimol Khullen",
+    "lat": 24.3847802,
+    "lon": 94.1472634
   },
   {
     "partId": 3128,
@@ -338,7 +398,9 @@
     "acNumber": 42,
     "acName": "Tengnoupal",
     "partNumber": 31,
-    "partName": "Aimol Chingnunghut"
+    "partName": "Aimol Chingnunghut",
+    "lat": 24.4498434,
+    "lon": 94.0419852
   },
   {
     "partId": 3129,
@@ -349,7 +411,9 @@
     "acNumber": 42,
     "acName": "Tengnoupal",
     "partNumber": 32,
-    "partName": "Molnom"
+    "partName": "Molnom",
+    "lat": 24.4434788,
+    "lon": 94.0461041
   },
   {
     "partId": 3130,
@@ -360,7 +424,9 @@
     "acNumber": 42,
     "acName": "Tengnoupal",
     "partNumber": 33,
-    "partName": "Molnoi"
+    "partName": "Molnoi",
+    "lat": 24.3847802,
+    "lon": 94.1472634
   },
   {
     "partId": 3131,
@@ -371,7 +437,9 @@
     "acNumber": 42,
     "acName": "Tengnoupal",
     "partNumber": 34,
-    "partName": "Phunal Sambum"
+    "partName": "Phunal Sambum",
+    "lat": 24.3847802,
+    "lon": 94.1472634
   },
   {
     "partId": 3132,
@@ -382,7 +450,9 @@
     "acNumber": 42,
     "acName": "Tengnoupal",
     "partNumber": 35,
-    "partName": "Khudei Khunou"
+    "partName": "Khudei Khunou",
+    "lat": 24.3847802,
+    "lon": 94.1472634
   },
   {
     "partId": 3133,
@@ -393,7 +463,9 @@
     "acNumber": 42,
     "acName": "Tengnoupal",
     "partNumber": 36,
-    "partName": "Purum Tampak"
+    "partName": "Purum Tampak",
+    "lat": 24.3847802,
+    "lon": 94.1472634
   },
   {
     "partId": 3134,
@@ -404,7 +476,9 @@
     "acNumber": 42,
     "acName": "Tengnoupal",
     "partNumber": 37,
-    "partName": "Komlathabi"
+    "partName": "Komlathabi",
+    "lat": 24.3847802,
+    "lon": 94.1472634
   },
   {
     "partId": 3135,
@@ -415,7 +489,9 @@
     "acNumber": 42,
     "acName": "Tengnoupal",
     "partNumber": 38,
-    "partName": "Liwa Changning"
+    "partName": "Liwa Changning",
+    "lat": 24.3847802,
+    "lon": 94.1472634
   },
   {
     "partId": 3136,
@@ -426,7 +502,9 @@
     "acNumber": 42,
     "acName": "Tengnoupal",
     "partNumber": 39,
-    "partName": "Purum Chumbang"
+    "partName": "Purum Chumbang",
+    "lat": 24.3847802,
+    "lon": 94.1472634
   },
   {
     "partId": 3137,
@@ -437,7 +515,9 @@
     "acNumber": 42,
     "acName": "Tengnoupal",
     "partNumber": 40,
-    "partName": "Saivom"
+    "partName": "Saivom",
+    "lat": 24.3847802,
+    "lon": 94.1472634
   },
   {
     "partId": 3138,
@@ -448,7 +528,9 @@
     "acNumber": 42,
     "acName": "Tengnoupal",
     "partNumber": 41,
-    "partName": "Chellep"
+    "partName": "Chellep",
+    "lat": 24.4112361,
+    "lon": 94.19454
   },
   {
     "partId": 3139,
@@ -459,7 +541,9 @@
     "acNumber": 42,
     "acName": "Tengnoupal",
     "partNumber": 42,
-    "partName": "Rilram Centre"
+    "partName": "Rilram Centre",
+    "lat": 24.3847802,
+    "lon": 94.1472634
   },
   {
     "partId": 3140,
@@ -470,7 +554,9 @@
     "acNumber": 42,
     "acName": "Tengnoupal",
     "partNumber": 43,
-    "partName": "Kambang Khulen"
+    "partName": "Kambang Khulen",
+    "lat": 24.3847802,
+    "lon": 94.1472634
   },
   {
     "partId": 3141,
@@ -481,7 +567,9 @@
     "acNumber": 42,
     "acName": "Tengnoupal",
     "partNumber": 44,
-    "partName": "Lamlong Khunou"
+    "partName": "Lamlong Khunou",
+    "lat": 24.4181016,
+    "lon": 94.321213
   },
   {
     "partId": 3168,
@@ -492,7 +580,9 @@
     "acNumber": 42,
     "acName": "Tengnoupal",
     "partNumber": 45,
-    "partName": "Satang"
+    "partName": "Satang",
+    "lat": 24.3573327,
+    "lon": 94.3534185
   },
   {
     "partId": 3142,
@@ -503,7 +593,9 @@
     "acNumber": 42,
     "acName": "Tengnoupal",
     "partNumber": 46,
-    "partName": "Leibi"
+    "partName": "Leibi",
+    "lat": 24.3952623,
+    "lon": 94.2532031
   },
   {
     "partId": 3143,
@@ -514,7 +606,9 @@
     "acNumber": 42,
     "acName": "Tengnoupal",
     "partNumber": 47,
-    "partName": "Tengnoupal (A)"
+    "partName": "Tengnoupal (A)",
+    "lat": 24.3847802,
+    "lon": 94.1472634
   },
   {
     "partId": 3169,
@@ -525,7 +619,9 @@
     "acNumber": 42,
     "acName": "Tengnoupal",
     "partNumber": 48,
-    "partName": "Tengnoupal (B)"
+    "partName": "Tengnoupal (B)",
+    "lat": 24.3847802,
+    "lon": 94.1472634
   },
   {
     "partId": 3144,
@@ -536,7 +632,9 @@
     "acNumber": 42,
     "acName": "Tengnoupal",
     "partNumber": 49,
-    "partName": "Khongkhang"
+    "partName": "Khongkhang",
+    "lat": 24.3567334,
+    "lon": 94.1925765
   },
   {
     "partId": 3145,
@@ -547,7 +645,9 @@
     "acNumber": 42,
     "acName": "Tengnoupal",
     "partNumber": 50,
-    "partName": "Angbrasu"
+    "partName": "Angbrasu",
+    "lat": 24.3847802,
+    "lon": 94.1472634
   },
   {
     "partId": 3146,
@@ -558,7 +658,9 @@
     "acNumber": 42,
     "acName": "Tengnoupal",
     "partNumber": 51,
-    "partName": "Kwatha"
+    "partName": "Kwatha",
+    "lat": 24.3359345,
+    "lon": 94.2779608
   },
   {
     "partId": 3170,
@@ -569,7 +671,9 @@
     "acNumber": 42,
     "acName": "Tengnoupal",
     "partNumber": 52,
-    "partName": "Sibong Khudengthabi"
+    "partName": "Sibong Khudengthabi",
+    "lat": 24.3847802,
+    "lon": 94.1472634
   },
   {
     "partId": 3147,
@@ -580,7 +684,9 @@
     "acNumber": 42,
     "acName": "Tengnoupal",
     "partNumber": 53,
-    "partName": "Moreh Ward No. I (A)"
+    "partName": "Moreh Ward No. I (A)",
+    "lat": 24.3847802,
+    "lon": 94.1472634
   },
   {
     "partId": 3148,
@@ -591,7 +697,9 @@
     "acNumber": 42,
     "acName": "Tengnoupal",
     "partNumber": 54,
-    "partName": "Moreh Ward No. I (B)"
+    "partName": "Moreh Ward No. I (B)",
+    "lat": 24.3847802,
+    "lon": 94.1472634
   },
   {
     "partId": 3149,
@@ -602,7 +710,9 @@
     "acNumber": 42,
     "acName": "Tengnoupal",
     "partNumber": 55,
-    "partName": "Moreh Ward No. II (A)"
+    "partName": "Moreh Ward No. II (A)",
+    "lat": 24.3847802,
+    "lon": 94.1472634
   },
   {
     "partId": 3150,
@@ -613,7 +723,9 @@
     "acNumber": 42,
     "acName": "Tengnoupal",
     "partNumber": 56,
-    "partName": "Moreh Ward No. II (B)"
+    "partName": "Moreh Ward No. II (B)",
+    "lat": 24.3847802,
+    "lon": 94.1472634
   },
   {
     "partId": 3151,
@@ -624,7 +736,9 @@
     "acNumber": 42,
     "acName": "Tengnoupal",
     "partNumber": 57,
-    "partName": "Moreh Ward No. II (C)"
+    "partName": "Moreh Ward No. II (C)",
+    "lat": 24.3847802,
+    "lon": 94.1472634
   },
   {
     "partId": 3152,
@@ -635,7 +749,9 @@
     "acNumber": 42,
     "acName": "Tengnoupal",
     "partNumber": 58,
-    "partName": "Moreh Ward No. II (D)"
+    "partName": "Moreh Ward No. II (D)",
+    "lat": 24.3847802,
+    "lon": 94.1472634
   },
   {
     "partId": 3153,
@@ -646,7 +762,9 @@
     "acNumber": 42,
     "acName": "Tengnoupal",
     "partNumber": 59,
-    "partName": "Moreh Ward No. III (A)"
+    "partName": "Moreh Ward No. III (A)",
+    "lat": 24.3847802,
+    "lon": 94.1472634
   },
   {
     "partId": 3154,
@@ -657,7 +775,9 @@
     "acNumber": 42,
     "acName": "Tengnoupal",
     "partNumber": 60,
-    "partName": "Moreh Ward No. III (B)"
+    "partName": "Moreh Ward No. III (B)",
+    "lat": 24.3847802,
+    "lon": 94.1472634
   },
   {
     "partId": 3155,
@@ -668,7 +788,9 @@
     "acNumber": 42,
     "acName": "Tengnoupal",
     "partNumber": 61,
-    "partName": "Moreh Ward No. IV"
+    "partName": "Moreh Ward No. IV",
+    "lat": 24.3847802,
+    "lon": 94.1472634
   },
   {
     "partId": 3156,
@@ -679,7 +801,9 @@
     "acNumber": 42,
     "acName": "Tengnoupal",
     "partNumber": 62,
-    "partName": "Moreh Ward No. V (A)"
+    "partName": "Moreh Ward No. V (A)",
+    "lat": 24.3847802,
+    "lon": 94.1472634
   },
   {
     "partId": 3157,
@@ -690,7 +814,9 @@
     "acNumber": 42,
     "acName": "Tengnoupal",
     "partNumber": 63,
-    "partName": "Moreh Ward No. V (B)"
+    "partName": "Moreh Ward No. V (B)",
+    "lat": 24.3847802,
+    "lon": 94.1472634
   },
   {
     "partId": 3158,
@@ -701,7 +827,9 @@
     "acNumber": 42,
     "acName": "Tengnoupal",
     "partNumber": 64,
-    "partName": "Moreh Ward No. VI"
+    "partName": "Moreh Ward No. VI",
+    "lat": 24.3847802,
+    "lon": 94.1472634
   },
   {
     "partId": 3159,
@@ -712,7 +840,9 @@
     "acNumber": 42,
     "acName": "Tengnoupal",
     "partNumber": 65,
-    "partName": "Moreh Ward No. VII (A)"
+    "partName": "Moreh Ward No. VII (A)",
+    "lat": 24.3847802,
+    "lon": 94.1472634
   },
   {
     "partId": 3160,
@@ -723,7 +853,9 @@
     "acNumber": 42,
     "acName": "Tengnoupal",
     "partNumber": 66,
-    "partName": "Moreh Ward No. VII (B)"
+    "partName": "Moreh Ward No. VII (B)",
+    "lat": 24.3847802,
+    "lon": 94.1472634
   },
   {
     "partId": 3161,
@@ -734,7 +866,9 @@
     "acNumber": 42,
     "acName": "Tengnoupal",
     "partNumber": 67,
-    "partName": "Moreh Ward No. VII (C)"
+    "partName": "Moreh Ward No. VII (C)",
+    "lat": 24.3847802,
+    "lon": 94.1472634
   },
   {
     "partId": 3162,
@@ -745,7 +879,9 @@
     "acNumber": 42,
     "acName": "Tengnoupal",
     "partNumber": 68,
-    "partName": "Moreh Ward No. VII (D)"
+    "partName": "Moreh Ward No. VII (D)",
+    "lat": 24.3847802,
+    "lon": 94.1472634
   },
   {
     "partId": 3163,
@@ -756,7 +892,9 @@
     "acNumber": 42,
     "acName": "Tengnoupal",
     "partNumber": 69,
-    "partName": "Moreh Ward No. VIII"
+    "partName": "Moreh Ward No. VIII",
+    "lat": 24.3847802,
+    "lon": 94.1472634
   },
   {
     "partId": 3164,
@@ -767,7 +905,9 @@
     "acNumber": 42,
     "acName": "Tengnoupal",
     "partNumber": 70,
-    "partName": "Moreh Ward No. IX (A)"
+    "partName": "Moreh Ward No. IX (A)",
+    "lat": 24.3847802,
+    "lon": 94.1472634
   },
   {
     "partId": 3165,
@@ -778,7 +918,9 @@
     "acNumber": 42,
     "acName": "Tengnoupal",
     "partNumber": 71,
-    "partName": "Moreh Ward No. IX (B)"
+    "partName": "Moreh Ward No. IX (B)",
+    "lat": 24.3847802,
+    "lon": 94.1472634
   },
   {
     "partId": 3166,
@@ -789,7 +931,9 @@
     "acNumber": 42,
     "acName": "Tengnoupal",
     "partNumber": 72,
-    "partName": "T. Bongmol"
+    "partName": "T. Bongmol",
+    "lat": 24.530138,
+    "lon": 94.2036449
   },
   {
     "partId": 3167,
@@ -800,7 +944,9 @@
     "acNumber": 42,
     "acName": "Tengnoupal",
     "partNumber": 73,
-    "partName": "T. Khonomjang"
+    "partName": "T. Khonomjang",
+    "lat": 24.3847802,
+    "lon": 94.1472634
   },
   {
     "partId": 3171,
@@ -811,6 +957,8 @@
     "acNumber": 42,
     "acName": "Tengnoupal",
     "partNumber": 74,
-    "partName": "D. Mounnaphai"
+    "partName": "D. Mounnaphai",
+    "lat": 24.3847802,
+    "lon": 94.1472634
   }
 ]

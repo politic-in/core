@@ -8,7 +8,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 1,
-    "partName": "Kompally"
+    "partName": "Kompally",
+    "lat": 18.0823869,
+    "lon": 78.003997
   },
   {
     "partId": 76180,
@@ -19,7 +21,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 2,
-    "partName": "Cheekod"
+    "partName": "Cheekod",
+    "lat": 18.0458792,
+    "lon": 78.2651993
   },
   {
     "partId": 75916,
@@ -30,7 +34,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 3,
-    "partName": "Kotha Lingayipalli"
+    "partName": "Kotha Lingayipalli",
+    "lat": 18.0458792,
+    "lon": 78.2651993
   },
   {
     "partId": 76181,
@@ -41,7 +47,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 4,
-    "partName": "Patha Lingayipally"
+    "partName": "Patha Lingayipally",
+    "lat": 18.0458792,
+    "lon": 78.2651993
   },
   {
     "partId": 75918,
@@ -52,7 +60,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 5,
-    "partName": "Amriya Tanda"
+    "partName": "Amriya Tanda",
+    "lat": 18.0458792,
+    "lon": 78.2651993
   },
   {
     "partId": 76182,
@@ -63,7 +73,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 6,
-    "partName": "Mallampet"
+    "partName": "Mallampet",
+    "lat": 18.0633342,
+    "lon": 78.047084
   },
   {
     "partId": 75920,
@@ -74,7 +86,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 7,
-    "partName": "Mallampet"
+    "partName": "Mallampet",
+    "lat": 18.0633342,
+    "lon": 78.047084
   },
   {
     "partId": 76183,
@@ -85,7 +99,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 8,
-    "partName": "Kandipally"
+    "partName": "Kandipally",
+    "lat": 18.0458792,
+    "lon": 78.2651993
   },
   {
     "partId": 75922,
@@ -96,7 +112,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 9,
-    "partName": "Ramathirtham"
+    "partName": "Ramathirtham",
+    "lat": 18.0621328,
+    "lon": 78.0759554
   },
   {
     "partId": 76184,
@@ -107,7 +125,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 10,
-    "partName": "Narsingraopally Thanda"
+    "partName": "Narsingraopally Thanda",
+    "lat": 18.0458792,
+    "lon": 78.2651993
   },
   {
     "partId": 75924,
@@ -118,7 +138,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 11,
-    "partName": "Arkela"
+    "partName": "Arkela",
+    "lat": 18.0273174,
+    "lon": 78.0626117
   },
   {
     "partId": 76185,
@@ -129,7 +151,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 12,
-    "partName": "Thammaipally"
+    "partName": "Thammaipally",
+    "lat": 18.0376917,
+    "lon": 78.0643769
   },
   {
     "partId": 75926,
@@ -140,7 +164,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 13,
-    "partName": "Dakya Thanda"
+    "partName": "Dakya Thanda",
+    "lat": 18.0204329,
+    "lon": 78.0390076
   },
   {
     "partId": 76572,
@@ -151,7 +177,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 14,
-    "partName": "Rajya thanda"
+    "partName": "Rajya thanda",
+    "lat": 18.0068988,
+    "lon": 78.4307795
   },
   {
     "partId": 76186,
@@ -162,7 +190,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 15,
-    "partName": "Narsingi"
+    "partName": "Narsingi",
+    "lat": 18.0440017,
+    "lon": 78.4261317
   },
   {
     "partId": 76187,
@@ -173,7 +203,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 16,
-    "partName": "Narsingi"
+    "partName": "Narsingi",
+    "lat": 18.0440017,
+    "lon": 78.4261317
   },
   {
     "partId": 76188,
@@ -184,7 +216,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 17,
-    "partName": "Papannapet"
+    "partName": "Papannapet",
+    "lat": 18.0366896,
+    "lon": 78.0886904
   },
   {
     "partId": 75928,
@@ -195,7 +229,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 18,
-    "partName": "Papannapet"
+    "partName": "Papannapet",
+    "lat": 18.0366896,
+    "lon": 78.0886904
   },
   {
     "partId": 75930,
@@ -206,7 +242,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 19,
-    "partName": "Papannapet"
+    "partName": "Papannapet",
+    "lat": 18.0366896,
+    "lon": 78.0886904
   },
   {
     "partId": 75932,
@@ -217,7 +255,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 20,
-    "partName": "Papannapet"
+    "partName": "Papannapet",
+    "lat": 18.0366896,
+    "lon": 78.0886904
   },
   {
     "partId": 76189,
@@ -228,7 +268,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 21,
-    "partName": "Papannapet"
+    "partName": "Papannapet",
+    "lat": 18.0366896,
+    "lon": 78.0886904
   },
   {
     "partId": 76190,
@@ -239,7 +281,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 22,
-    "partName": "Namapur"
+    "partName": "Namapur",
+    "lat": 18.0061685,
+    "lon": 78.0964613
   },
   {
     "partId": 76191,
@@ -250,7 +294,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 23,
-    "partName": "Minpur"
+    "partName": "Minpur",
+    "lat": 18.0566222,
+    "lon": 78.1048842
   },
   {
     "partId": 76192,
@@ -261,7 +307,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 24,
-    "partName": "Minpur"
+    "partName": "Minpur",
+    "lat": 18.0566222,
+    "lon": 78.1048842
   },
   {
     "partId": 75934,
@@ -272,7 +320,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 25,
-    "partName": "Muddapur"
+    "partName": "Muddapur",
+    "lat": 18.0618889,
+    "lon": 78.0846712
   },
   {
     "partId": 75936,
@@ -283,7 +333,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 26,
-    "partName": "Sardhana"
+    "partName": "Sardhana",
+    "lat": 18.0835431,
+    "lon": 78.1772159
   },
   {
     "partId": 75938,
@@ -294,7 +346,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 27,
-    "partName": "Sardhana"
+    "partName": "Sardhana",
+    "lat": 18.0835431,
+    "lon": 78.1772159
   },
   {
     "partId": 75940,
@@ -305,7 +359,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 28,
-    "partName": "Sardhana"
+    "partName": "Sardhana",
+    "lat": 18.0835431,
+    "lon": 78.1772159
   },
   {
     "partId": 75942,
@@ -316,7 +372,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 29,
-    "partName": "Jakkannapet"
+    "partName": "Jakkannapet",
+    "lat": 18.0996852,
+    "lon": 78.1932876
   },
   {
     "partId": 76193,
@@ -327,7 +385,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 30,
-    "partName": "Pochammaral"
+    "partName": "Pochammaral",
+    "lat": 18.0458792,
+    "lon": 78.2651993
   },
   {
     "partId": 76194,
@@ -338,7 +398,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 31,
-    "partName": "Fareedpur"
+    "partName": "Fareedpur",
+    "lat": 18.0769541,
+    "lon": 78.1991064
   },
   {
     "partId": 76195,
@@ -349,7 +411,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 32,
-    "partName": "Muthaipally"
+    "partName": "Muthaipally",
+    "lat": 18.0837716,
+    "lon": 78.2170707
   },
   {
     "partId": 75944,
@@ -360,7 +424,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 33,
-    "partName": "Boguda Bhoopathipur"
+    "partName": "Boguda Bhoopathipur",
+    "lat": 18.098895,
+    "lon": 78.2257944
   },
   {
     "partId": 75946,
@@ -371,7 +437,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 34,
-    "partName": "Kothapally"
+    "partName": "Kothapally",
+    "lat": 17.9296823,
+    "lon": 78.3347395
   },
   {
     "partId": 75948,
@@ -382,7 +450,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 35,
-    "partName": "Rajpet"
+    "partName": "Rajpet",
+    "lat": 18.1510887,
+    "lon": 78.1902008
   },
   {
     "partId": 76196,
@@ -393,7 +463,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 36,
-    "partName": "Rajpet"
+    "partName": "Rajpet",
+    "lat": 18.1510887,
+    "lon": 78.1902008
   },
   {
     "partId": 75950,
@@ -404,7 +476,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 37,
-    "partName": "Kapraipally"
+    "partName": "Kapraipally",
+    "lat": 18.0458792,
+    "lon": 78.2651993
   },
   {
     "partId": 76197,
@@ -415,7 +489,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 38,
-    "partName": "Wadi"
+    "partName": "Wadi",
+    "lat": 18.1532935,
+    "lon": 78.2151031
   },
   {
     "partId": 76573,
@@ -426,7 +502,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 39,
-    "partName": "Doop singh thanda"
+    "partName": "Doop singh thanda",
+    "lat": 18.0458792,
+    "lon": 78.2651993
   },
   {
     "partId": 75952,
@@ -437,7 +515,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 40,
-    "partName": "Burugupally"
+    "partName": "Burugupally",
+    "lat": 18.0458792,
+    "lon": 78.2651993
   },
   {
     "partId": 76198,
@@ -448,7 +528,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 41,
-    "partName": "Burugupally"
+    "partName": "Burugupally",
+    "lat": 18.0458792,
+    "lon": 78.2651993
   },
   {
     "partId": 75954,
@@ -459,7 +541,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 42,
-    "partName": "Burugupally"
+    "partName": "Burugupally",
+    "lat": 18.0458792,
+    "lon": 78.2651993
   },
   {
     "partId": 76199,
@@ -470,7 +554,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 43,
-    "partName": "Burugupally"
+    "partName": "Burugupally",
+    "lat": 18.0458792,
+    "lon": 78.2651993
   },
   {
     "partId": 75956,
@@ -481,7 +567,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 44,
-    "partName": "Gajireddypally"
+    "partName": "Gajireddypally",
+    "lat": 18.132813,
+    "lon": 78.2239303
   },
   {
     "partId": 76200,
@@ -492,7 +580,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 45,
-    "partName": "Sulthanpur"
+    "partName": "Sulthanpur",
+    "lat": 18.1141535,
+    "lon": 78.2530916
   },
   {
     "partId": 76201,
@@ -503,7 +593,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 46,
-    "partName": "Thogita"
+    "partName": "Thogita",
+    "lat": 18.0763819,
+    "lon": 78.2493768
   },
   {
     "partId": 76202,
@@ -514,7 +606,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 47,
-    "partName": "Thogita"
+    "partName": "Thogita",
+    "lat": 18.0763819,
+    "lon": 78.2493768
   },
   {
     "partId": 75958,
@@ -525,7 +619,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 48,
-    "partName": "Nagapur"
+    "partName": "Nagapur",
+    "lat": 18.1241777,
+    "lon": 78.2601119
   },
   {
     "partId": 75960,
@@ -536,7 +632,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 49,
-    "partName": "Nagapur"
+    "partName": "Nagapur",
+    "lat": 18.1241777,
+    "lon": 78.2601119
   },
   {
     "partId": 76203,
@@ -547,7 +645,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 50,
-    "partName": "HaveliGhanapur"
+    "partName": "HaveliGhanapur",
+    "lat": 18.0458792,
+    "lon": 78.2651993
   },
   {
     "partId": 76204,
@@ -558,7 +658,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 51,
-    "partName": "HaveliGhanapur"
+    "partName": "HaveliGhanapur",
+    "lat": 18.0458792,
+    "lon": 78.2651993
   },
   {
     "partId": 76205,
@@ -569,7 +671,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 52,
-    "partName": "HaveliGhanapur Thanda"
+    "partName": "HaveliGhanapur Thanda",
+    "lat": 18.0458792,
+    "lon": 78.2651993
   },
   {
     "partId": 75962,
@@ -580,7 +684,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 53,
-    "partName": "Choutlapally"
+    "partName": "Choutlapally",
+    "lat": 18.0458792,
+    "lon": 78.2651993
   },
   {
     "partId": 75964,
@@ -591,7 +697,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 54,
-    "partName": "Lingasanipally"
+    "partName": "Lingasanipally",
+    "lat": 18.110681,
+    "lon": 78.2827069
   },
   {
     "partId": 75966,
@@ -602,7 +710,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 55,
-    "partName": "Lingasanipally Thanda"
+    "partName": "Lingasanipally Thanda",
+    "lat": 18.0458792,
+    "lon": 78.2651993
   },
   {
     "partId": 76206,
@@ -613,7 +723,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 56,
-    "partName": "B. Thimmaipally"
+    "partName": "B. Thimmaipally",
+    "lat": 18.1234233,
+    "lon": 78.2791074
   },
   {
     "partId": 76207,
@@ -624,7 +736,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 57,
-    "partName": "Byathole"
+    "partName": "Byathole",
+    "lat": 18.1200495,
+    "lon": 78.2938599
   },
   {
     "partId": 76208,
@@ -635,7 +749,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 58,
-    "partName": "Shamnapur"
+    "partName": "Shamnapur",
+    "lat": 18.1096467,
+    "lon": 78.3161756
   },
   {
     "partId": 75968,
@@ -646,7 +762,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 59,
-    "partName": "Shamnapur"
+    "partName": "Shamnapur",
+    "lat": 18.1096467,
+    "lon": 78.3161756
   },
   {
     "partId": 75970,
@@ -657,7 +775,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 60,
-    "partName": "Shamnapur Thanda"
+    "partName": "Shamnapur Thanda",
+    "lat": 18.0458792,
+    "lon": 78.2651993
   },
   {
     "partId": 75972,
@@ -668,7 +788,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 61,
-    "partName": "Gangapur"
+    "partName": "Gangapur",
+    "lat": 18.1252435,
+    "lon": 78.321639
   },
   {
     "partId": 75974,
@@ -679,7 +801,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 62,
-    "partName": "Parvathapur"
+    "partName": "Parvathapur",
+    "lat": 18.1512416,
+    "lon": 78.3264486
   },
   {
     "partId": 76209,
@@ -690,7 +814,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 63,
-    "partName": "Kishan Thanda"
+    "partName": "Kishan Thanda",
+    "lat": 18.1583729,
+    "lon": 78.3298784
   },
   {
     "partId": 76210,
@@ -701,7 +827,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 64,
-    "partName": "Danthepally"
+    "partName": "Danthepally",
+    "lat": 18.0458792,
+    "lon": 78.2651993
   },
   {
     "partId": 76211,
@@ -712,7 +840,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 65,
-    "partName": "Katriyal"
+    "partName": "Katriyal",
+    "lat": 18.0458792,
+    "lon": 78.2651993
   },
   {
     "partId": 75976,
@@ -723,7 +853,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 66,
-    "partName": "Katriyal"
+    "partName": "Katriyal",
+    "lat": 18.0458792,
+    "lon": 78.2651993
   },
   {
     "partId": 75978,
@@ -734,7 +866,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 67,
-    "partName": "Laxmapur"
+    "partName": "Laxmapur",
+    "lat": 18.1253275,
+    "lon": 78.3678818
   },
   {
     "partId": 75980,
@@ -745,7 +879,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 68,
-    "partName": "Laxmapur"
+    "partName": "Laxmapur",
+    "lat": 18.1253275,
+    "lon": 78.3678818
   },
   {
     "partId": 76212,
@@ -756,7 +892,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 69,
-    "partName": "Thonigandla"
+    "partName": "Thonigandla",
+    "lat": 18.1197076,
+    "lon": 78.3702596
   },
   {
     "partId": 75982,
@@ -767,7 +905,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 70,
-    "partName": "Akkannapet"
+    "partName": "Akkannapet",
+    "lat": 18.1133592,
+    "lon": 78.399529
   },
   {
     "partId": 76213,
@@ -778,7 +918,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 71,
-    "partName": "Akkannapet"
+    "partName": "Akkannapet",
+    "lat": 18.1133592,
+    "lon": 78.399529
   },
   {
     "partId": 75984,
@@ -789,7 +931,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 72,
-    "partName": "Akkannapet"
+    "partName": "Akkannapet",
+    "lat": 18.1133592,
+    "lon": 78.399529
   },
   {
     "partId": 76214,
@@ -800,7 +944,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 73,
-    "partName": "Akkannapet"
+    "partName": "Akkannapet",
+    "lat": 18.1133592,
+    "lon": 78.399529
   },
   {
     "partId": 75986,
@@ -811,7 +957,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 74,
-    "partName": "Jansi Lingapur"
+    "partName": "Jansi Lingapur",
+    "lat": 18.0458792,
+    "lon": 78.2651993
   },
   {
     "partId": 76215,
@@ -822,7 +970,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 75,
-    "partName": "Jansi Lingapur"
+    "partName": "Jansi Lingapur",
+    "lat": 18.0458792,
+    "lon": 78.2651993
   },
   {
     "partId": 75988,
@@ -833,7 +983,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 76,
-    "partName": "Ramayampet"
+    "partName": "Ramayampet",
+    "lat": 18.1163712,
+    "lon": 78.4307212
   },
   {
     "partId": 76216,
@@ -844,7 +996,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 77,
-    "partName": "Ramayampet"
+    "partName": "Ramayampet",
+    "lat": 18.1163712,
+    "lon": 78.4307212
   },
   {
     "partId": 76217,
@@ -855,7 +1009,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 78,
-    "partName": "Ramayampet"
+    "partName": "Ramayampet",
+    "lat": 18.1163712,
+    "lon": 78.4307212
   },
   {
     "partId": 76218,
@@ -866,7 +1022,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 79,
-    "partName": "Ramayampet"
+    "partName": "Ramayampet",
+    "lat": 18.1163712,
+    "lon": 78.4307212
   },
   {
     "partId": 75990,
@@ -877,7 +1035,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 80,
-    "partName": "Ramayampet"
+    "partName": "Ramayampet",
+    "lat": 18.1163712,
+    "lon": 78.4307212
   },
   {
     "partId": 75992,
@@ -888,7 +1048,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 81,
-    "partName": "Dhamarachervu"
+    "partName": "Dhamarachervu",
+    "lat": 18.0458792,
+    "lon": 78.2651993
   },
   {
     "partId": 75994,
@@ -899,7 +1061,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 82,
-    "partName": "Ramayampet"
+    "partName": "Ramayampet",
+    "lat": 18.1163712,
+    "lon": 78.4307212
   },
   {
     "partId": 75996,
@@ -910,7 +1074,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 83,
-    "partName": "Ramayampet"
+    "partName": "Ramayampet",
+    "lat": 18.1163712,
+    "lon": 78.4307212
   },
   {
     "partId": 76219,
@@ -921,7 +1087,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 84,
-    "partName": "Ramayampet"
+    "partName": "Ramayampet",
+    "lat": 18.1163712,
+    "lon": 78.4307212
   },
   {
     "partId": 76220,
@@ -932,7 +1100,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 85,
-    "partName": "Ramayampet"
+    "partName": "Ramayampet",
+    "lat": 18.1163712,
+    "lon": 78.4307212
   },
   {
     "partId": 76221,
@@ -943,7 +1113,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 86,
-    "partName": "Ramayampet"
+    "partName": "Ramayampet",
+    "lat": 18.1163712,
+    "lon": 78.4307212
   },
   {
     "partId": 76222,
@@ -954,7 +1126,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 87,
-    "partName": "Ramayampet"
+    "partName": "Ramayampet",
+    "lat": 18.1163712,
+    "lon": 78.4307212
   },
   {
     "partId": 75998,
@@ -965,7 +1139,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 88,
-    "partName": "Ramayampet"
+    "partName": "Ramayampet",
+    "lat": 18.1163712,
+    "lon": 78.4307212
   },
   {
     "partId": 76000,
@@ -976,7 +1152,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 89,
-    "partName": "Komatpally"
+    "partName": "Komatpally",
+    "lat": 18.0458792,
+    "lon": 78.2651993
   },
   {
     "partId": 76002,
@@ -987,7 +1165,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 90,
-    "partName": "Golparthy"
+    "partName": "Golparthy",
+    "lat": 18.0458792,
+    "lon": 78.2651993
   },
   {
     "partId": 76004,
@@ -998,7 +1178,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 91,
-    "partName": "Konapur"
+    "partName": "Konapur",
+    "lat": 18.119502,
+    "lon": 78.478527
   },
   {
     "partId": 76223,
@@ -1009,7 +1191,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 92,
-    "partName": "Konapur"
+    "partName": "Konapur",
+    "lat": 18.119502,
+    "lon": 78.478527
   },
   {
     "partId": 76224,
@@ -1020,7 +1204,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 93,
-    "partName": "Chelmeda"
+    "partName": "Chelmeda",
+    "lat": 18.1388026,
+    "lon": 78.5096365
   },
   {
     "partId": 76225,
@@ -1031,7 +1217,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 94,
-    "partName": "Chelmeda"
+    "partName": "Chelmeda",
+    "lat": 18.1388026,
+    "lon": 78.5096365
   },
   {
     "partId": 76005,
@@ -1042,7 +1230,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 95,
-    "partName": "Chelmeda"
+    "partName": "Chelmeda",
+    "lat": 18.050404878413282,
+    "lon": 78.28514587180536
   },
   {
     "partId": 76006,
@@ -1053,7 +1243,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 96,
-    "partName": "Chelmada"
+    "partName": "Chelmada",
+    "lat": 18.0458792,
+    "lon": 78.2651993
   },
   {
     "partId": 76007,
@@ -1064,7 +1256,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 97,
-    "partName": "Naskal"
+    "partName": "Naskal",
+    "lat": 18.050404878413282,
+    "lon": 78.28514587180536
   },
   {
     "partId": 76226,
@@ -1075,7 +1269,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 98,
-    "partName": "Naskal"
+    "partName": "Naskal",
+    "lat": 18.050404878413282,
+    "lon": 78.28514587180536
   },
   {
     "partId": 76227,
@@ -1086,7 +1282,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 99,
-    "partName": "Nandhagokul"
+    "partName": "Nandhagokul",
+    "lat": 18.0458792,
+    "lon": 78.2651993
   },
   {
     "partId": 76228,
@@ -1097,7 +1295,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 100,
-    "partName": "Naskal"
+    "partName": "Naskal",
+    "lat": 18.0458792,
+    "lon": 78.2651993
   },
   {
     "partId": 76008,
@@ -1108,7 +1308,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 101,
-    "partName": "Naagaram (Lt)"
+    "partName": "Naagaram (Lt)",
+    "lat": 18.0458792,
+    "lon": 78.2651993
   },
   {
     "partId": 76009,
@@ -1119,7 +1321,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 102,
-    "partName": "Rampur"
+    "partName": "Rampur",
+    "lat": 18.1755582,
+    "lon": 78.5701632
   },
   {
     "partId": 76229,
@@ -1130,7 +1334,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 103,
-    "partName": "Nizampet"
+    "partName": "Nizampet",
+    "lat": 18.1287229,
+    "lon": 78.5317325
   },
   {
     "partId": 76230,
@@ -1141,7 +1347,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 104,
-    "partName": "Nizampet"
+    "partName": "Nizampet",
+    "lat": 18.1287229,
+    "lon": 78.5317325
   },
   {
     "partId": 76231,
@@ -1152,7 +1360,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 105,
-    "partName": "Nizampet"
+    "partName": "Nizampet",
+    "lat": 18.1287229,
+    "lon": 78.5317325
   },
   {
     "partId": 76010,
@@ -1163,7 +1373,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 106,
-    "partName": "Nizampet"
+    "partName": "Nizampet",
+    "lat": 18.1287229,
+    "lon": 78.5317325
   },
   {
     "partId": 76011,
@@ -1174,7 +1386,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 107,
-    "partName": "Nizampet"
+    "partName": "Nizampet",
+    "lat": 18.1287229,
+    "lon": 78.5317325
   },
   {
     "partId": 76012,
@@ -1185,7 +1399,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 108,
-    "partName": "Nandigama"
+    "partName": "Nandigama",
+    "lat": 18.1240734,
+    "lon": 78.5123777
   },
   {
     "partId": 76232,
@@ -1196,7 +1412,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 109,
-    "partName": "Nandigama"
+    "partName": "Nandigama",
+    "lat": 18.1240734,
+    "lon": 78.5123777
   },
   {
     "partId": 76233,
@@ -1207,7 +1425,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 110,
-    "partName": "Bachurajpally"
+    "partName": "Bachurajpally",
+    "lat": 18.0458792,
+    "lon": 78.2651993
   },
   {
     "partId": 76234,
@@ -1218,7 +1438,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 111,
-    "partName": "Jadcheruvu Thanda"
+    "partName": "Jadcheruvu Thanda",
+    "lat": 18.0458792,
+    "lon": 78.2651993
   },
   {
     "partId": 76013,
@@ -1229,7 +1451,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 112,
-    "partName": "Railapur"
+    "partName": "Railapur",
+    "lat": 17.8440718,
+    "lon": 78.2272031
   },
   {
     "partId": 76014,
@@ -1240,7 +1464,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 113,
-    "partName": "Sutarpalli"
+    "partName": "Sutarpalli",
+    "lat": 18.0458792,
+    "lon": 78.2651993
   },
   {
     "partId": 76015,
@@ -1251,7 +1477,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 114,
-    "partName": "Railapur"
+    "partName": "Railapur",
+    "lat": 17.8440718,
+    "lon": 78.2272031
   },
   {
     "partId": 76016,
@@ -1262,7 +1490,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 115,
-    "partName": "Venkatapur (R)"
+    "partName": "Venkatapur (R)",
+    "lat": 18.091481,
+    "lon": 78.4654796
   },
   {
     "partId": 76235,
@@ -1273,7 +1503,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 116,
-    "partName": "Japti Shivanoor"
+    "partName": "Japti Shivanoor",
+    "lat": 18.0458792,
+    "lon": 78.2651993
   },
   {
     "partId": 76236,
@@ -1284,7 +1516,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 117,
-    "partName": "Japti Shivanoor"
+    "partName": "Japti Shivanoor",
+    "lat": 18.0458792,
+    "lon": 78.2651993
   },
   {
     "partId": 76237,
@@ -1295,7 +1529,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 118,
-    "partName": "Shankapur"
+    "partName": "Shankapur",
+    "lat": 18.0687632,
+    "lon": 78.4036179
   },
   {
     "partId": 76238,
@@ -1306,7 +1542,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 119,
-    "partName": "Shankapur"
+    "partName": "Shankapur",
+    "lat": 18.0687632,
+    "lon": 78.4036179
   },
   {
     "partId": 76017,
@@ -1317,7 +1555,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 120,
-    "partName": "Khajapur"
+    "partName": "Khajapur",
+    "lat": 18.0584177,
+    "lon": 78.3882824
   },
   {
     "partId": 76018,
@@ -1328,7 +1568,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 121,
-    "partName": "Khajapur"
+    "partName": "Khajapur",
+    "lat": 18.0584177,
+    "lon": 78.3882824
   },
   {
     "partId": 76019,
@@ -1339,7 +1581,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 122,
-    "partName": "Khajapur Thanda"
+    "partName": "Khajapur Thanda",
+    "lat": 18.0676966,
+    "lon": 78.391386
   },
   {
     "partId": 76020,
@@ -1350,7 +1594,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 123,
-    "partName": "Thimmanagar"
+    "partName": "Thimmanagar",
+    "lat": 18.0594209,
+    "lon": 78.3248952
   },
   {
     "partId": 76239,
@@ -1361,7 +1607,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 124,
-    "partName": "Thimmanagar"
+    "partName": "Thimmanagar",
+    "lat": 18.0594209,
+    "lon": 78.3248952
   },
   {
     "partId": 76240,
@@ -1372,7 +1620,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 125,
-    "partName": "Maktha Boopathipur"
+    "partName": "Maktha Boopathipur",
+    "lat": 18.0458792,
+    "lon": 78.2651993
   },
   {
     "partId": 76241,
@@ -1383,7 +1633,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 126,
-    "partName": "Maktha Boopathipur"
+    "partName": "Maktha Boopathipur",
+    "lat": 18.0458792,
+    "lon": 78.2651993
   },
   {
     "partId": 76021,
@@ -1394,7 +1646,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 127,
-    "partName": "Rayanpally"
+    "partName": "Rayanpally",
+    "lat": 18.0458792,
+    "lon": 78.2651993
   },
   {
     "partId": 76242,
@@ -1405,7 +1659,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 128,
-    "partName": "Malkapur Thanda"
+    "partName": "Malkapur Thanda",
+    "lat": 18.0458792,
+    "lon": 78.2651993
   },
   {
     "partId": 76022,
@@ -1416,7 +1672,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 129,
-    "partName": "Shivaipally"
+    "partName": "Shivaipally",
+    "lat": 18.0565678,
+    "lon": 77.912619
   },
   {
     "partId": 76243,
@@ -1427,7 +1685,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 130,
-    "partName": "Venkatapur"
+    "partName": "Venkatapur",
+    "lat": 18.0134252,
+    "lon": 78.0480923
   },
   {
     "partId": 76023,
@@ -1438,7 +1698,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 131,
-    "partName": "Guttakindipally"
+    "partName": "Guttakindipally",
+    "lat": 18.0458792,
+    "lon": 78.2651993
   },
   {
     "partId": 76244,
@@ -1449,7 +1711,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 132,
-    "partName": "Medak"
+    "partName": "Medak",
+    "lat": 18.0458792,
+    "lon": 78.2651993
   },
   {
     "partId": 76571,
@@ -1460,7 +1724,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 133,
-    "partName": "Medak"
+    "partName": "Medak",
+    "lat": 18.0458792,
+    "lon": 78.2651993
   },
   {
     "partId": 76024,
@@ -1471,7 +1737,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 134,
-    "partName": "Medak"
+    "partName": "Medak",
+    "lat": 18.0458792,
+    "lon": 78.2651993
   },
   {
     "partId": 76245,
@@ -1482,7 +1750,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 135,
-    "partName": "Medak"
+    "partName": "Medak",
+    "lat": 18.0458792,
+    "lon": 78.2651993
   },
   {
     "partId": 76025,
@@ -1493,7 +1763,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 136,
-    "partName": "Medak"
+    "partName": "Medak",
+    "lat": 18.0458792,
+    "lon": 78.2651993
   },
   {
     "partId": 76026,
@@ -1504,7 +1776,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 137,
-    "partName": "Medak"
+    "partName": "Medak",
+    "lat": 18.0458792,
+    "lon": 78.2651993
   },
   {
     "partId": 76027,
@@ -1515,7 +1789,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 138,
-    "partName": "Medak"
+    "partName": "Medak",
+    "lat": 18.0458792,
+    "lon": 78.2651993
   },
   {
     "partId": 76246,
@@ -1526,7 +1802,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 139,
-    "partName": "Medak"
+    "partName": "Medak",
+    "lat": 18.0458792,
+    "lon": 78.2651993
   },
   {
     "partId": 76247,
@@ -1537,7 +1815,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 140,
-    "partName": "Medak"
+    "partName": "Medak",
+    "lat": 18.0458792,
+    "lon": 78.2651993
   },
   {
     "partId": 76248,
@@ -1548,7 +1828,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 141,
-    "partName": "Medak"
+    "partName": "Medak",
+    "lat": 18.0458792,
+    "lon": 78.2651993
   },
   {
     "partId": 76028,
@@ -1559,7 +1841,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 142,
-    "partName": "Medak"
+    "partName": "Medak",
+    "lat": 18.0458792,
+    "lon": 78.2651993
   },
   {
     "partId": 76029,
@@ -1570,7 +1854,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 143,
-    "partName": "Medak"
+    "partName": "Medak",
+    "lat": 18.0458792,
+    "lon": 78.2651993
   },
   {
     "partId": 76030,
@@ -1581,7 +1867,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 144,
-    "partName": "Medak"
+    "partName": "Medak",
+    "lat": 18.0458792,
+    "lon": 78.2651993
   },
   {
     "partId": 76031,
@@ -1592,7 +1880,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 145,
-    "partName": "Medak"
+    "partName": "Medak",
+    "lat": 18.0458792,
+    "lon": 78.2651993
   },
   {
     "partId": 76249,
@@ -1603,7 +1893,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 146,
-    "partName": "Medak"
+    "partName": "Medak",
+    "lat": 18.0458792,
+    "lon": 78.2651993
   },
   {
     "partId": 76250,
@@ -1614,7 +1906,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 147,
-    "partName": "Medak"
+    "partName": "Medak",
+    "lat": 18.0458792,
+    "lon": 78.2651993
   },
   {
     "partId": 76251,
@@ -1625,7 +1919,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 148,
-    "partName": "Medak"
+    "partName": "Medak",
+    "lat": 18.0458792,
+    "lon": 78.2651993
   },
   {
     "partId": 76032,
@@ -1636,7 +1932,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 149,
-    "partName": "Medak"
+    "partName": "Medak",
+    "lat": 18.0458792,
+    "lon": 78.2651993
   },
   {
     "partId": 76033,
@@ -1647,7 +1945,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 150,
-    "partName": "Medak"
+    "partName": "Medak",
+    "lat": 18.0458792,
+    "lon": 78.2651993
   },
   {
     "partId": 76034,
@@ -1658,7 +1958,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 151,
-    "partName": "Medak"
+    "partName": "Medak",
+    "lat": 18.0458792,
+    "lon": 78.2651993
   },
   {
     "partId": 76252,
@@ -1669,7 +1971,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 152,
-    "partName": "Medak"
+    "partName": "Medak",
+    "lat": 18.0458792,
+    "lon": 78.2651993
   },
   {
     "partId": 76253,
@@ -1680,7 +1984,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 153,
-    "partName": "Medak"
+    "partName": "Medak",
+    "lat": 18.0458792,
+    "lon": 78.2651993
   },
   {
     "partId": 76254,
@@ -1691,7 +1997,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 154,
-    "partName": "Medak"
+    "partName": "Medak",
+    "lat": 18.0458792,
+    "lon": 78.2651993
   },
   {
     "partId": 76035,
@@ -1702,7 +2010,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 155,
-    "partName": "Medak"
+    "partName": "Medak",
+    "lat": 18.0458792,
+    "lon": 78.2651993
   },
   {
     "partId": 76036,
@@ -1713,7 +2023,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 156,
-    "partName": "Medak"
+    "partName": "Medak",
+    "lat": 18.0458792,
+    "lon": 78.2651993
   },
   {
     "partId": 76255,
@@ -1724,7 +2036,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 157,
-    "partName": "Medak"
+    "partName": "Medak",
+    "lat": 18.0458792,
+    "lon": 78.2651993
   },
   {
     "partId": 76256,
@@ -1735,7 +2049,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 158,
-    "partName": "Medak"
+    "partName": "Medak",
+    "lat": 18.0458792,
+    "lon": 78.2651993
   },
   {
     "partId": 76257,
@@ -1746,7 +2062,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 159,
-    "partName": "Medak"
+    "partName": "Medak",
+    "lat": 18.0458792,
+    "lon": 78.2651993
   },
   {
     "partId": 76037,
@@ -1757,7 +2075,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 160,
-    "partName": "Pillikottal,Medak"
+    "partName": "Pillikottal,Medak",
+    "lat": 18.0458792,
+    "lon": 78.2651993
   },
   {
     "partId": 76258,
@@ -1768,7 +2088,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 161,
-    "partName": "Medak"
+    "partName": "Medak",
+    "lat": 18.0458792,
+    "lon": 78.2651993
   },
   {
     "partId": 76038,
@@ -1779,7 +2101,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 162,
-    "partName": "Medak"
+    "partName": "Medak",
+    "lat": 18.0458792,
+    "lon": 78.2651993
   },
   {
     "partId": 76259,
@@ -1790,7 +2114,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 163,
-    "partName": "Medak"
+    "partName": "Medak",
+    "lat": 18.0458792,
+    "lon": 78.2651993
   },
   {
     "partId": 76039,
@@ -1801,7 +2127,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 164,
-    "partName": "Medak"
+    "partName": "Medak",
+    "lat": 18.0458792,
+    "lon": 78.2651993
   },
   {
     "partId": 76260,
@@ -1812,7 +2140,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 165,
-    "partName": "Medak"
+    "partName": "Medak",
+    "lat": 18.0458792,
+    "lon": 78.2651993
   },
   {
     "partId": 76168,
@@ -1823,7 +2153,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 166,
-    "partName": "Medak"
+    "partName": "Medak",
+    "lat": 18.0458792,
+    "lon": 78.2651993
   },
   {
     "partId": 76261,
@@ -1834,7 +2166,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 167,
-    "partName": "Maqdumpur"
+    "partName": "Maqdumpur",
+    "lat": 18.0508685,
+    "lon": 78.2279779
   },
   {
     "partId": 76169,
@@ -1845,7 +2179,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 168,
-    "partName": "Kuchanpally"
+    "partName": "Kuchanpally",
+    "lat": 18.0676155,
+    "lon": 78.22949
   },
   {
     "partId": 76170,
@@ -1856,7 +2192,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 169,
-    "partName": "Kuchanpally"
+    "partName": "Kuchanpally",
+    "lat": 18.0676155,
+    "lon": 78.22949
   },
   {
     "partId": 76171,
@@ -1867,7 +2205,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 170,
-    "partName": "Kurthiwada"
+    "partName": "Kurthiwada",
+    "lat": 18.0629593,
+    "lon": 78.1153295
   },
   {
     "partId": 76262,
@@ -1878,7 +2218,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 171,
-    "partName": "Doulapur"
+    "partName": "Doulapur",
+    "lat": 18.0363621,
+    "lon": 78.1152203
   },
   {
     "partId": 76263,
@@ -1889,7 +2231,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 172,
-    "partName": "Kurthiwada"
+    "partName": "Kurthiwada",
+    "lat": 18.0629593,
+    "lon": 78.1153295
   },
   {
     "partId": 76264,
@@ -1900,7 +2244,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 173,
-    "partName": "Kurthiwada"
+    "partName": "Kurthiwada",
+    "lat": 18.0629593,
+    "lon": 78.1153295
   },
   {
     "partId": 76172,
@@ -1911,7 +2257,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 174,
-    "partName": "Yousufpet"
+    "partName": "Yousufpet",
+    "lat": 18.050404878413282,
+    "lon": 78.28514587180536
   },
   {
     "partId": 76173,
@@ -1922,7 +2270,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 175,
-    "partName": "Yousfupet"
+    "partName": "Yousfupet",
+    "lat": 18.0458792,
+    "lon": 78.2651993
   },
   {
     "partId": 76174,
@@ -1933,7 +2283,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 176,
-    "partName": "Yousfupet"
+    "partName": "Yousfupet",
+    "lat": 18.0458792,
+    "lon": 78.2651993
   },
   {
     "partId": 76175,
@@ -1944,7 +2296,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 177,
-    "partName": "Yousufpet"
+    "partName": "Yousufpet",
+    "lat": 18.0458792,
+    "lon": 78.2651993
   },
   {
     "partId": 76176,
@@ -1955,7 +2309,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 178,
-    "partName": "Bacharam"
+    "partName": "Bacharam",
+    "lat": 18.050404878413282,
+    "lon": 78.28514587180536
   },
   {
     "partId": 76265,
@@ -1966,7 +2322,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 179,
-    "partName": "Seethanagar"
+    "partName": "Seethanagar",
+    "lat": 18.0021878,
+    "lon": 77.9193422
   },
   {
     "partId": 76266,
@@ -1977,7 +2335,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 180,
-    "partName": "Gajulagudem"
+    "partName": "Gajulagudem",
+    "lat": 17.9845134,
+    "lon": 78.1174308
   },
   {
     "partId": 76267,
@@ -1988,7 +2348,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 181,
-    "partName": "Chitriyal"
+    "partName": "Chitriyal",
+    "lat": 18.0458792,
+    "lon": 78.2651993
   },
   {
     "partId": 76268,
@@ -1999,7 +2361,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 182,
-    "partName": "Enkepally"
+    "partName": "Enkepally",
+    "lat": 18.0458792,
+    "lon": 78.2651993
   },
   {
     "partId": 76177,
@@ -2010,7 +2374,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 183,
-    "partName": "Kodpak"
+    "partName": "Kodpak",
+    "lat": 17.9802994,
+    "lon": 78.1378227
   },
   {
     "partId": 76178,
@@ -2021,7 +2387,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 184,
-    "partName": "Kodapak"
+    "partName": "Kodapak",
+    "lat": 18.0458792,
+    "lon": 78.2651993
   },
   {
     "partId": 76179,
@@ -2032,7 +2400,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 185,
-    "partName": "Kodpak"
+    "partName": "Kodpak",
+    "lat": 17.9802994,
+    "lon": 78.1378227
   },
   {
     "partId": 76269,
@@ -2043,7 +2413,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 186,
-    "partName": "Sheripally"
+    "partName": "Sheripally",
+    "lat": 18.0282967,
+    "lon": 78.4149009
   },
   {
     "partId": 76270,
@@ -2054,7 +2426,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 187,
-    "partName": "Ablapur"
+    "partName": "Ablapur",
+    "lat": 18.011382,
+    "lon": 78.1390495
   },
   {
     "partId": 76271,
@@ -2065,7 +2439,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 188,
-    "partName": "Annaram"
+    "partName": "Annaram",
+    "lat": 18.0197119,
+    "lon": 78.1366112
   },
   {
     "partId": 75917,
@@ -2076,7 +2452,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 189,
-    "partName": "Annaram"
+    "partName": "Annaram",
+    "lat": 18.0197119,
+    "lon": 78.1366112
   },
   {
     "partId": 76272,
@@ -2087,7 +2465,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 190,
-    "partName": "Kothapally"
+    "partName": "Kothapally",
+    "lat": 17.9296823,
+    "lon": 78.3347395
   },
   {
     "partId": 75919,
@@ -2098,7 +2478,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 191,
-    "partName": "Kothapally"
+    "partName": "Kothapally",
+    "lat": 17.9296823,
+    "lon": 78.3347395
   },
   {
     "partId": 76273,
@@ -2109,7 +2491,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 192,
-    "partName": "Laxminagar"
+    "partName": "Laxminagar",
+    "lat": 18.0420074,
+    "lon": 78.1661726
   },
   {
     "partId": 75921,
@@ -2120,7 +2504,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 193,
-    "partName": "Nagsanpally"
+    "partName": "Nagsanpally",
+    "lat": 18.0079182,
+    "lon": 78.1605993
   },
   {
     "partId": 76274,
@@ -2131,7 +2517,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 194,
-    "partName": "Nagsanpally"
+    "partName": "Nagsanpally",
+    "lat": 18.0079182,
+    "lon": 78.1605993
   },
   {
     "partId": 75923,
@@ -2142,7 +2530,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 195,
-    "partName": "Yellapur"
+    "partName": "Yellapur",
+    "lat": 17.6974005,
+    "lon": 78.2426351
   },
   {
     "partId": 76275,
@@ -2153,7 +2543,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 196,
-    "partName": "Yellapur"
+    "partName": "Yellapur",
+    "lat": 17.6974005,
+    "lon": 78.2426351
   },
   {
     "partId": 75925,
@@ -2164,7 +2556,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 197,
-    "partName": "Podchanpally"
+    "partName": "Podchanpally",
+    "lat": 18.0398534,
+    "lon": 78.1701589
   },
   {
     "partId": 76276,
@@ -2175,7 +2569,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 198,
-    "partName": "Podchanpally"
+    "partName": "Podchanpally",
+    "lat": 18.0398534,
+    "lon": 78.1701589
   },
   {
     "partId": 75927,
@@ -2186,7 +2582,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 199,
-    "partName": "Podchanpally"
+    "partName": "Podchanpally",
+    "lat": 18.0398534,
+    "lon": 78.1701589
   },
   {
     "partId": 76277,
@@ -2197,7 +2595,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 200,
-    "partName": "Podchanpally"
+    "partName": "Podchanpally",
+    "lat": 18.0398534,
+    "lon": 78.1701589
   },
   {
     "partId": 75929,
@@ -2208,7 +2608,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 201,
-    "partName": "Podchanpally Thanda"
+    "partName": "Podchanpally Thanda",
+    "lat": 18.0398534,
+    "lon": 78.1701589
   },
   {
     "partId": 75931,
@@ -2219,7 +2621,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 202,
-    "partName": "Gandharpally"
+    "partName": "Gandharpally",
+    "lat": 18.0458792,
+    "lon": 78.2651993
   },
   {
     "partId": 75933,
@@ -2230,7 +2634,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 203,
-    "partName": "Jayapuram"
+    "partName": "Jayapuram",
+    "lat": 18.0623073,
+    "lon": 78.1667248
   },
   {
     "partId": 76278,
@@ -2241,7 +2647,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 204,
-    "partName": "Perur"
+    "partName": "Perur",
+    "lat": 18.0272313,
+    "lon": 78.2164491
   },
   {
     "partId": 76279,
@@ -2252,7 +2660,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 205,
-    "partName": "Ryalamadgu"
+    "partName": "Ryalamadgu",
+    "lat": 18.0458792,
+    "lon": 78.2651993
   },
   {
     "partId": 76280,
@@ -2263,7 +2673,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 206,
-    "partName": "Machavaram"
+    "partName": "Machavaram",
+    "lat": 18.0184904,
+    "lon": 78.2404718
   },
   {
     "partId": 75935,
@@ -2274,7 +2686,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 207,
-    "partName": "Machavaram"
+    "partName": "Machavaram",
+    "lat": 18.0184904,
+    "lon": 78.2404718
   },
   {
     "partId": 75937,
@@ -2285,7 +2699,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 208,
-    "partName": "Mambojipally"
+    "partName": "Mambojipally",
+    "lat": 18.0217443,
+    "lon": 78.2517153
   },
   {
     "partId": 75939,
@@ -2296,7 +2712,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 209,
-    "partName": "Mambojipally"
+    "partName": "Mambojipally",
+    "lat": 18.0217443,
+    "lon": 78.2517153
   },
   {
     "partId": 75941,
@@ -2307,7 +2725,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 210,
-    "partName": "Chityala"
+    "partName": "Chityala",
+    "lat": 18.009645,
+    "lon": 78.2598062
   },
   {
     "partId": 76281,
@@ -2318,7 +2738,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 211,
-    "partName": "Janakampally"
+    "partName": "Janakampally",
+    "lat": 18.0019973,
+    "lon": 78.2694998
   },
   {
     "partId": 76282,
@@ -2329,7 +2751,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 212,
-    "partName": "Maddulwai"
+    "partName": "Maddulwai",
+    "lat": 18.0458792,
+    "lon": 78.2651993
   },
   {
     "partId": 76283,
@@ -2340,7 +2764,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 213,
-    "partName": "Madulwai"
+    "partName": "Madulwai",
+    "lat": 18.0706838,
+    "lon": 78.2459995
   },
   {
     "partId": 76284,
@@ -2351,7 +2777,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 214,
-    "partName": "Aurangabad"
+    "partName": "Aurangabad",
+    "lat": 18.078477,
+    "lon": 78.2698824
   },
   {
     "partId": 75943,
@@ -2362,7 +2790,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 215,
-    "partName": "Aurangabad Thada"
+    "partName": "Aurangabad Thada",
+    "lat": 18.0458792,
+    "lon": 78.2651993
   },
   {
     "partId": 75945,
@@ -2373,7 +2803,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 216,
-    "partName": "Ausulapally"
+    "partName": "Ausulapally",
+    "lat": 18.0762196,
+    "lon": 78.2879989
   },
   {
     "partId": 75947,
@@ -2384,7 +2816,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 217,
-    "partName": "Ausulapally"
+    "partName": "Ausulapally",
+    "lat": 18.0762196,
+    "lon": 78.2879989
   },
   {
     "partId": 76285,
@@ -2395,7 +2829,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 218,
-    "partName": "Pathur"
+    "partName": "Pathur",
+    "lat": 18.0907604,
+    "lon": 78.3175024
   },
   {
     "partId": 76286,
@@ -2406,7 +2842,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 219,
-    "partName": "Pathur"
+    "partName": "Pathur",
+    "lat": 18.0907604,
+    "lon": 78.3175024
   },
   {
     "partId": 76287,
@@ -2417,7 +2855,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 220,
-    "partName": "Shivaipally"
+    "partName": "Shivaipally",
+    "lat": 18.0565678,
+    "lon": 77.912619
   },
   {
     "partId": 75949,
@@ -2428,7 +2868,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 221,
-    "partName": "Thippannagulla"
+    "partName": "Thippannagulla",
+    "lat": 18.0458792,
+    "lon": 78.2651993
   },
   {
     "partId": 76288,
@@ -2439,7 +2881,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 222,
-    "partName": "Thippannagulla"
+    "partName": "Thippannagulla",
+    "lat": 18.0458792,
+    "lon": 78.2651993
   },
   {
     "partId": 75951,
@@ -2450,7 +2894,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 223,
-    "partName": "Razakpally"
+    "partName": "Razakpally",
+    "lat": 18.1079621,
+    "lon": 78.5458088
   },
   {
     "partId": 76289,
@@ -2461,7 +2907,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 224,
-    "partName": "Kalvakunta"
+    "partName": "Kalvakunta",
+    "lat": 18.0458792,
+    "lon": 78.2651993
   },
   {
     "partId": 75953,
@@ -2472,7 +2920,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 225,
-    "partName": "Kalvakunta"
+    "partName": "Kalvakunta",
+    "lat": 18.0458792,
+    "lon": 78.2651993
   },
   {
     "partId": 76290,
@@ -2483,7 +2933,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 226,
-    "partName": "Kalvakunta"
+    "partName": "Kalvakunta",
+    "lat": 18.0458792,
+    "lon": 78.2651993
   },
   {
     "partId": 76291,
@@ -2494,7 +2946,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 227,
-    "partName": "K.Venkatapur"
+    "partName": "K.Venkatapur",
+    "lat": 18.0768571,
+    "lon": 78.5518813
   },
   {
     "partId": 76292,
@@ -2505,7 +2959,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 228,
-    "partName": "Narlapur"
+    "partName": "Narlapur",
+    "lat": 18.0736953,
+    "lon": 78.5400581
   },
   {
     "partId": 75955,
@@ -2516,7 +2972,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 229,
-    "partName": "Narlapur"
+    "partName": "Narlapur",
+    "lat": 18.0736953,
+    "lon": 78.5400581
   },
   {
     "partId": 75957,
@@ -2527,7 +2985,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 230,
-    "partName": "Dongal Dharmaram"
+    "partName": "Dongal Dharmaram",
+    "lat": 18.0598339,
+    "lon": 78.499369
   },
   {
     "partId": 75959,
@@ -2538,7 +2998,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 231,
-    "partName": "Dongal Dharmaram"
+    "partName": "Dongal Dharmaram",
+    "lat": 18.0598339,
+    "lon": 78.499369
   },
   {
     "partId": 76293,
@@ -2549,7 +3011,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 232,
-    "partName": "Dongal Dharmaram"
+    "partName": "Dongal Dharmaram",
+    "lat": 18.0598339,
+    "lon": 78.499369
   },
   {
     "partId": 76294,
@@ -2560,7 +3024,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 233,
-    "partName": "Shalipet"
+    "partName": "Shalipet",
+    "lat": 18.0978065,
+    "lon": 78.2334266
   },
   {
     "partId": 76295,
@@ -2571,7 +3037,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 234,
-    "partName": "Shalipet"
+    "partName": "Shalipet",
+    "lat": 18.0978065,
+    "lon": 78.2334266
   },
   {
     "partId": 76552,
@@ -2582,7 +3050,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 235,
-    "partName": "Shalipet"
+    "partName": "Shalipet",
+    "lat": 18.0978065,
+    "lon": 78.2334266
   },
   {
     "partId": 75961,
@@ -2593,7 +3063,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 236,
-    "partName": "Turkala Mandapur"
+    "partName": "Turkala Mandapur",
+    "lat": 18.0458792,
+    "lon": 78.2651993
   },
   {
     "partId": 75963,
@@ -2604,7 +3076,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 237,
-    "partName": "Turkala Mandapur Thanda"
+    "partName": "Turkala Mandapur Thanda",
+    "lat": 18.0458792,
+    "lon": 78.2651993
   },
   {
     "partId": 75965,
@@ -2615,7 +3089,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 238,
-    "partName": "Khajipally"
+    "partName": "Khajipally",
+    "lat": 18.0116232,
+    "lon": 78.315804
   },
   {
     "partId": 76574,
@@ -2626,7 +3102,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 239,
-    "partName": "pashapur"
+    "partName": "pashapur",
+    "lat": 18.0257076,
+    "lon": 78.3293926
   },
   {
     "partId": 75967,
@@ -2637,7 +3115,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 240,
-    "partName": "Khajipally"
+    "partName": "Khajipally",
+    "lat": 18.0116232,
+    "lon": 78.315804
   },
   {
     "partId": 76553,
@@ -2648,7 +3128,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 241,
-    "partName": "Rajpally"
+    "partName": "Rajpally",
+    "lat": 18.0208427,
+    "lon": 78.2949337
   },
   {
     "partId": 76554,
@@ -2659,7 +3141,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 242,
-    "partName": "Rajpally"
+    "partName": "Rajpally",
+    "lat": 18.0208427,
+    "lon": 78.2949337
   },
   {
     "partId": 76555,
@@ -2670,7 +3154,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 243,
-    "partName": "Rajpally"
+    "partName": "Rajpally",
+    "lat": 18.050404878413282,
+    "lon": 78.28514587180536
   },
   {
     "partId": 76556,
@@ -2681,7 +3167,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 244,
-    "partName": "Balanagar"
+    "partName": "Balanagar",
+    "lat": 18.0018724,
+    "lon": 78.2873322
   },
   {
     "partId": 75969,
@@ -2692,7 +3180,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 245,
-    "partName": "S.Kondapur"
+    "partName": "S.Kondapur",
+    "lat": 17.9858264,
+    "lon": 78.348397
   },
   {
     "partId": 75971,
@@ -2703,7 +3193,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 246,
-    "partName": "S.Kondapur"
+    "partName": "S.Kondapur",
+    "lat": 17.9858264,
+    "lon": 78.348397
   },
   {
     "partId": 75973,
@@ -2714,7 +3206,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 247,
-    "partName": "Gajagatlapally"
+    "partName": "Gajagatlapally",
+    "lat": 18.0458792,
+    "lon": 78.2651993
   },
   {
     "partId": 75975,
@@ -2725,7 +3219,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 248,
-    "partName": "Venkatraopalli"
+    "partName": "Venkatraopalli",
+    "lat": 18.0458792,
+    "lon": 78.2651993
   },
   {
     "partId": 76557,
@@ -2736,7 +3232,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 249,
-    "partName": "Chennaipally"
+    "partName": "Chennaipally",
+    "lat": 18.050404878413282,
+    "lon": 78.28514587180536
   },
   {
     "partId": 76558,
@@ -2747,7 +3245,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 250,
-    "partName": "Sheripally"
+    "partName": "Sheripally",
+    "lat": 18.0282967,
+    "lon": 78.4149009
   },
   {
     "partId": 76559,
@@ -2758,7 +3258,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 251,
-    "partName": "Sheripally"
+    "partName": "Sheripally",
+    "lat": 18.0282967,
+    "lon": 78.4149009
   },
   {
     "partId": 75977,
@@ -2769,7 +3271,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 252,
-    "partName": "Mirzapally"
+    "partName": "Mirzapally",
+    "lat": 18.0177713,
+    "lon": 78.4135241
   },
   {
     "partId": 75979,
@@ -2780,7 +3284,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 253,
-    "partName": "Mirzapally"
+    "partName": "Mirzapally",
+    "lat": 18.0177713,
+    "lon": 78.4135241
   },
   {
     "partId": 75981,
@@ -2791,7 +3297,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 254,
-    "partName": "Mirzapally Thanda"
+    "partName": "Mirzapally Thanda",
+    "lat": 18.0458792,
+    "lon": 78.2651993
   },
   {
     "partId": 76560,
@@ -2802,7 +3310,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 255,
-    "partName": "Kamaram"
+    "partName": "Kamaram",
+    "lat": 18.0458792,
+    "lon": 78.2651993
   },
   {
     "partId": 75983,
@@ -2813,7 +3323,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 256,
-    "partName": "Sangaipally"
+    "partName": "Sangaipally",
+    "lat": 18.0458792,
+    "lon": 78.2651993
   },
   {
     "partId": 76561,
@@ -2824,7 +3336,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 257,
-    "partName": "Madoor"
+    "partName": "Madoor",
+    "lat": 18.0170159,
+    "lon": 78.3883055
   },
   {
     "partId": 75985,
@@ -2835,7 +3349,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 258,
-    "partName": "Korvipally"
+    "partName": "Korvipally",
+    "lat": 17.9998217,
+    "lon": 78.366302
   },
   {
     "partId": 76562,
@@ -2846,7 +3362,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 259,
-    "partName": "Gavvalapally"
+    "partName": "Gavvalapally",
+    "lat": 17.991772,
+    "lon": 78.3833715
   },
   {
     "partId": 76563,
@@ -2857,7 +3375,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 260,
-    "partName": "Gavvalapally"
+    "partName": "Gavvalapally",
+    "lat": 17.991772,
+    "lon": 78.3833715
   },
   {
     "partId": 76564,
@@ -2868,7 +3388,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 261,
-    "partName": "Nadimithanda"
+    "partName": "Nadimithanda",
+    "lat": 18.0458792,
+    "lon": 78.2651993
   },
   {
     "partId": 75987,
@@ -2879,7 +3401,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 262,
-    "partName": "Shankarampet (R)"
+    "partName": "Shankarampet (R)",
+    "lat": 17.993044750000003,
+    "lon": 78.38479318641711
   },
   {
     "partId": 75989,
@@ -2890,7 +3414,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 263,
-    "partName": "Ambajipet"
+    "partName": "Ambajipet",
+    "lat": 17.9928581,
+    "lon": 78.3890335
   },
   {
     "partId": 75991,
@@ -2901,7 +3427,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 264,
-    "partName": "Shankarampet (R)"
+    "partName": "Shankarampet (R)",
+    "lat": 17.993044750000003,
+    "lon": 78.38479318641711
   },
   {
     "partId": 76565,
@@ -2912,7 +3440,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 265,
-    "partName": "Mallupally"
+    "partName": "Mallupally",
+    "lat": 18.1505576,
+    "lon": 78.4545953
   },
   {
     "partId": 76566,
@@ -2923,7 +3453,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 266,
-    "partName": "Kamaram Thanda"
+    "partName": "Kamaram Thanda",
+    "lat": 18.0458792,
+    "lon": 78.2651993
   },
   {
     "partId": 76567,
@@ -2934,7 +3466,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 267,
-    "partName": "Rudraram"
+    "partName": "Rudraram",
+    "lat": 17.9788778,
+    "lon": 78.417937
   },
   {
     "partId": 76568,
@@ -2945,7 +3479,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 268,
-    "partName": "Shankarampet (R)"
+    "partName": "Shankarampet (R)",
+    "lat": 17.993044750000003,
+    "lon": 78.38479318641711
   },
   {
     "partId": 75993,
@@ -2956,7 +3492,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 269,
-    "partName": "Chandhapur"
+    "partName": "Chandhapur",
+    "lat": 18.0458792,
+    "lon": 78.2651993
   },
   {
     "partId": 75995,
@@ -2967,7 +3505,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 270,
-    "partName": "Chandampet"
+    "partName": "Chandampet",
+    "lat": 17.9692441,
+    "lon": 78.4234087
   },
   {
     "partId": 75997,
@@ -2978,7 +3518,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 271,
-    "partName": "Chandampet"
+    "partName": "Chandampet",
+    "lat": 17.9692441,
+    "lon": 78.4234087
   },
   {
     "partId": 75999,
@@ -2989,7 +3531,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 272,
-    "partName": "Jangarai"
+    "partName": "Jangarai",
+    "lat": 17.9572085,
+    "lon": 78.3788329
   },
   {
     "partId": 76569,
@@ -3000,7 +3544,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 273,
-    "partName": "Jangarai Thanda"
+    "partName": "Jangarai Thanda",
+    "lat": 18.0458792,
+    "lon": 78.2651993
   },
   {
     "partId": 76570,
@@ -3011,7 +3557,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 274,
-    "partName": "Suraram"
+    "partName": "Suraram",
+    "lat": 17.9507303,
+    "lon": 78.3995906
   },
   {
     "partId": 75849,
@@ -3022,7 +3570,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 275,
-    "partName": "Suraram"
+    "partName": "Suraram",
+    "lat": 17.9507303,
+    "lon": 78.3995906
   },
   {
     "partId": 75915,
@@ -3033,7 +3583,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 276,
-    "partName": "Bhagirthipally"
+    "partName": "Bhagirthipally",
+    "lat": 18.0458792,
+    "lon": 78.2651993
   },
   {
     "partId": 76001,
@@ -3044,7 +3596,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 277,
-    "partName": "Dharipally"
+    "partName": "Dharipally",
+    "lat": 17.9204736,
+    "lon": 78.3934392
   },
   {
     "partId": 76003,
@@ -3055,7 +3609,9 @@
     "acNumber": 34,
     "acName": "Medak",
     "partNumber": 278,
-    "partName": "Dharipally"
+    "partName": "Dharipally",
+    "lat": 17.9204736,
+    "lon": 78.3934392
   },
   {
     "partId": 65696,
@@ -3066,7 +3622,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 1,
-    "partName": "Kistapur"
+    "partName": "Kistapur",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 65697,
@@ -3077,7 +3635,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 2,
-    "partName": "Kistapur"
+    "partName": "Kistapur",
+    "lat": 18.0426244,
+    "lon": 78.5213445
   },
   {
     "partId": 65977,
@@ -3088,7 +3648,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 3,
-    "partName": "Potamshetpally"
+    "partName": "Potamshetpally",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 65978,
@@ -3099,7 +3661,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 4,
-    "partName": "Potamsetpally"
+    "partName": "Potamsetpally",
+    "lat": 17.784274936654136,
+    "lon": 78.27636689987816
   },
   {
     "partId": 65979,
@@ -3110,7 +3674,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 5,
-    "partName": "Rampur"
+    "partName": "Rampur",
+    "lat": 18.1755582,
+    "lon": 78.5701632
   },
   {
     "partId": 65698,
@@ -3121,7 +3687,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 6,
-    "partName": "Amsanpalli"
+    "partName": "Amsanpalli",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 65699,
@@ -3132,7 +3700,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 7,
-    "partName": "Amsanpally"
+    "partName": "Amsanpally",
+    "lat": 17.9436041,
+    "lon": 78.2392725
   },
   {
     "partId": 65980,
@@ -3143,7 +3713,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 8,
-    "partName": "Nayani Jalalpur"
+    "partName": "Nayani Jalalpur",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 65981,
@@ -3154,7 +3726,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 9,
-    "partName": "Kongod"
+    "partName": "Kongod",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 65982,
@@ -3165,7 +3739,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 10,
-    "partName": "Shettipally Kalan"
+    "partName": "Shettipally Kalan",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 65695,
@@ -3176,7 +3752,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 11,
-    "partName": "Shettipally Kalan"
+    "partName": "Shettipally Kalan",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 65700,
@@ -3187,7 +3765,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 12,
-    "partName": "Edulapally"
+    "partName": "Edulapally",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 65701,
@@ -3198,7 +3778,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 13,
-    "partName": "Ramayipally"
+    "partName": "Ramayipally",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 65702,
@@ -3209,7 +3791,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 14,
-    "partName": "Ramayapalli"
+    "partName": "Ramayapalli",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 65983,
@@ -3220,7 +3804,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 15,
-    "partName": "Uppulingapur"
+    "partName": "Uppulingapur",
+    "lat": 17.784274936654136,
+    "lon": 78.27636689987816
   },
   {
     "partId": 65703,
@@ -3231,7 +3817,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 16,
-    "partName": "Uppulingapur"
+    "partName": "Uppulingapur",
+    "lat": 17.784274936654136,
+    "lon": 78.27636689987816
   },
   {
     "partId": 65984,
@@ -3242,7 +3830,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 17,
-    "partName": "Achampet"
+    "partName": "Achampet",
+    "lat": 17.7676697,
+    "lon": 78.3106375
   },
   {
     "partId": 65704,
@@ -3253,7 +3843,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 18,
-    "partName": "Hakimpet"
+    "partName": "Hakimpet",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 65985,
@@ -3264,7 +3856,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 19,
-    "partName": "Ramanthapur"
+    "partName": "Ramanthapur",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 66128,
@@ -3275,7 +3869,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 20,
-    "partName": "Ramanthapur Thanda"
+    "partName": "Ramanthapur Thanda",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 65986,
@@ -3286,7 +3882,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 21,
-    "partName": "Lingareddy Pally"
+    "partName": "Lingareddy Pally",
+    "lat": 17.784274936654136,
+    "lon": 78.27636689987816
   },
   {
     "partId": 65987,
@@ -3297,7 +3895,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 22,
-    "partName": "Masaipet(B.No..1,41 To 543/B),"
+    "partName": "Masaipet(B.No..1,41 To 543/B),",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 65705,
@@ -3308,7 +3908,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 23,
-    "partName": "Masaipet(B.No..2,3)"
+    "partName": "Masaipet(B.No..2,3)",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 65706,
@@ -3319,7 +3921,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 24,
-    "partName": "Masaipet"
+    "partName": "Masaipet",
+    "lat": 17.9068482,
+    "lon": 78.4633969
   },
   {
     "partId": 65707,
@@ -3330,7 +3934,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 25,
-    "partName": "Masaipet(B.No..536 To 67),"
+    "partName": "Masaipet(B.No..536 To 67),",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 65708,
@@ -3341,7 +3947,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 26,
-    "partName": "Masaipet"
+    "partName": "Masaipet",
+    "lat": 17.9068482,
+    "lon": 78.4633969
   },
   {
     "partId": 65988,
@@ -3352,7 +3960,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 27,
-    "partName": "Bommaram"
+    "partName": "Bommaram",
+    "lat": 17.8916607,
+    "lon": 78.4564341
   },
   {
     "partId": 65989,
@@ -3363,7 +3973,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 28,
-    "partName": "Koppulapalli"
+    "partName": "Koppulapalli",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 65990,
@@ -3374,7 +3986,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 29,
-    "partName": "Koppulapally"
+    "partName": "Koppulapally",
+    "lat": 17.8937513,
+    "lon": 78.4285319
   },
   {
     "partId": 65709,
@@ -3385,7 +3999,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 30,
-    "partName": "Mellur"
+    "partName": "Mellur",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 65710,
@@ -3396,7 +4012,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 31,
-    "partName": "Peddapur"
+    "partName": "Peddapur",
+    "lat": 17.8878905,
+    "lon": 78.3941668
   },
   {
     "partId": 65711,
@@ -3407,7 +4025,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 32,
-    "partName": "Hastalpur"
+    "partName": "Hastalpur",
+    "lat": 17.784274936654136,
+    "lon": 78.27636689987816
   },
   {
     "partId": 65712,
@@ -3418,7 +4038,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 33,
-    "partName": "Shamshireddy Pally"
+    "partName": "Shamshireddy Pally",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 65976,
@@ -3429,7 +4051,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 34,
-    "partName": "Yeldurthi"
+    "partName": "Yeldurthi",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 65713,
@@ -3440,7 +4064,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 35,
-    "partName": "Yeldurthi"
+    "partName": "Yeldurthi",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 65714,
@@ -3451,7 +4077,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 36,
-    "partName": "Yeldurthi"
+    "partName": "Yeldurthi",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 65715,
@@ -3462,7 +4090,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 37,
-    "partName": "Yeldurthi"
+    "partName": "Yeldurthi",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 65716,
@@ -3473,7 +4103,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 38,
-    "partName": "Cherlapally"
+    "partName": "Cherlapally",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 65717,
@@ -3484,7 +4116,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 39,
-    "partName": "Yeldurthi"
+    "partName": "Yeldurthi",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 65991,
@@ -3495,7 +4129,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 40,
-    "partName": "Aregudem"
+    "partName": "Aregudem",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 65992,
@@ -3506,7 +4142,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 41,
-    "partName": "Mannevar Jalapur"
+    "partName": "Mannevar Jalapur",
+    "lat": 17.784274936654136,
+    "lon": 78.27636689987816
   },
   {
     "partId": 65993,
@@ -3517,7 +4155,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 42,
-    "partName": "Mannevar Jalapur"
+    "partName": "Mannevar Jalapur",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 65718,
@@ -3528,7 +4168,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 43,
-    "partName": "Kukunoor"
+    "partName": "Kukunoor",
+    "lat": 17.9103033,
+    "lon": 78.3418858
   },
   {
     "partId": 65719,
@@ -3539,7 +4181,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 44,
-    "partName": "Kukuoor"
+    "partName": "Kukuoor",
+    "lat": 17.784274936654136,
+    "lon": 78.27636689987816
   },
   {
     "partId": 65720,
@@ -3550,7 +4194,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 45,
-    "partName": "Kukunoor"
+    "partName": "Kukunoor",
+    "lat": 17.9103033,
+    "lon": 78.3418858
   },
   {
     "partId": 65994,
@@ -3561,7 +4207,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 46,
-    "partName": "Baswapur"
+    "partName": "Baswapur",
+    "lat": 17.9116657,
+    "lon": 78.343608
   },
   {
     "partId": 65995,
@@ -3572,7 +4220,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 47,
-    "partName": "Dharmaram"
+    "partName": "Dharmaram",
+    "lat": 17.9062222,
+    "lon": 78.2963633
   },
   {
     "partId": 65996,
@@ -3583,7 +4233,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 48,
-    "partName": "Andugulapalli"
+    "partName": "Andugulapalli",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 65721,
@@ -3594,7 +4246,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 49,
-    "partName": "Dhamarncha"
+    "partName": "Dhamarncha",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 65722,
@@ -3605,7 +4259,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 50,
-    "partName": "Damarancha"
+    "partName": "Damarancha",
+    "lat": 17.9429664,
+    "lon": 78.3059184
   },
   {
     "partId": 65723,
@@ -3616,7 +4272,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 51,
-    "partName": "Potiredypalli  Tummalapalli"
+    "partName": "Potiredypalli  Tummalapalli",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 65997,
@@ -3627,7 +4285,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 52,
-    "partName": "Kulcharam"
+    "partName": "Kulcharam",
+    "lat": 17.9552947,
+    "lon": 78.1984351
   },
   {
     "partId": 65998,
@@ -3638,7 +4298,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 53,
-    "partName": "Kulchram"
+    "partName": "Kulchram",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 65999,
@@ -3649,7 +4311,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 54,
-    "partName": "Kulcharam"
+    "partName": "Kulcharam",
+    "lat": 17.9552947,
+    "lon": 78.1984351
   },
   {
     "partId": 65724,
@@ -3660,7 +4324,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 55,
-    "partName": "Venkatapur"
+    "partName": "Venkatapur",
+    "lat": 18.0134252,
+    "lon": 78.0480923
   },
   {
     "partId": 65725,
@@ -3671,7 +4337,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 56,
-    "partName": "Appajipally"
+    "partName": "Appajipally",
+    "lat": 17.9803489,
+    "lon": 77.967653
   },
   {
     "partId": 65726,
@@ -3682,7 +4350,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 57,
-    "partName": "Chinnaghanapur"
+    "partName": "Chinnaghanapur",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 65727,
@@ -3693,7 +4363,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 58,
-    "partName": "Chinnaghanapur"
+    "partName": "Chinnaghanapur",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 66000,
@@ -3704,7 +4376,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 59,
-    "partName": "Variguntham"
+    "partName": "Variguntham",
+    "lat": 17.9436774,
+    "lon": 78.1704203
   },
   {
     "partId": 66001,
@@ -3715,7 +4389,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 60,
-    "partName": "Variguntham"
+    "partName": "Variguntham",
+    "lat": 17.784274936654136,
+    "lon": 78.27636689987816
   },
   {
     "partId": 66002,
@@ -3726,7 +4402,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 61,
-    "partName": "Sitharam Thanda"
+    "partName": "Sitharam Thanda",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 66003,
@@ -3737,7 +4415,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 62,
-    "partName": "Sangaipet"
+    "partName": "Sangaipet",
+    "lat": 17.9554538,
+    "lon": 78.1318455
   },
   {
     "partId": 65728,
@@ -3748,7 +4428,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 63,
-    "partName": "Sangaipet"
+    "partName": "Sangaipet",
+    "lat": 17.9554538,
+    "lon": 78.1318455
   },
   {
     "partId": 66130,
@@ -3759,7 +4441,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 64,
-    "partName": "Sangaipet Thanda"
+    "partName": "Sangaipet Thanda",
+    "lat": 17.953719,
+    "lon": 78.1309086
   },
   {
     "partId": 65729,
@@ -3770,7 +4454,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 65,
-    "partName": "Rangampet"
+    "partName": "Rangampet",
+    "lat": 17.947299,
+    "lon": 78.1162363
   },
   {
     "partId": 65730,
@@ -3781,7 +4467,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 66,
-    "partName": "Rangampet"
+    "partName": "Rangampet",
+    "lat": 17.784274936654136,
+    "lon": 78.27636689987816
   },
   {
     "partId": 66004,
@@ -3792,7 +4480,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 67,
-    "partName": "Rangampet"
+    "partName": "Rangampet",
+    "lat": 17.947299,
+    "lon": 78.1162363
   },
   {
     "partId": 66005,
@@ -3803,7 +4493,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 68,
-    "partName": "Pithara"
+    "partName": "Pithara",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 66006,
@@ -3814,7 +4506,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 69,
-    "partName": "Tukkapur"
+    "partName": "Tukkapur",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 65731,
@@ -3825,7 +4519,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 70,
-    "partName": "Konapur"
+    "partName": "Konapur",
+    "lat": 18.119502,
+    "lon": 78.478527
   },
   {
     "partId": 65732,
@@ -3836,7 +4532,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 71,
-    "partName": "Etigadda Mandapoor"
+    "partName": "Etigadda Mandapoor",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 66007,
@@ -3847,7 +4545,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 72,
-    "partName": "Yenigandla"
+    "partName": "Yenigandla",
+    "lat": 17.9196812,
+    "lon": 78.0896983
   },
   {
     "partId": 66008,
@@ -3858,7 +4558,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 73,
-    "partName": "Yanagandla"
+    "partName": "Yanagandla",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 66009,
@@ -3869,7 +4571,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 74,
-    "partName": "Yanigandla"
+    "partName": "Yanigandla",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 65733,
@@ -3880,7 +4584,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 75,
-    "partName": "Chitkul"
+    "partName": "Chitkul",
+    "lat": 17.8957696,
+    "lon": 78.0956642
   },
   {
     "partId": 66010,
@@ -3891,7 +4597,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 76,
-    "partName": "Chitkul"
+    "partName": "Chitkul",
+    "lat": 17.8957696,
+    "lon": 78.0956642
   },
   {
     "partId": 65734,
@@ -3902,7 +4610,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 77,
-    "partName": "Chitkul"
+    "partName": "Chitkul",
+    "lat": 17.784274936654136,
+    "lon": 78.27636689987816
   },
   {
     "partId": 66011,
@@ -3913,7 +4623,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 78,
-    "partName": "Banjara Thanda,Chitkul"
+    "partName": "Banjara Thanda,Chitkul",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 65735,
@@ -3924,7 +4636,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 79,
-    "partName": "Chandoor"
+    "partName": "Chandoor",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 65736,
@@ -3935,7 +4649,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 80,
-    "partName": "Chandoor"
+    "partName": "Chandoor",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 65737,
@@ -3946,7 +4662,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 81,
-    "partName": "Gujiri Thanda"
+    "partName": "Gujiri Thanda",
+    "lat": 17.784274936654136,
+    "lon": 78.27636689987816
   },
   {
     "partId": 66012,
@@ -3957,7 +4675,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 82,
-    "partName": "Bujaram Pet"
+    "partName": "Bujaram Pet",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 66013,
@@ -3968,7 +4688,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 83,
-    "partName": "Bujrampet"
+    "partName": "Bujrampet",
+    "lat": 17.9010946,
+    "lon": 78.139257
   },
   {
     "partId": 66014,
@@ -3979,7 +4701,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 84,
-    "partName": "Manthaipally Thanda"
+    "partName": "Manthaipally Thanda",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 65738,
@@ -3990,7 +4714,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 85,
-    "partName": "Peerya Thanda"
+    "partName": "Peerya Thanda",
+    "lat": 17.8984709,
+    "lon": 78.1488073
   },
   {
     "partId": 65739,
@@ -4001,7 +4727,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 86,
-    "partName": "Gouthampoor"
+    "partName": "Gouthampoor",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 65740,
@@ -4012,7 +4740,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 87,
-    "partName": "Topya Thanda"
+    "partName": "Topya Thanda",
+    "lat": 17.8919715,
+    "lon": 78.1311122
   },
   {
     "partId": 65741,
@@ -4023,7 +4753,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 88,
-    "partName": "Ganya Thanda"
+    "partName": "Ganya Thanda",
+    "lat": 17.8037249,
+    "lon": 78.3054232
   },
   {
     "partId": 66015,
@@ -4034,7 +4766,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 89,
-    "partName": "Kukutpally"
+    "partName": "Kukutpally",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 66016,
@@ -4045,7 +4779,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 90,
-    "partName": "Kukatlapally"
+    "partName": "Kukatlapally",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 66017,
@@ -4056,7 +4792,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 91,
-    "partName": "Devulapally"
+    "partName": "Devulapally",
+    "lat": 17.784274936654136,
+    "lon": 78.27636689987816
   },
   {
     "partId": 65742,
@@ -4067,7 +4805,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 92,
-    "partName": "Kowdipally"
+    "partName": "Kowdipally",
+    "lat": 17.8620245,
+    "lon": 78.20771051020701
   },
   {
     "partId": 65743,
@@ -4078,7 +4818,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 93,
-    "partName": "Kowdipally"
+    "partName": "Kowdipally",
+    "lat": 17.8620245,
+    "lon": 78.20771051020701
   },
   {
     "partId": 65744,
@@ -4089,7 +4831,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 94,
-    "partName": "Kowdipally"
+    "partName": "Kowdipally",
+    "lat": 17.8620245,
+    "lon": 78.20771051020701
   },
   {
     "partId": 66018,
@@ -4100,7 +4844,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 95,
-    "partName": "Kowdipally"
+    "partName": "Kowdipally",
+    "lat": 17.8620245,
+    "lon": 78.20771051020701
   },
   {
     "partId": 65745,
@@ -4111,7 +4857,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 96,
-    "partName": "Velmakanna"
+    "partName": "Velmakanna",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 66019,
@@ -4122,7 +4870,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 97,
-    "partName": "Velmakanna"
+    "partName": "Velmakanna",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 65746,
@@ -4133,7 +4883,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 98,
-    "partName": "Kottala"
+    "partName": "Kottala",
+    "lat": 17.784274936654136,
+    "lon": 78.27636689987816
   },
   {
     "partId": 66020,
@@ -4144,7 +4896,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 99,
-    "partName": "Lingampalli"
+    "partName": "Lingampalli",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 66021,
@@ -4155,7 +4909,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 100,
-    "partName": "Sadasivapally"
+    "partName": "Sadasivapally",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 66022,
@@ -4166,7 +4922,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 101,
-    "partName": "Burugadda"
+    "partName": "Burugadda",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 65747,
@@ -4177,7 +4935,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 102,
-    "partName": "Dharmasagar"
+    "partName": "Dharmasagar",
+    "lat": 17.8906647,
+    "lon": 78.2179729
   },
   {
     "partId": 65748,
@@ -4188,7 +4948,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 103,
-    "partName": "Kanchan Pally"
+    "partName": "Kanchan Pally",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 66023,
@@ -4199,7 +4961,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 104,
-    "partName": "Kanchanpally"
+    "partName": "Kanchanpally",
+    "lat": 17.9005264,
+    "lon": 78.2540349
   },
   {
     "partId": 66024,
@@ -4210,7 +4974,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 105,
-    "partName": "Manepalli"
+    "partName": "Manepalli",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 66025,
@@ -4221,7 +4987,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 106,
-    "partName": "Manepalli"
+    "partName": "Manepalli",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 65749,
@@ -4232,7 +5000,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 107,
-    "partName": "Mangalaparthi"
+    "partName": "Mangalaparthi",
+    "lat": 17.784274936654136,
+    "lon": 78.27636689987816
   },
   {
     "partId": 66026,
@@ -4243,7 +5013,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 108,
-    "partName": "Mangalaparthy"
+    "partName": "Mangalaparthy",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 65750,
@@ -4254,7 +5026,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 109,
-    "partName": "Eshvantharaopet"
+    "partName": "Eshvantharaopet",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 66027,
@@ -4265,7 +5039,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 110,
-    "partName": "Konthan Pally"
+    "partName": "Konthan Pally",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 65751,
@@ -4276,7 +5052,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 111,
-    "partName": "Konthan Pally"
+    "partName": "Konthan Pally",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 65752,
@@ -4287,7 +5065,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 112,
-    "partName": "Danthan Pally"
+    "partName": "Danthan Pally",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 65753,
@@ -4298,7 +5078,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 113,
-    "partName": "Gundlapally"
+    "partName": "Gundlapally",
+    "lat": 17.784274936654136,
+    "lon": 78.27636689987816
   },
   {
     "partId": 66028,
@@ -4309,7 +5091,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 114,
-    "partName": "Pothula Boguda"
+    "partName": "Pothula Boguda",
+    "lat": 17.853874,
+    "lon": 78.3992596
   },
   {
     "partId": 66029,
@@ -4320,7 +5104,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 115,
-    "partName": "Usirika Pally"
+    "partName": "Usirika Pally",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 66030,
@@ -4331,7 +5117,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 116,
-    "partName": "Shankar Thanda"
+    "partName": "Shankar Thanda",
+    "lat": 17.8315099,
+    "lon": 78.3886244
   },
   {
     "partId": 65754,
@@ -4342,7 +5130,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 117,
-    "partName": "Ratnapur"
+    "partName": "Ratnapur",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 65755,
@@ -4353,7 +5143,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 118,
-    "partName": "Ratnapur"
+    "partName": "Ratnapur",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 65756,
@@ -4364,7 +5156,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 119,
-    "partName": "Seetharam Thanda"
+    "partName": "Seetharam Thanda",
+    "lat": 17.7589641,
+    "lon": 78.275694
   },
   {
     "partId": 65757,
@@ -4375,7 +5169,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 120,
-    "partName": "Pambanda"
+    "partName": "Pambanda",
+    "lat": 17.8410221,
+    "lon": 78.3797419
   },
   {
     "partId": 65886,
@@ -4386,7 +5182,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 121,
-    "partName": "Bheemla Thanda"
+    "partName": "Bheemla Thanda",
+    "lat": 17.784274936654136,
+    "lon": 78.27636689987816
   },
   {
     "partId": 66031,
@@ -4397,7 +5195,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 122,
-    "partName": "MPUPS, 6th Class Room, Allipur"
+    "partName": "MPUPS, 6th Class Room, Allipur",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 66032,
@@ -4408,7 +5208,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 123,
-    "partName": "MPUPS, 7th Class Room, Allipur"
+    "partName": "MPUPS, 7th Class Room, Allipur",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 66033,
@@ -4419,7 +5221,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 124,
-    "partName": "Kothapet"
+    "partName": "Kothapet",
+    "lat": 17.8222647,
+    "lon": 78.3304326
   },
   {
     "partId": 65887,
@@ -4430,7 +5234,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 125,
-    "partName": "Rupla Thanda,"
+    "partName": "Rupla Thanda,",
+    "lat": 17.8088263,
+    "lon": 78.3027265
   },
   {
     "partId": 65888,
@@ -4441,7 +5247,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 126,
-    "partName": "Rajpet"
+    "partName": "Rajpet",
+    "lat": 18.1510887,
+    "lon": 78.1902008
   },
   {
     "partId": 65889,
@@ -4452,7 +5260,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 127,
-    "partName": "Venkatapur(R)"
+    "partName": "Venkatapur(R)",
+    "lat": 18.091481,
+    "lon": 78.4654796
   },
   {
     "partId": 66034,
@@ -4463,7 +5273,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 128,
-    "partName": "Thimmapur"
+    "partName": "Thimmapur",
+    "lat": 17.784274936654136,
+    "lon": 78.27636689987816
   },
   {
     "partId": 66035,
@@ -4474,7 +5286,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 129,
-    "partName": "Thimmapur"
+    "partName": "Thimmapur",
+    "lat": 17.784274936654136,
+    "lon": 78.27636689987816
   },
   {
     "partId": 66036,
@@ -4485,7 +5299,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 130,
-    "partName": "Nagsanpally"
+    "partName": "Nagsanpally",
+    "lat": 18.0079182,
+    "lon": 78.1605993
   },
   {
     "partId": 65890,
@@ -4496,7 +5312,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 131,
-    "partName": "Mahammad Nagar"
+    "partName": "Mahammad Nagar",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 65891,
@@ -4507,7 +5325,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 132,
-    "partName": "Mahammad Nagar"
+    "partName": "Mahammad Nagar",
+    "lat": 17.784274936654136,
+    "lon": 78.27636689987816
   },
   {
     "partId": 66037,
@@ -4518,7 +5338,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 133,
-    "partName": "Kannaaram"
+    "partName": "Kannaaram",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 66038,
@@ -4529,7 +5351,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 134,
-    "partName": "Antharam"
+    "partName": "Antharam",
+    "lat": 17.8567933,
+    "lon": 78.1750076
   },
   {
     "partId": 66039,
@@ -4540,7 +5364,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 135,
-    "partName": "Rahimguda"
+    "partName": "Rahimguda",
+    "lat": 17.8535016,
+    "lon": 78.1492912
   },
   {
     "partId": 65892,
@@ -4551,7 +5377,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 136,
-    "partName": "Sommakkapet"
+    "partName": "Sommakkapet",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 66040,
@@ -4562,7 +5390,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 137,
-    "partName": "Samla Thanda"
+    "partName": "Samla Thanda",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 65893,
@@ -4573,7 +5403,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 138,
-    "partName": "Ramdas Guda"
+    "partName": "Ramdas Guda",
+    "lat": 17.784274936654136,
+    "lon": 78.27636689987816
   },
   {
     "partId": 66041,
@@ -4584,7 +5416,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 139,
-    "partName": "Chilipched"
+    "partName": "Chilipched",
+    "lat": 17.8712446,
+    "lon": 78.1203542
   },
   {
     "partId": 65894,
@@ -4595,7 +5429,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 140,
-    "partName": "Chilipched"
+    "partName": "Chilipched",
+    "lat": 17.8712446,
+    "lon": 78.1203542
   },
   {
     "partId": 66042,
@@ -4606,7 +5442,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 141,
-    "partName": "Seelampally"
+    "partName": "Seelampally",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 65895,
@@ -4617,7 +5455,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 142,
-    "partName": "Faizabad,Sheri Faizabad"
+    "partName": "Faizabad,Sheri Faizabad",
+    "lat": 17.784274936654136,
+    "lon": 78.27636689987816
   },
   {
     "partId": 66043,
@@ -4628,7 +5468,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 143,
-    "partName": "Faizabad"
+    "partName": "Faizabad",
+    "lat": 17.8442633,
+    "lon": 78.1205254
   },
   {
     "partId": 65896,
@@ -4639,7 +5481,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 144,
-    "partName": "Bandapothugal"
+    "partName": "Bandapothugal",
+    "lat": 17.784274936654136,
+    "lon": 78.27636689987816
   },
   {
     "partId": 65897,
@@ -4650,7 +5494,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 145,
-    "partName": "Ajammarri"
+    "partName": "Ajammarri",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 65898,
@@ -4661,7 +5507,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 146,
-    "partName": "Gangaram"
+    "partName": "Gangaram",
+    "lat": 17.8181548,
+    "lon": 78.1296714
   },
   {
     "partId": 66044,
@@ -4672,7 +5520,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 147,
-    "partName": "Jaggam Pet,"
+    "partName": "Jaggam Pet,",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 66045,
@@ -4683,7 +5533,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 148,
-    "partName": "Salabath Pur"
+    "partName": "Salabath Pur",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 66046,
@@ -4694,7 +5546,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 149,
-    "partName": "Salavath Poor"
+    "partName": "Salavath Poor",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 65899,
@@ -4705,7 +5559,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 150,
-    "partName": "Marrichettu Thanda"
+    "partName": "Marrichettu Thanda",
+    "lat": 17.8501366,
+    "lon": 78.1724131
   },
   {
     "partId": 65900,
@@ -4716,7 +5572,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 151,
-    "partName": "Ibrahim Bad"
+    "partName": "Ibrahim Bad",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 65901,
@@ -4727,7 +5585,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 152,
-    "partName": "Ibrahimbad"
+    "partName": "Ibrahimbad",
+    "lat": 17.7963164,
+    "lon": 78.1798688
   },
   {
     "partId": 65902,
@@ -4738,7 +5598,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 153,
-    "partName": "Ahammad Nagar"
+    "partName": "Ahammad Nagar",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 66047,
@@ -4749,7 +5611,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 154,
-    "partName": "Ahmednagar"
+    "partName": "Ahmednagar",
+    "lat": 17.821718,
+    "lon": 78.2040795
   },
   {
     "partId": 66048,
@@ -4760,7 +5624,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 155,
-    "partName": "Rayilapur"
+    "partName": "Rayilapur",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 66049,
@@ -4771,7 +5637,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 156,
-    "partName": "Railapur"
+    "partName": "Railapur",
+    "lat": 17.784274936654136,
+    "lon": 78.27636689987816
   },
   {
     "partId": 65903,
@@ -4782,7 +5650,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 157,
-    "partName": "Venkatraopet"
+    "partName": "Venkatraopet",
+    "lat": 17.9675107,
+    "lon": 77.9023036
   },
   {
     "partId": 65904,
@@ -4793,7 +5663,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 158,
-    "partName": "Thunki"
+    "partName": "Thunki",
+    "lat": 17.807153,
+    "lon": 78.2273433
   },
   {
     "partId": 65905,
@@ -4804,7 +5676,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 159,
-    "partName": "Thunki"
+    "partName": "Thunki",
+    "lat": 17.784274936654136,
+    "lon": 78.27636689987816
   },
   {
     "partId": 66050,
@@ -4815,7 +5689,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 160,
-    "partName": "Mutraj Pally"
+    "partName": "Mutraj Pally",
+    "lat": 17.784274936654136,
+    "lon": 78.27636689987816
   },
   {
     "partId": 66051,
@@ -4826,7 +5702,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 161,
-    "partName": "Mutrajpally"
+    "partName": "Mutrajpally",
+    "lat": 17.8306282,
+    "lon": 78.2504616
   },
   {
     "partId": 66052,
@@ -4837,7 +5715,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 162,
-    "partName": "Manthoor"
+    "partName": "Manthoor",
+    "lat": 17.8034257,
+    "lon": 78.2627421
   },
   {
     "partId": 65906,
@@ -4848,7 +5728,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 163,
-    "partName": "Khajipeta"
+    "partName": "Khajipeta",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 65907,
@@ -4859,7 +5741,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 164,
-    "partName": "Tujalpur"
+    "partName": "Tujalpur",
+    "lat": 17.8214943,
+    "lon": 78.2837767
   },
   {
     "partId": 66053,
@@ -4870,7 +5754,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 165,
-    "partName": "Tirmulapoor"
+    "partName": "Tirmulapoor",
+    "lat": 17.784274936654136,
+    "lon": 78.27636689987816
   },
   {
     "partId": 66054,
@@ -4881,7 +5767,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 166,
-    "partName": "Bramhan Pally"
+    "partName": "Bramhan Pally",
+    "lat": 17.784274936654136,
+    "lon": 78.27636689987816
   },
   {
     "partId": 66055,
@@ -4892,7 +5780,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 167,
-    "partName": "Gollapally"
+    "partName": "Gollapally",
+    "lat": 17.784274936654136,
+    "lon": 78.27636689987816
   },
   {
     "partId": 65908,
@@ -4903,7 +5793,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 168,
-    "partName": "Pillutla"
+    "partName": "Pillutla",
+    "lat": 17.8100553,
+    "lon": 78.3254401
   },
   {
     "partId": 66056,
@@ -4914,7 +5806,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 169,
-    "partName": "Pillutla"
+    "partName": "Pillutla",
+    "lat": 17.8100553,
+    "lon": 78.3254401
   },
   {
     "partId": 66057,
@@ -4925,7 +5819,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 170,
-    "partName": "Lingoji Guda"
+    "partName": "Lingoji Guda",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 66058,
@@ -4936,7 +5832,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 171,
-    "partName": "Shivampet"
+    "partName": "Shivampet",
+    "lat": 17.7876715,
+    "lon": 78.370801
   },
   {
     "partId": 65909,
@@ -4947,7 +5845,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 172,
-    "partName": "Eddulapoor"
+    "partName": "Eddulapoor",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 65910,
@@ -4958,7 +5858,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 173,
-    "partName": "Shivvampeta"
+    "partName": "Shivvampeta",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 65911,
@@ -4969,7 +5871,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 174,
-    "partName": "Shivampet"
+    "partName": "Shivampet",
+    "lat": 17.7876715,
+    "lon": 78.370801
   },
   {
     "partId": 66059,
@@ -4980,7 +5884,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 175,
-    "partName": "Gudur"
+    "partName": "Gudur",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 66060,
@@ -4991,7 +5897,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 176,
-    "partName": "Nanuthanda"
+    "partName": "Nanuthanda",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 66061,
@@ -5002,7 +5910,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 177,
-    "partName": "THALLAPALLI THANDA"
+    "partName": "THALLAPALLI THANDA",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 66062,
@@ -5013,7 +5923,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 178,
-    "partName": "DONTHI"
+    "partName": "DONTHI",
+    "lat": 17.8149795,
+    "lon": 78.4160385
   },
   {
     "partId": 65912,
@@ -5024,7 +5936,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 179,
-    "partName": "DONTHI"
+    "partName": "DONTHI",
+    "lat": 17.8149795,
+    "lon": 78.4160385
   },
   {
     "partId": 65913,
@@ -5035,7 +5949,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 180,
-    "partName": "Dhonthi"
+    "partName": "Dhonthi",
+    "lat": 17.784274936654136,
+    "lon": 78.27636689987816
   },
   {
     "partId": 65914,
@@ -5046,7 +5962,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 181,
-    "partName": "Mallupally"
+    "partName": "Mallupally",
+    "lat": 18.1505576,
+    "lon": 78.4545953
   },
   {
     "partId": 65915,
@@ -5057,7 +5975,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 182,
-    "partName": "Shabash Pally"
+    "partName": "Shabash Pally",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 66063,
@@ -5068,7 +5988,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 183,
-    "partName": "Potharam"
+    "partName": "Potharam",
+    "lat": 17.79008,
+    "lon": 78.4369227
   },
   {
     "partId": 66064,
@@ -5079,7 +6001,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 184,
-    "partName": "Gangaipally"
+    "partName": "Gangaipally",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 66065,
@@ -5090,7 +6014,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 185,
-    "partName": "Magdumpur"
+    "partName": "Magdumpur",
+    "lat": 18.05048035,
+    "lon": 78.22836212676066
   },
   {
     "partId": 65916,
@@ -5101,7 +6027,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 186,
-    "partName": "Chandi"
+    "partName": "Chandi",
+    "lat": 17.784673,
+    "lon": 78.3906524
   },
   {
     "partId": 65917,
@@ -5112,7 +6040,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 187,
-    "partName": "Chandi"
+    "partName": "Chandi",
+    "lat": 17.784274936654136,
+    "lon": 78.27636689987816
   },
   {
     "partId": 65918,
@@ -5123,7 +6053,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 188,
-    "partName": "Bojya Thanda(Chandi)"
+    "partName": "Bojya Thanda(Chandi)",
+    "lat": 17.7732136,
+    "lon": 78.3988107
   },
   {
     "partId": 66066,
@@ -5134,7 +6066,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 189,
-    "partName": "Redya Thanda"
+    "partName": "Redya Thanda",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 65919,
@@ -5145,7 +6079,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 190,
-    "partName": "Timmapur"
+    "partName": "Timmapur",
+    "lat": 17.9943887,
+    "lon": 77.8836195
   },
   {
     "partId": 66067,
@@ -5156,7 +6092,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 191,
-    "partName": "Achampet"
+    "partName": "Achampet",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 65920,
@@ -5167,7 +6105,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 192,
-    "partName": "Lingapur"
+    "partName": "Lingapur",
+    "lat": 17.784274936654136,
+    "lon": 78.27636689987816
   },
   {
     "partId": 66068,
@@ -5178,7 +6118,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 193,
-    "partName": "Narayana Pur"
+    "partName": "Narayana Pur",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 65921,
@@ -5189,7 +6131,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 194,
-    "partName": "Chinna Chinthakunta"
+    "partName": "Chinna Chinthakunta",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 66069,
@@ -5200,7 +6144,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 195,
-    "partName": "Chinna Chinthakunta"
+    "partName": "Chinna Chinthakunta",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 65922,
@@ -5211,7 +6157,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 196,
-    "partName": "Pedd Chintakunta"
+    "partName": "Pedd Chintakunta",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 66070,
@@ -5222,7 +6170,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 197,
-    "partName": "Reddypally"
+    "partName": "Reddypally",
+    "lat": 17.9891419,
+    "lon": 78.4692898
   },
   {
     "partId": 65923,
@@ -5233,7 +6183,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 198,
-    "partName": "Chippal Thurthi"
+    "partName": "Chippal Thurthi",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 66071,
@@ -5244,7 +6196,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 199,
-    "partName": "Chippalthurthy"
+    "partName": "Chippalthurthy",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 65924,
@@ -5255,7 +6209,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 200,
-    "partName": "Jakkapally"
+    "partName": "Jakkapally",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 66072,
@@ -5266,7 +6222,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 201,
-    "partName": "Admapooor"
+    "partName": "Admapooor",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 66073,
@@ -5277,7 +6235,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 202,
-    "partName": "Naagula Palli"
+    "partName": "Naagula Palli",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 66074,
@@ -5288,7 +6248,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 203,
-    "partName": "Mahammadabad"
+    "partName": "Mahammadabad",
+    "lat": 17.784274936654136,
+    "lon": 78.27636689987816
   },
   {
     "partId": 65925,
@@ -5299,7 +6261,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 204,
-    "partName": "Moosapet"
+    "partName": "Moosapet",
+    "lat": 17.7437442,
+    "lon": 78.2257882
   },
   {
     "partId": 65926,
@@ -5310,7 +6274,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 205,
-    "partName": "Moosapet"
+    "partName": "Moosapet",
+    "lat": 17.7437442,
+    "lon": 78.2257882
   },
   {
     "partId": 65927,
@@ -5321,7 +6287,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 206,
-    "partName": "Sikinderpur"
+    "partName": "Sikinderpur",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 66075,
@@ -5332,7 +6300,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 207,
-    "partName": "Bramhanguda"
+    "partName": "Bramhanguda",
+    "lat": 17.784274936654136,
+    "lon": 78.27636689987816
   },
   {
     "partId": 66076,
@@ -5343,7 +6313,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 208,
-    "partName": "Sikindlarpur Thanda"
+    "partName": "Sikindlarpur Thanda",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 66077,
@@ -5354,7 +6326,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 209,
-    "partName": "Naguldev Pally"
+    "partName": "Naguldev Pally",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 66078,
@@ -5365,7 +6339,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 210,
-    "partName": "Govindrajpally"
+    "partName": "Govindrajpally",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 65928,
@@ -5376,7 +6352,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 211,
-    "partName": "Lingapur"
+    "partName": "Lingapur",
+    "lat": 17.7824609,
+    "lon": 78.2987339
   },
   {
     "partId": 65929,
@@ -5387,7 +6365,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 212,
-    "partName": "Sirpura"
+    "partName": "Sirpura",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 65930,
@@ -5398,7 +6378,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 213,
-    "partName": "M P P S Tellaralla Tanda"
+    "partName": "M P P S Tellaralla Tanda",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 65931,
@@ -5409,7 +6391,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 214,
-    "partName": "Sirpura"
+    "partName": "Sirpura",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 66079,
@@ -5420,7 +6404,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 215,
-    "partName": "M P P S Beemla Tanda"
+    "partName": "M P P S Beemla Tanda",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 66080,
@@ -5431,7 +6417,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 216,
-    "partName": "Cheekmaddur"
+    "partName": "Cheekmaddur",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 66081,
@@ -5442,7 +6430,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 217,
-    "partName": "Konyal"
+    "partName": "Konyal",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 65932,
@@ -5453,7 +6443,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 218,
-    "partName": "Konyal"
+    "partName": "Konyal",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 65933,
@@ -5464,7 +6456,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 219,
-    "partName": "Konyal"
+    "partName": "Konyal",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 65934,
@@ -5475,7 +6469,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 220,
-    "partName": "Panyala"
+    "partName": "Panyala",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 66082,
@@ -5486,7 +6482,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 221,
-    "partName": "Panyal"
+    "partName": "Panyal",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 66083,
@@ -5497,7 +6495,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 222,
-    "partName": "Madhura"
+    "partName": "Madhura",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 65935,
@@ -5508,7 +6508,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 223,
-    "partName": "Nawabpet"
+    "partName": "Nawabpet",
+    "lat": 17.7220153,
+    "lon": 78.3948755
   },
   {
     "partId": 65936,
@@ -5519,7 +6521,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 224,
-    "partName": "Hathnoora"
+    "partName": "Hathnoora",
+    "lat": 17.7140961,
+    "lon": 78.2052796
   },
   {
     "partId": 65937,
@@ -5530,7 +6534,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 225,
-    "partName": "Hathnoora"
+    "partName": "Hathnoora",
+    "lat": 17.784274936654136,
+    "lon": 78.27636689987816
   },
   {
     "partId": 66084,
@@ -5541,7 +6547,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 226,
-    "partName": "Hathnoora"
+    "partName": "Hathnoora",
+    "lat": 17.7140961,
+    "lon": 78.2052796
   },
   {
     "partId": 65938,
@@ -5552,7 +6560,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 227,
-    "partName": "Hathnoora"
+    "partName": "Hathnoora",
+    "lat": 17.7140961,
+    "lon": 78.2052796
   },
   {
     "partId": 66085,
@@ -5563,7 +6573,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 228,
-    "partName": "Kasala"
+    "partName": "Kasala",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 65939,
@@ -5574,7 +6586,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 229,
-    "partName": "Kasala"
+    "partName": "Kasala",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 66086,
@@ -5585,7 +6599,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 230,
-    "partName": "Kasala"
+    "partName": "Kasala",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 66087,
@@ -5596,7 +6612,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 231,
-    "partName": "Reddy Khanapur"
+    "partName": "Reddy Khanapur",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 66088,
@@ -5607,7 +6625,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 232,
-    "partName": "Borpatla"
+    "partName": "Borpatla",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 65940,
@@ -5618,7 +6638,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 233,
-    "partName": "Borpatla"
+    "partName": "Borpatla",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 65941,
@@ -5629,7 +6651,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 234,
-    "partName": "Borpatla"
+    "partName": "Borpatla",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 65942,
@@ -5640,7 +6664,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 235,
-    "partName": "Palphanoor"
+    "partName": "Palphanoor",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 66089,
@@ -5651,7 +6677,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 236,
-    "partName": "Gundla Machanoor"
+    "partName": "Gundla Machanoor",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 66090,
@@ -5662,7 +6690,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 237,
-    "partName": "Gundlamachnoor"
+    "partName": "Gundlamachnoor",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 66091,
@@ -5673,7 +6703,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 238,
-    "partName": "Chandapur"
+    "partName": "Chandapur",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 65943,
@@ -5684,7 +6716,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 239,
-    "partName": "Thurkalakhanapur"
+    "partName": "Thurkalakhanapur",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 65944,
@@ -5695,7 +6729,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 240,
-    "partName": "Thaher Khan Pet"
+    "partName": "Thaher Khan Pet",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 65945,
@@ -5706,7 +6742,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 241,
-    "partName": "Devula Pally"
+    "partName": "Devula Pally",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 66092,
@@ -5717,7 +6755,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 242,
-    "partName": "Grama Panchayath Office, Malkapur"
+    "partName": "Grama Panchayath Office, Malkapur",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 66093,
@@ -5728,7 +6768,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 243,
-    "partName": "Doulthabad"
+    "partName": "Doulthabad",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 66094,
@@ -5739,7 +6781,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 244,
-    "partName": "Doulthabad"
+    "partName": "Doulthabad",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 65946,
@@ -5750,7 +6794,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 245,
-    "partName": "Doulthabad"
+    "partName": "Doulthabad",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 65947,
@@ -5761,7 +6807,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 246,
-    "partName": "Doulthbad"
+    "partName": "Doulthbad",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 66095,
@@ -5772,7 +6820,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 247,
-    "partName": "Mangapur"
+    "partName": "Mangapur",
+    "lat": 17.7184766,
+    "lon": 78.2218677
   },
   {
     "partId": 66096,
@@ -5783,7 +6833,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 248,
-    "partName": "Nasthipur"
+    "partName": "Nasthipur",
+    "lat": 17.784274936654136,
+    "lon": 78.27636689987816
   },
   {
     "partId": 66097,
@@ -5794,7 +6846,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 249,
-    "partName": "Mucherla"
+    "partName": "Mucherla",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 65948,
@@ -5805,7 +6859,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 250,
-    "partName": "Shadulla Nagar"
+    "partName": "Shadulla Nagar",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 65949,
@@ -5816,7 +6872,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 251,
-    "partName": "Chinthalchervu"
+    "partName": "Chinthalchervu",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 65950,
@@ -5827,7 +6885,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 252,
-    "partName": "Chinthal Cheruvu"
+    "partName": "Chinthal Cheruvu",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 66098,
@@ -5838,7 +6898,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 253,
-    "partName": "Chinthal Chervu"
+    "partName": "Chinthal Chervu",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 66099,
@@ -5849,7 +6911,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 254,
-    "partName": "Kothaguda"
+    "partName": "Kothaguda",
+    "lat": 17.784274936654136,
+    "lon": 78.27636689987816
   },
   {
     "partId": 65951,
@@ -5860,7 +6924,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 255,
-    "partName": "Konam Pet"
+    "partName": "Konam Pet",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 65952,
@@ -5871,7 +6937,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 256,
-    "partName": "Reddy Palam"
+    "partName": "Reddy Palam",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 65953,
@@ -5882,7 +6950,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 257,
-    "partName": "Vaddepally"
+    "partName": "Vaddepally",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 66100,
@@ -5893,7 +6963,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 258,
-    "partName": "Yellamma Guda"
+    "partName": "Yellamma Guda",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 65954,
@@ -5904,7 +6976,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 259,
-    "partName": "M P P S Rendlaguda"
+    "partName": "M P P S Rendlaguda",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 66101,
@@ -5915,7 +6989,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 260,
-    "partName": "Kodipaka"
+    "partName": "Kodipaka",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 65955,
@@ -5926,7 +7002,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 261,
-    "partName": "Nagaram"
+    "partName": "Nagaram",
+    "lat": 18.1614597,
+    "lon": 78.5340193
   },
   {
     "partId": 66102,
@@ -5937,7 +7015,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 262,
-    "partName": "Sherkhan Pally"
+    "partName": "Sherkhan Pally",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 66103,
@@ -5948,7 +7028,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 263,
-    "partName": "Ackwanchaguda"
+    "partName": "Ackwanchaguda",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 66104,
@@ -5959,7 +7041,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 264,
-    "partName": "Royyapally"
+    "partName": "Royyapally",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 65956,
@@ -5970,7 +7054,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 265,
-    "partName": "Nathnay Pally"
+    "partName": "Nathnay Pally",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 65957,
@@ -5981,7 +7067,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 266,
-    "partName": "Kagaj Maddur"
+    "partName": "Kagaj Maddur",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 65958,
@@ -5992,7 +7080,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 267,
-    "partName": "Konda Poor"
+    "partName": "Konda Poor",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 65959,
@@ -6003,7 +7093,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 268,
-    "partName": "Gudemgadda"
+    "partName": "Gudemgadda",
+    "lat": 17.7020775,
+    "lon": 78.2671378
   },
   {
     "partId": 66105,
@@ -6014,7 +7106,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 269,
-    "partName": "Yellapur"
+    "partName": "Yellapur",
+    "lat": 17.784274936654136,
+    "lon": 78.27636689987816
   },
   {
     "partId": 66106,
@@ -6025,7 +7119,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 270,
-    "partName": "Avancha"
+    "partName": "Avancha",
+    "lat": 17.784274936654136,
+    "lon": 78.27636689987816
   },
   {
     "partId": 66107,
@@ -6036,7 +7132,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 271,
-    "partName": "Madapur"
+    "partName": "Madapur",
+    "lat": 17.7098605,
+    "lon": 78.2600211
   },
   {
     "partId": 66108,
@@ -6047,7 +7145,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 272,
-    "partName": "Ramchandrapur"
+    "partName": "Ramchandrapur",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 65960,
@@ -6058,7 +7158,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 273,
-    "partName": "Rustumpeta"
+    "partName": "Rustumpeta",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 65961,
@@ -6069,7 +7171,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 274,
-    "partName": "Rustumpet"
+    "partName": "Rustumpet",
+    "lat": 17.7424099,
+    "lon": 78.2547981
   },
   {
     "partId": 65962,
@@ -6080,7 +7184,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 275,
-    "partName": "Sitarampur"
+    "partName": "Sitarampur",
+    "lat": 17.784274936654136,
+    "lon": 78.27636689987816
   },
   {
     "partId": 66109,
@@ -6091,7 +7197,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 276,
-    "partName": "Narsapur"
+    "partName": "Narsapur",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 66110,
@@ -6102,7 +7210,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 277,
-    "partName": "Narsapur"
+    "partName": "Narsapur",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 66111,
@@ -6113,7 +7223,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 278,
-    "partName": "Narsapur"
+    "partName": "Narsapur",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 65963,
@@ -6124,7 +7236,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 279,
-    "partName": "Narsapur"
+    "partName": "Narsapur",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 66125,
@@ -6135,7 +7249,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 280,
-    "partName": "Government High School, Narsapur Room No 5"
+    "partName": "Government High School, Narsapur Room No 5",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 65964,
@@ -6146,7 +7262,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 281,
-    "partName": "Government High School Room No 3, Narsapur"
+    "partName": "Government High School Room No 3, Narsapur",
+    "lat": 17.784274936654136,
+    "lon": 78.27636689987816
   },
   {
     "partId": 65965,
@@ -6157,7 +7275,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 282,
-    "partName": "Narsapur"
+    "partName": "Narsapur",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 66112,
@@ -6168,7 +7288,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 283,
-    "partName": "Narsapur"
+    "partName": "Narsapur",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 66126,
@@ -6179,7 +7301,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 284,
-    "partName": "Zilla Parishath Girls High School, Narsapur Room No 3"
+    "partName": "Zilla Parishath Girls High School, Narsapur Room No 3",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 66113,
@@ -6190,7 +7314,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 285,
-    "partName": "Government High School Room No 4, Narsapur"
+    "partName": "Government High School Room No 4, Narsapur",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 65966,
@@ -6201,7 +7327,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 286,
-    "partName": "Narsapur"
+    "partName": "Narsapur",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 65967,
@@ -6212,7 +7340,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 287,
-    "partName": "Narsapur"
+    "partName": "Narsapur",
+    "lat": 17.784274936654136,
+    "lon": 78.27636689987816
   },
   {
     "partId": 65968,
@@ -6223,7 +7353,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 288,
-    "partName": "Narsapur"
+    "partName": "Narsapur",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 66114,
@@ -6234,7 +7366,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 289,
-    "partName": "Narsapur"
+    "partName": "Narsapur",
+    "lat": 17.784274936654136,
+    "lon": 78.27636689987816
   },
   {
     "partId": 66129,
@@ -6245,7 +7379,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 290,
-    "partName": "Narsapur"
+    "partName": "Narsapur",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 66115,
@@ -6256,7 +7392,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 291,
-    "partName": "Hanmanthapoor"
+    "partName": "Hanmanthapoor",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 66116,
@@ -6267,7 +7405,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 292,
-    "partName": "Thuljarampet"
+    "partName": "Thuljarampet",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 65969,
@@ -6278,7 +7418,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 293,
-    "partName": "Chinna Gottimukkala"
+    "partName": "Chinna Gottimukkala",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 65970,
@@ -6289,7 +7431,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 294,
-    "partName": "Kotha Colony H/O,Chinna Gottimukkla"
+    "partName": "Kotha Colony H/O,Chinna Gottimukkla",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 65971,
@@ -6300,7 +7444,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 295,
-    "partName": "Pedhagotti Mukkala"
+    "partName": "Pedhagotti Mukkala",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 66117,
@@ -6311,7 +7457,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 296,
-    "partName": "Pedha Gottimukkala"
+    "partName": "Pedha Gottimukkala",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 66118,
@@ -6322,7 +7470,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 297,
-    "partName": "Chennapur"
+    "partName": "Chennapur",
+    "lat": 17.7573722,
+    "lon": 78.3706046
   },
   {
     "partId": 66127,
@@ -6333,7 +7483,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 298,
-    "partName": "TIKYA DEVAMMA GUDEM THANDA"
+    "partName": "TIKYA DEVAMMA GUDEM THANDA",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 66119,
@@ -6344,7 +7496,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 299,
-    "partName": "Nawabpet"
+    "partName": "Nawabpet",
+    "lat": 17.7220153,
+    "lon": 78.3948755
   },
   {
     "partId": 66120,
@@ -6355,7 +7509,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 300,
-    "partName": "Nawabpet"
+    "partName": "Nawabpet",
+    "lat": 17.7220153,
+    "lon": 78.3948755
   },
   {
     "partId": 65972,
@@ -6366,7 +7522,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 301,
-    "partName": "Lachireddy Gudem"
+    "partName": "Lachireddy Gudem",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 65973,
@@ -6377,7 +7535,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 302,
-    "partName": "Gomaram"
+    "partName": "Gomaram",
+    "lat": 17.7459526,
+    "lon": 78.3979874
   },
   {
     "partId": 65974,
@@ -6388,7 +7548,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 303,
-    "partName": "Gomaram"
+    "partName": "Gomaram",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 65975,
@@ -6399,7 +7561,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 304,
-    "partName": "Gomaram"
+    "partName": "Gomaram",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 66121,
@@ -6410,7 +7574,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 305,
-    "partName": "Bijlipur"
+    "partName": "Bijlipur",
+    "lat": 17.7650394,
+    "lon": 78.4149604
   },
   {
     "partId": 66122,
@@ -6421,7 +7587,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 306,
-    "partName": "Parikibanda"
+    "partName": "Parikibanda",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 66123,
@@ -6432,7 +7600,9 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 307,
-    "partName": "Parikibanda"
+    "partName": "Parikibanda",
+    "lat": 17.7384006,
+    "lon": 78.279637
   },
   {
     "partId": 66124,
@@ -6443,6 +7613,8 @@
     "acNumber": 37,
     "acName": "Narsapur",
     "partNumber": 308,
-    "partName": "Sikindlapur"
+    "partName": "Sikindlapur",
+    "lat": 17.7455599,
+    "lon": 78.4327054
   }
 ]

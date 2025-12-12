@@ -8,7 +8,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 1,
-    "partName": "KHANKHA BAGH"
+    "partName": "KHANKHA BAGH",
+    "lat": 34.023026900000005,
+    "lon": 74.99530949940382
   },
   {
     "partId": 8262,
@@ -19,7 +21,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 2,
-    "partName": "BAFNA"
+    "partName": "BAFNA",
+    "lat": 34.023026900000005,
+    "lon": 74.99530949940382
   },
   {
     "partId": 8253,
@@ -30,7 +34,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 3,
-    "partName": "FRESTABAL A"
+    "partName": "FRESTABAL A",
+    "lat": 34.023026900000005,
+    "lon": 74.99530949940382
   },
   {
     "partId": 8254,
@@ -41,7 +47,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 4,
-    "partName": "FRESTABAL B"
+    "partName": "FRESTABAL B",
+    "lat": 34.023026900000005,
+    "lon": 74.99530949940382
   },
   {
     "partId": 7274,
@@ -52,7 +60,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 5,
-    "partName": "FRESTABAL C"
+    "partName": "FRESTABAL C",
+    "lat": 34.023026900000005,
+    "lon": 74.99530949940382
   },
   {
     "partId": 8251,
@@ -63,7 +73,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 6,
-    "partName": "DRANGBAL A"
+    "partName": "DRANGBAL A",
+    "lat": 34.0179838,
+    "lon": 74.9133432
   },
   {
     "partId": 8252,
@@ -74,7 +86,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 7,
-    "partName": "DRANGBAL B"
+    "partName": "DRANGBAL B",
+    "lat": 34.023026900000005,
+    "lon": 74.99530949940382
   },
   {
     "partId": 8256,
@@ -85,7 +99,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 8,
-    "partName": "DRANGBAL C"
+    "partName": "DRANGBAL C",
+    "lat": 34.023026900000005,
+    "lon": 74.99530949940382
   },
   {
     "partId": 3746,
@@ -96,7 +112,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 9,
-    "partName": "BAGANDER GOUSIA COLONY"
+    "partName": "BAGANDER GOUSIA COLONY",
+    "lat": 34.023026900000005,
+    "lon": 74.99530949940382
   },
   {
     "partId": 3745,
@@ -107,7 +125,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 10,
-    "partName": "NAMLABAL A"
+    "partName": "NAMLABAL A",
+    "lat": 34.0214936,
+    "lon": 74.91885773138634
   },
   {
     "partId": 3749,
@@ -118,7 +138,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 11,
-    "partName": "TULBAGH NAMLABAL A"
+    "partName": "TULBAGH NAMLABAL A",
+    "lat": 34.023026900000005,
+    "lon": 74.99530949940382
   },
   {
     "partId": 11571,
@@ -129,7 +151,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 12,
-    "partName": "TULBAGH NAMLABAL A1"
+    "partName": "TULBAGH NAMLABAL A1",
+    "lat": 34.023026900000005,
+    "lon": 74.99530949940382
   },
   {
     "partId": 3750,
@@ -140,7 +164,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 13,
-    "partName": "TULBAGH NAMLABAL B"
+    "partName": "TULBAGH NAMLABAL B",
+    "lat": 34.023026900000005,
+    "lon": 74.99530949940382
   },
   {
     "partId": 3747,
@@ -151,7 +177,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 14,
-    "partName": "NAMLABAL B"
+    "partName": "NAMLABAL B",
+    "lat": 34.023026900000005,
+    "lon": 74.99530949940382
   },
   {
     "partId": 3748,
@@ -162,7 +190,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 15,
-    "partName": "NAMLABAL C"
+    "partName": "NAMLABAL C",
+    "lat": 34.023026900000005,
+    "lon": 74.99530949940382
   },
   {
     "partId": 3740,
@@ -173,7 +203,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 16,
-    "partName": "KONIBAL A"
+    "partName": "KONIBAL A",
+    "lat": 34.0132876,
+    "lon": 74.9491845
   },
   {
     "partId": 3741,
@@ -184,7 +216,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 17,
-    "partName": "KONIBAL B"
+    "partName": "KONIBAL B",
+    "lat": 34.023026900000005,
+    "lon": 74.99530949940382
   },
   {
     "partId": 3744,
@@ -195,7 +229,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 18,
-    "partName": "LALPORA"
+    "partName": "LALPORA",
+    "lat": 33.9632859,
+    "lon": 75.14895343885973
   },
   {
     "partId": 3743,
@@ -206,7 +242,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 19,
-    "partName": "MEEJ"
+    "partName": "MEEJ",
+    "lat": 34.020855,
+    "lon": 74.93003
   },
   {
     "partId": 4931,
@@ -217,7 +255,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 20,
-    "partName": "MUNPARA"
+    "partName": "MUNPARA",
+    "lat": 34.023026900000005,
+    "lon": 74.99530949940382
   },
   {
     "partId": 4926,
@@ -228,7 +268,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 21,
-    "partName": "WOYEN A"
+    "partName": "WOYEN A",
+    "lat": 34.023026900000005,
+    "lon": 74.99530949940382
   },
   {
     "partId": 7272,
@@ -239,7 +281,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 22,
-    "partName": "WOYEN B"
+    "partName": "WOYEN B",
+    "lat": 34.023026900000005,
+    "lon": 74.99530949940382
   },
   {
     "partId": 4927,
@@ -250,7 +294,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 23,
-    "partName": "WOYEN C"
+    "partName": "WOYEN C",
+    "lat": 34.023026900000005,
+    "lon": 74.99530949940382
   },
   {
     "partId": 7273,
@@ -261,7 +307,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 24,
-    "partName": "WOYEN D"
+    "partName": "WOYEN D",
+    "lat": 34.023026900000005,
+    "lon": 74.99530949940382
   },
   {
     "partId": 4928,
@@ -272,7 +320,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 25,
-    "partName": "WOYEN E"
+    "partName": "WOYEN E",
+    "lat": 34.023026900000005,
+    "lon": 74.99530949940382
   },
   {
     "partId": 4929,
@@ -283,7 +333,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 26,
-    "partName": "WOYEN F"
+    "partName": "WOYEN F",
+    "lat": 34.023026900000005,
+    "lon": 74.99530949940382
   },
   {
     "partId": 4930,
@@ -294,7 +346,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 27,
-    "partName": "ANDROOSA"
+    "partName": "ANDROOSA",
+    "lat": 34.0108942,
+    "lon": 74.982371
   },
   {
     "partId": 2668,
@@ -305,7 +359,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 28,
-    "partName": "BATADALOVE GUJJAR BASTI"
+    "partName": "BATADALOVE GUJJAR BASTI",
+    "lat": 34.023026900000005,
+    "lon": 74.99530949940382
   },
   {
     "partId": 4919,
@@ -316,7 +372,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 29,
-    "partName": "KHREWA A"
+    "partName": "KHREWA A",
+    "lat": 34.023026900000005,
+    "lon": 74.99530949940382
   },
   {
     "partId": 4920,
@@ -327,7 +385,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 30,
-    "partName": "KHREWA B"
+    "partName": "KHREWA B",
+    "lat": 34.023026900000005,
+    "lon": 74.99530949940382
   },
   {
     "partId": 4921,
@@ -338,7 +398,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 31,
-    "partName": "KHREWA C"
+    "partName": "KHREWA C",
+    "lat": 34.023026900000005,
+    "lon": 74.99530949940382
   },
   {
     "partId": 4922,
@@ -349,7 +411,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 32,
-    "partName": "KHREWA  D"
+    "partName": "KHREWA  D",
+    "lat": 34.023026900000005,
+    "lon": 74.99530949940382
   },
   {
     "partId": 4923,
@@ -360,7 +424,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 33,
-    "partName": "KHREWA E"
+    "partName": "KHREWA E",
+    "lat": 34.023026900000005,
+    "lon": 74.99530949940382
   },
   {
     "partId": 4924,
@@ -371,7 +437,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 34,
-    "partName": "KHREWA F"
+    "partName": "KHREWA F",
+    "lat": 34.023026900000005,
+    "lon": 74.99530949940382
   },
   {
     "partId": 4925,
@@ -382,7 +450,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 35,
-    "partName": "KHREWA G"
+    "partName": "KHREWA G",
+    "lat": 34.023026900000005,
+    "lon": 74.99530949940382
   },
   {
     "partId": 4917,
@@ -393,7 +463,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 36,
-    "partName": "BETHAN"
+    "partName": "BETHAN",
+    "lat": 34.023026900000005,
+    "lon": 74.99530949940382
   },
   {
     "partId": 4916,
@@ -404,7 +476,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 37,
-    "partName": "ZAINTRAG"
+    "partName": "ZAINTRAG",
+    "lat": 34.023026900000005,
+    "lon": 74.99530949940382
   },
   {
     "partId": 4918,
@@ -415,7 +489,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 38,
-    "partName": "SATPAKHREN"
+    "partName": "SATPAKHREN",
+    "lat": 34.023026900000005,
+    "lon": 74.99530949940382
   },
   {
     "partId": 4932,
@@ -426,7 +502,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 39,
-    "partName": "SHAR SHALI A"
+    "partName": "SHAR SHALI A",
+    "lat": 34.023026900000005,
+    "lon": 74.99530949940382
   },
   {
     "partId": 4933,
@@ -437,7 +515,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 40,
-    "partName": "SHAR SHALI B"
+    "partName": "SHAR SHALI B",
+    "lat": 34.023026900000005,
+    "lon": 74.99530949940382
   },
   {
     "partId": 3732,
@@ -448,7 +528,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 41,
-    "partName": "SHAR SHALI C"
+    "partName": "SHAR SHALI C",
+    "lat": 34.023026900000005,
+    "lon": 74.99530949940382
   },
   {
     "partId": 3733,
@@ -459,7 +541,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 42,
-    "partName": "SHAR SHALI D"
+    "partName": "SHAR SHALI D",
+    "lat": 34.023026900000005,
+    "lon": 74.99530949940382
   },
   {
     "partId": 3734,
@@ -470,7 +554,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 43,
-    "partName": "MANDAKPAL"
+    "partName": "MANDAKPAL",
+    "lat": 33.997329,
+    "lon": 75.01357204351052
   },
   {
     "partId": 3735,
@@ -481,7 +567,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 44,
-    "partName": "LADHOO A"
+    "partName": "LADHOO A",
+    "lat": 34.023026900000005,
+    "lon": 74.99530949940382
   },
   {
     "partId": 3736,
@@ -492,7 +580,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 45,
-    "partName": "LADHOO B"
+    "partName": "LADHOO B",
+    "lat": 34.023026900000005,
+    "lon": 74.99530949940382
   },
   {
     "partId": 3737,
@@ -503,7 +593,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 46,
-    "partName": "LADHOO C"
+    "partName": "LADHOO C",
+    "lat": 34.023026900000005,
+    "lon": 74.99530949940382
   },
   {
     "partId": 3738,
@@ -514,7 +606,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 47,
-    "partName": "LADHOO D"
+    "partName": "LADHOO D",
+    "lat": 34.023026900000005,
+    "lon": 74.99530949940382
   },
   {
     "partId": 3739,
@@ -525,7 +619,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 48,
-    "partName": "LADHOO E"
+    "partName": "LADHOO E",
+    "lat": 34.023026900000005,
+    "lon": 74.99530949940382
   },
   {
     "partId": 3742,
@@ -536,7 +632,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 49,
-    "partName": "GUNDBAL"
+    "partName": "GUNDBAL",
+    "lat": 33.9942384,
+    "lon": 74.9826861
   },
   {
     "partId": 11216,
@@ -547,7 +645,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 50,
-    "partName": "DUSOO"
+    "partName": "DUSOO",
+    "lat": 34.023026900000005,
+    "lon": 74.99530949940382
   },
   {
     "partId": 11215,
@@ -558,7 +658,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 51,
-    "partName": "KRUNCHOO"
+    "partName": "KRUNCHOO",
+    "lat": 34.023026900000005,
+    "lon": 74.99530949940382
   },
   {
     "partId": 8263,
@@ -569,7 +671,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 52,
-    "partName": "CHANDAHARA A"
+    "partName": "CHANDAHARA A",
+    "lat": 34.023026900000005,
+    "lon": 74.99530949940382
   },
   {
     "partId": 11214,
@@ -580,7 +684,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 53,
-    "partName": "CHANDAHARA B"
+    "partName": "CHANDAHARA B",
+    "lat": 34.023026900000005,
+    "lon": 74.99530949940382
   },
   {
     "partId": 7275,
@@ -591,7 +697,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 54,
-    "partName": "KADLABAL LETRABAL"
+    "partName": "KADLABAL LETRABAL",
+    "lat": 34.023026900000005,
+    "lon": 74.99530949940382
   },
   {
     "partId": 8260,
@@ -602,7 +710,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 55,
-    "partName": "KADLABAL A"
+    "partName": "KADLABAL A",
+    "lat": 34.0091524,
+    "lon": 74.9094023
   },
   {
     "partId": 8261,
@@ -613,7 +723,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 56,
-    "partName": "KADLABAL B"
+    "partName": "KADLABAL B",
+    "lat": 34.0091524,
+    "lon": 74.9094023
   },
   {
     "partId": 8259,
@@ -624,7 +736,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 57,
-    "partName": "KADLABAL C"
+    "partName": "KADLABAL C",
+    "lat": 34.0091524,
+    "lon": 74.9094023
   },
   {
     "partId": 8258,
@@ -635,7 +749,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 58,
-    "partName": "KADLABAL D"
+    "partName": "KADLABAL D",
+    "lat": 34.0091524,
+    "lon": 74.9094023
   },
   {
     "partId": 8257,
@@ -646,7 +762,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 59,
-    "partName": "KADLABAL PULPAR"
+    "partName": "KADLABAL PULPAR",
+    "lat": 34.023026900000005,
+    "lon": 74.99530949940382
   },
   {
     "partId": 11573,
@@ -657,7 +775,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 60,
-    "partName": "KADLABAL PULPAR A"
+    "partName": "KADLABAL PULPAR A",
+    "lat": 34.023026900000005,
+    "lon": 74.99530949940382
   },
   {
     "partId": 11244,
@@ -668,7 +788,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 61,
-    "partName": "KANDIZAL"
+    "partName": "KANDIZAL",
+    "lat": 33.9908315,
+    "lon": 74.9187567
   },
   {
     "partId": 11225,
@@ -679,7 +801,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 62,
-    "partName": "PATALBAGH A"
+    "partName": "PATALBAGH A",
+    "lat": 34.023026900000005,
+    "lon": 74.99530949940382
   },
   {
     "partId": 11226,
@@ -690,7 +814,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 63,
-    "partName": "PATALBAGH B"
+    "partName": "PATALBAGH B",
+    "lat": 34.023026900000005,
+    "lon": 74.99530949940382
   },
   {
     "partId": 11245,
@@ -701,7 +827,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 64,
-    "partName": "MARWAL"
+    "partName": "MARWAL",
+    "lat": 34.023026900000005,
+    "lon": 74.99530949940382
   },
   {
     "partId": 11246,
@@ -712,7 +840,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 65,
-    "partName": "KHADARMOH"
+    "partName": "KHADARMOH",
+    "lat": 34.023026900000005,
+    "lon": 74.99530949940382
   },
   {
     "partId": 11242,
@@ -723,7 +853,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 66,
-    "partName": "NIHAMA A"
+    "partName": "NIHAMA A",
+    "lat": 34.023026900000005,
+    "lon": 74.99530949940382
   },
   {
     "partId": 11243,
@@ -734,7 +866,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 67,
-    "partName": "NIHAMA B"
+    "partName": "NIHAMA B",
+    "lat": 34.023026900000005,
+    "lon": 74.99530949940382
   },
   {
     "partId": 7315,
@@ -745,7 +879,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 68,
-    "partName": "LOLIPORA"
+    "partName": "LOLIPORA",
+    "lat": 34.023026900000005,
+    "lon": 74.99530949940382
   },
   {
     "partId": 8277,
@@ -756,7 +892,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 69,
-    "partName": "TUMCHI NOWPORA"
+    "partName": "TUMCHI NOWPORA",
+    "lat": 34.023026900000005,
+    "lon": 74.99530949940382
   },
   {
     "partId": 8328,
@@ -767,7 +905,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 70,
-    "partName": "BANGUND"
+    "partName": "BANGUND",
+    "lat": 34.023026900000005,
+    "lon": 74.99530949940382
   },
   {
     "partId": 8274,
@@ -778,7 +918,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 71,
-    "partName": "WANPORA"
+    "partName": "WANPORA",
+    "lat": 34.023026900000005,
+    "lon": 74.99530949940382
   },
   {
     "partId": 8275,
@@ -789,7 +931,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 72,
-    "partName": "HANIPORA CHATI NIHAMA A"
+    "partName": "HANIPORA CHATI NIHAMA A",
+    "lat": 34.023026900000005,
+    "lon": 74.99530949940382
   },
   {
     "partId": 8276,
@@ -800,7 +944,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 73,
-    "partName": "HANIPORA CHATI NIHAMA B"
+    "partName": "HANIPORA CHATI NIHAMA B",
+    "lat": 34.023026900000005,
+    "lon": 74.99530949940382
   },
   {
     "partId": 8329,
@@ -811,7 +957,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 74,
-    "partName": "JAGIR PARIGAM A"
+    "partName": "JAGIR PARIGAM A",
+    "lat": 34.023026900000005,
+    "lon": 74.99530949940382
   },
   {
     "partId": 8330,
@@ -822,7 +970,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 75,
-    "partName": "JAGIR PARIGAM B"
+    "partName": "JAGIR PARIGAM B",
+    "lat": 34.023026900000005,
+    "lon": 74.99530949940382
   },
   {
     "partId": 8331,
@@ -833,7 +983,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 76,
-    "partName": "JAGIR PARIGAM C"
+    "partName": "JAGIR PARIGAM C",
+    "lat": 34.023026900000005,
+    "lon": 74.99530949940382
   },
   {
     "partId": 8332,
@@ -844,7 +996,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 77,
-    "partName": "JAGIR PARIGAM D"
+    "partName": "JAGIR PARIGAM D",
+    "lat": 34.023026900000005,
+    "lon": 74.99530949940382
   },
   {
     "partId": 11247,
@@ -855,7 +1009,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 78,
-    "partName": "QAZIGUND"
+    "partName": "QAZIGUND",
+    "lat": 34.023026900000005,
+    "lon": 74.99530949940382
   },
   {
     "partId": 228,
@@ -866,7 +1022,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 79,
-    "partName": "SATHER GUND"
+    "partName": "SATHER GUND",
+    "lat": 34.023026900000005,
+    "lon": 74.99530949940382
   },
   {
     "partId": 11231,
@@ -877,7 +1035,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 80,
-    "partName": "BAJI BAGH"
+    "partName": "BAJI BAGH",
+    "lat": 34.023026900000005,
+    "lon": 74.99530949940382
   },
   {
     "partId": 11227,
@@ -888,7 +1048,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 81,
-    "partName": "SAMBOORA A"
+    "partName": "SAMBOORA A",
+    "lat": 34.023026900000005,
+    "lon": 74.99530949940382
   },
   {
     "partId": 11228,
@@ -899,7 +1061,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 82,
-    "partName": "SAMBOORA B"
+    "partName": "SAMBOORA B",
+    "lat": 34.023026900000005,
+    "lon": 74.99530949940382
   },
   {
     "partId": 11230,
@@ -910,7 +1074,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 83,
-    "partName": "SAMBOORA C"
+    "partName": "SAMBOORA C",
+    "lat": 34.023026900000005,
+    "lon": 74.99530949940382
   },
   {
     "partId": 7276,
@@ -921,7 +1087,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 84,
-    "partName": "SAMBOORA D"
+    "partName": "SAMBOORA D",
+    "lat": 34.023026900000005,
+    "lon": 74.99530949940382
   },
   {
     "partId": 11229,
@@ -932,7 +1100,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 85,
-    "partName": "SAMBOORA E"
+    "partName": "SAMBOORA E",
+    "lat": 34.023026900000005,
+    "lon": 74.99530949940382
   },
   {
     "partId": 11217,
@@ -943,7 +1113,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 86,
-    "partName": "LETHPORA A"
+    "partName": "LETHPORA A",
+    "lat": 33.9641912,
+    "lon": 74.9661945
   },
   {
     "partId": 11218,
@@ -954,7 +1126,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 87,
-    "partName": "LETHPORA B"
+    "partName": "LETHPORA B",
+    "lat": 34.023026900000005,
+    "lon": 74.99530949940382
   },
   {
     "partId": 11219,
@@ -965,7 +1139,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 88,
-    "partName": "LETHPORA C"
+    "partName": "LETHPORA C",
+    "lat": 34.023026900000005,
+    "lon": 74.99530949940382
   },
   {
     "partId": 11220,
@@ -976,7 +1152,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 89,
-    "partName": "LETHPORA D"
+    "partName": "LETHPORA D",
+    "lat": 34.023026900000005,
+    "lon": 74.99530949940382
   },
   {
     "partId": 11221,
@@ -987,7 +1165,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 90,
-    "partName": "LETHPORA E"
+    "partName": "LETHPORA E",
+    "lat": 33.9641912,
+    "lon": 74.9661945
   },
   {
     "partId": 11239,
@@ -998,7 +1178,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 91,
-    "partName": "HAJI BAL"
+    "partName": "HAJI BAL",
+    "lat": 34.023026900000005,
+    "lon": 74.99530949940382
   },
   {
     "partId": 11237,
@@ -1009,7 +1191,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 92,
-    "partName": "LELHAR A"
+    "partName": "LELHAR A",
+    "lat": 34.023026900000005,
+    "lon": 74.99530949940382
   },
   {
     "partId": 11238,
@@ -1020,7 +1204,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 93,
-    "partName": "LELHAR B"
+    "partName": "LELHAR B",
+    "lat": 34.023026900000005,
+    "lon": 74.99530949940382
   },
   {
     "partId": 230,
@@ -1031,7 +1217,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 94,
-    "partName": "KAKAPORA A"
+    "partName": "KAKAPORA A",
+    "lat": 33.9479845,
+    "lon": 74.9275781
   },
   {
     "partId": 231,
@@ -1042,7 +1230,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 95,
-    "partName": "KAKAPORA B"
+    "partName": "KAKAPORA B",
+    "lat": 33.9479845,
+    "lon": 74.9275781
   },
   {
     "partId": 233,
@@ -1053,7 +1243,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 96,
-    "partName": "KAKAPORA C"
+    "partName": "KAKAPORA C",
+    "lat": 33.9479845,
+    "lon": 74.9275781
   },
   {
     "partId": 7280,
@@ -1064,7 +1256,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 97,
-    "partName": "KAKAPORA D"
+    "partName": "KAKAPORA D",
+    "lat": 33.9479845,
+    "lon": 74.9275781
   },
   {
     "partId": 232,
@@ -1075,7 +1269,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 98,
-    "partName": "UKHOO"
+    "partName": "UKHOO",
+    "lat": 34.01256290431035,
+    "lon": 74.9868115345243
   },
   {
     "partId": 7279,
@@ -1086,7 +1282,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 99,
-    "partName": "LARIBAL"
+    "partName": "LARIBAL",
+    "lat": 34.01256290431035,
+    "lon": 74.9868115345243
   },
   {
     "partId": 8348,
@@ -1097,7 +1295,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 100,
-    "partName": "NAMAN"
+    "partName": "NAMAN",
+    "lat": 34.01256290431035,
+    "lon": 74.9868115345243
   },
   {
     "partId": 8336,
@@ -1108,7 +1308,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 101,
-    "partName": "KISRIGAM"
+    "partName": "KISRIGAM",
+    "lat": 34.023026900000005,
+    "lon": 74.99530949940382
   },
   {
     "partId": 229,
@@ -1119,7 +1321,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 102,
-    "partName": "LERAW"
+    "partName": "LERAW",
+    "lat": 34.023026900000005,
+    "lon": 74.99530949940382
   },
   {
     "partId": 8334,
@@ -1130,7 +1334,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 103,
-    "partName": "SINGO NARBAL"
+    "partName": "SINGO NARBAL",
+    "lat": 34.023026900000005,
+    "lon": 74.99530949940382
   },
   {
     "partId": 8335,
@@ -1141,7 +1347,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 104,
-    "partName": "PINGALGAM"
+    "partName": "PINGALGAM",
+    "lat": 33.9490472,
+    "lon": 75.04183347471374
   },
   {
     "partId": 8337,
@@ -1152,7 +1360,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 105,
-    "partName": "HAKRIPORA"
+    "partName": "HAKRIPORA",
+    "lat": 34.023026900000005,
+    "lon": 74.99530949940382
   },
   {
     "partId": 8343,
@@ -1163,7 +1373,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 106,
-    "partName": "BUGUMBAGH"
+    "partName": "BUGUMBAGH",
+    "lat": 33.9490472,
+    "lon": 75.04183347471374
   },
   {
     "partId": 8340,
@@ -1174,7 +1386,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 107,
-    "partName": "DOHGAM"
+    "partName": "DOHGAM",
+    "lat": 34.023026900000005,
+    "lon": 74.99530949940382
   },
   {
     "partId": 11240,
@@ -1185,7 +1399,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 108,
-    "partName": "MONVIJI"
+    "partName": "MONVIJI",
+    "lat": 34.023026900000005,
+    "lon": 74.99530949940382
   },
   {
     "partId": 8338,
@@ -1196,7 +1412,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 109,
-    "partName": "PAHOO A"
+    "partName": "PAHOO A",
+    "lat": 34.023026900000005,
+    "lon": 74.99530949940382
   },
   {
     "partId": 8339,
@@ -1207,7 +1425,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 110,
-    "partName": "PAHOO B"
+    "partName": "PAHOO B",
+    "lat": 34.023026900000005,
+    "lon": 74.99530949940382
   },
   {
     "partId": 8342,
@@ -1218,7 +1438,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 111,
-    "partName": "KOUSIBAGH"
+    "partName": "KOUSIBAGH",
+    "lat": 34.023026900000005,
+    "lon": 74.99530949940382
   },
   {
     "partId": 8341,
@@ -1229,7 +1451,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 112,
-    "partName": "GUNDI PORA"
+    "partName": "GUNDI PORA",
+    "lat": 34.023026900000005,
+    "lon": 74.99530949940382
   },
   {
     "partId": 8349,
@@ -1240,7 +1464,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 113,
-    "partName": "TRICH"
+    "partName": "TRICH",
+    "lat": 34.023026900000005,
+    "lon": 74.99530949940382
   },
   {
     "partId": 8264,
@@ -1251,7 +1477,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 114,
-    "partName": "RATNIPORA A"
+    "partName": "RATNIPORA A",
+    "lat": 33.919156400000006,
+    "lon": 74.94381032397173
   },
   {
     "partId": 8265,
@@ -1262,7 +1490,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 115,
-    "partName": "RATNIPORA B"
+    "partName": "RATNIPORA B",
+    "lat": 33.919156400000006,
+    "lon": 74.94381032397173
   },
   {
     "partId": 8266,
@@ -1273,7 +1503,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 116,
-    "partName": "RATNIPORA C"
+    "partName": "RATNIPORA C",
+    "lat": 34.01256290431035,
+    "lon": 74.9868115345243
   },
   {
     "partId": 8267,
@@ -1284,7 +1516,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 117,
-    "partName": "RATNIPORA D"
+    "partName": "RATNIPORA D",
+    "lat": 33.919156400000006,
+    "lon": 74.94381032397173
   },
   {
     "partId": 11578,
@@ -1295,7 +1529,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 118,
-    "partName": "RATNIPORA D1"
+    "partName": "RATNIPORA D1",
+    "lat": 33.919156400000006,
+    "lon": 74.94381032397173
   },
   {
     "partId": 8268,
@@ -1306,7 +1542,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 119,
-    "partName": "GULBUGH"
+    "partName": "GULBUGH",
+    "lat": 34.023026900000005,
+    "lon": 74.99530949940382
   },
   {
     "partId": 11241,
@@ -1317,7 +1555,9 @@
     "acNumber": 32,
     "acName": "PAMPORE",
     "partNumber": 120,
-    "partName": "BANDERPORA CHIRAT"
+    "partName": "BANDERPORA CHIRAT",
+    "lat": 34.023026900000005,
+    "lon": 74.99530949940382
   },
   {
     "partId": 8333,
@@ -1328,7 +1568,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 1,
-    "partName": "URWAN"
+    "partName": "URWAN",
+    "lat": 33.89829355,
+    "lon": 74.89634093792017
   },
   {
     "partId": 8347,
@@ -1339,7 +1581,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 2,
-    "partName": "MALWARI"
+    "partName": "MALWARI",
+    "lat": 33.89829355,
+    "lon": 74.89634093792017
   },
   {
     "partId": 8344,
@@ -1350,7 +1594,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 3,
-    "partName": "NEWA A"
+    "partName": "NEWA A",
+    "lat": 33.9176318,
+    "lon": 74.8854672
   },
   {
     "partId": 8345,
@@ -1361,7 +1607,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 4,
-    "partName": "NEWA B"
+    "partName": "NEWA B",
+    "lat": 33.89829355,
+    "lon": 74.89634093792017
   },
   {
     "partId": 8350,
@@ -1372,7 +1620,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 5,
-    "partName": "GUDOORA A"
+    "partName": "GUDOORA A",
+    "lat": 33.89829355,
+    "lon": 74.89634093792017
   },
   {
     "partId": 8351,
@@ -1383,7 +1633,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 6,
-    "partName": "GUDOORA B"
+    "partName": "GUDOORA B",
+    "lat": 33.9490472,
+    "lon": 75.04183347471374
   },
   {
     "partId": 8346,
@@ -1394,7 +1646,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 7,
-    "partName": "UGARGUND"
+    "partName": "UGARGUND",
+    "lat": 33.89829355,
+    "lon": 74.89634093792017
   },
   {
     "partId": 8352,
@@ -1405,7 +1659,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 8,
-    "partName": "INDER A"
+    "partName": "INDER A",
+    "lat": 33.89829355,
+    "lon": 74.89634093792017
   },
   {
     "partId": 8353,
@@ -1416,7 +1672,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 9,
-    "partName": "INDER B"
+    "partName": "INDER B",
+    "lat": 33.9490472,
+    "lon": 75.04183347471374
   },
   {
     "partId": 8354,
@@ -1427,7 +1685,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 10,
-    "partName": "URCHARSOO"
+    "partName": "URCHARSOO",
+    "lat": 33.9490472,
+    "lon": 75.04183347471374
   },
   {
     "partId": 8355,
@@ -1438,7 +1698,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 11,
-    "partName": "HANJIKHALOO"
+    "partName": "HANJIKHALOO",
+    "lat": 33.89829355,
+    "lon": 74.89634093792017
   },
   {
     "partId": 8370,
@@ -1449,7 +1711,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 12,
-    "partName": "PRICHOO A"
+    "partName": "PRICHOO A",
+    "lat": 33.89829355,
+    "lon": 74.89634093792017
   },
   {
     "partId": 8371,
@@ -1460,7 +1724,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 13,
-    "partName": "PRICHOO B"
+    "partName": "PRICHOO B",
+    "lat": 33.89829355,
+    "lon": 74.89634093792017
   },
   {
     "partId": 8374,
@@ -1471,7 +1737,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 14,
-    "partName": "DALIPORA"
+    "partName": "DALIPORA",
+    "lat": 33.874405249999995,
+    "lon": 74.89655951679626
   },
   {
     "partId": 6577,
@@ -1482,7 +1750,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 15,
-    "partName": "CHATPORA A"
+    "partName": "CHATPORA A",
+    "lat": 33.89829355,
+    "lon": 74.89634093792017
   },
   {
     "partId": 6859,
@@ -1493,7 +1763,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 16,
-    "partName": "CHATPORA B"
+    "partName": "CHATPORA B",
+    "lat": 33.89829355,
+    "lon": 74.89634093792017
   },
   {
     "partId": 9193,
@@ -1504,7 +1776,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 17,
-    "partName": "SIRNOO A"
+    "partName": "SIRNOO A",
+    "lat": 33.89829355,
+    "lon": 74.89634093792017
   },
   {
     "partId": 9194,
@@ -1515,7 +1789,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 18,
-    "partName": "SIRNOO B"
+    "partName": "SIRNOO B",
+    "lat": 33.89829355,
+    "lon": 74.89634093792017
   },
   {
     "partId": 9187,
@@ -1526,7 +1802,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 19,
-    "partName": "MALIKPORA A"
+    "partName": "MALIKPORA A",
+    "lat": 33.8753054,
+    "lon": 74.8999404
   },
   {
     "partId": 9188,
@@ -1537,7 +1815,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 20,
-    "partName": "MALIKPORA B"
+    "partName": "MALIKPORA B",
+    "lat": 33.89829355,
+    "lon": 74.89634093792017
   },
   {
     "partId": 9189,
@@ -1548,7 +1828,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 21,
-    "partName": "WASHBUGH"
+    "partName": "WASHBUGH",
+    "lat": 33.89829355,
+    "lon": 74.89634093792017
   },
   {
     "partId": 9192,
@@ -1559,7 +1841,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 22,
-    "partName": "GUND HYDER"
+    "partName": "GUND HYDER",
+    "lat": 33.89829355,
+    "lon": 74.89634093792017
   },
   {
     "partId": 9190,
@@ -1570,7 +1854,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 23,
-    "partName": "DANGERPORA A"
+    "partName": "DANGERPORA A",
+    "lat": 33.91240765,
+    "lon": 74.99187308734906
   },
   {
     "partId": 9191,
@@ -1581,7 +1867,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 24,
-    "partName": "DANGERPORA B"
+    "partName": "DANGERPORA B",
+    "lat": 33.89829355,
+    "lon": 74.89634093792017
   },
   {
     "partId": 8372,
@@ -1592,7 +1880,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 25,
-    "partName": "GANGOO A"
+    "partName": "GANGOO A",
+    "lat": 33.89829355,
+    "lon": 74.89634093792017
   },
   {
     "partId": 8373,
@@ -1603,7 +1893,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 26,
-    "partName": "GANGOO B"
+    "partName": "GANGOO B",
+    "lat": 33.89829355,
+    "lon": 74.89634093792017
   },
   {
     "partId": 8363,
@@ -1614,7 +1906,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 27,
-    "partName": "UTHOORA"
+    "partName": "UTHOORA",
+    "lat": 33.89829355,
+    "lon": 74.89634093792017
   },
   {
     "partId": 8356,
@@ -1625,7 +1919,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 28,
-    "partName": "PINGLENA A"
+    "partName": "PINGLENA A",
+    "lat": 33.89829355,
+    "lon": 74.89634093792017
   },
   {
     "partId": 8357,
@@ -1636,7 +1932,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 29,
-    "partName": "PINGLENA B"
+    "partName": "PINGLENA B",
+    "lat": 33.89829355,
+    "lon": 74.89634093792017
   },
   {
     "partId": 8358,
@@ -1647,7 +1945,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 30,
-    "partName": "PINGLENA C"
+    "partName": "PINGLENA C",
+    "lat": 33.89829355,
+    "lon": 74.89634093792017
   },
   {
     "partId": 8359,
@@ -1658,7 +1958,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 31,
-    "partName": "PINGLENA D"
+    "partName": "PINGLENA D",
+    "lat": 33.89829355,
+    "lon": 74.89634093792017
   },
   {
     "partId": 8361,
@@ -1669,7 +1971,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 32,
-    "partName": "MANDINA"
+    "partName": "MANDINA",
+    "lat": 33.89829355,
+    "lon": 74.89634093792017
   },
   {
     "partId": 8362,
@@ -1680,7 +1984,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 33,
-    "partName": "SENZIWATHROO"
+    "partName": "SENZIWATHROO",
+    "lat": 33.89829355,
+    "lon": 74.89634093792017
   },
   {
     "partId": 8360,
@@ -1691,7 +1997,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 34,
-    "partName": "NARWA"
+    "partName": "NARWA",
+    "lat": 33.9490472,
+    "lon": 75.04183347471374
   },
   {
     "partId": 11579,
@@ -1702,7 +2010,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 35,
-    "partName": "NARWA A"
+    "partName": "NARWA A",
+    "lat": 33.89829355,
+    "lon": 74.89634093792017
   },
   {
     "partId": 8272,
@@ -1713,7 +2023,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 36,
-    "partName": "LAJORA A"
+    "partName": "LAJORA A",
+    "lat": 33.89829355,
+    "lon": 74.89634093792017
   },
   {
     "partId": 8273,
@@ -1724,7 +2036,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 37,
-    "partName": "LAJOORA B"
+    "partName": "LAJOORA B",
+    "lat": 33.89829355,
+    "lon": 74.89634093792017
   },
   {
     "partId": 11582,
@@ -1735,7 +2049,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 38,
-    "partName": "LAJURA B1"
+    "partName": "LAJURA B1",
+    "lat": 33.899111149999996,
+    "lon": 74.95639842144212
   },
   {
     "partId": 8270,
@@ -1746,7 +2062,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 39,
-    "partName": "QASIM ABAD"
+    "partName": "QASIM ABAD",
+    "lat": 33.9490472,
+    "lon": 75.04183347471374
   },
   {
     "partId": 7282,
@@ -1757,7 +2075,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 40,
-    "partName": "RAKH LAJOORA"
+    "partName": "RAKH LAJOORA",
+    "lat": 33.89829355,
+    "lon": 74.89634093792017
   },
   {
     "partId": 11583,
@@ -1768,7 +2088,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 41,
-    "partName": "RAKH  LAJURA A"
+    "partName": "RAKH  LAJURA A",
+    "lat": 33.89829355,
+    "lon": 74.89634093792017
   },
   {
     "partId": 8269,
@@ -1779,7 +2101,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 42,
-    "partName": "PUCHAL"
+    "partName": "PUCHAL",
+    "lat": 33.89829355,
+    "lon": 74.89634093792017
   },
   {
     "partId": 8271,
@@ -1790,7 +2114,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 43,
-    "partName": "KULULOO"
+    "partName": "KULULOO",
+    "lat": 33.89829355,
+    "lon": 74.89634093792017
   },
   {
     "partId": 7265,
@@ -1801,7 +2127,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 44,
-    "partName": "GOORIPORA A"
+    "partName": "GOORIPORA A",
+    "lat": 33.89829355,
+    "lon": 74.89634093792017
   },
   {
     "partId": 7266,
@@ -1812,7 +2140,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 45,
-    "partName": "GOORIPORA B"
+    "partName": "GOORIPORA B",
+    "lat": 33.89829355,
+    "lon": 74.89634093792017
   },
   {
     "partId": 7267,
@@ -1823,7 +2153,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 46,
-    "partName": "UDIPORA"
+    "partName": "UDIPORA",
+    "lat": 33.89829355,
+    "lon": 74.89634093792017
   },
   {
     "partId": 11222,
@@ -1834,7 +2166,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 47,
-    "partName": "BARSOO A"
+    "partName": "BARSOO A",
+    "lat": 33.9503332,
+    "lon": 74.9909216
   },
   {
     "partId": 11223,
@@ -1845,7 +2179,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 48,
-    "partName": "BARSOO B"
+    "partName": "BARSOO B",
+    "lat": 33.89829355,
+    "lon": 74.89634093792017
   },
   {
     "partId": 11224,
@@ -1856,7 +2192,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 49,
-    "partName": "JAWBRARA"
+    "partName": "JAWBRARA",
+    "lat": 33.89829355,
+    "lon": 74.89634093792017
   },
   {
     "partId": 7268,
@@ -1867,7 +2205,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 50,
-    "partName": "PADGAMPORA A"
+    "partName": "PADGAMPORA A",
+    "lat": 33.90917435,
+    "lon": 74.99741170763855
   },
   {
     "partId": 7269,
@@ -1878,7 +2218,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 51,
-    "partName": "DANGERPORA"
+    "partName": "DANGERPORA",
+    "lat": 33.91240765,
+    "lon": 74.99187308734906
   },
   {
     "partId": 7281,
@@ -1889,7 +2231,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 52,
-    "partName": "PADGAM PORA B"
+    "partName": "PADGAM PORA B",
+    "lat": 33.9490472,
+    "lon": 75.04183347471374
   },
   {
     "partId": 7270,
@@ -1900,7 +2244,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 53,
-    "partName": "LARKIPORA A"
+    "partName": "LARKIPORA A",
+    "lat": 33.9490472,
+    "lon": 75.04183347471374
   },
   {
     "partId": 7271,
@@ -1911,7 +2257,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 54,
-    "partName": "LARKIPORA B"
+    "partName": "LARKIPORA B",
+    "lat": 33.89829355,
+    "lon": 74.89634093792017
   },
   {
     "partId": 6842,
@@ -1922,7 +2270,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 55,
-    "partName": "MALANGPORA A"
+    "partName": "MALANGPORA A",
+    "lat": 33.8962422,
+    "lon": 74.97825876183617
   },
   {
     "partId": 6843,
@@ -1933,7 +2283,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 56,
-    "partName": "MALANGPORA B"
+    "partName": "MALANGPORA B",
+    "lat": 33.89829355,
+    "lon": 74.89634093792017
   },
   {
     "partId": 8365,
@@ -1944,7 +2296,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 57,
-    "partName": "TALANGAM"
+    "partName": "TALANGAM",
+    "lat": 33.89829355,
+    "lon": 74.89634093792017
   },
   {
     "partId": 8364,
@@ -1955,7 +2309,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 58,
-    "partName": "PATHAN PAHLOO"
+    "partName": "PATHAN PAHLOO",
+    "lat": 33.89829355,
+    "lon": 74.89634093792017
   },
   {
     "partId": 7197,
@@ -1966,7 +2322,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 59,
-    "partName": "TENGPONA A"
+    "partName": "TENGPONA A",
+    "lat": 33.89829355,
+    "lon": 74.89634093792017
   },
   {
     "partId": 7198,
@@ -1977,7 +2335,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 60,
-    "partName": "TENGPONA B"
+    "partName": "TENGPONA B",
+    "lat": 33.89829355,
+    "lon": 74.89634093792017
   },
   {
     "partId": 7199,
@@ -1988,7 +2348,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 61,
-    "partName": "MUCHPONA"
+    "partName": "MUCHPONA",
+    "lat": 33.89829355,
+    "lon": 74.89634093792017
   },
   {
     "partId": 7200,
@@ -1999,7 +2361,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 62,
-    "partName": "PAYER A"
+    "partName": "PAYER A",
+    "lat": 33.8610025,
+    "lon": 74.9415912
   },
   {
     "partId": 7256,
@@ -2010,7 +2374,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 63,
-    "partName": "PAYER B"
+    "partName": "PAYER B",
+    "lat": 33.89829355,
+    "lon": 74.89634093792017
   },
   {
     "partId": 8366,
@@ -2021,7 +2387,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 64,
-    "partName": "KOIL A"
+    "partName": "KOIL A",
+    "lat": 33.8777881,
+    "lon": 74.9491114
   },
   {
     "partId": 8367,
@@ -2032,7 +2400,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 65,
-    "partName": "KOIL B"
+    "partName": "KOIL B",
+    "lat": 33.89829355,
+    "lon": 74.89634093792017
   },
   {
     "partId": 8368,
@@ -2043,7 +2413,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 66,
-    "partName": "KOIL C"
+    "partName": "KOIL C",
+    "lat": 33.89829355,
+    "lon": 74.89634093792017
   },
   {
     "partId": 8369,
@@ -2054,7 +2426,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 67,
-    "partName": "KOIL D"
+    "partName": "KOIL D",
+    "lat": 33.89829355,
+    "lon": 74.89634093792017
   },
   {
     "partId": 6845,
@@ -2065,7 +2439,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 68,
-    "partName": "SHALL TOKUNA"
+    "partName": "SHALL TOKUNA",
+    "lat": 33.89829355,
+    "lon": 74.89634093792017
   },
   {
     "partId": 6849,
@@ -2076,7 +2452,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 69,
-    "partName": "BANDERPORA SHAHOORA"
+    "partName": "BANDERPORA SHAHOORA",
+    "lat": 33.89829355,
+    "lon": 74.89634093792017
   },
   {
     "partId": 7194,
@@ -2087,7 +2465,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 70,
-    "partName": "NOWHAR MALPORA"
+    "partName": "NOWHAR MALPORA",
+    "lat": 33.89829355,
+    "lon": 74.89634093792017
   },
   {
     "partId": 7195,
@@ -2098,7 +2478,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 71,
-    "partName": "TRICHAL A"
+    "partName": "TRICHAL A",
+    "lat": 33.89829355,
+    "lon": 74.89634093792017
   },
   {
     "partId": 7196,
@@ -2109,7 +2491,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 72,
-    "partName": "TRICHAL B"
+    "partName": "TRICHAL B",
+    "lat": 33.89829355,
+    "lon": 74.89634093792017
   },
   {
     "partId": 7193,
@@ -2120,7 +2504,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 73,
-    "partName": "NAIRA"
+    "partName": "NAIRA",
+    "lat": 33.89829355,
+    "lon": 74.89634093792017
   },
   {
     "partId": 7190,
@@ -2131,7 +2517,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 74,
-    "partName": "TAHAB A"
+    "partName": "TAHAB A",
+    "lat": 33.8797463,
+    "lon": 74.948253
   },
   {
     "partId": 7191,
@@ -2142,7 +2530,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 75,
-    "partName": "TAHAB B"
+    "partName": "TAHAB B",
+    "lat": 33.89829355,
+    "lon": 74.89634093792017
   },
   {
     "partId": 7192,
@@ -2153,7 +2543,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 76,
-    "partName": "TAHAB C"
+    "partName": "TAHAB C",
+    "lat": 33.9490472,
+    "lon": 75.04183347471374
   },
   {
     "partId": 9300,
@@ -2164,7 +2556,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 77,
-    "partName": "ARIHAL A"
+    "partName": "ARIHAL A",
+    "lat": 33.8126193,
+    "lon": 74.893304
   },
   {
     "partId": 11585,
@@ -2175,7 +2569,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 78,
-    "partName": "ARIHAL A1"
+    "partName": "ARIHAL A1",
+    "lat": 33.89829355,
+    "lon": 74.89634093792017
   },
   {
     "partId": 9301,
@@ -2186,7 +2582,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 79,
-    "partName": "ARIHAL B"
+    "partName": "ARIHAL B",
+    "lat": 33.89829355,
+    "lon": 74.89634093792017
   },
   {
     "partId": 9302,
@@ -2197,7 +2595,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 80,
-    "partName": "ARIHAL C"
+    "partName": "ARIHAL C",
+    "lat": 33.89829355,
+    "lon": 74.89634093792017
   },
   {
     "partId": 9303,
@@ -2208,7 +2608,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 81,
-    "partName": "ARIHAL D"
+    "partName": "ARIHAL D",
+    "lat": 33.9490472,
+    "lon": 75.04183347471374
   },
   {
     "partId": 9305,
@@ -2219,7 +2621,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 82,
-    "partName": "TUMLAHAL A"
+    "partName": "TUMLAHAL A",
+    "lat": 33.9490472,
+    "lon": 75.04183347471374
   },
   {
     "partId": 9306,
@@ -2230,7 +2634,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 83,
-    "partName": "TUMLAHAL B"
+    "partName": "TUMLAHAL B",
+    "lat": 33.9490472,
+    "lon": 75.04183347471374
   },
   {
     "partId": 7188,
@@ -2241,7 +2647,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 84,
-    "partName": "CHANDGAM A"
+    "partName": "CHANDGAM A",
+    "lat": 33.89829355,
+    "lon": 74.89634093792017
   },
   {
     "partId": 7189,
@@ -2252,7 +2660,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 85,
-    "partName": "CHANDGAM B"
+    "partName": "CHANDGAM B",
+    "lat": 33.89829355,
+    "lon": 74.89634093792017
   },
   {
     "partId": 6841,
@@ -2263,7 +2673,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 86,
-    "partName": "NOWNAGRI"
+    "partName": "NOWNAGRI",
+    "lat": 33.89829355,
+    "lon": 74.89634093792017
   },
   {
     "partId": 6848,
@@ -2274,7 +2686,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 87,
-    "partName": "BADERWAN"
+    "partName": "BADERWAN",
+    "lat": 33.9490472,
+    "lon": 75.04183347471374
   },
   {
     "partId": 6851,
@@ -2285,7 +2699,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 88,
-    "partName": "RENZIPORA"
+    "partName": "RENZIPORA",
+    "lat": 33.89829355,
+    "lon": 74.89634093792017
   },
   {
     "partId": 6844,
@@ -2296,7 +2712,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 89,
-    "partName": "GULZARPORA"
+    "partName": "GULZARPORA",
+    "lat": 33.8723318,
+    "lon": 75.0096767
   },
   {
     "partId": 6847,
@@ -2307,7 +2725,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 90,
-    "partName": "GHAT TOKUNA"
+    "partName": "GHAT TOKUNA",
+    "lat": 33.89829355,
+    "lon": 74.89634093792017
   },
   {
     "partId": 6846,
@@ -2318,7 +2738,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 91,
-    "partName": "BEIGHPORA"
+    "partName": "BEIGHPORA",
+    "lat": 33.87868985,
+    "lon": 75.00776551264804
   },
   {
     "partId": 4899,
@@ -2329,7 +2751,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 92,
-    "partName": "SAIL"
+    "partName": "SAIL",
+    "lat": 33.888928899999996,
+    "lon": 75.03688020191616
   },
   {
     "partId": 4896,
@@ -2340,7 +2764,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 93,
-    "partName": "CHERSOO A"
+    "partName": "CHERSOO A",
+    "lat": 33.8839914,
+    "lon": 75.0293237
   },
   {
     "partId": 4897,
@@ -2351,7 +2777,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 94,
-    "partName": "CHERSOO B"
+    "partName": "CHERSOO B",
+    "lat": 33.9490472,
+    "lon": 75.04183347471374
   },
   {
     "partId": 4898,
@@ -2362,7 +2790,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 95,
-    "partName": "CHERSOO C"
+    "partName": "CHERSOO C",
+    "lat": 33.8839914,
+    "lon": 75.0293237
   },
   {
     "partId": 4915,
@@ -2373,7 +2803,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 96,
-    "partName": "CHERSOO D"
+    "partName": "CHERSOO D",
+    "lat": 33.8839914,
+    "lon": 75.0293237
   },
   {
     "partId": 6852,
@@ -2384,7 +2816,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 97,
-    "partName": "RESHIPORA ULLAR"
+    "partName": "RESHIPORA ULLAR",
+    "lat": 33.89829355,
+    "lon": 74.89634093792017
   },
   {
     "partId": 6850,
@@ -2395,7 +2829,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 98,
-    "partName": "KHANDAYPORA"
+    "partName": "KHANDAYPORA",
+    "lat": 33.89829355,
+    "lon": 74.89634093792017
   },
   {
     "partId": 6856,
@@ -2406,7 +2842,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 99,
-    "partName": "PANZGAM A"
+    "partName": "PANZGAM A",
+    "lat": 33.9490472,
+    "lon": 75.04183347471374
   },
   {
     "partId": 11586,
@@ -2417,7 +2855,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 100,
-    "partName": "PANZGAM A1"
+    "partName": "PANZGAM A1",
+    "lat": 33.89829355,
+    "lon": 74.89634093792017
   },
   {
     "partId": 6857,
@@ -2428,7 +2868,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 101,
-    "partName": "PANZGAM B"
+    "partName": "PANZGAM B",
+    "lat": 33.89829355,
+    "lon": 74.89634093792017
   },
   {
     "partId": 6858,
@@ -2439,7 +2881,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 102,
-    "partName": "PANZGAM C"
+    "partName": "PANZGAM C",
+    "lat": 33.89829355,
+    "lon": 74.89634093792017
   },
   {
     "partId": 4894,
@@ -2450,7 +2894,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 103,
-    "partName": "LARMOH AWANPORA"
+    "partName": "LARMOH AWANPORA",
+    "lat": 33.89829355,
+    "lon": 74.89634093792017
   },
   {
     "partId": 4895,
@@ -2461,7 +2907,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 104,
-    "partName": "POSHWAN"
+    "partName": "POSHWAN",
+    "lat": 33.885382,
+    "lon": 75.0634318
   },
   {
     "partId": 4892,
@@ -2472,7 +2920,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 105,
-    "partName": "K- KOOT A"
+    "partName": "K- KOOT A",
+    "lat": 33.89829355,
+    "lon": 74.89634093792017
   },
   {
     "partId": 4893,
@@ -2483,7 +2933,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 106,
-    "partName": "K- KOOT B"
+    "partName": "K- KOOT B",
+    "lat": 33.89829355,
+    "lon": 74.89634093792017
   },
   {
     "partId": 4698,
@@ -2494,7 +2946,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 107,
-    "partName": "HARIPARIGAM A"
+    "partName": "HARIPARIGAM A",
+    "lat": 33.89829355,
+    "lon": 74.89634093792017
   },
   {
     "partId": 4890,
@@ -2505,7 +2959,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 108,
-    "partName": "HARIPARIGAM B"
+    "partName": "HARIPARIGAM B",
+    "lat": 33.89829355,
+    "lon": 74.89634093792017
   },
   {
     "partId": 4891,
@@ -2516,7 +2972,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 109,
-    "partName": "HARIPARIGAM C"
+    "partName": "HARIPARIGAM C",
+    "lat": 33.89829355,
+    "lon": 74.89634093792017
   },
   {
     "partId": 6853,
@@ -2527,7 +2985,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 110,
-    "partName": "DOGRIPORA A"
+    "partName": "DOGRIPORA A",
+    "lat": 33.89829355,
+    "lon": 74.89634093792017
   },
   {
     "partId": 6854,
@@ -2538,7 +2998,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 111,
-    "partName": "DOGRIPORA B"
+    "partName": "DOGRIPORA B",
+    "lat": 33.89829355,
+    "lon": 74.89634093792017
   },
   {
     "partId": 6855,
@@ -2549,7 +3011,9 @@
     "acNumber": 34,
     "acName": "PULWAMA",
     "partNumber": 112,
-    "partName": "KAWNI"
+    "partName": "KAWNI",
+    "lat": 33.89829355,
+    "lon": 74.89634093792017
   },
   {
     "partId": 20241,
@@ -2560,7 +3024,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 1,
-    "partName": "TUJAN"
+    "partName": "TUJAN",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20242,
@@ -2571,7 +3037,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 2,
-    "partName": "FRASIPORA"
+    "partName": "FRASIPORA",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20243,
@@ -2582,7 +3050,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 3,
-    "partName": "GUSOO A"
+    "partName": "GUSOO A",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20244,
@@ -2593,7 +3063,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 4,
-    "partName": "GUSOO B"
+    "partName": "GUSOO B",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20245,
@@ -2604,7 +3076,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 5,
-    "partName": "CHEWAKALAN"
+    "partName": "CHEWAKALAN",
+    "lat": 33.9490472,
+    "lon": 75.04183347471374
   },
   {
     "partId": 20246,
@@ -2615,7 +3089,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 6,
-    "partName": "WAHIBUGH"
+    "partName": "WAHIBUGH",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20247,
@@ -2626,7 +3102,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 7,
-    "partName": "LOOSWANI NARANOWPORA"
+    "partName": "LOOSWANI NARANOWPORA",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20248,
@@ -2637,7 +3115,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 8,
-    "partName": "ZADOORA A"
+    "partName": "ZADOORA A",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20249,
@@ -2648,7 +3128,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 9,
-    "partName": "ZADOORA B"
+    "partName": "ZADOORA B",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20250,
@@ -2659,7 +3141,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 10,
-    "partName": "NOWPORA NAGAM"
+    "partName": "NOWPORA NAGAM",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20251,
@@ -2670,7 +3154,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 11,
-    "partName": "KARIMABAD A"
+    "partName": "KARIMABAD A",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20252,
@@ -2681,7 +3167,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 12,
-    "partName": "KARIMABAD B"
+    "partName": "KARIMABAD B",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20253,
@@ -2692,7 +3180,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 13,
-    "partName": "KARIMABAD C"
+    "partName": "KARIMABAD C",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20254,
@@ -2703,7 +3193,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 14,
-    "partName": "CHEWAKHURD"
+    "partName": "CHEWAKHURD",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20255,
@@ -2714,7 +3206,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 15,
-    "partName": "WAGUM"
+    "partName": "WAGUM",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20256,
@@ -2725,7 +3219,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 16,
-    "partName": "ASHMENDAR"
+    "partName": "ASHMENDAR",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20257,
@@ -2736,7 +3232,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 17,
-    "partName": "DEERI"
+    "partName": "DEERI",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20258,
@@ -2747,7 +3245,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 18,
-    "partName": "MITRIGAM"
+    "partName": "MITRIGAM",
+    "lat": 33.8587712,
+    "lon": 74.852407
   },
   {
     "partId": 20259,
@@ -2758,7 +3258,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 19,
-    "partName": "RAHMOO A"
+    "partName": "RAHMOO A",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20260,
@@ -2769,7 +3271,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 20,
-    "partName": "RAHMOO B"
+    "partName": "RAHMOO B",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20261,
@@ -2780,7 +3284,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 21,
-    "partName": "RAHMOO C"
+    "partName": "RAHMOO C",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20262,
@@ -2791,7 +3297,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 22,
-    "partName": "RAHMOO D"
+    "partName": "RAHMOO D",
+    "lat": 33.9490472,
+    "lon": 75.04183347471374
   },
   {
     "partId": 20263,
@@ -2802,7 +3310,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 23,
-    "partName": "MIRGUND THOKERPORA"
+    "partName": "MIRGUND THOKERPORA",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20264,
@@ -2813,7 +3323,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 24,
-    "partName": "KAMRAZIPORA"
+    "partName": "KAMRAZIPORA",
+    "lat": 33.9490472,
+    "lon": 75.04183347471374
   },
   {
     "partId": 20265,
@@ -2824,7 +3336,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 25,
-    "partName": "DRABGAM"
+    "partName": "DRABGAM",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20266,
@@ -2835,7 +3349,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 26,
-    "partName": "ACHGOZA"
+    "partName": "ACHGOZA",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20267,
@@ -2846,7 +3362,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 27,
-    "partName": "KHAIGAM"
+    "partName": "KHAIGAM",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20268,
@@ -2857,7 +3375,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 28,
-    "partName": "WASUMARG"
+    "partName": "WASUMARG",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20269,
@@ -2868,7 +3388,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 29,
-    "partName": "SONABANJAR"
+    "partName": "SONABANJAR",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20270,
@@ -2879,7 +3401,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 30,
-    "partName": "BAGH SANGERWANI"
+    "partName": "BAGH SANGERWANI",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20271,
@@ -2890,7 +3414,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 31,
-    "partName": "SANGERWANI A"
+    "partName": "SANGERWANI A",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20272,
@@ -2901,7 +3427,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 32,
-    "partName": "SANGERWANI B"
+    "partName": "SANGERWANI B",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20273,
@@ -2912,7 +3440,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 33,
-    "partName": "SANGERWANI C"
+    "partName": "SANGERWANI C",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20274,
@@ -2923,7 +3453,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 34,
-    "partName": "ABHAMA A"
+    "partName": "ABHAMA A",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20275,
@@ -2934,7 +3466,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 35,
-    "partName": "ABHAMA B"
+    "partName": "ABHAMA B",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20276,
@@ -2945,7 +3479,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 36,
-    "partName": "DRAKLARN"
+    "partName": "DRAKLARN",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20277,
@@ -2956,7 +3492,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 37,
-    "partName": "BAMNOO A"
+    "partName": "BAMNOO A",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20278,
@@ -2967,7 +3505,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 38,
-    "partName": "BAMNOO B"
+    "partName": "BAMNOO B",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20279,
@@ -2978,7 +3518,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 39,
-    "partName": "LASSIDABAN"
+    "partName": "LASSIDABAN",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20280,
@@ -2989,7 +3531,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 40,
-    "partName": "CHAKIDEWAN BADRINATH A"
+    "partName": "CHAKIDEWAN BADRINATH A",
+    "lat": 33.9490472,
+    "lon": 75.04183347471374
   },
   {
     "partId": 20281,
@@ -3000,7 +3544,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 41,
-    "partName": "CHAKIDEWAN BADRINATH B"
+    "partName": "CHAKIDEWAN BADRINATH B",
+    "lat": 33.9490472,
+    "lon": 75.04183347471374
   },
   {
     "partId": 20282,
@@ -3011,7 +3557,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 42,
-    "partName": "AGLAR A"
+    "partName": "AGLAR A",
+    "lat": 33.8107106,
+    "lon": 75.0254976
   },
   {
     "partId": 20283,
@@ -3022,7 +3570,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 43,
-    "partName": "AGLAR B"
+    "partName": "AGLAR B",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20284,
@@ -3033,7 +3583,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 44,
-    "partName": "DRABGAM A"
+    "partName": "DRABGAM A",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20285,
@@ -3044,7 +3596,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 45,
-    "partName": "DRABGAM B"
+    "partName": "DRABGAM B",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20286,
@@ -3055,7 +3609,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 46,
-    "partName": "DRABGAM C"
+    "partName": "DRABGAM C",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20287,
@@ -3066,7 +3622,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 47,
-    "partName": "DRABGAM D"
+    "partName": "DRABGAM D",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20288,
@@ -3077,7 +3635,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 48,
-    "partName": "KACHIPORA"
+    "partName": "KACHIPORA",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20289,
@@ -3088,7 +3648,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 49,
-    "partName": "PUTRIGAM"
+    "partName": "PUTRIGAM",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20290,
@@ -3099,7 +3661,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 50,
-    "partName": "ZAGIGAM"
+    "partName": "ZAGIGAM",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20291,
@@ -3110,7 +3674,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 51,
-    "partName": "SHANGERPORA"
+    "partName": "SHANGERPORA",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20292,
@@ -3121,7 +3687,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 52,
-    "partName": "DADOORA"
+    "partName": "DADOORA",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20293,
@@ -3132,7 +3700,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 53,
-    "partName": "MURRAN A"
+    "partName": "MURRAN A",
+    "lat": 33.9490472,
+    "lon": 75.04183347471374
   },
   {
     "partId": 20294,
@@ -3143,7 +3713,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 54,
-    "partName": "MURRAN B"
+    "partName": "MURRAN B",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20295,
@@ -3154,7 +3726,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 55,
-    "partName": "MURRAN C"
+    "partName": "MURRAN C",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20296,
@@ -3165,7 +3739,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 56,
-    "partName": "MURRAN D"
+    "partName": "MURRAN D",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20297,
@@ -3176,7 +3752,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 57,
-    "partName": "MONGHAMA"
+    "partName": "MONGHAMA",
+    "lat": 33.9515636,
+    "lon": 75.1099508
   },
   {
     "partId": 20298,
@@ -3187,7 +3765,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 58,
-    "partName": "KANGAN A"
+    "partName": "KANGAN A",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20299,
@@ -3198,7 +3778,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 59,
-    "partName": "KANGAN B"
+    "partName": "KANGAN B",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20300,
@@ -3209,7 +3791,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 60,
-    "partName": "BABAHAR"
+    "partName": "BABAHAR",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20301,
@@ -3220,7 +3804,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 61,
-    "partName": "TIKEN BATPORA A"
+    "partName": "TIKEN BATPORA A",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20302,
@@ -3231,7 +3817,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 62,
-    "partName": "TIKEN BATPORA B"
+    "partName": "TIKEN BATPORA B",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20303,
@@ -3242,7 +3830,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 63,
-    "partName": "SHEIKHHAR"
+    "partName": "SHEIKHHAR",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20304,
@@ -3253,7 +3843,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 64,
-    "partName": "SONTABUGH"
+    "partName": "SONTABUGH",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20305,
@@ -3264,7 +3856,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 65,
-    "partName": "BELOWDERGUND A"
+    "partName": "BELOWDERGUND A",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20306,
@@ -3275,7 +3869,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 66,
-    "partName": "BELOWDERGUND B"
+    "partName": "BELOWDERGUND B",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20307,
@@ -3286,7 +3882,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 67,
-    "partName": "GULSHANABAD A"
+    "partName": "GULSHANABAD A",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20308,
@@ -3297,7 +3895,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 68,
-    "partName": "GULSHANABAD B"
+    "partName": "GULSHANABAD B",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20309,
@@ -3308,7 +3908,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 69,
-    "partName": "QASBAYAR A"
+    "partName": "QASBAYAR A",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20310,
@@ -3319,7 +3921,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 70,
-    "partName": "QASBAYAR B"
+    "partName": "QASBAYAR B",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20311,
@@ -3330,7 +3934,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 71,
-    "partName": "QASBAYAR C"
+    "partName": "QASBAYAR C",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20312,
@@ -3341,7 +3947,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 72,
-    "partName": "QALAMPORA A"
+    "partName": "QALAMPORA A",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20313,
@@ -3352,7 +3960,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 73,
-    "partName": "QALAMPORA B"
+    "partName": "QALAMPORA B",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20314,
@@ -3363,7 +3973,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 74,
-    "partName": "SHADIMARG"
+    "partName": "SHADIMARG",
+    "lat": 33.804678,
+    "lon": 74.8249757
   },
   {
     "partId": 20315,
@@ -3374,7 +3986,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 75,
-    "partName": "DANGERPORA SPN"
+    "partName": "DANGERPORA SPN",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20316,
@@ -3385,7 +3999,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 76,
-    "partName": "AVENDGAND"
+    "partName": "AVENDGAND",
+    "lat": 33.9490472,
+    "lon": 75.04183347471374
   },
   {
     "partId": 20317,
@@ -3396,7 +4012,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 77,
-    "partName": "CHANDIPORA"
+    "partName": "CHANDIPORA",
+    "lat": 33.9490472,
+    "lon": 75.04183347471374
   },
   {
     "partId": 20318,
@@ -3407,7 +4025,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 78,
-    "partName": "RAJPORA A"
+    "partName": "RAJPORA A",
+    "lat": 33.9490472,
+    "lon": 75.04183347471374
   },
   {
     "partId": 20319,
@@ -3418,7 +4038,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 79,
-    "partName": "RAJPORA B"
+    "partName": "RAJPORA B",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20320,
@@ -3429,7 +4051,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 80,
-    "partName": "RAJPORA C"
+    "partName": "RAJPORA C",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20321,
@@ -3440,7 +4064,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 81,
-    "partName": "RAJPORA D"
+    "partName": "RAJPORA D",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20322,
@@ -3451,7 +4077,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 82,
-    "partName": "SONASAMILO"
+    "partName": "SONASAMILO",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20323,
@@ -3462,7 +4090,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 83,
-    "partName": "BANDZOO A"
+    "partName": "BANDZOO A",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20324,
@@ -3473,7 +4103,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 84,
-    "partName": "BANDZOO B"
+    "partName": "BANDZOO B",
+    "lat": 33.9490472,
+    "lon": 75.04183347471374
   },
   {
     "partId": 20325,
@@ -3484,7 +4116,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 85,
-    "partName": "BUNOORA"
+    "partName": "BUNOORA",
+    "lat": 33.9490472,
+    "lon": 75.04183347471374
   },
   {
     "partId": 20326,
@@ -3495,7 +4129,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 86,
-    "partName": "DRUSOO A"
+    "partName": "DRUSOO A",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20327,
@@ -3506,7 +4142,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 87,
-    "partName": "DRUSOO B"
+    "partName": "DRUSOO B",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20328,
@@ -3517,7 +4155,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 88,
-    "partName": "CHATRIPORA PALPORA"
+    "partName": "CHATRIPORA PALPORA",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20329,
@@ -3528,7 +4168,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 89,
-    "partName": "JANDAWAL"
+    "partName": "JANDAWAL",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20330,
@@ -3539,7 +4181,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 90,
-    "partName": "ARIGAM"
+    "partName": "ARIGAM",
+    "lat": 33.934816,
+    "lon": 75.1000982
   },
   {
     "partId": 20331,
@@ -3550,7 +4194,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 91,
-    "partName": "ARABAL"
+    "partName": "ARABAL",
+    "lat": 33.9490472,
+    "lon": 75.04183347471374
   },
   {
     "partId": 20332,
@@ -3561,7 +4207,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 92,
-    "partName": "KUCHOPORA KUNJOO"
+    "partName": "KUCHOPORA KUNJOO",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20333,
@@ -3572,7 +4220,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 93,
-    "partName": "HAWAL"
+    "partName": "HAWAL",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20334,
@@ -3583,7 +4233,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 94,
-    "partName": "NIKAS MAHIRAKH"
+    "partName": "NIKAS MAHIRAKH",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20335,
@@ -3594,7 +4246,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 95,
-    "partName": "UZRAMPATHRI"
+    "partName": "UZRAMPATHRI",
+    "lat": 33.9490472,
+    "lon": 75.04183347471374
   },
   {
     "partId": 20336,
@@ -3605,7 +4259,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 96,
-    "partName": "UTHMULLAH"
+    "partName": "UTHMULLAH",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20337,
@@ -3616,7 +4272,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 97,
-    "partName": "DRACH"
+    "partName": "DRACH",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20338,
@@ -3627,7 +4285,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 98,
-    "partName": "RAKH CHILDREN"
+    "partName": "RAKH CHILDREN",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20339,
@@ -3638,7 +4298,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 99,
-    "partName": "PATIPORA"
+    "partName": "PATIPORA",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20340,
@@ -3649,7 +4311,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 100,
-    "partName": "LASSIPORA"
+    "partName": "LASSIPORA",
+    "lat": 33.8797463,
+    "lon": 74.948253
   },
   {
     "partId": 20341,
@@ -3660,7 +4324,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 101,
-    "partName": "ARMULAH"
+    "partName": "ARMULAH",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20342,
@@ -3671,7 +4337,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 102,
-    "partName": "BATHNOOR"
+    "partName": "BATHNOOR",
+    "lat": 33.9364901,
+    "lon": 75.18156853523146
   },
   {
     "partId": 20343,
@@ -3682,7 +4350,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 103,
-    "partName": "SHITPARAYPORA"
+    "partName": "SHITPARAYPORA",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20344,
@@ -3693,7 +4363,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 104,
-    "partName": "PALAPORA"
+    "partName": "PALAPORA",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20345,
@@ -3704,7 +4376,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 105,
-    "partName": "WASOORA A"
+    "partName": "WASOORA A",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20346,
@@ -3715,7 +4389,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 106,
-    "partName": "WASOORA B"
+    "partName": "WASOORA B",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20347,
@@ -3726,7 +4402,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 107,
-    "partName": "UDOORA"
+    "partName": "UDOORA",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20349,
@@ -3737,7 +4415,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 108,
-    "partName": "HAJIDARPORA"
+    "partName": "HAJIDARPORA",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20348,
@@ -3748,7 +4428,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 109,
-    "partName": "NOWPORA PAYEEN"
+    "partName": "NOWPORA PAYEEN",
+    "lat": 33.9490472,
+    "lon": 75.04183347471374
   },
   {
     "partId": 20350,
@@ -3759,7 +4441,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 110,
-    "partName": "PANJREN"
+    "partName": "PANJREN",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20351,
@@ -3770,7 +4454,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 111,
-    "partName": "ACHAN A"
+    "partName": "ACHAN A",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20352,
@@ -3781,7 +4467,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 112,
-    "partName": "ACHAN B"
+    "partName": "ACHAN B",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20353,
@@ -3792,7 +4480,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 113,
-    "partName": "NILOORA"
+    "partName": "NILOORA",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20354,
@@ -3803,7 +4493,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 114,
-    "partName": "CHODRIBAGH"
+    "partName": "CHODRIBAGH",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20355,
@@ -3814,7 +4506,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 115,
-    "partName": "WAHIPORA"
+    "partName": "WAHIPORA",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20356,
@@ -3825,7 +4519,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 116,
-    "partName": "UDIPORA SHAHOORA"
+    "partName": "UDIPORA SHAHOORA",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20357,
@@ -3836,7 +4532,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 117,
-    "partName": "GRAWGUND"
+    "partName": "GRAWGUND",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20358,
@@ -3847,7 +4545,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 118,
-    "partName": "CHAKOORA A"
+    "partName": "CHAKOORA A",
+    "lat": 33.9490472,
+    "lon": 75.04183347471374
   },
   {
     "partId": 20359,
@@ -3858,7 +4558,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 119,
-    "partName": "CHAKOORA B"
+    "partName": "CHAKOORA B",
+    "lat": 33.832154,
+    "lon": 75.01667
   },
   {
     "partId": 20360,
@@ -3869,7 +4571,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 120,
-    "partName": "SENZEN SHAHOORA"
+    "partName": "SENZEN SHAHOORA",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20361,
@@ -3880,7 +4584,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 121,
-    "partName": "NIKLOORA"
+    "partName": "NIKLOORA",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20362,
@@ -3891,7 +4597,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 122,
-    "partName": "LITTER SHISTER A"
+    "partName": "LITTER SHISTER A",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20363,
@@ -3902,7 +4610,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 123,
-    "partName": "LITTER SHISTER B"
+    "partName": "LITTER SHISTER B",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20364,
@@ -3913,7 +4623,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 124,
-    "partName": "LITTER SHISTER C"
+    "partName": "LITTER SHISTER C",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20365,
@@ -3924,7 +4636,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 125,
-    "partName": "RAKH LITTER"
+    "partName": "RAKH LITTER",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20366,
@@ -3935,7 +4649,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 126,
-    "partName": "LADERMAR"
+    "partName": "LADERMAR",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20367,
@@ -3946,7 +4662,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 127,
-    "partName": "KULPORA"
+    "partName": "KULPORA",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20368,
@@ -3957,7 +4675,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 128,
-    "partName": "KHELANGUNDMUSA"
+    "partName": "KHELANGUNDMUSA",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20369,
@@ -3968,7 +4688,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 129,
-    "partName": "BRAWBANDINA"
+    "partName": "BRAWBANDINA",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20370,
@@ -3979,7 +4701,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 130,
-    "partName": "ZAHIDBAGH"
+    "partName": "ZAHIDBAGH",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 20371,
@@ -3990,7 +4714,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 131,
-    "partName": "BADRIPORA"
+    "partName": "BADRIPORA",
+    "lat": 33.9490472,
+    "lon": 75.04183347471374
   },
   {
     "partId": 20372,
@@ -4001,7 +4727,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 132,
-    "partName": "NAINA A"
+    "partName": "NAINA A",
+    "lat": 33.8195204,
+    "lon": 75.0627379
   },
   {
     "partId": 20373,
@@ -4012,7 +4740,9 @@
     "acNumber": 35,
     "acName": "RAJPORA",
     "partNumber": 133,
-    "partName": "NAINA B"
+    "partName": "NAINA B",
+    "lat": 33.9072183,
+    "lon": 75.0372595
   },
   {
     "partId": 13646,
@@ -4023,7 +4753,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 1,
-    "partName": "HAJAINARD"
+    "partName": "HAJAINARD",
+    "lat": 33.9853957,
+    "lon": 75.14710951367799
   },
   {
     "partId": 13645,
@@ -4034,7 +4766,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 2,
-    "partName": "GULISTAN"
+    "partName": "GULISTAN",
+    "lat": 33.9853957,
+    "lon": 75.14710951367799
   },
   {
     "partId": 13642,
@@ -4045,7 +4779,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 3,
-    "partName": "NARGISTAN"
+    "partName": "NARGISTAN",
+    "lat": 33.9853957,
+    "lon": 75.14710951367799
   },
   {
     "partId": 13641,
@@ -4056,7 +4792,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 4,
-    "partName": "GUTROO"
+    "partName": "GUTROO",
+    "lat": 33.9853957,
+    "lon": 75.14710951367799
   },
   {
     "partId": 13643,
@@ -4067,7 +4805,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 5,
-    "partName": "SATOORA A"
+    "partName": "SATOORA A",
+    "lat": 33.9490472,
+    "lon": 75.04183347471374
   },
   {
     "partId": 13644,
@@ -4078,7 +4818,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 6,
-    "partName": "SATOORA B"
+    "partName": "SATOORA B",
+    "lat": 33.9853957,
+    "lon": 75.14710951367799
   },
   {
     "partId": 14935,
@@ -4089,7 +4831,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 7,
-    "partName": "DEEDARPORA"
+    "partName": "DEEDARPORA",
+    "lat": 33.9853957,
+    "lon": 75.14710951367799
   },
   {
     "partId": 13648,
@@ -4100,7 +4844,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 8,
-    "partName": "JAWAHIRPORA"
+    "partName": "JAWAHIRPORA",
+    "lat": 33.9490472,
+    "lon": 75.04183347471374
   },
   {
     "partId": 13647,
@@ -4111,7 +4857,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 9,
-    "partName": "KHANGUND"
+    "partName": "KHANGUND",
+    "lat": 33.9853957,
+    "lon": 75.14710951367799
   },
   {
     "partId": 14936,
@@ -4122,7 +4870,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 10,
-    "partName": "SOFIGUND"
+    "partName": "SOFIGUND",
+    "lat": 34.0267586,
+    "lon": 75.0790965
   },
   {
     "partId": 13650,
@@ -4133,7 +4883,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 11,
-    "partName": "DAR GANIGUND"
+    "partName": "DAR GANIGUND",
+    "lat": 33.9853957,
+    "lon": 75.14710951367799
   },
   {
     "partId": 15463,
@@ -4144,7 +4896,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 12,
-    "partName": "ARIPAL"
+    "partName": "ARIPAL",
+    "lat": 34.0181099,
+    "lon": 75.07262171810456
   },
   {
     "partId": 14937,
@@ -4155,7 +4909,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 13,
-    "partName": "DHRAMGUND"
+    "partName": "DHRAMGUND",
+    "lat": 33.9853957,
+    "lon": 75.14710951367799
   },
   {
     "partId": 13649,
@@ -4166,7 +4922,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 14,
-    "partName": "GUDPORA"
+    "partName": "GUDPORA",
+    "lat": 33.9490472,
+    "lon": 75.04183347471374
   },
   {
     "partId": 15466,
@@ -4177,7 +4935,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 15,
-    "partName": "WAGED"
+    "partName": "WAGED",
+    "lat": 33.9853957,
+    "lon": 75.14710951367799
   },
   {
     "partId": 15464,
@@ -4188,7 +4948,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 16,
-    "partName": "SYEDABAD A"
+    "partName": "SYEDABAD A",
+    "lat": 33.9853957,
+    "lon": 75.14710951367799
   },
   {
     "partId": 15465,
@@ -4199,7 +4961,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 17,
-    "partName": "SYEDABAD B"
+    "partName": "SYEDABAD B",
+    "lat": 33.9853957,
+    "lon": 75.14710951367799
   },
   {
     "partId": 15468,
@@ -4210,7 +4974,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 18,
-    "partName": "HUNDOORA"
+    "partName": "HUNDOORA",
+    "lat": 33.9853957,
+    "lon": 75.14710951367799
   },
   {
     "partId": 15467,
@@ -4221,7 +4987,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 19,
-    "partName": "LUROW"
+    "partName": "LUROW",
+    "lat": 33.9767444,
+    "lon": 75.0883867
   },
   {
     "partId": 15469,
@@ -4232,7 +5000,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 20,
-    "partName": "SEER"
+    "partName": "SEER",
+    "lat": 33.9717754,
+    "lon": 75.0798057
   },
   {
     "partId": 14938,
@@ -4243,7 +5013,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 21,
-    "partName": "GANG"
+    "partName": "GANG",
+    "lat": 33.9853957,
+    "lon": 75.14710951367799
   },
   {
     "partId": 15478,
@@ -4254,7 +5026,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 22,
-    "partName": "GULSHANPORA A"
+    "partName": "GULSHANPORA A",
+    "lat": 33.9552194,
+    "lon": 75.0793222
   },
   {
     "partId": 15518,
@@ -4265,7 +5039,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 23,
-    "partName": "GULSHANPORA B"
+    "partName": "GULSHANPORA B",
+    "lat": 33.9552194,
+    "lon": 75.0793222
   },
   {
     "partId": 15519,
@@ -4276,7 +5052,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 24,
-    "partName": "BATAGUND A"
+    "partName": "BATAGUND A",
+    "lat": 33.9502598,
+    "lon": 75.09202970550861
   },
   {
     "partId": 15520,
@@ -4287,7 +5065,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 25,
-    "partName": "BATAGUND B"
+    "partName": "BATAGUND B",
+    "lat": 33.9502598,
+    "lon": 75.09202970550861
   },
   {
     "partId": 15525,
@@ -4298,7 +5078,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 26,
-    "partName": "NADER"
+    "partName": "NADER",
+    "lat": 33.9853957,
+    "lon": 75.14710951367799
   },
   {
     "partId": 15471,
@@ -4309,7 +5091,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 27,
-    "partName": "LURGAM A"
+    "partName": "LURGAM A",
+    "lat": 33.968693,
+    "lon": 75.095203
   },
   {
     "partId": 15476,
@@ -4320,7 +5104,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 28,
-    "partName": "LURGAM B"
+    "partName": "LURGAM B",
+    "lat": 33.968693,
+    "lon": 75.095203
   },
   {
     "partId": 15470,
@@ -4331,7 +5117,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 29,
-    "partName": "PANZOO"
+    "partName": "PANZOO",
+    "lat": 33.9853957,
+    "lon": 75.14710951367799
   },
   {
     "partId": 15477,
@@ -4342,7 +5130,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 30,
-    "partName": "DOODH KALLAN"
+    "partName": "DOODH KALLAN",
+    "lat": 33.9853957,
+    "lon": 75.14710951367799
   },
   {
     "partId": 15528,
@@ -4353,7 +5143,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 31,
-    "partName": "CHATROGAM"
+    "partName": "CHATROGAM",
+    "lat": 33.954941,
+    "lon": 75.1286423
   },
   {
     "partId": 15533,
@@ -4364,7 +5156,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 32,
-    "partName": "LALPORA A"
+    "partName": "LALPORA A",
+    "lat": 33.9632859,
+    "lon": 75.14895343885973
   },
   {
     "partId": 16788,
@@ -4375,7 +5169,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 33,
-    "partName": "LALPORA A1"
+    "partName": "LALPORA A1",
+    "lat": 33.9632859,
+    "lon": 75.14895343885973
   },
   {
     "partId": 15534,
@@ -4386,7 +5182,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 34,
-    "partName": "LALPORA B"
+    "partName": "LALPORA B",
+    "lat": 33.9632859,
+    "lon": 75.14895343885973
   },
   {
     "partId": 15535,
@@ -4397,7 +5195,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 35,
-    "partName": "LALPORA C"
+    "partName": "LALPORA C",
+    "lat": 33.9632859,
+    "lon": 75.14895343885973
   },
   {
     "partId": 15530,
@@ -4408,7 +5208,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 36,
-    "partName": "MACHHAMA A"
+    "partName": "MACHHAMA A",
+    "lat": 33.9853957,
+    "lon": 75.14710951367799
   },
   {
     "partId": 15531,
@@ -4419,7 +5221,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 37,
-    "partName": "MACHHAMA B"
+    "partName": "MACHHAMA B",
+    "lat": 33.9490472,
+    "lon": 75.04183347471374
   },
   {
     "partId": 14939,
@@ -4430,7 +5234,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 38,
-    "partName": "ZARIHAR MACHHAMA"
+    "partName": "ZARIHAR MACHHAMA",
+    "lat": 33.9490472,
+    "lon": 75.04183347471374
   },
   {
     "partId": 15532,
@@ -4441,7 +5247,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 39,
-    "partName": "CHANAKTAR"
+    "partName": "CHANAKTAR",
+    "lat": 33.9853957,
+    "lon": 75.14710951367799
   },
   {
     "partId": 15527,
@@ -4452,7 +5260,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 40,
-    "partName": "KHASI PORA"
+    "partName": "KHASI PORA",
+    "lat": 33.9853957,
+    "lon": 75.14710951367799
   },
   {
     "partId": 15529,
@@ -4463,7 +5273,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 41,
-    "partName": "MONGHAMA"
+    "partName": "MONGHAMA",
+    "lat": 33.9515636,
+    "lon": 75.1099508
   },
   {
     "partId": 15521,
@@ -4474,7 +5286,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 42,
-    "partName": "DEVAR A"
+    "partName": "DEVAR A",
+    "lat": 33.9853957,
+    "lon": 75.14710951367799
   },
   {
     "partId": 15522,
@@ -4485,7 +5299,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 43,
-    "partName": "DEVAR B"
+    "partName": "DEVAR B",
+    "lat": 33.9853957,
+    "lon": 75.14710951367799
   },
   {
     "partId": 15524,
@@ -4496,7 +5312,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 44,
-    "partName": "KUCHMULLA"
+    "partName": "KUCHMULLA",
+    "lat": 33.9553815,
+    "lon": 75.09852851045272
   },
   {
     "partId": 15523,
@@ -4507,7 +5325,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 45,
-    "partName": "GAMRAJ"
+    "partName": "GAMRAJ",
+    "lat": 33.9439361,
+    "lon": 75.0985
   },
   {
     "partId": 11679,
@@ -4518,7 +5338,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 46,
-    "partName": "ARIGAM"
+    "partName": "ARIGAM",
+    "lat": 33.934816,
+    "lon": 75.1000982
   },
   {
     "partId": 11681,
@@ -4529,7 +5351,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 47,
-    "partName": "GULAB BAGH"
+    "partName": "GULAB BAGH",
+    "lat": 33.9262385,
+    "lon": 75.08395477125603
   },
   {
     "partId": 13635,
@@ -4540,7 +5364,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 48,
-    "partName": "KHANKAH"
+    "partName": "KHANKAH",
+    "lat": 33.9853957,
+    "lon": 75.14710951367799
   },
   {
     "partId": 13634,
@@ -4551,7 +5377,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 49,
-    "partName": "NANER"
+    "partName": "NANER",
+    "lat": 33.9853957,
+    "lon": 75.14710951367799
   },
   {
     "partId": 13632,
@@ -4562,7 +5390,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 50,
-    "partName": "MIDOORA A"
+    "partName": "MIDOORA A",
+    "lat": 33.93006195,
+    "lon": 75.06136886238565
   },
   {
     "partId": 13633,
@@ -4573,7 +5403,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 51,
-    "partName": "MIDOORA B"
+    "partName": "MIDOORA B",
+    "lat": 33.93006195,
+    "lon": 75.06136886238565
   },
   {
     "partId": 13636,
@@ -4584,7 +5416,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 52,
-    "partName": "SHAHABAD BALA"
+    "partName": "SHAHABAD BALA",
+    "lat": 33.9853957,
+    "lon": 75.14710951367799
   },
   {
     "partId": 14933,
@@ -4595,7 +5429,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 53,
-    "partName": "KANJINAG"
+    "partName": "KANJINAG",
+    "lat": 33.9122232,
+    "lon": 75.0311703
   },
   {
     "partId": 16531,
@@ -4606,7 +5442,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 54,
-    "partName": "AWANTIPORA  A"
+    "partName": "AWANTIPORA  A",
+    "lat": 33.88208445,
+    "lon": 75.02975290939368
   },
   {
     "partId": 16532,
@@ -4617,7 +5455,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 55,
-    "partName": "AWANTIPORA B"
+    "partName": "AWANTIPORA B",
+    "lat": 33.91891,
+    "lon": 75.01465
   },
   {
     "partId": 14934,
@@ -4628,7 +5468,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 56,
-    "partName": "AWANTIPORA C"
+    "partName": "AWANTIPORA C",
+    "lat": 33.91891,
+    "lon": 75.01465
   },
   {
     "partId": 16533,
@@ -4639,7 +5481,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 57,
-    "partName": "AWANTIPORA D"
+    "partName": "AWANTIPORA D",
+    "lat": 33.91891,
+    "lon": 75.01465
   },
   {
     "partId": 16534,
@@ -4650,7 +5494,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 58,
-    "partName": "AWANTIPORA E"
+    "partName": "AWANTIPORA E",
+    "lat": 33.88208445,
+    "lon": 75.02975290939368
   },
   {
     "partId": 16530,
@@ -4661,7 +5507,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 59,
-    "partName": "RAJPORA ULLAR"
+    "partName": "RAJPORA ULLAR",
+    "lat": 33.9853957,
+    "lon": 75.14710951367799
   },
   {
     "partId": 13631,
@@ -4672,7 +5520,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 60,
-    "partName": "CHARLIGUND KADLABAL"
+    "partName": "CHARLIGUND KADLABAL",
+    "lat": 33.9853957,
+    "lon": 75.14710951367799
   },
   {
     "partId": 13626,
@@ -4683,7 +5533,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 61,
-    "partName": "NOORPORA A"
+    "partName": "NOORPORA A",
+    "lat": 33.90211425,
+    "lon": 75.04565212368672
   },
   {
     "partId": 13627,
@@ -4694,7 +5546,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 62,
-    "partName": "NOORPORA B"
+    "partName": "NOORPORA B",
+    "lat": 33.90211425,
+    "lon": 75.04565212368672
   },
   {
     "partId": 13628,
@@ -4705,7 +5559,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 63,
-    "partName": "NOORPORA C"
+    "partName": "NOORPORA C",
+    "lat": 33.90211425,
+    "lon": 75.04565212368672
   },
   {
     "partId": 13629,
@@ -4716,7 +5572,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 64,
-    "partName": "NOORPORA D"
+    "partName": "NOORPORA D",
+    "lat": 33.90211425,
+    "lon": 75.04565212368672
   },
   {
     "partId": 13630,
@@ -4727,7 +5585,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 65,
-    "partName": "NOORPORA E"
+    "partName": "NOORPORA E",
+    "lat": 33.90211425,
+    "lon": 75.04565212368672
   },
   {
     "partId": 13638,
@@ -4738,7 +5598,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 66,
-    "partName": "BARAGAM"
+    "partName": "BARAGAM",
+    "lat": 33.9853957,
+    "lon": 75.14710951367799
   },
   {
     "partId": 15526,
@@ -4749,7 +5611,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 67,
-    "partName": "CHANDRIGAM A"
+    "partName": "CHANDRIGAM A",
+    "lat": 33.8993268,
+    "lon": 75.0684053
   },
   {
     "partId": 13639,
@@ -4760,7 +5624,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 68,
-    "partName": "CHANDRI GAM B"
+    "partName": "CHANDRI GAM B",
+    "lat": 33.9853957,
+    "lon": 75.14710951367799
   },
   {
     "partId": 13640,
@@ -4771,7 +5637,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 69,
-    "partName": "CHANDRIGAM C"
+    "partName": "CHANDRIGAM C",
+    "lat": 33.8993268,
+    "lon": 75.0684053
   },
   {
     "partId": 13637,
@@ -4782,7 +5650,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 70,
-    "partName": "LALGAM"
+    "partName": "LALGAM",
+    "lat": 33.9104404,
+    "lon": 75.06952310543109
   },
   {
     "partId": 11682,
@@ -4793,7 +5663,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 71,
-    "partName": "NOWDAL"
+    "partName": "NOWDAL",
+    "lat": 33.9187732,
+    "lon": 75.0826179
   },
   {
     "partId": 15450,
@@ -4804,7 +5676,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 72,
-    "partName": "NAIBUGH"
+    "partName": "NAIBUGH",
+    "lat": 33.91416565,
+    "lon": 75.09217155059244
   },
   {
     "partId": 11680,
@@ -4815,7 +5689,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 73,
-    "partName": "SHERABAD"
+    "partName": "SHERABAD",
+    "lat": 33.9232234,
+    "lon": 75.0902931
   },
   {
     "partId": 13018,
@@ -4826,7 +5702,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 74,
-    "partName": "TRAL-E- PAYEEN A"
+    "partName": "TRAL-E- PAYEEN A",
+    "lat": 33.9853957,
+    "lon": 75.14710951367799
   },
   {
     "partId": 16560,
@@ -4837,7 +5715,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 75,
-    "partName": "TRAL E PAYEEN A1"
+    "partName": "TRAL E PAYEEN A1",
+    "lat": 33.9853957,
+    "lon": 75.14710951367799
   },
   {
     "partId": 11675,
@@ -4848,7 +5728,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 76,
-    "partName": "TRAL-E- PAYEEN B"
+    "partName": "TRAL-E- PAYEEN B",
+    "lat": 33.9853957,
+    "lon": 75.14710951367799
   },
   {
     "partId": 16561,
@@ -4859,7 +5741,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 77,
-    "partName": "TRAL E PAYEEN B1"
+    "partName": "TRAL E PAYEEN B1",
+    "lat": 33.9853957,
+    "lon": 75.14710951367799
   },
   {
     "partId": 11676,
@@ -4870,7 +5754,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 78,
-    "partName": "TRAL-E- PAYEEN C"
+    "partName": "TRAL-E- PAYEEN C",
+    "lat": 33.9853957,
+    "lon": 75.14710951367799
   },
   {
     "partId": 15552,
@@ -4881,7 +5767,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 79,
-    "partName": "TRAL-E- BALA A"
+    "partName": "TRAL-E- BALA A",
+    "lat": 33.9853957,
+    "lon": 75.14710951367799
   },
   {
     "partId": 13017,
@@ -4892,7 +5780,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 80,
-    "partName": "TRAL -E-BALA B"
+    "partName": "TRAL -E-BALA B",
+    "lat": 33.9853957,
+    "lon": 75.14710951367799
   },
   {
     "partId": 13016,
@@ -4903,7 +5793,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 81,
-    "partName": "TRAL -E-BALA C"
+    "partName": "TRAL -E-BALA C",
+    "lat": 33.9853957,
+    "lon": 75.14710951367799
   },
   {
     "partId": 11677,
@@ -4914,7 +5806,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 82,
-    "partName": "TRAL-E- PAYEEN D"
+    "partName": "TRAL-E- PAYEEN D",
+    "lat": 33.9853957,
+    "lon": 75.14710951367799
   },
   {
     "partId": 11678,
@@ -4925,7 +5819,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 83,
-    "partName": "TRAL-E- PAYEEN E"
+    "partName": "TRAL-E- PAYEEN E",
+    "lat": 33.9853957,
+    "lon": 75.14710951367799
   },
   {
     "partId": 15537,
@@ -4936,7 +5832,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 84,
-    "partName": "NAZNEENPORA"
+    "partName": "NAZNEENPORA",
+    "lat": 33.9490472,
+    "lon": 75.04183347471374
   },
   {
     "partId": 15547,
@@ -4947,7 +5845,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 85,
-    "partName": "NIGEENPORA"
+    "partName": "NIGEENPORA",
+    "lat": 33.9490472,
+    "lon": 75.04183347471374
   },
   {
     "partId": 12853,
@@ -4958,7 +5858,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 86,
-    "partName": "RESHIPORA"
+    "partName": "RESHIPORA",
+    "lat": 33.9853957,
+    "lon": 75.14710951367799
   },
   {
     "partId": 15536,
@@ -4969,7 +5871,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 87,
-    "partName": "CHEWA ULLAR"
+    "partName": "CHEWA ULLAR",
+    "lat": 33.9853957,
+    "lon": 75.14710951367799
   },
   {
     "partId": 15538,
@@ -4980,7 +5884,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 88,
-    "partName": "MANDOORA"
+    "partName": "MANDOORA",
+    "lat": 33.9490472,
+    "lon": 75.04183347471374
   },
   {
     "partId": 15543,
@@ -4991,7 +5897,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 89,
-    "partName": "KARMULA"
+    "partName": "KARMULA",
+    "lat": 33.9853957,
+    "lon": 75.14710951367799
   },
   {
     "partId": 15542,
@@ -5002,7 +5910,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 90,
-    "partName": "BHATHNOOR A"
+    "partName": "BHATHNOOR A",
+    "lat": 33.9853957,
+    "lon": 75.14710951367799
   },
   {
     "partId": 15541,
@@ -5013,7 +5923,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 91,
-    "partName": "BHATHNOOR B"
+    "partName": "BHATHNOOR B",
+    "lat": 33.9853957,
+    "lon": 75.14710951367799
   },
   {
     "partId": 15539,
@@ -5024,7 +5936,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 92,
-    "partName": "PANIR JAGIR A"
+    "partName": "PANIR JAGIR A",
+    "lat": 33.9853957,
+    "lon": 75.14710951367799
   },
   {
     "partId": 15540,
@@ -5035,7 +5949,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 93,
-    "partName": "PANIR JAGIR B"
+    "partName": "PANIR JAGIR B",
+    "lat": 33.9853957,
+    "lon": 75.14710951367799
   },
   {
     "partId": 15544,
@@ -5046,7 +5962,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 94,
-    "partName": "PINGLISH A"
+    "partName": "PINGLISH A",
+    "lat": 33.9132915,
+    "lon": 75.1321561
   },
   {
     "partId": 15546,
@@ -5057,7 +5975,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 95,
-    "partName": "PINGLISH B"
+    "partName": "PINGLISH B",
+    "lat": 33.9132915,
+    "lon": 75.1321561
   },
   {
     "partId": 15545,
@@ -5068,7 +5988,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 96,
-    "partName": "CHERIBUGH"
+    "partName": "CHERIBUGH",
+    "lat": 33.909114599999995,
+    "lon": 75.12390340475758
   },
   {
     "partId": 15455,
@@ -5079,7 +6001,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 97,
-    "partName": "AMIRABAD A"
+    "partName": "AMIRABAD A",
+    "lat": 33.9125056,
+    "lon": 75.1027336
   },
   {
     "partId": 15456,
@@ -5090,7 +6014,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 98,
-    "partName": "AMIRABAD B"
+    "partName": "AMIRABAD B",
+    "lat": 33.9125056,
+    "lon": 75.1027336
   },
   {
     "partId": 15451,
@@ -5101,7 +6027,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 99,
-    "partName": "DADSARA A"
+    "partName": "DADSARA A",
+    "lat": 33.9038967,
+    "lon": 75.0872107
   },
   {
     "partId": 15452,
@@ -5112,7 +6040,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 100,
-    "partName": "DADSARA B"
+    "partName": "DADSARA B",
+    "lat": 33.9490472,
+    "lon": 75.04183347471374
   },
   {
     "partId": 15453,
@@ -5123,7 +6053,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 101,
-    "partName": "DADSARA C"
+    "partName": "DADSARA C",
+    "lat": 33.9490472,
+    "lon": 75.04183347471374
   },
   {
     "partId": 15454,
@@ -5134,7 +6066,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 102,
-    "partName": "DADSARA D"
+    "partName": "DADSARA D",
+    "lat": 33.9038967,
+    "lon": 75.0872107
   },
   {
     "partId": 15457,
@@ -5145,7 +6079,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 103,
-    "partName": "AMLAR A"
+    "partName": "AMLAR A",
+    "lat": 33.8889658,
+    "lon": 75.071979
   },
   {
     "partId": 15458,
@@ -5156,7 +6092,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 104,
-    "partName": "AMLAR B"
+    "partName": "AMLAR B",
+    "lat": 33.9490472,
+    "lon": 75.04183347471374
   },
   {
     "partId": 15459,
@@ -5167,7 +6105,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 105,
-    "partName": "AMLAR C"
+    "partName": "AMLAR C",
+    "lat": 33.8889658,
+    "lon": 75.071979
   },
   {
     "partId": 12854,
@@ -5178,7 +6118,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 106,
-    "partName": "BATIPORA"
+    "partName": "BATIPORA",
+    "lat": 33.9853957,
+    "lon": 75.14710951367799
   },
   {
     "partId": 15460,
@@ -5189,7 +6131,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 107,
-    "partName": "LARIYAR"
+    "partName": "LARIYAR",
+    "lat": 33.8929527,
+    "lon": 75.0880365
   },
   {
     "partId": 13529,
@@ -5200,7 +6144,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 108,
-    "partName": "BUCHOO A"
+    "partName": "BUCHOO A",
+    "lat": 33.8875258,
+    "lon": 75.0903768
   },
   {
     "partId": 13530,
@@ -5211,7 +6157,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 109,
-    "partName": "BUCHOO B"
+    "partName": "BUCHOO B",
+    "lat": 33.8875258,
+    "lon": 75.0903768
   },
   {
     "partId": 15461,
@@ -5222,7 +6170,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 110,
-    "partName": "HARDMIR"
+    "partName": "HARDMIR",
+    "lat": 33.9853957,
+    "lon": 75.14710951367799
   },
   {
     "partId": 15462,
@@ -5233,7 +6183,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 111,
-    "partName": "SAIMOH A"
+    "partName": "SAIMOH A",
+    "lat": 33.89696925,
+    "lon": 75.10760868935819
   },
   {
     "partId": 13528,
@@ -5244,7 +6196,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 112,
-    "partName": "SAIMOH B"
+    "partName": "SAIMOH B",
+    "lat": 33.89696925,
+    "lon": 75.10760868935819
   },
   {
     "partId": 15550,
@@ -5255,7 +6209,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 113,
-    "partName": "RATSONA A"
+    "partName": "RATSONA A",
+    "lat": 33.9853957,
+    "lon": 75.14710951367799
   },
   {
     "partId": 15551,
@@ -5266,7 +6222,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 114,
-    "partName": "RATSONA B"
+    "partName": "RATSONA B",
+    "lat": 33.9853957,
+    "lon": 75.14710951367799
   },
   {
     "partId": 15548,
@@ -5277,7 +6235,9 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 115,
-    "partName": "KOIL SHIKARGAH"
+    "partName": "KOIL SHIKARGAH",
+    "lat": 33.9853957,
+    "lon": 75.14710951367799
   },
   {
     "partId": 15549,
@@ -5288,6 +6248,8 @@
     "acNumber": 33,
     "acName": "TRAL",
     "partNumber": 116,
-    "partName": "LARIBAL"
+    "partName": "LARIBAL",
+    "lat": 33.90089305,
+    "lon": 75.13456026006133
   }
 ]

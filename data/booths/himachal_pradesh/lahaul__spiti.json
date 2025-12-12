@@ -8,7 +8,9 @@
     "acNumber": 21,
     "acName": "LAHAUL & SPITI",
     "partNumber": 1,
-    "partName": "BHAJUND"
+    "partName": "BHAJUND",
+    "lat": 32.539182499999995,
+    "lon": 77.19833433579925
   },
   {
     "partId": 533,
@@ -19,7 +21,9 @@
     "acNumber": 21,
     "acName": "LAHAUL & SPITI",
     "partNumber": 2,
-    "partName": "TINDI"
+    "partName": "TINDI",
+    "lat": 32.758362,
+    "lon": 76.4515185
   },
   {
     "partId": 534,
@@ -30,7 +34,9 @@
     "acNumber": 21,
     "acName": "LAHAUL & SPITI",
     "partNumber": 3,
-    "partName": "SALGRAN"
+    "partName": "SALGRAN",
+    "lat": 32.539182499999995,
+    "lon": 77.19833433579925
   },
   {
     "partId": 535,
@@ -41,7 +47,9 @@
     "acNumber": 21,
     "acName": "LAHAUL & SPITI",
     "partNumber": 4,
-    "partName": "KURCHED"
+    "partName": "KURCHED",
+    "lat": 32.7686667,
+    "lon": 76.5505261
   },
   {
     "partId": 988,
@@ -52,7 +60,9 @@
     "acNumber": 21,
     "acName": "LAHAUL & SPITI",
     "partNumber": 5,
-    "partName": "SALPAT"
+    "partName": "SALPAT",
+    "lat": 32.7302073,
+    "lon": 76.6413116
   },
   {
     "partId": 989,
@@ -63,7 +73,9 @@
     "acNumber": 21,
     "acName": "LAHAUL & SPITI",
     "partNumber": 6,
-    "partName": "MADGRAN"
+    "partName": "MADGRAN",
+    "lat": 32.539182499999995,
+    "lon": 77.19833433579925
   },
   {
     "partId": 990,
@@ -74,7 +86,9 @@
     "acNumber": 21,
     "acName": "LAHAUL & SPITI",
     "partNumber": 7,
-    "partName": "UDAIPUR"
+    "partName": "UDAIPUR",
+    "lat": 32.8974437,
+    "lon": 76.82820774087926
   },
   {
     "partId": 991,
@@ -85,7 +99,9 @@
     "acNumber": 21,
     "acName": "LAHAUL & SPITI",
     "partNumber": 8,
-    "partName": "CHIMRET"
+    "partName": "CHIMRET",
+    "lat": 32.539182499999995,
+    "lon": 77.19833433579925
   },
   {
     "partId": 992,
@@ -96,7 +112,9 @@
     "acNumber": 21,
     "acName": "LAHAUL & SPITI",
     "partNumber": 9,
-    "partName": "GHARI"
+    "partName": "GHARI",
+    "lat": 32.539182499999995,
+    "lon": 77.19833433579925
   },
   {
     "partId": 993,
@@ -107,7 +125,9 @@
     "acNumber": 21,
     "acName": "LAHAUL & SPITI",
     "partNumber": 10,
-    "partName": "TINGRET"
+    "partName": "TINGRET",
+    "lat": 32.8560294,
+    "lon": 76.7900744
   },
   {
     "partId": 994,
@@ -118,7 +138,9 @@
     "acNumber": 21,
     "acName": "LAHAUL & SPITI",
     "partNumber": 11,
-    "partName": "KARPAT"
+    "partName": "KARPAT",
+    "lat": 32.8272825,
+    "lon": 76.7459985
   },
   {
     "partId": 995,
@@ -129,7 +151,9 @@
     "acNumber": 21,
     "acName": "LAHAUL & SPITI",
     "partNumber": 12,
-    "partName": "CHHALING"
+    "partName": "CHHALING",
+    "lat": 32.7757508,
+    "lon": 76.70728
   },
   {
     "partId": 282,
@@ -140,7 +164,9 @@
     "acNumber": 21,
     "acName": "LAHAUL & SPITI",
     "partNumber": 13,
-    "partName": "KHANJAR"
+    "partName": "KHANJAR",
+    "lat": 32.8607178,
+    "lon": 76.865437
   },
   {
     "partId": 283,
@@ -151,7 +177,9 @@
     "acNumber": 21,
     "acName": "LAHAUL & SPITI",
     "partNumber": 14,
-    "partName": "SHAKOLI"
+    "partName": "SHAKOLI",
+    "lat": 32.7710939,
+    "lon": 76.7058291
   },
   {
     "partId": 284,
@@ -162,7 +190,9 @@
     "acNumber": 21,
     "acName": "LAHAUL & SPITI",
     "partNumber": 15,
-    "partName": "TRILOKNATH"
+    "partName": "TRILOKNATH",
+    "lat": 32.6841777,
+    "lon": 76.6955591
   },
   {
     "partId": 285,
@@ -173,7 +203,9 @@
     "acNumber": 21,
     "acName": "LAHAUL & SPITI",
     "partNumber": 16,
-    "partName": "KISHORI"
+    "partName": "KISHORI",
+    "lat": 32.539182499999995,
+    "lon": 77.19833433579925
   },
   {
     "partId": 286,
@@ -184,7 +216,9 @@
     "acNumber": 21,
     "acName": "LAHAUL & SPITI",
     "partNumber": 17,
-    "partName": "HADUKA"
+    "partName": "HADUKA",
+    "lat": 32.539182499999995,
+    "lon": 77.19833433579925
   },
   {
     "partId": 287,
@@ -195,7 +229,9 @@
     "acNumber": 21,
     "acName": "LAHAUL & SPITI",
     "partNumber": 18,
-    "partName": "SINDHWARI (THIROT)"
+    "partName": "SINDHWARI (THIROT)",
+    "lat": 32.539182499999995,
+    "lon": 77.19833433579925
   },
   {
     "partId": 288,
@@ -206,7 +242,9 @@
     "acNumber": 21,
     "acName": "LAHAUL & SPITI",
     "partNumber": 19,
-    "partName": "JHOLING"
+    "partName": "JHOLING",
+    "lat": 32.539182499999995,
+    "lon": 77.19833433579925
   },
   {
     "partId": 289,
@@ -217,7 +255,9 @@
     "acNumber": 21,
     "acName": "LAHAUL & SPITI",
     "partNumber": 20,
-    "partName": "NAINGAHAR"
+    "partName": "NAINGAHAR",
+    "lat": 32.7292326,
+    "lon": 76.8572402
   },
   {
     "partId": 290,
@@ -228,7 +268,9 @@
     "acNumber": 21,
     "acName": "LAHAUL & SPITI",
     "partNumber": 21,
-    "partName": "CHOKHANG"
+    "partName": "CHOKHANG",
+    "lat": 32.6863197,
+    "lon": 76.7925185
   },
   {
     "partId": 291,
@@ -239,7 +281,9 @@
     "acNumber": 21,
     "acName": "LAHAUL & SPITI",
     "partNumber": 22,
-    "partName": "BHA-BARING"
+    "partName": "BHA-BARING",
+    "lat": 32.539182499999995,
+    "lon": 77.19833433579925
   },
   {
     "partId": 5668,
@@ -250,7 +294,9 @@
     "acNumber": 21,
     "acName": "LAHAUL & SPITI",
     "partNumber": 23,
-    "partName": "MOORING"
+    "partName": "MOORING",
+    "lat": 32.539182499999995,
+    "lon": 77.19833433579925
   },
   {
     "partId": 5654,
@@ -261,7 +307,9 @@
     "acNumber": 21,
     "acName": "LAHAUL & SPITI",
     "partNumber": 24,
-    "partName": "NALDA"
+    "partName": "NALDA",
+    "lat": 32.6398722,
+    "lon": 76.8334481
   },
   {
     "partId": 5655,
@@ -272,7 +320,9 @@
     "acNumber": 21,
     "acName": "LAHAUL & SPITI",
     "partNumber": 25,
-    "partName": "JASRATH"
+    "partName": "JASRATH",
+    "lat": 32.636092,
+    "lon": 76.8538665
   },
   {
     "partId": 5669,
@@ -283,7 +333,9 @@
     "acNumber": 21,
     "acName": "LAHAUL & SPITI",
     "partNumber": 26,
-    "partName": "JUNDA"
+    "partName": "JUNDA",
+    "lat": 32.539182499999995,
+    "lon": 77.19833433579925
   },
   {
     "partId": 5670,
@@ -294,7 +346,9 @@
     "acNumber": 21,
     "acName": "LAHAUL & SPITI",
     "partNumber": 27,
-    "partName": "JAHALMAN"
+    "partName": "JAHALMAN",
+    "lat": 32.6373527,
+    "lon": 76.8640354
   },
   {
     "partId": 5671,
@@ -305,7 +359,9 @@
     "acNumber": 21,
     "acName": "LAHAUL & SPITI",
     "partNumber": 28,
-    "partName": "GOHRMAN"
+    "partName": "GOHRMAN",
+    "lat": 32.539182499999995,
+    "lon": 77.19833433579925
   },
   {
     "partId": 5672,
@@ -316,7 +372,9 @@
     "acNumber": 21,
     "acName": "LAHAUL & SPITI",
     "partNumber": 29,
-    "partName": "LINDOOR"
+    "partName": "LINDOOR",
+    "lat": 32.6427645,
+    "lon": 76.8741059
   },
   {
     "partId": 5673,
@@ -327,7 +385,9 @@
     "acNumber": 21,
     "acName": "LAHAUL & SPITI",
     "partNumber": 30,
-    "partName": "RAPEY"
+    "partName": "RAPEY",
+    "lat": 32.539182499999995,
+    "lon": 77.19833433579925
   },
   {
     "partId": 5674,
@@ -338,7 +398,9 @@
     "acNumber": 21,
     "acName": "LAHAUL & SPITI",
     "partNumber": 31,
-    "partName": "SHANSHA"
+    "partName": "SHANSHA",
+    "lat": 32.6161614,
+    "lon": 76.9015548
   },
   {
     "partId": 5532,
@@ -349,7 +411,9 @@
     "acNumber": 21,
     "acName": "LAHAUL & SPITI",
     "partNumber": 32,
-    "partName": "KIRTING"
+    "partName": "KIRTING",
+    "lat": 32.6133675,
+    "lon": 76.9125556
   },
   {
     "partId": 5675,
@@ -360,7 +424,9 @@
     "acNumber": 21,
     "acName": "LAHAUL & SPITI",
     "partNumber": 33,
-    "partName": "LINGER"
+    "partName": "LINGER",
+    "lat": 32.539182499999995,
+    "lon": 77.19833433579925
   },
   {
     "partId": 5676,
@@ -371,7 +437,9 @@
     "acNumber": 21,
     "acName": "LAHAUL & SPITI",
     "partNumber": 34,
-    "partName": "RUWALING"
+    "partName": "RUWALING",
+    "lat": 32.539182499999995,
+    "lon": 77.19833433579925
   },
   {
     "partId": 5677,
@@ -382,7 +450,9 @@
     "acNumber": 21,
     "acName": "LAHAUL & SPITI",
     "partNumber": 35,
-    "partName": "LOTE"
+    "partName": "LOTE",
+    "lat": 32.6024129,
+    "lon": 76.9376476
   },
   {
     "partId": 5678,
@@ -393,7 +463,9 @@
     "acNumber": 21,
     "acName": "LAHAUL & SPITI",
     "partNumber": 36,
-    "partName": "LAPSHAK"
+    "partName": "LAPSHAK",
+    "lat": 32.539182499999995,
+    "lon": 77.19833433579925
   },
   {
     "partId": 5680,
@@ -404,7 +476,9 @@
     "acNumber": 21,
     "acName": "LAHAUL & SPITI",
     "partNumber": 37,
-    "partName": "MALANG"
+    "partName": "MALANG",
+    "lat": 32.5772755,
+    "lon": 76.9616799
   },
   {
     "partId": 5681,
@@ -415,7 +489,9 @@
     "acNumber": 21,
     "acName": "LAHAUL & SPITI",
     "partNumber": 38,
-    "partName": "THOLANG"
+    "partName": "THOLANG",
+    "lat": 32.5741479,
+    "lon": 76.958192
   },
   {
     "partId": 5682,
@@ -426,7 +502,9 @@
     "acNumber": 21,
     "acName": "LAHAUL & SPITI",
     "partNumber": 39,
-    "partName": "TANDI"
+    "partName": "TANDI",
+    "lat": 32.556087,
+    "lon": 76.9747132
   },
   {
     "partId": 292,
@@ -437,7 +515,9 @@
     "acNumber": 21,
     "acName": "LAHAUL & SPITI",
     "partNumber": 40,
-    "partName": "GOSHAL"
+    "partName": "GOSHAL",
+    "lat": 32.539182499999995,
+    "lon": 77.19833433579925
   },
   {
     "partId": 293,
@@ -448,7 +528,9 @@
     "acNumber": 21,
     "acName": "LAHAUL & SPITI",
     "partNumber": 41,
-    "partName": "MOOLING"
+    "partName": "MOOLING",
+    "lat": 32.539182499999995,
+    "lon": 77.19833433579925
   },
   {
     "partId": 102,
@@ -459,7 +541,9 @@
     "acNumber": 21,
     "acName": "LAHAUL & SPITI",
     "partNumber": 42,
-    "partName": "BARGUL"
+    "partName": "BARGUL",
+    "lat": 32.539182499999995,
+    "lon": 77.19833433579925
   },
   {
     "partId": 120,
@@ -470,7 +554,9 @@
     "acNumber": 21,
     "acName": "LAHAUL & SPITI",
     "partNumber": 43,
-    "partName": "KEYLONG-I"
+    "partName": "KEYLONG-I",
+    "lat": 32.5713398,
+    "lon": 77.0345199
   },
   {
     "partId": 1229,
@@ -481,7 +567,9 @@
     "acNumber": 21,
     "acName": "LAHAUL & SPITI",
     "partNumber": 44,
-    "partName": "BILING"
+    "partName": "BILING",
+    "lat": 32.5724962,
+    "lon": 77.0144681
   },
   {
     "partId": 125,
@@ -492,7 +580,9 @@
     "acNumber": 21,
     "acName": "LAHAUL & SPITI",
     "partNumber": 45,
-    "partName": "KEYLONG-II"
+    "partName": "KEYLONG-II",
+    "lat": 32.5713398,
+    "lon": 77.0345199
   },
   {
     "partId": 294,
@@ -503,7 +593,9 @@
     "acNumber": 21,
     "acName": "LAHAUL & SPITI",
     "partNumber": 46,
-    "partName": "YURNATH"
+    "partName": "YURNATH",
+    "lat": 32.539182499999995,
+    "lon": 77.19833433579925
   },
   {
     "partId": 295,
@@ -514,7 +606,9 @@
     "acNumber": 21,
     "acName": "LAHAUL & SPITI",
     "partNumber": 47,
-    "partName": "GUMRANG"
+    "partName": "GUMRANG",
+    "lat": 32.57205,
+    "lon": 77.0494505
   },
   {
     "partId": 180,
@@ -525,7 +619,9 @@
     "acNumber": 21,
     "acName": "LAHAUL & SPITI",
     "partNumber": 48,
-    "partName": "KAWARING"
+    "partName": "KAWARING",
+    "lat": 32.539182499999995,
+    "lon": 77.19833433579925
   },
   {
     "partId": 181,
@@ -536,7 +632,9 @@
     "acNumber": 21,
     "acName": "LAHAUL & SPITI",
     "partNumber": 49,
-    "partName": "KOLONG"
+    "partName": "KOLONG",
+    "lat": 32.5945901,
+    "lon": 77.1354796
   },
   {
     "partId": 225,
@@ -547,7 +645,9 @@
     "acNumber": 21,
     "acName": "LAHAUL & SPITI",
     "partNumber": 50,
-    "partName": "GEMUR"
+    "partName": "GEMUR",
+    "lat": 32.6118243,
+    "lon": 77.146495
   },
   {
     "partId": 233,
@@ -558,7 +658,9 @@
     "acNumber": 21,
     "acName": "LAHAUL & SPITI",
     "partNumber": 51,
-    "partName": "JISPA"
+    "partName": "JISPA",
+    "lat": 32.6353735,
+    "lon": 77.176779
   },
   {
     "partId": 296,
@@ -569,7 +671,9 @@
     "acNumber": 21,
     "acName": "LAHAUL & SPITI",
     "partNumber": 52,
-    "partName": "DARCHA SUMDO"
+    "partName": "DARCHA SUMDO",
+    "lat": 32.539182499999995,
+    "lon": 77.19833433579925
   },
   {
     "partId": 297,
@@ -580,7 +684,9 @@
     "acNumber": 21,
     "acName": "LAHAUL & SPITI",
     "partNumber": 53,
-    "partName": "RARIK"
+    "partName": "RARIK",
+    "lat": 32.539182499999995,
+    "lon": 77.19833433579925
   },
   {
     "partId": 121,
@@ -591,7 +697,9 @@
     "acNumber": 21,
     "acName": "LAHAUL & SPITI",
     "partNumber": 54,
-    "partName": "YOCHEY"
+    "partName": "YOCHEY",
+    "lat": 32.539182499999995,
+    "lon": 77.19833433579925
   },
   {
     "partId": 243,
@@ -602,7 +710,9 @@
     "acNumber": 21,
     "acName": "LAHAUL & SPITI",
     "partNumber": 55,
-    "partName": "TINO"
+    "partName": "TINO",
+    "lat": 32.539182499999995,
+    "lon": 77.19833433579925
   },
   {
     "partId": 244,
@@ -613,7 +723,9 @@
     "acNumber": 21,
     "acName": "LAHAUL & SPITI",
     "partNumber": 56,
-    "partName": "PEUKAR"
+    "partName": "PEUKAR",
+    "lat": 32.539182499999995,
+    "lon": 77.19833433579925
   },
   {
     "partId": 245,
@@ -624,7 +736,9 @@
     "acNumber": 21,
     "acName": "LAHAUL & SPITI",
     "partNumber": 57,
-    "partName": "LAPCHANG"
+    "partName": "LAPCHANG",
+    "lat": 32.5542017,
+    "lon": 77.0576683
   },
   {
     "partId": 246,
@@ -635,7 +749,9 @@
     "acNumber": 21,
     "acName": "LAHAUL & SPITI",
     "partNumber": 58,
-    "partName": "KARDANG"
+    "partName": "KARDANG",
+    "lat": 32.5666271,
+    "lon": 77.0192149
   },
   {
     "partId": 247,
@@ -646,7 +762,9 @@
     "acNumber": 21,
     "acName": "LAHAUL & SPITI",
     "partNumber": 59,
-    "partName": "GONDHLA"
+    "partName": "GONDHLA",
+    "lat": 32.5132678,
+    "lon": 77.0146942
   },
   {
     "partId": 250,
@@ -657,7 +775,9 @@
     "acNumber": 21,
     "acName": "LAHAUL & SPITI",
     "partNumber": 60,
-    "partName": "KHORPANI"
+    "partName": "KHORPANI",
+    "lat": 32.5022338,
+    "lon": 77.0738983
   },
   {
     "partId": 251,
@@ -668,7 +788,9 @@
     "acNumber": 21,
     "acName": "LAHAUL & SPITI",
     "partNumber": 61,
-    "partName": "KHAWAGLING(SISSU)"
+    "partName": "KHAWAGLING(SISSU)",
+    "lat": 32.539182499999995,
+    "lon": 77.19833433579925
   },
   {
     "partId": 252,
@@ -679,7 +801,9 @@
     "acNumber": 21,
     "acName": "LAHAUL & SPITI",
     "partNumber": 62,
-    "partName": "TAILING"
+    "partName": "TAILING",
+    "lat": 32.539182499999995,
+    "lon": 77.19833433579925
   },
   {
     "partId": 253,
@@ -690,7 +814,9 @@
     "acNumber": 21,
     "acName": "LAHAUL & SPITI",
     "partNumber": 63,
-    "partName": "DIMPHUK"
+    "partName": "DIMPHUK",
+    "lat": 32.539182499999995,
+    "lon": 77.19833433579925
   },
   {
     "partId": 254,
@@ -701,7 +827,9 @@
     "acNumber": 21,
     "acName": "LAHAUL & SPITI",
     "partNumber": 64,
-    "partName": "LOSAR"
+    "partName": "LOSAR",
+    "lat": 32.438246,
+    "lon": 77.7501296
   },
   {
     "partId": 255,
@@ -712,7 +840,9 @@
     "acNumber": 21,
     "acName": "LAHAUL & SPITI",
     "partNumber": 65,
-    "partName": "KYAMO"
+    "partName": "KYAMO",
+    "lat": 32.539182499999995,
+    "lon": 77.19833433579925
   },
   {
     "partId": 237,
@@ -723,7 +853,9 @@
     "acNumber": 21,
     "acName": "LAHAUL & SPITI",
     "partNumber": 66,
-    "partName": "HANSA"
+    "partName": "HANSA",
+    "lat": 32.539182499999995,
+    "lon": 77.19833433579925
   },
   {
     "partId": 256,
@@ -734,7 +866,9 @@
     "acNumber": 21,
     "acName": "LAHAUL & SPITI",
     "partNumber": 67,
-    "partName": "HULL"
+    "partName": "HULL",
+    "lat": 32.3338107,
+    "lon": 77.927062
   },
   {
     "partId": 257,
@@ -745,7 +879,9 @@
     "acNumber": 21,
     "acName": "LAHAUL & SPITI",
     "partNumber": 68,
-    "partName": "KHURIK"
+    "partName": "KHURIK",
+    "lat": 32.2813739,
+    "lon": 77.9994481
   },
   {
     "partId": 115,
@@ -756,7 +892,9 @@
     "acNumber": 21,
     "acName": "LAHAUL & SPITI",
     "partNumber": 69,
-    "partName": "RANGRIK"
+    "partName": "RANGRIK",
+    "lat": 32.2555853,
+    "lon": 78.0238184
   },
   {
     "partId": 9,
@@ -767,7 +905,9 @@
     "acNumber": 21,
     "acName": "LAHAUL & SPITI",
     "partNumber": 70,
-    "partName": "CHICHAM"
+    "partName": "CHICHAM",
+    "lat": 32.3426961,
+    "lon": 77.9972455
   },
   {
     "partId": 22,
@@ -778,7 +918,9 @@
     "acNumber": 21,
     "acName": "LAHAUL & SPITI",
     "partNumber": 71,
-    "partName": "KIBBER"
+    "partName": "KIBBER",
+    "lat": 32.332176,
+    "lon": 78.0085671
   },
   {
     "partId": 55,
@@ -789,7 +931,9 @@
     "acNumber": 21,
     "acName": "LAHAUL & SPITI",
     "partNumber": 72,
-    "partName": "Tashigang"
+    "partName": "Tashigang",
+    "lat": 32.2938761,
+    "lon": 78.054648
   },
   {
     "partId": 69,
@@ -800,7 +944,9 @@
     "acNumber": 21,
     "acName": "LAHAUL & SPITI",
     "partNumber": 73,
-    "partName": "KEE"
+    "partName": "KEE",
+    "lat": 32.539182499999995,
+    "lon": 77.19833433579925
   },
   {
     "partId": 70,
@@ -811,7 +957,9 @@
     "acNumber": 21,
     "acName": "LAHAUL & SPITI",
     "partNumber": 74,
-    "partName": "HIKKAM"
+    "partName": "HIKKAM",
+    "lat": 32.539182499999995,
+    "lon": 77.19833433579925
   },
   {
     "partId": 1230,
@@ -822,7 +970,9 @@
     "acNumber": 21,
     "acName": "LAHAUL & SPITI",
     "partNumber": 75,
-    "partName": "LANGCHA"
+    "partName": "LANGCHA",
+    "lat": 32.539182499999995,
+    "lon": 77.19833433579925
   },
   {
     "partId": 79,
@@ -833,7 +983,9 @@
     "acNumber": 21,
     "acName": "LAHAUL & SPITI",
     "partNumber": 76,
-    "partName": "KAZA"
+    "partName": "KAZA",
+    "lat": 32.2243837,
+    "lon": 78.0722634
   },
   {
     "partId": 5777,
@@ -844,7 +996,9 @@
     "acNumber": 21,
     "acName": "LAHAUL & SPITI",
     "partNumber": 77,
-    "partName": "KEWLING"
+    "partName": "KEWLING",
+    "lat": 32.539182499999995,
+    "lon": 77.19833433579925
   },
   {
     "partId": 179,
@@ -855,7 +1009,9 @@
     "acNumber": 21,
     "acName": "LAHAUL & SPITI",
     "partNumber": 78,
-    "partName": "LIDANG"
+    "partName": "LIDANG",
+    "lat": 32.1451678,
+    "lon": 78.1470822
   },
   {
     "partId": 3611,
@@ -866,7 +1022,9 @@
     "acNumber": 21,
     "acName": "LAHAUL & SPITI",
     "partNumber": 79,
-    "partName": "DEMUL"
+    "partName": "DEMUL",
+    "lat": 32.1697475,
+    "lon": 78.179084
   },
   {
     "partId": 3612,
@@ -877,7 +1035,9 @@
     "acNumber": 21,
     "acName": "LAHAUL & SPITI",
     "partNumber": 80,
-    "partName": "LALUNG"
+    "partName": "LALUNG",
+    "lat": 32.14927,
+    "lon": 78.27071
   },
   {
     "partId": 3613,
@@ -888,7 +1048,9 @@
     "acNumber": 21,
     "acName": "LAHAUL & SPITI",
     "partNumber": 81,
-    "partName": "GIUE"
+    "partName": "GIUE",
+    "lat": 32.539182499999995,
+    "lon": 77.19833433579925
   },
   {
     "partId": 3579,
@@ -899,7 +1061,9 @@
     "acNumber": 21,
     "acName": "LAHAUL & SPITI",
     "partNumber": 82,
-    "partName": "HURLING"
+    "partName": "HURLING",
+    "lat": 32.0621809,
+    "lon": 78.5515709
   },
   {
     "partId": 3602,
@@ -910,7 +1074,9 @@
     "acNumber": 21,
     "acName": "LAHAUL & SPITI",
     "partNumber": 83,
-    "partName": "TABO"
+    "partName": "TABO",
+    "lat": 32.0939595,
+    "lon": 78.3836693
   },
   {
     "partId": 3567,
@@ -921,7 +1087,9 @@
     "acNumber": 21,
     "acName": "LAHAUL & SPITI",
     "partNumber": 84,
-    "partName": "POH"
+    "partName": "POH",
+    "lat": 32.0505354,
+    "lon": 78.3174559
   },
   {
     "partId": 3614,
@@ -932,7 +1100,9 @@
     "acNumber": 21,
     "acName": "LAHAUL & SPITI",
     "partNumber": 85,
-    "partName": "DANKHAR"
+    "partName": "DANKHAR",
+    "lat": 32.0905778,
+    "lon": 78.2149325
   },
   {
     "partId": 3615,
@@ -943,7 +1113,9 @@
     "acNumber": 21,
     "acName": "LAHAUL & SPITI",
     "partNumber": 86,
-    "partName": "MANEY YOGMA"
+    "partName": "MANEY YOGMA",
+    "lat": 32.539182499999995,
+    "lon": 77.19833433579925
   },
   {
     "partId": 3616,
@@ -954,7 +1126,9 @@
     "acNumber": 21,
     "acName": "LAHAUL & SPITI",
     "partNumber": 87,
-    "partName": "GULING"
+    "partName": "GULING",
+    "lat": 32.0442443,
+    "lon": 78.0903169
   },
   {
     "partId": 536,
@@ -965,7 +1139,9 @@
     "acNumber": 21,
     "acName": "LAHAUL & SPITI",
     "partNumber": 88,
-    "partName": "TANGTI YOGMA"
+    "partName": "TANGTI YOGMA",
+    "lat": 32.539182499999995,
+    "lon": 77.19833433579925
   },
   {
     "partId": 537,
@@ -976,7 +1152,9 @@
     "acNumber": 21,
     "acName": "LAHAUL & SPITI",
     "partNumber": 89,
-    "partName": "SAGNAM"
+    "partName": "SAGNAM",
+    "lat": 32.0331093,
+    "lon": 78.0567289
   },
   {
     "partId": 538,
@@ -987,7 +1165,9 @@
     "acNumber": 21,
     "acName": "LAHAUL & SPITI",
     "partNumber": 90,
-    "partName": "MUD"
+    "partName": "MUD",
+    "lat": 31.9590016,
+    "lon": 78.0324114
   },
   {
     "partId": 539,
@@ -998,7 +1178,9 @@
     "acNumber": 21,
     "acName": "LAHAUL & SPITI",
     "partNumber": 91,
-    "partName": "KHAR"
+    "partName": "KHAR",
+    "lat": 32.0296333,
+    "lon": 78.0644977
   },
   {
     "partId": 540,
@@ -1009,6 +1191,8 @@
     "acNumber": 21,
     "acName": "LAHAUL & SPITI",
     "partNumber": 92,
-    "partName": "TELING"
+    "partName": "TELING",
+    "lat": 32.4481512,
+    "lon": 77.1594125
   }
 ]

@@ -8,7 +8,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 1,
-    "partName": "SUMRA"
+    "partName": "SUMRA",
+    "lat": 32.0488385,
+    "lon": 78.4904748
   },
   {
     "partId": 9451,
@@ -19,7 +21,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 2,
-    "partName": "SHALKHAR"
+    "partName": "SHALKHAR",
+    "lat": 31.53648,
+    "lon": 78.35476
   },
   {
     "partId": 9452,
@@ -30,7 +34,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 3,
-    "partName": "CHANGO"
+    "partName": "CHANGO",
+    "lat": 31.9777573,
+    "lon": 78.5944015
   },
   {
     "partId": 9454,
@@ -41,7 +47,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 4,
-    "partName": "MALING"
+    "partName": "MALING",
+    "lat": 31.53648,
+    "lon": 78.35476
   },
   {
     "partId": 9455,
@@ -52,7 +60,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 5,
-    "partName": "NAKO"
+    "partName": "NAKO",
+    "lat": 31.8813748,
+    "lon": 78.6270483
   },
   {
     "partId": 9456,
@@ -63,7 +73,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 6,
-    "partName": "KAA"
+    "partName": "KAA",
+    "lat": 31.53648,
+    "lon": 78.35476
   },
   {
     "partId": 9457,
@@ -74,7 +86,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 7,
-    "partName": "YANGTHANG"
+    "partName": "YANGTHANG",
+    "lat": 31.53648,
+    "lon": 78.35476
   },
   {
     "partId": 9458,
@@ -85,7 +99,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 8,
-    "partName": "LIYO"
+    "partName": "LIYO",
+    "lat": 31.53648,
+    "lon": 78.35476
   },
   {
     "partId": 9459,
@@ -96,7 +112,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 9,
-    "partName": "HANGO"
+    "partName": "HANGO",
+    "lat": 31.8282465,
+    "lon": 78.5389209
   },
   {
     "partId": 9460,
@@ -107,7 +125,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 10,
-    "partName": "CHULING"
+    "partName": "CHULING",
+    "lat": 31.53648,
+    "lon": 78.35476
   },
   {
     "partId": 9461,
@@ -118,7 +138,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 11,
-    "partName": "TASHIGANG"
+    "partName": "TASHIGANG",
+    "lat": 31.8401325,
+    "lon": 78.6966933
   },
   {
     "partId": 9462,
@@ -129,7 +151,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 12,
-    "partName": "NAMGIA"
+    "partName": "NAMGIA",
+    "lat": 31.8097239,
+    "lon": 78.6563009
   },
   {
     "partId": 9463,
@@ -140,7 +164,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 13,
-    "partName": "DUBLING"
+    "partName": "DUBLING",
+    "lat": 31.53648,
+    "lon": 78.35476
   },
   {
     "partId": 9464,
@@ -151,7 +177,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 14,
-    "partName": "POOH-1"
+    "partName": "POOH-1",
+    "lat": 31.76159,
+    "lon": 78.5839324
   },
   {
     "partId": 9465,
@@ -162,7 +190,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 15,
-    "partName": "POOH-2 ( LABRANG )"
+    "partName": "POOH-2 ( LABRANG )",
+    "lat": 31.53648,
+    "lon": 78.35476
   },
   {
     "partId": 9466,
@@ -173,7 +203,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 16,
-    "partName": "SHYASO"
+    "partName": "SHYASO",
+    "lat": 31.7264781,
+    "lon": 78.5140244
   },
   {
     "partId": 9467,
@@ -184,7 +216,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 17,
-    "partName": "SUNNAM"
+    "partName": "SUNNAM",
+    "lat": 31.7581386,
+    "lon": 78.4685165
   },
   {
     "partId": 9468,
@@ -195,7 +229,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 18,
-    "partName": "RUSHKULING"
+    "partName": "RUSHKULING",
+    "lat": 31.53648,
+    "lon": 78.35476
   },
   {
     "partId": 9469,
@@ -206,7 +242,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 19,
-    "partName": "GIABUNG"
+    "partName": "GIABUNG",
+    "lat": 31.53648,
+    "lon": 78.35476
   },
   {
     "partId": 9470,
@@ -217,7 +255,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 20,
-    "partName": "ROPA"
+    "partName": "ROPA",
+    "lat": 31.7971116,
+    "lon": 78.4208608
   },
   {
     "partId": 9471,
@@ -228,7 +268,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 21,
-    "partName": "LABRANG"
+    "partName": "LABRANG",
+    "lat": 31.6774628,
+    "lon": 78.4417389
   },
   {
     "partId": 9472,
@@ -239,7 +281,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 22,
-    "partName": "KANAM"
+    "partName": "KANAM",
+    "lat": 31.6765393,
+    "lon": 78.4513092
   },
   {
     "partId": 9453,
@@ -250,7 +294,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 23,
-    "partName": "SPILLO"
+    "partName": "SPILLO",
+    "lat": 31.53648,
+    "lon": 78.35476
   },
   {
     "partId": 9414,
@@ -261,7 +307,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 24,
-    "partName": "LIPPA"
+    "partName": "LIPPA",
+    "lat": 31.6588518,
+    "lon": 78.382988
   },
   {
     "partId": 9418,
@@ -272,7 +320,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 25,
-    "partName": "ASRANG"
+    "partName": "ASRANG",
+    "lat": 31.6653446,
+    "lon": 78.3178424
   },
   {
     "partId": 9473,
@@ -283,7 +333,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 26,
-    "partName": "JANGI"
+    "partName": "JANGI",
+    "lat": 31.6102966,
+    "lon": 78.4289781
   },
   {
     "partId": 9474,
@@ -294,7 +346,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 27,
-    "partName": "NESANG"
+    "partName": "NESANG",
+    "lat": 31.6462211,
+    "lon": 78.519802
   },
   {
     "partId": 9475,
@@ -305,7 +359,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 28,
-    "partName": "MOORANG"
+    "partName": "MOORANG",
+    "lat": 31.6002965,
+    "lon": 78.56678369035926
   },
   {
     "partId": 9534,
@@ -316,7 +372,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 29,
-    "partName": "KHOKPA"
+    "partName": "KHOKPA",
+    "lat": 31.5907621,
+    "lon": 78.4468755
   },
   {
     "partId": 9476,
@@ -327,7 +385,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 30,
-    "partName": "GRAMANG"
+    "partName": "GRAMANG",
+    "lat": 31.6054036,
+    "lon": 78.446331
   },
   {
     "partId": 9477,
@@ -338,7 +398,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 31,
-    "partName": "RISPA"
+    "partName": "RISPA",
+    "lat": 31.5758482,
+    "lon": 78.4233284
   },
   {
     "partId": 9478,
@@ -349,7 +411,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 32,
-    "partName": "SAKIBA"
+    "partName": "SAKIBA",
+    "lat": 31.53648,
+    "lon": 78.35476
   },
   {
     "partId": 9479,
@@ -360,7 +424,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 33,
-    "partName": "THANGI"
+    "partName": "THANGI",
+    "lat": 31.55592,
+    "lon": 78.4805023
   },
   {
     "partId": 9480,
@@ -371,7 +437,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 34,
-    "partName": "LAMBER"
+    "partName": "LAMBER",
+    "lat": 31.53648,
+    "lon": 78.35476
   },
   {
     "partId": 9481,
@@ -382,7 +450,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 35,
-    "partName": "KUNNU"
+    "partName": "KUNNU",
+    "lat": 31.53648,
+    "lon": 78.35476
   },
   {
     "partId": 9482,
@@ -393,7 +463,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 36,
-    "partName": "CHARANG"
+    "partName": "CHARANG",
+    "lat": 31.4386189,
+    "lon": 78.5763856
   },
   {
     "partId": 9483,
@@ -404,7 +476,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 37,
-    "partName": "RIBBA-1"
+    "partName": "RIBBA-1",
+    "lat": 31.5839161,
+    "lon": 78.3668468
   },
   {
     "partId": 9484,
@@ -415,7 +489,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 38,
-    "partName": "RIBBA-2"
+    "partName": "RIBBA-2",
+    "lat": 31.5839161,
+    "lon": 78.3668468
   },
   {
     "partId": 9415,
@@ -426,7 +502,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 39,
-    "partName": "AKPA"
+    "partName": "AKPA",
+    "lat": 31.5844925,
+    "lon": 78.3843349
   },
   {
     "partId": 9417,
@@ -437,7 +515,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 40,
-    "partName": "AREN"
+    "partName": "AREN",
+    "lat": 31.57274200873016,
+    "lon": 78.31545693635485
   },
   {
     "partId": 9485,
@@ -448,7 +528,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 41,
-    "partName": "RARANG"
+    "partName": "RARANG",
+    "lat": 31.6021368,
+    "lon": 78.3523805
   },
   {
     "partId": 9425,
@@ -459,7 +541,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 42,
-    "partName": "SHILAPUR"
+    "partName": "SHILAPUR",
+    "lat": 31.53648,
+    "lon": 78.35476
   },
   {
     "partId": 9426,
@@ -470,7 +554,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 43,
-    "partName": "KHADRA"
+    "partName": "KHADRA",
+    "lat": 31.5918195,
+    "lon": 78.3723555
   },
   {
     "partId": 9427,
@@ -481,7 +567,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 44,
-    "partName": "PANGI -1"
+    "partName": "PANGI -1",
+    "lat": 31.5897724,
+    "lon": 78.2771256
   },
   {
     "partId": 9428,
@@ -492,7 +580,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 45,
-    "partName": "PANGI -2"
+    "partName": "PANGI -2",
+    "lat": 31.5897724,
+    "lon": 78.2771256
   },
   {
     "partId": 9429,
@@ -503,7 +593,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 46,
-    "partName": "TELANGI"
+    "partName": "TELANGI",
+    "lat": 31.53648,
+    "lon": 78.35476
   },
   {
     "partId": 9430,
@@ -514,7 +606,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 47,
-    "partName": "KASHMIR"
+    "partName": "KASHMIR",
+    "lat": 31.53648,
+    "lon": 78.35476
   },
   {
     "partId": 9431,
@@ -525,7 +619,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 48,
-    "partName": "KOTHI"
+    "partName": "KOTHI",
+    "lat": 31.548194,
+    "lon": 78.2670947
   },
   {
     "partId": 9416,
@@ -536,7 +632,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 49,
-    "partName": "DUNI"
+    "partName": "DUNI",
+    "lat": 31.5545121,
+    "lon": 78.2603359
   },
   {
     "partId": 9409,
@@ -547,7 +645,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 50,
-    "partName": "BRELINGI"
+    "partName": "BRELINGI",
+    "lat": 31.53648,
+    "lon": 78.35476
   },
   {
     "partId": 9432,
@@ -558,7 +658,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 51,
-    "partName": "KALPA-1"
+    "partName": "KALPA-1",
+    "lat": 31.5331641,
+    "lon": 78.249833
   },
   {
     "partId": 9433,
@@ -569,7 +671,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 52,
-    "partName": "KALPA-2"
+    "partName": "KALPA-2",
+    "lat": 31.5331641,
+    "lon": 78.249833
   },
   {
     "partId": 9434,
@@ -580,7 +684,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 53,
-    "partName": "ROGHI"
+    "partName": "ROGHI",
+    "lat": 31.5130644,
+    "lon": 78.2299787
   },
   {
     "partId": 9435,
@@ -591,7 +697,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 54,
-    "partName": "SHUDHARANG"
+    "partName": "SHUDHARANG",
+    "lat": 31.53648,
+    "lon": 78.35476
   },
   {
     "partId": 9436,
@@ -602,7 +710,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 55,
-    "partName": "YUVARANGI"
+    "partName": "YUVARANGI",
+    "lat": 31.53648,
+    "lon": 78.35476
   },
   {
     "partId": 9437,
@@ -613,7 +723,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 56,
-    "partName": "RECKONG PEO-1"
+    "partName": "RECKONG PEO-1",
+    "lat": 31.5421419,
+    "lon": 78.2708218
   },
   {
     "partId": 9438,
@@ -624,7 +736,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 57,
-    "partName": "RECKONG PEO-2"
+    "partName": "RECKONG PEO-2",
+    "lat": 31.5421419,
+    "lon": 78.2708218
   },
   {
     "partId": 9440,
@@ -635,7 +749,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 58,
-    "partName": "KHAWANGI"
+    "partName": "KHAWANGI",
+    "lat": 31.5472983,
+    "lon": 78.2712364
   },
   {
     "partId": 9441,
@@ -646,7 +762,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 59,
-    "partName": "PURBANI"
+    "partName": "PURBANI",
+    "lat": 31.5907825,
+    "lon": 78.3006334
   },
   {
     "partId": 9442,
@@ -657,7 +775,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 60,
-    "partName": "TANGLING"
+    "partName": "TANGLING",
+    "lat": 31.5276018,
+    "lon": 78.2827055
   },
   {
     "partId": 9410,
@@ -668,7 +788,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 61,
-    "partName": "POWARI"
+    "partName": "POWARI",
+    "lat": 31.5540001,
+    "lon": 78.2825017
   },
   {
     "partId": 9443,
@@ -679,7 +801,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 62,
-    "partName": "BARANG"
+    "partName": "BARANG",
+    "lat": 31.5110385,
+    "lon": 78.2651532
   },
   {
     "partId": 9444,
@@ -690,7 +814,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 63,
-    "partName": "MEBAR ( RALLI )"
+    "partName": "MEBAR ( RALLI )",
+    "lat": 31.53648,
+    "lon": 78.35476
   },
   {
     "partId": 9445,
@@ -701,7 +827,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 64,
-    "partName": "THAPASARING"
+    "partName": "THAPASARING",
+    "lat": 31.53648,
+    "lon": 78.35476
   },
   {
     "partId": 9446,
@@ -712,7 +840,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 65,
-    "partName": "BONINGSARING"
+    "partName": "BONINGSARING",
+    "lat": 31.53648,
+    "lon": 78.35476
   },
   {
     "partId": 9447,
@@ -723,7 +853,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 66,
-    "partName": "RAKCHHAM"
+    "partName": "RAKCHHAM",
+    "lat": 31.3923421,
+    "lon": 78.3537529
   },
   {
     "partId": 9448,
@@ -734,7 +866,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 67,
-    "partName": "CHHITKUL"
+    "partName": "CHHITKUL",
+    "lat": 31.3881,
+    "lon": 78.46219
   },
   {
     "partId": 9449,
@@ -745,7 +879,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 68,
-    "partName": "BATSERI"
+    "partName": "BATSERI",
+    "lat": 31.4077591,
+    "lon": 78.3027212
   },
   {
     "partId": 9494,
@@ -756,7 +892,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 69,
-    "partName": "SANGLA-1"
+    "partName": "SANGLA-1",
+    "lat": 31.42588,
+    "lon": 78.2637262
   },
   {
     "partId": 9495,
@@ -767,7 +905,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 70,
-    "partName": "SANGLA-2"
+    "partName": "SANGLA-2",
+    "lat": 31.42588,
+    "lon": 78.2637262
   },
   {
     "partId": 9496,
@@ -778,7 +918,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 71,
-    "partName": "KAMRU"
+    "partName": "KAMRU",
+    "lat": 31.4351487,
+    "lon": 78.2585956
   },
   {
     "partId": 9408,
@@ -789,7 +931,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 72,
-    "partName": "PALIKA SARYO"
+    "partName": "PALIKA SARYO",
+    "lat": 31.53648,
+    "lon": 78.35476
   },
   {
     "partId": 9497,
@@ -800,7 +944,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 73,
-    "partName": "KUPPA"
+    "partName": "KUPPA",
+    "lat": 31.53648,
+    "lon": 78.35476
   },
   {
     "partId": 9498,
@@ -811,7 +957,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 74,
-    "partName": "CHANSU"
+    "partName": "CHANSU",
+    "lat": 31.4306149,
+    "lon": 78.2221967
   },
   {
     "partId": 9499,
@@ -822,7 +970,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 75,
-    "partName": "SHONG"
+    "partName": "SHONG",
+    "lat": 31.53648,
+    "lon": 78.35476
   },
   {
     "partId": 9500,
@@ -833,7 +983,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 76,
-    "partName": "BRUA"
+    "partName": "BRUA",
+    "lat": 31.4594718,
+    "lon": 78.1692105
   },
   {
     "partId": 9501,
@@ -844,7 +996,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 77,
-    "partName": "SAPNI"
+    "partName": "SAPNI",
+    "lat": 31.4838666,
+    "lon": 78.1662212
   },
   {
     "partId": 9407,
@@ -855,7 +1009,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 78,
-    "partName": "BATURI"
+    "partName": "BATURI",
+    "lat": 31.4764042,
+    "lon": 78.1674722
   },
   {
     "partId": 9502,
@@ -866,7 +1022,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 79,
-    "partName": "KANAI"
+    "partName": "KANAI",
+    "lat": 31.53648,
+    "lon": 78.35476
   },
   {
     "partId": 9503,
@@ -877,7 +1035,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 80,
-    "partName": "KARCHAM"
+    "partName": "KARCHAM",
+    "lat": 31.5406846,
+    "lon": 78.0153212
   },
   {
     "partId": 9504,
@@ -888,7 +1048,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 81,
-    "partName": "KILBA"
+    "partName": "KILBA",
+    "lat": 31.5140386,
+    "lon": 78.1448298
   },
   {
     "partId": 9411,
@@ -899,7 +1061,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 82,
-    "partName": "THIKRU"
+    "partName": "THIKRU",
+    "lat": 31.5109047,
+    "lon": 78.1261151
   },
   {
     "partId": 9505,
@@ -910,7 +1074,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 83,
-    "partName": "PUNANG"
+    "partName": "PUNANG",
+    "lat": 31.5112903,
+    "lon": 78.0973714
   },
   {
     "partId": 9506,
@@ -921,7 +1087,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 84,
-    "partName": "CHHOLTU"
+    "partName": "CHHOLTU",
+    "lat": 31.53648,
+    "lon": 78.35476
   },
   {
     "partId": 9507,
@@ -932,7 +1100,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 85,
-    "partName": "RUNANG"
+    "partName": "RUNANG",
+    "lat": 31.5201769,
+    "lon": 78.1827486
   },
   {
     "partId": 9508,
@@ -943,7 +1113,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 86,
-    "partName": "CHOLING"
+    "partName": "CHOLING",
+    "lat": 31.53648,
+    "lon": 78.35476
   },
   {
     "partId": 9509,
@@ -954,7 +1126,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 87,
-    "partName": "MEERU"
+    "partName": "MEERU",
+    "lat": 31.5364605,
+    "lon": 78.1440058
   },
   {
     "partId": 9510,
@@ -965,7 +1139,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 88,
-    "partName": "YULLA"
+    "partName": "YULLA",
+    "lat": 31.5905581,
+    "lon": 78.14077531096123
   },
   {
     "partId": 9486,
@@ -976,7 +1152,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 89,
-    "partName": "URNI"
+    "partName": "URNI",
+    "lat": 31.5304825,
+    "lon": 78.1299484
   },
   {
     "partId": 9487,
@@ -987,7 +1165,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 90,
-    "partName": "CHAGAON-1"
+    "partName": "CHAGAON-1",
+    "lat": 31.5283382,
+    "lon": 78.0889072
   },
   {
     "partId": 9488,
@@ -998,7 +1178,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 91,
-    "partName": "CHAGAON-2"
+    "partName": "CHAGAON-2",
+    "lat": 31.5283382,
+    "lon": 78.0889072
   },
   {
     "partId": 9489,
@@ -1009,7 +1191,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 92,
-    "partName": "TAPRI"
+    "partName": "TAPRI",
+    "lat": 31.5170644,
+    "lon": 78.0974737
   },
   {
     "partId": 9490,
@@ -1020,7 +1204,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 93,
-    "partName": "JANI"
+    "partName": "JANI",
+    "lat": 31.5143711,
+    "lon": 78.0741358
   },
   {
     "partId": 9491,
@@ -1031,7 +1217,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 94,
-    "partName": "RAMNI"
+    "partName": "RAMNI",
+    "lat": 31.5083664,
+    "lon": 78.0586717
   },
   {
     "partId": 9492,
@@ -1042,7 +1230,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 95,
-    "partName": "PANVI"
+    "partName": "PANVI",
+    "lat": 31.53648,
+    "lon": 78.35476
   },
   {
     "partId": 9493,
@@ -1053,7 +1243,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 96,
-    "partName": "WANGTU"
+    "partName": "WANGTU",
+    "lat": 31.5482206,
+    "lon": 78.0052467
   },
   {
     "partId": 9419,
@@ -1064,7 +1256,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 97,
-    "partName": "KATGAON"
+    "partName": "KATGAON",
+    "lat": 31.5930803,
+    "lon": 78.0381903
   },
   {
     "partId": 9533,
@@ -1075,7 +1269,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 98,
-    "partName": "SHANGO"
+    "partName": "SHANGO",
+    "lat": 31.593012950000002,
+    "lon": 78.32814168568953
   },
   {
     "partId": 9420,
@@ -1086,7 +1282,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 99,
-    "partName": "KRABA"
+    "partName": "KRABA",
+    "lat": 31.57274200873016,
+    "lon": 78.31545693635485
   },
   {
     "partId": 9421,
@@ -1097,7 +1295,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 100,
-    "partName": "YANGPA-1"
+    "partName": "YANGPA-1",
+    "lat": 31.593012950000002,
+    "lon": 78.32814168568953
   },
   {
     "partId": 9422,
@@ -1108,7 +1308,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 101,
-    "partName": "YANGPA-2"
+    "partName": "YANGPA-2",
+    "lat": 31.6071262,
+    "lon": 78.0356015
   },
   {
     "partId": 9423,
@@ -1119,7 +1321,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 102,
-    "partName": "KAFNOO"
+    "partName": "KAFNOO",
+    "lat": 31.53648,
+    "lon": 78.35476
   },
   {
     "partId": 9412,
@@ -1130,7 +1334,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 103,
-    "partName": "HURI"
+    "partName": "HURI",
+    "lat": 31.6128932,
+    "lon": 78.0283619
   },
   {
     "partId": 9424,
@@ -1141,7 +1347,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 104,
-    "partName": "GHARSHU"
+    "partName": "GHARSHU",
+    "lat": 31.53648,
+    "lon": 78.35476
   },
   {
     "partId": 9511,
@@ -1152,7 +1360,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 105,
-    "partName": "KACHRANG"
+    "partName": "KACHRANG",
+    "lat": 31.53648,
+    "lon": 78.35476
   },
   {
     "partId": 9439,
@@ -1163,7 +1373,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 106,
-    "partName": "ROKCHARAG"
+    "partName": "ROKCHARAG",
+    "lat": 31.53648,
+    "lon": 78.35476
   },
   {
     "partId": 9512,
@@ -1174,7 +1386,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 107,
-    "partName": "NATHPA"
+    "partName": "NATHPA",
+    "lat": 31.564136249999997,
+    "lon": 77.9800197035629
   },
   {
     "partId": 9514,
@@ -1185,7 +1399,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 108,
-    "partName": "KANDHAR ( RUHANI )"
+    "partName": "KANDHAR ( RUHANI )",
+    "lat": 31.53648,
+    "lon": 78.35476
   },
   {
     "partId": 9515,
@@ -1196,7 +1412,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 109,
-    "partName": "NICHAR"
+    "partName": "NICHAR",
+    "lat": 31.59311545,
+    "lon": 78.00484026169029
   },
   {
     "partId": 9516,
@@ -1207,7 +1425,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 110,
-    "partName": "POOJE"
+    "partName": "POOJE",
+    "lat": 31.53648,
+    "lon": 78.35476
   },
   {
     "partId": 9517,
@@ -1218,7 +1438,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 111,
-    "partName": "BARO"
+    "partName": "BARO",
+    "lat": 31.7835785,
+    "lon": 78.4922933
   },
   {
     "partId": 9518,
@@ -1229,7 +1451,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 112,
-    "partName": "SUNGRA"
+    "partName": "SUNGRA",
+    "lat": 31.53648,
+    "lon": 78.35476
   },
   {
     "partId": 9519,
@@ -1240,7 +1464,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 113,
-    "partName": "KANGOS"
+    "partName": "KANGOS",
+    "lat": 31.53648,
+    "lon": 78.35476
   },
   {
     "partId": 9520,
@@ -1251,7 +1477,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 114,
-    "partName": "BHABANAGAR-I"
+    "partName": "BHABANAGAR-I",
+    "lat": 31.593012950000002,
+    "lon": 78.32814168568953
   },
   {
     "partId": 9521,
@@ -1262,7 +1490,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 115,
-    "partName": "BHABANAGAR-II"
+    "partName": "BHABANAGAR-II",
+    "lat": 31.57274200873016,
+    "lon": 78.31545693635485
   },
   {
     "partId": 9522,
@@ -1273,7 +1503,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 116,
-    "partName": "PONDA"
+    "partName": "PONDA",
+    "lat": 31.53648,
+    "lon": 78.35476
   },
   {
     "partId": 9523,
@@ -1284,7 +1516,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 117,
-    "partName": "BARI"
+    "partName": "BARI",
+    "lat": 31.53648,
+    "lon": 78.35476
   },
   {
     "partId": 9413,
@@ -1295,7 +1529,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 118,
-    "partName": "SOLDING (VIKASNAGAR)"
+    "partName": "SOLDING (VIKASNAGAR)",
+    "lat": 31.593012950000002,
+    "lon": 78.32814168568953
   },
   {
     "partId": 9524,
@@ -1306,7 +1542,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 119,
-    "partName": "TRANDA"
+    "partName": "TRANDA",
+    "lat": 31.53648,
+    "lon": 78.35476
   },
   {
     "partId": 9525,
@@ -1317,7 +1555,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 120,
-    "partName": "NIGULSARI"
+    "partName": "NIGULSARI",
+    "lat": 31.593012950000002,
+    "lon": 78.32814168568953
   },
   {
     "partId": 9406,
@@ -1328,7 +1568,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 121,
-    "partName": "NANASPO"
+    "partName": "NANASPO",
+    "lat": 31.53648,
+    "lon": 78.35476
   },
   {
     "partId": 9513,
@@ -1339,7 +1581,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 122,
-    "partName": "THACH"
+    "partName": "THACH",
+    "lat": 31.9200584,
+    "lon": 78.4941038
   },
   {
     "partId": 9526,
@@ -1350,7 +1594,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 123,
-    "partName": "CHAURA-1"
+    "partName": "CHAURA-1",
+    "lat": 31.53648,
+    "lon": 78.35476
   },
   {
     "partId": 9527,
@@ -1361,7 +1607,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 124,
-    "partName": "CHAURA-2"
+    "partName": "CHAURA-2",
+    "lat": 31.5686626,
+    "lon": 77.8492189
   },
   {
     "partId": 9528,
@@ -1372,7 +1620,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 125,
-    "partName": "CHHOTAKAMBA"
+    "partName": "CHHOTAKAMBA",
+    "lat": 31.53648,
+    "lon": 78.35476
   },
   {
     "partId": 9529,
@@ -1383,7 +1633,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 126,
-    "partName": "BARAKAMBA"
+    "partName": "BARAKAMBA",
+    "lat": 31.53648,
+    "lon": 78.35476
   },
   {
     "partId": 9532,
@@ -1394,7 +1646,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 127,
-    "partName": "SHORANG"
+    "partName": "SHORANG",
+    "lat": 31.53648,
+    "lon": 78.35476
   },
   {
     "partId": 9530,
@@ -1405,7 +1659,9 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 128,
-    "partName": "RUPI"
+    "partName": "RUPI",
+    "lat": 31.6080352,
+    "lon": 77.8408599
   },
   {
     "partId": 9531,
@@ -1416,6 +1672,8 @@
     "acNumber": 68,
     "acName": "KINNAUR",
     "partNumber": 129,
-    "partName": "SHIGARCHA"
+    "partName": "SHIGARCHA",
+    "lat": 31.593012950000002,
+    "lon": 78.32814168568953
   }
 ]

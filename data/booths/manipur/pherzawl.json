@@ -8,7 +8,9 @@
     "acNumber": 56,
     "acName": "Thanlon",
     "partNumber": 1,
-    "partName": "Phaikholum (J)"
+    "partName": "Phaikholum (J)",
+    "lat": 24.2682051,
+    "lon": 93.2832301
   },
   {
     "partId": 3340,
@@ -19,7 +21,9 @@
     "acNumber": 56,
     "acName": "Thanlon",
     "partNumber": 2,
-    "partName": "Phaijang"
+    "partName": "Phaijang",
+    "lat": 24.2682051,
+    "lon": 93.2832301
   },
   {
     "partId": 3378,
@@ -30,7 +34,9 @@
     "acNumber": 56,
     "acName": "Thanlon",
     "partNumber": 3,
-    "partName": "Tangnuom"
+    "partName": "Tangnuom",
+    "lat": 24.2682051,
+    "lon": 93.2832301
   },
   {
     "partId": 3341,
@@ -41,7 +47,9 @@
     "acNumber": 56,
     "acName": "Thanlon",
     "partNumber": 4,
-    "partName": "Savaipaih"
+    "partName": "Savaipaih",
+    "lat": 24.2682051,
+    "lon": 93.2832301
   },
   {
     "partId": 3342,
@@ -52,7 +60,9 @@
     "acNumber": 56,
     "acName": "Thanlon",
     "partNumber": 5,
-    "partName": "Songsang"
+    "partName": "Songsang",
+    "lat": 24.4851016,
+    "lon": 93.3091465
   },
   {
     "partId": 3343,
@@ -63,7 +73,9 @@
     "acNumber": 56,
     "acName": "Thanlon",
     "partNumber": 6,
-    "partName": "Dailon"
+    "partName": "Dailon",
+    "lat": 24.2682051,
+    "lon": 93.2832301
   },
   {
     "partId": 3344,
@@ -74,7 +86,9 @@
     "acNumber": 56,
     "acName": "Thanlon",
     "partNumber": 7,
-    "partName": "Milongmun"
+    "partName": "Milongmun",
+    "lat": 24.3866787,
+    "lon": 93.2874793
   },
   {
     "partId": 3345,
@@ -85,7 +99,9 @@
     "acNumber": 56,
     "acName": "Thanlon",
     "partNumber": 8,
-    "partName": "Gamhui"
+    "partName": "Gamhui",
+    "lat": 24.3546498,
+    "lon": 93.2592469
   },
   {
     "partId": 3346,
@@ -96,7 +112,9 @@
     "acNumber": 56,
     "acName": "Thanlon",
     "partNumber": 9,
-    "partName": "Leijangphai"
+    "partName": "Leijangphai",
+    "lat": 24.3610392,
+    "lon": 93.3356103
   },
   {
     "partId": 3347,
@@ -107,7 +125,9 @@
     "acNumber": 56,
     "acName": "Thanlon",
     "partNumber": 10,
-    "partName": "Maite"
+    "partName": "Maite",
+    "lat": 24.2682051,
+    "lon": 93.2832301
   },
   {
     "partId": 3348,
@@ -118,7 +138,9 @@
     "acNumber": 56,
     "acName": "Thanlon",
     "partNumber": 11,
-    "partName": "Phaipheng"
+    "partName": "Phaipheng",
+    "lat": 24.2682051,
+    "lon": 93.2832301
   },
   {
     "partId": 3349,
@@ -129,7 +151,9 @@
     "acNumber": 56,
     "acName": "Thanlon",
     "partNumber": 12,
-    "partName": "Mualkui"
+    "partName": "Mualkui",
+    "lat": 24.2682051,
+    "lon": 93.2832301
   },
   {
     "partId": 3350,
@@ -140,7 +164,9 @@
     "acNumber": 56,
     "acName": "Thanlon",
     "partNumber": 13,
-    "partName": "Phailianbung"
+    "partName": "Phailianbung",
+    "lat": 24.2754672,
+    "lon": 93.4687293
   },
   {
     "partId": 3351,
@@ -151,7 +177,9 @@
     "acNumber": 56,
     "acName": "Thanlon",
     "partNumber": 14,
-    "partName": "Kaihlam"
+    "partName": "Kaihlam",
+    "lat": 24.269181850000002,
+    "lon": 93.40323358582788
   },
   {
     "partId": 3352,
@@ -162,7 +190,9 @@
     "acNumber": 56,
     "acName": "Thanlon",
     "partNumber": 15,
-    "partName": "Pamjal"
+    "partName": "Pamjal",
+    "lat": 24.2682051,
+    "lon": 93.2832301
   },
   {
     "partId": 3353,
@@ -173,7 +203,9 @@
     "acNumber": 56,
     "acName": "Thanlon",
     "partNumber": 16,
-    "partName": "Sainoujang"
+    "partName": "Sainoujang",
+    "lat": 24.2682051,
+    "lon": 93.2832301
   },
   {
     "partId": 3354,
@@ -184,7 +216,9 @@
     "acNumber": 56,
     "acName": "Thanlon",
     "partNumber": 17,
-    "partName": "Suangpehmun"
+    "partName": "Suangpehmun",
+    "lat": 24.2682051,
+    "lon": 93.2832301
   },
   {
     "partId": 3379,
@@ -195,7 +229,9 @@
     "acNumber": 56,
     "acName": "Thanlon",
     "partNumber": 18,
-    "partName": "Galkapkot"
+    "partName": "Galkapkot",
+    "lat": 24.3492395,
+    "lon": 93.2809842
   },
   {
     "partId": 3355,
@@ -206,7 +242,9 @@
     "acNumber": 56,
     "acName": "Thanlon",
     "partNumber": 19,
-    "partName": "Tinsuong"
+    "partName": "Tinsuong",
+    "lat": 24.2897838,
+    "lon": 93.1968797
   },
   {
     "partId": 3356,
@@ -217,7 +255,9 @@
     "acNumber": 56,
     "acName": "Thanlon",
     "partNumber": 20,
-    "partName": "Damdie"
+    "partName": "Damdie",
+    "lat": 24.2682051,
+    "lon": 93.2832301
   },
   {
     "partId": 3357,
@@ -228,7 +268,9 @@
     "acNumber": 56,
     "acName": "Thanlon",
     "partNumber": 21,
-    "partName": "Pherzawl"
+    "partName": "Pherzawl",
+    "lat": 24.2595653,
+    "lon": 93.1906004
   },
   {
     "partId": 3358,
@@ -239,7 +281,9 @@
     "acNumber": 56,
     "acName": "Thanlon",
     "partNumber": 22,
-    "partName": "Tallan"
+    "partName": "Tallan",
+    "lat": 24.2682051,
+    "lon": 93.2832301
   },
   {
     "partId": 3359,
@@ -250,7 +294,9 @@
     "acNumber": 56,
     "acName": "Thanlon",
     "partNumber": 23,
-    "partName": "Loibual"
+    "partName": "Loibual",
+    "lat": 24.2682051,
+    "lon": 93.2832301
   },
   {
     "partId": 3360,
@@ -261,7 +307,9 @@
     "acNumber": 56,
     "acName": "Thanlon",
     "partNumber": 24,
-    "partName": "Thanlon (A)"
+    "partName": "Thanlon (A)",
+    "lat": 24.2682051,
+    "lon": 93.2832301
   },
   {
     "partId": 3361,
@@ -272,7 +320,9 @@
     "acNumber": 56,
     "acName": "Thanlon",
     "partNumber": 25,
-    "partName": "Thanlon (B)"
+    "partName": "Thanlon (B)",
+    "lat": 24.2682051,
+    "lon": 93.2832301
   },
   {
     "partId": 3362,
@@ -283,7 +333,9 @@
     "acNumber": 56,
     "acName": "Thanlon",
     "partNumber": 26,
-    "partName": "Joutung"
+    "partName": "Joutung",
+    "lat": 24.2059474,
+    "lon": 93.2792364
   },
   {
     "partId": 3363,
@@ -294,7 +346,9 @@
     "acNumber": 56,
     "acName": "Thanlon",
     "partNumber": 27,
-    "partName": "Dialkhai"
+    "partName": "Dialkhai",
+    "lat": 24.2287645,
+    "lon": 93.2997594
   },
   {
     "partId": 3364,
@@ -305,7 +359,9 @@
     "acNumber": 56,
     "acName": "Thanlon",
     "partNumber": 28,
-    "partName": "Mualnuam"
+    "partName": "Mualnuam",
+    "lat": 24.1946679,
+    "lon": 93.3865999
   },
   {
     "partId": 3365,
@@ -316,7 +372,9 @@
     "acNumber": 56,
     "acName": "Thanlon",
     "partNumber": 29,
-    "partName": "Songtal"
+    "partName": "Songtal",
+    "lat": 24.1650366,
+    "lon": 93.368967
   },
   {
     "partId": 3366,
@@ -327,7 +385,9 @@
     "acNumber": 56,
     "acName": "Thanlon",
     "partNumber": 30,
-    "partName": "Sumtuk"
+    "partName": "Sumtuk",
+    "lat": 24.1681621,
+    "lon": 93.300475
   },
   {
     "partId": 3367,
@@ -338,7 +398,9 @@
     "acNumber": 56,
     "acName": "Thanlon",
     "partNumber": 31,
-    "partName": "Palkhuang"
+    "partName": "Palkhuang",
+    "lat": 24.2682051,
+    "lon": 93.2832301
   },
   {
     "partId": 3368,
@@ -349,7 +411,9 @@
     "acNumber": 56,
     "acName": "Thanlon",
     "partNumber": 32,
-    "partName": "Bukpi (1)"
+    "partName": "Bukpi (1)",
+    "lat": 24.211859,
+    "lon": 93.2390392
   },
   {
     "partId": 3369,
@@ -360,7 +424,9 @@
     "acNumber": 56,
     "acName": "Thanlon",
     "partNumber": 33,
-    "partName": "Bukpi (2)"
+    "partName": "Bukpi (2)",
+    "lat": 24.211859,
+    "lon": 93.2390392
   },
   {
     "partId": 3370,
@@ -371,7 +437,9 @@
     "acNumber": 56,
     "acName": "Thanlon",
     "partNumber": 34,
-    "partName": "Hanship"
+    "partName": "Hanship",
+    "lat": 24.1594041,
+    "lon": 93.2120699
   },
   {
     "partId": 3371,
@@ -382,7 +450,9 @@
     "acNumber": 56,
     "acName": "Thanlon",
     "partNumber": 35,
-    "partName": "Leisen"
+    "partName": "Leisen",
+    "lat": 24.1517009,
+    "lon": 93.1490679
   },
   {
     "partId": 3372,
@@ -393,7 +463,9 @@
     "acNumber": 56,
     "acName": "Thanlon",
     "partNumber": 36,
-    "partName": "Bungpilon"
+    "partName": "Bungpilon",
+    "lat": 24.0902034,
+    "lon": 93.1876829
   },
   {
     "partId": 3373,
@@ -404,7 +476,9 @@
     "acNumber": 56,
     "acName": "Thanlon",
     "partNumber": 37,
-    "partName": "Aibulon"
+    "partName": "Aibulon",
+    "lat": 24.1167371,
+    "lon": 93.2393488
   },
   {
     "partId": 3374,
@@ -415,7 +489,9 @@
     "acNumber": 56,
     "acName": "Thanlon",
     "partNumber": 38,
-    "partName": "Khajang"
+    "partName": "Khajang",
+    "lat": 24.2682051,
+    "lon": 93.2832301
   },
   {
     "partId": 3375,
@@ -426,7 +502,9 @@
     "acNumber": 56,
     "acName": "Thanlon",
     "partNumber": 39,
-    "partName": "Phaitong"
+    "partName": "Phaitong",
+    "lat": 24.2682051,
+    "lon": 93.2832301
   },
   {
     "partId": 3376,
@@ -437,7 +515,9 @@
     "acNumber": 56,
     "acName": "Thanlon",
     "partNumber": 40,
-    "partName": "Sinjol"
+    "partName": "Sinjol",
+    "lat": 24.2682051,
+    "lon": 93.2832301
   },
   {
     "partId": 3377,
@@ -448,7 +528,9 @@
     "acNumber": 56,
     "acName": "Thanlon",
     "partNumber": 41,
-    "partName": "Khuanggin"
+    "partName": "Khuanggin",
+    "lat": 24.1263956,
+    "lon": 93.3261286
   },
   {
     "partId": 3302,
@@ -459,7 +541,9 @@
     "acNumber": 55,
     "acName": "Tipaimukh",
     "partNumber": 1,
-    "partName": "Chingmun"
+    "partName": "Chingmun",
+    "lat": 24.7019928,
+    "lon": 93.1725583
   },
   {
     "partId": 3303,
@@ -470,7 +554,9 @@
     "acNumber": 55,
     "acName": "Tipaimukh",
     "partNumber": 2,
-    "partName": "Doltang"
+    "partName": "Doltang",
+    "lat": 24.2360388,
+    "lon": 93.0251387
   },
   {
     "partId": 3304,
@@ -481,7 +567,9 @@
     "acNumber": 55,
     "acName": "Tipaimukh",
     "partNumber": 3,
-    "partName": "Hengchungpunji"
+    "partName": "Hengchungpunji",
+    "lat": 24.2360388,
+    "lon": 93.0251387
   },
   {
     "partId": 3305,
@@ -492,7 +580,9 @@
     "acNumber": 55,
     "acName": "Tipaimukh",
     "partNumber": 4,
-    "partName": "Suangphumun"
+    "partName": "Suangphumun",
+    "lat": 24.6498857,
+    "lon": 93.176039
   },
   {
     "partId": 3306,
@@ -503,7 +593,9 @@
     "acNumber": 55,
     "acName": "Tipaimukh",
     "partNumber": 5,
-    "partName": "Tuisen"
+    "partName": "Tuisen",
+    "lat": 24.2360388,
+    "lon": 93.0251387
   },
   {
     "partId": 3307,
@@ -514,7 +606,9 @@
     "acNumber": 55,
     "acName": "Tipaimukh",
     "partNumber": 6,
-    "partName": "Nungsekpunjee"
+    "partName": "Nungsekpunjee",
+    "lat": 24.2360388,
+    "lon": 93.0251387
   },
   {
     "partId": 3308,
@@ -525,7 +619,9 @@
     "acNumber": 55,
     "acName": "Tipaimukh",
     "partNumber": 7,
-    "partName": "Muolkhangthol"
+    "partName": "Muolkhangthol",
+    "lat": 24.2360388,
+    "lon": 93.0251387
   },
   {
     "partId": 3309,
@@ -536,7 +632,9 @@
     "acNumber": 55,
     "acName": "Tipaimukh",
     "partNumber": 8,
-    "partName": "Buangmun"
+    "partName": "Buangmun",
+    "lat": 24.61546,
+    "lon": 93.1221557
   },
   {
     "partId": 3310,
@@ -547,7 +645,9 @@
     "acNumber": 55,
     "acName": "Tipaimukh",
     "partNumber": 9,
-    "partName": "Phaibok Hmunte"
+    "partName": "Phaibok Hmunte",
+    "lat": 24.5660665,
+    "lon": 93.1078371
   },
   {
     "partId": 3311,
@@ -558,7 +658,9 @@
     "acNumber": 55,
     "acName": "Tipaimukh",
     "partNumber": 10,
-    "partName": "Sibapurikhal"
+    "partName": "Sibapurikhal",
+    "lat": 24.5691322,
+    "lon": 93.0820241
   },
   {
     "partId": 3312,
@@ -569,7 +671,9 @@
     "acNumber": 55,
     "acName": "Tipaimukh",
     "partNumber": 11,
-    "partName": "Savomphai"
+    "partName": "Savomphai",
+    "lat": 24.5772146,
+    "lon": 93.0939142
   },
   {
     "partId": 3313,
@@ -580,7 +684,9 @@
     "acNumber": 55,
     "acName": "Tipaimukh",
     "partNumber": 12,
-    "partName": "Khangbor"
+    "partName": "Khangbor",
+    "lat": 24.5573977,
+    "lon": 93.0738188
   },
   {
     "partId": 3314,
@@ -591,7 +697,9 @@
     "acNumber": 55,
     "acName": "Tipaimukh",
     "partNumber": 13,
-    "partName": "Upper Kharkhuplein"
+    "partName": "Upper Kharkhuplein",
+    "lat": 24.2360388,
+    "lon": 93.0251387
   },
   {
     "partId": 3315,
@@ -602,7 +710,9 @@
     "acNumber": 55,
     "acName": "Tipaimukh",
     "partNumber": 14,
-    "partName": "Kh. Jeikhan"
+    "partName": "Kh. Jeikhan",
+    "lat": 24.2360388,
+    "lon": 93.0251387
   },
   {
     "partId": 3316,
@@ -613,7 +723,9 @@
     "acNumber": 55,
     "acName": "Tipaimukh",
     "partNumber": 15,
-    "partName": "Tieulien"
+    "partName": "Tieulien",
+    "lat": 24.422836,
+    "lon": 93.042986
   },
   {
     "partId": 3317,
@@ -624,7 +736,9 @@
     "acNumber": 55,
     "acName": "Tipaimukh",
     "partNumber": 16,
-    "partName": "Thingkaldor"
+    "partName": "Thingkaldor",
+    "lat": 24.4409223,
+    "lon": 93.0403348
   },
   {
     "partId": 3318,
@@ -635,7 +749,9 @@
     "acNumber": 55,
     "acName": "Tipaimukh",
     "partNumber": 17,
-    "partName": "Thingpuikhuol"
+    "partName": "Thingpuikhuol",
+    "lat": 24.2360388,
+    "lon": 93.0251387
   },
   {
     "partId": 3319,
@@ -646,7 +762,9 @@
     "acNumber": 55,
     "acName": "Tipaimukh",
     "partNumber": 18,
-    "partName": "Kangrengdhor"
+    "partName": "Kangrengdhor",
+    "lat": 24.2360388,
+    "lon": 93.0251387
   },
   {
     "partId": 3320,
@@ -657,7 +775,9 @@
     "acNumber": 55,
     "acName": "Tipaimukh",
     "partNumber": 19,
-    "partName": "Kangreng"
+    "partName": "Kangreng",
+    "lat": 24.4552051,
+    "lon": 93.1042621
   },
   {
     "partId": 3321,
@@ -668,7 +788,9 @@
     "acNumber": 55,
     "acName": "Tipaimukh",
     "partNumber": 20,
-    "partName": "Hmar Maulien"
+    "partName": "Hmar Maulien",
+    "lat": 24.2360388,
+    "lon": 93.0251387
   },
   {
     "partId": 3322,
@@ -679,7 +801,9 @@
     "acNumber": 55,
     "acName": "Tipaimukh",
     "partNumber": 21,
-    "partName": "Tuobung"
+    "partName": "Tuobung",
+    "lat": 24.2360388,
+    "lon": 93.0251387
   },
   {
     "partId": 3323,
@@ -690,7 +814,9 @@
     "acNumber": 55,
     "acName": "Tipaimukh",
     "partNumber": 22,
-    "partName": "Ngampabung"
+    "partName": "Ngampabung",
+    "lat": 24.4162641,
+    "lon": 93.0949701
   },
   {
     "partId": 3324,
@@ -701,7 +827,9 @@
     "acNumber": 55,
     "acName": "Tipaimukh",
     "partNumber": 23,
-    "partName": "Thingkal"
+    "partName": "Thingkal",
+    "lat": 24.4382975,
+    "lon": 93.1071589
   },
   {
     "partId": 3325,
@@ -712,7 +840,9 @@
     "acNumber": 55,
     "acName": "Tipaimukh",
     "partNumber": 24,
-    "partName": "Phulpui"
+    "partName": "Phulpui",
+    "lat": 24.3845476,
+    "lon": 93.0848193
   },
   {
     "partId": 3326,
@@ -723,7 +853,9 @@
     "acNumber": 55,
     "acName": "Tipaimukh",
     "partNumber": 25,
-    "partName": "Patpuihmun"
+    "partName": "Patpuihmun",
+    "lat": 24.3534289,
+    "lon": 93.071299
   },
   {
     "partId": 3327,
@@ -734,7 +866,9 @@
     "acNumber": 55,
     "acName": "Tipaimukh",
     "partNumber": 26,
-    "partName": "Taithul"
+    "partName": "Taithul",
+    "lat": 24.2360388,
+    "lon": 93.0251387
   },
   {
     "partId": 3328,
@@ -745,7 +879,9 @@
     "acNumber": 55,
     "acName": "Tipaimukh",
     "partNumber": 27,
-    "partName": "Sartuinek"
+    "partName": "Sartuinek",
+    "lat": 24.2988368,
+    "lon": 93.0419008
   },
   {
     "partId": 3329,
@@ -756,7 +892,9 @@
     "acNumber": 55,
     "acName": "Tipaimukh",
     "partNumber": 28,
-    "partName": "Parbung (A)"
+    "partName": "Parbung (A)",
+    "lat": 24.2473367,
+    "lon": 93.1072858
   },
   {
     "partId": 3330,
@@ -767,7 +905,9 @@
     "acNumber": 55,
     "acName": "Tipaimukh",
     "partNumber": 29,
-    "partName": "Parbung (B)"
+    "partName": "Parbung (B)",
+    "lat": 24.2473367,
+    "lon": 93.1072858
   },
   {
     "partId": 3331,
@@ -778,7 +918,9 @@
     "acNumber": 55,
     "acName": "Tipaimukh",
     "partNumber": 30,
-    "partName": "Parbung (C)"
+    "partName": "Parbung (C)",
+    "lat": 24.2473367,
+    "lon": 93.1072858
   },
   {
     "partId": 3332,
@@ -789,7 +931,9 @@
     "acNumber": 55,
     "acName": "Tipaimukh",
     "partNumber": 31,
-    "partName": "Lungthulien(A)"
+    "partName": "Lungthulien(A)",
+    "lat": 24.2360388,
+    "lon": 93.0251387
   },
   {
     "partId": 3333,
@@ -800,7 +944,9 @@
     "acNumber": 55,
     "acName": "Tipaimukh",
     "partNumber": 32,
-    "partName": "Lungthulien(B)"
+    "partName": "Lungthulien(B)",
+    "lat": 24.2360388,
+    "lon": 93.0251387
   },
   {
     "partId": 3334,
@@ -811,7 +957,9 @@
     "acNumber": 55,
     "acName": "Tipaimukh",
     "partNumber": 33,
-    "partName": "Sipuikon"
+    "partName": "Sipuikon",
+    "lat": 24.2360388,
+    "lon": 93.0251387
   },
   {
     "partId": 3335,
@@ -822,7 +970,9 @@
     "acNumber": 55,
     "acName": "Tipaimukh",
     "partNumber": 34,
-    "partName": "Rovakot"
+    "partName": "Rovakot",
+    "lat": 24.1723871,
+    "lon": 93.0360318
   },
   {
     "partId": 3336,
@@ -833,7 +983,9 @@
     "acNumber": 55,
     "acName": "Tipaimukh",
     "partNumber": 35,
-    "partName": "Senvon (A)"
+    "partName": "Senvon (A)",
+    "lat": 24.1421391,
+    "lon": 93.0467246
   },
   {
     "partId": 3337,
@@ -844,7 +996,9 @@
     "acNumber": 55,
     "acName": "Tipaimukh",
     "partNumber": 36,
-    "partName": "Senvon (B)"
+    "partName": "Senvon (B)",
+    "lat": 24.1421391,
+    "lon": 93.0467246
   },
   {
     "partId": 3338,
@@ -855,6 +1009,8 @@
     "acNumber": 55,
     "acName": "Tipaimukh",
     "partNumber": 37,
-    "partName": "Parvachom"
+    "partName": "Parvachom",
+    "lat": 24.1054349,
+    "lon": 93.128616
   }
 ]

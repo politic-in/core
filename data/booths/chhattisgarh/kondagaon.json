@@ -8,7 +8,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 1,
-    "partName": "KOOPAGONDI"
+    "partName": "KOOPAGONDI",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43326,
@@ -19,7 +21,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 2,
-    "partName": "KHALEMURVEND"
+    "partName": "KHALEMURVEND",
+    "lat": 20.1512133,
+    "lon": 81.5301349
   },
   {
     "partId": 43469,
@@ -30,7 +34,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 3,
-    "partName": "MURNAR"
+    "partName": "MURNAR",
+    "lat": 20.134246,
+    "lon": 81.5408642
   },
   {
     "partId": 43577,
@@ -41,7 +47,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 4,
-    "partName": "KUKDADAH"
+    "partName": "KUKDADAH",
+    "lat": 20.1622795,
+    "lon": 81.4910741
   },
   {
     "partId": 43476,
@@ -52,7 +60,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 5,
-    "partName": "DHONDERAPAL"
+    "partName": "DHONDERAPAL",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43335,
@@ -63,7 +73,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 6,
-    "partName": "HONEHED"
+    "partName": "HONEHED",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43336,
@@ -74,7 +86,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 7,
-    "partName": "RAVBEDA"
+    "partName": "RAVBEDA",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43612,
@@ -85,7 +99,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 8,
-    "partName": "BEDMAMARI"
+    "partName": "BEDMAMARI",
+    "lat": 20.059207,
+    "lon": 81.4710302
   },
   {
     "partId": 43477,
@@ -96,7 +112,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 9,
-    "partName": "TUTARI"
+    "partName": "TUTARI",
+    "lat": 20.0403546,
+    "lon": 81.5349041
   },
   {
     "partId": 43324,
@@ -107,7 +125,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 10,
-    "partName": "KUE"
+    "partName": "KUE",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43478,
@@ -118,7 +138,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 11,
-    "partName": "BHANDARPAL"
+    "partName": "BHANDARPAL",
+    "lat": 20.0930124,
+    "lon": 81.4174831
   },
   {
     "partId": 43334,
@@ -129,7 +151,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 12,
-    "partName": "GARHDHANORA"
+    "partName": "GARHDHANORA",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43598,
@@ -140,7 +164,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 13,
-    "partName": "GADHSILIYARA"
+    "partName": "GADHSILIYARA",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43359,
@@ -151,7 +177,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 14,
-    "partName": "BATRALI"
+    "partName": "BATRALI",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43358,
@@ -162,7 +190,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 15,
-    "partName": "BORGAON - 1"
+    "partName": "BORGAON - 1",
+    "lat": 20.0313458,
+    "lon": 81.583307
   },
   {
     "partId": 43479,
@@ -173,7 +203,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 16,
-    "partName": "BORGAON - 2"
+    "partName": "BORGAON - 2",
+    "lat": 20.0313458,
+    "lon": 81.583307
   },
   {
     "partId": 43329,
@@ -184,7 +216,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 17,
-    "partName": "SURDONGAR - 1"
+    "partName": "SURDONGAR - 1",
+    "lat": 20.096536,
+    "lon": 81.5915182
   },
   {
     "partId": 43480,
@@ -195,7 +229,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 18,
-    "partName": "SURDONGAR - 2"
+    "partName": "SURDONGAR - 2",
+    "lat": 20.096536,
+    "lon": 81.5915182
   },
   {
     "partId": 43330,
@@ -206,7 +242,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 19,
-    "partName": "SURDONGAR - 3"
+    "partName": "SURDONGAR - 3",
+    "lat": 20.096536,
+    "lon": 81.5915182
   },
   {
     "partId": 43327,
@@ -217,7 +255,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 20,
-    "partName": "SALEBHAT"
+    "partName": "SALEBHAT",
+    "lat": 19.9917328,
+    "lon": 81.6619176
   },
   {
     "partId": 43599,
@@ -228,7 +268,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 21,
-    "partName": "HARVEL"
+    "partName": "HARVEL",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43328,
@@ -239,7 +281,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 22,
-    "partName": "CHIPREL"
+    "partName": "CHIPREL",
+    "lat": 20.1491449,
+    "lon": 81.5842138
   },
   {
     "partId": 43331,
@@ -250,7 +294,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 23,
-    "partName": "GAURGAON"
+    "partName": "GAURGAON",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43593,
@@ -261,7 +307,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 24,
-    "partName": "CHIKHALADIH"
+    "partName": "CHIKHALADIH",
+    "lat": 19.9285667,
+    "lon": 81.6551509
   },
   {
     "partId": 43332,
@@ -272,7 +320,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 25,
-    "partName": "KESHKAL - 1"
+    "partName": "KESHKAL - 1",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43481,
@@ -283,7 +333,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 26,
-    "partName": "KESHKAL - 2"
+    "partName": "KESHKAL - 2",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43333,
@@ -294,7 +346,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 27,
-    "partName": "KESHKAL - 3"
+    "partName": "KESHKAL - 3",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43482,
@@ -305,7 +359,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 28,
-    "partName": "KESHKAL - 4"
+    "partName": "KESHKAL - 4",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43357,
@@ -316,7 +372,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 29,
-    "partName": "JAMGAON"
+    "partName": "JAMGAON",
+    "lat": 20.0701347,
+    "lon": 81.6054871
   },
   {
     "partId": 43356,
@@ -327,7 +385,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 30,
-    "partName": "NIRACHHINDLI"
+    "partName": "NIRACHHINDLI",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43613,
@@ -338,7 +398,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 31,
-    "partName": "KACHHARPARA (NIRACHHINDLI)"
+    "partName": "KACHHARPARA (NIRACHHINDLI)",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43483,
@@ -349,7 +411,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 32,
-    "partName": "NARNA"
+    "partName": "NARNA",
+    "lat": 20.0222831,
+    "lon": 81.601601
   },
   {
     "partId": 43361,
@@ -360,7 +424,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 33,
-    "partName": "KODOBHAT"
+    "partName": "KODOBHAT",
+    "lat": 20.0720625,
+    "lon": 81.6215471
   },
   {
     "partId": 43484,
@@ -371,7 +437,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 34,
-    "partName": "MANJHICHERRA"
+    "partName": "MANJHICHERRA",
+    "lat": 20.0549775,
+    "lon": 81.6610749
   },
   {
     "partId": 43360,
@@ -382,7 +450,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 35,
-    "partName": "KOHKAMETA"
+    "partName": "KOHKAMETA",
+    "lat": 20.0744457,
+    "lon": 81.6371513
   },
   {
     "partId": 43485,
@@ -393,7 +463,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 36,
-    "partName": "SIDAWAND"
+    "partName": "SIDAWAND",
+    "lat": 20.066743,
+    "lon": 81.6723791
   },
   {
     "partId": 43362,
@@ -404,7 +476,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 37,
-    "partName": "KORGAON - 1"
+    "partName": "KORGAON - 1",
+    "lat": 20.0534531,
+    "lon": 81.6995155
   },
   {
     "partId": 43578,
@@ -415,7 +489,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 38,
-    "partName": "KORGAON - 2"
+    "partName": "KORGAON - 2",
+    "lat": 20.0534531,
+    "lon": 81.6995155
   },
   {
     "partId": 43363,
@@ -426,7 +502,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 39,
-    "partName": "KORGAON - 3"
+    "partName": "KORGAON - 3",
+    "lat": 20.0534531,
+    "lon": 81.6995155
   },
   {
     "partId": 43364,
@@ -437,7 +515,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 40,
-    "partName": "KORHOBEDA"
+    "partName": "KORHOBEDA",
+    "lat": 20.064231,
+    "lon": 81.7207044
   },
   {
     "partId": 43486,
@@ -448,7 +528,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 41,
-    "partName": "KONGERA"
+    "partName": "KONGERA",
+    "lat": 20.053463,
+    "lon": 81.7298644
   },
   {
     "partId": 43487,
@@ -459,7 +541,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 42,
-    "partName": "NALAJHAR"
+    "partName": "NALAJHAR",
+    "lat": 20.13408,
+    "lon": 81.6475779
   },
   {
     "partId": 43365,
@@ -470,7 +554,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 43,
-    "partName": "VISHRAMPURI(A) - 1"
+    "partName": "VISHRAMPURI(A) - 1",
+    "lat": 20.0855052,
+    "lon": 81.7698839
   },
   {
     "partId": 43488,
@@ -481,7 +567,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 44,
-    "partName": "BIRAPARA-1"
+    "partName": "BIRAPARA-1",
+    "lat": 20.0679758,
+    "lon": 81.7636063
   },
   {
     "partId": 43366,
@@ -492,7 +580,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 45,
-    "partName": "VISHRAMPURI(A) - 2"
+    "partName": "VISHRAMPURI(A) - 2",
+    "lat": 20.0855052,
+    "lon": 81.7698839
   },
   {
     "partId": 43615,
@@ -503,7 +593,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 46,
-    "partName": "HALBAPARA"
+    "partName": "HALBAPARA",
+    "lat": 19.9354595,
+    "lon": 81.6925859
   },
   {
     "partId": 43489,
@@ -514,7 +606,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 47,
-    "partName": "JIRRAPARA"
+    "partName": "JIRRAPARA",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43367,
@@ -525,7 +619,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 48,
-    "partName": "KHARGAON"
+    "partName": "KHARGAON",
+    "lat": 20.0985816,
+    "lon": 81.7439685
   },
   {
     "partId": 43490,
@@ -536,7 +632,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 49,
-    "partName": "AAMAGUHAN"
+    "partName": "AAMAGUHAN",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43491,
@@ -547,7 +645,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 50,
-    "partName": "BAIJANPURI"
+    "partName": "BAIJANPURI",
+    "lat": 20.1069537,
+    "lon": 81.6949191
   },
   {
     "partId": 43368,
@@ -558,7 +658,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 51,
-    "partName": "FARSADIHI"
+    "partName": "FARSADIHI",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43492,
@@ -569,7 +671,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 52,
-    "partName": "BIRAPARA-2"
+    "partName": "BIRAPARA-2",
+    "lat": 20.0679758,
+    "lon": 81.7636063
   },
   {
     "partId": 43369,
@@ -580,7 +684,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 53,
-    "partName": "VISHRAMPURI(B)"
+    "partName": "VISHRAMPURI(B)",
+    "lat": 20.0855052,
+    "lon": 81.7698839
   },
   {
     "partId": 43370,
@@ -591,7 +697,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 54,
-    "partName": "VISHRAMPURI(A) - 3"
+    "partName": "VISHRAMPURI(A) - 3",
+    "lat": 20.0855052,
+    "lon": 81.7698839
   },
   {
     "partId": 43493,
@@ -602,7 +710,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 55,
-    "partName": "VISHRAMPURI(A) - 4"
+    "partName": "VISHRAMPURI(A) - 4",
+    "lat": 20.0855052,
+    "lon": 81.7698839
   },
   {
     "partId": 43371,
@@ -613,7 +723,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 56,
-    "partName": "KHALARI - 1"
+    "partName": "KHALARI - 1",
+    "lat": 20.117352,
+    "lon": 81.7728708
   },
   {
     "partId": 43579,
@@ -624,7 +736,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 57,
-    "partName": "KHALARI - 2"
+    "partName": "KHALARI - 2",
+    "lat": 20.117352,
+    "lon": 81.7728708
   },
   {
     "partId": 43372,
@@ -635,7 +749,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 58,
-    "partName": "KOSMI"
+    "partName": "KOSMI",
+    "lat": 20.1249627,
+    "lon": 81.7937426
   },
   {
     "partId": 43580,
@@ -646,7 +762,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 59,
-    "partName": "GOVINDPUR"
+    "partName": "GOVINDPUR",
+    "lat": 20.1400024,
+    "lon": 81.8094862
   },
   {
     "partId": 43373,
@@ -657,7 +775,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 60,
-    "partName": "SARGIPAL"
+    "partName": "SARGIPAL",
+    "lat": 20.112843,
+    "lon": 81.7890752
   },
   {
     "partId": 43494,
@@ -668,7 +788,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 61,
-    "partName": "BASTAR BUDRA"
+    "partName": "BASTAR BUDRA",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43374,
@@ -679,7 +801,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 62,
-    "partName": "HATMA"
+    "partName": "HATMA",
+    "lat": 20.0978129,
+    "lon": 81.8170979
   },
   {
     "partId": 43495,
@@ -690,7 +814,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 63,
-    "partName": "PITECHUA"
+    "partName": "PITECHUA",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43376,
@@ -701,7 +827,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 64,
-    "partName": "CHHOTE MALGAON"
+    "partName": "CHHOTE MALGAON",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43614,
@@ -712,7 +840,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 65,
-    "partName": "MANIKPUR"
+    "partName": "MANIKPUR",
+    "lat": 20.018577722545455,
+    "lon": 81.60517916072727
   },
   {
     "partId": 43375,
@@ -723,7 +853,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 66,
-    "partName": "KONDKERA - 1"
+    "partName": "KONDKERA - 1",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43584,
@@ -734,7 +866,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 67,
-    "partName": "KONDKERA - 2"
+    "partName": "KONDKERA - 2",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43377,
@@ -745,7 +879,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 68,
-    "partName": "PENDRAVAN"
+    "partName": "PENDRAVAN",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43496,
@@ -756,7 +892,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 69,
-    "partName": "MACHLI"
+    "partName": "MACHLI",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43380,
@@ -767,7 +905,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 70,
-    "partName": "HONAWANDI"
+    "partName": "HONAWANDI",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43497,
@@ -778,7 +918,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 71,
-    "partName": "MAINPUR"
+    "partName": "MAINPUR",
+    "lat": 19.7359776,
+    "lon": 81.3849825
   },
   {
     "partId": 43383,
@@ -789,7 +931,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 72,
-    "partName": "SALNA - 1"
+    "partName": "SALNA - 1",
+    "lat": 20.0551302,
+    "lon": 81.8533472
   },
   {
     "partId": 43498,
@@ -800,7 +944,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 73,
-    "partName": "SALNA - 2"
+    "partName": "SALNA - 2",
+    "lat": 20.0551302,
+    "lon": 81.8533472
   },
   {
     "partId": 43381,
@@ -811,7 +957,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 74,
-    "partName": "UDIDGAON"
+    "partName": "UDIDGAON",
+    "lat": 20.0431812,
+    "lon": 81.8331803
   },
   {
     "partId": 43382,
@@ -822,7 +970,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 75,
-    "partName": "PALNA"
+    "partName": "PALNA",
+    "lat": 20.0332229,
+    "lon": 81.8539535
   },
   {
     "partId": 43499,
@@ -833,7 +983,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 76,
-    "partName": "CHICHADI"
+    "partName": "CHICHADI",
+    "lat": 19.8905807,
+    "lon": 81.640812
   },
   {
     "partId": 43379,
@@ -844,7 +996,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 77,
-    "partName": "PAROND"
+    "partName": "PAROND",
+    "lat": 20.0307489,
+    "lon": 81.7919862
   },
   {
     "partId": 43378,
@@ -855,7 +1009,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 78,
-    "partName": "BADAGAON"
+    "partName": "BADAGAON",
+    "lat": 19.9409024,
+    "lon": 81.3839171
   },
   {
     "partId": 43500,
@@ -866,7 +1022,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 79,
-    "partName": "KURUBHAT"
+    "partName": "KURUBHAT",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43386,
@@ -877,7 +1035,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 80,
-    "partName": "KHAJRAVAND"
+    "partName": "KHAJRAVAND",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43501,
@@ -888,7 +1048,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 81,
-    "partName": "SONPUR"
+    "partName": "SONPUR",
+    "lat": 20.037245,
+    "lon": 81.7539523
   },
   {
     "partId": 43390,
@@ -899,7 +1061,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 82,
-    "partName": "KALGAON"
+    "partName": "KALGAON",
+    "lat": 20.0217015,
+    "lon": 81.7235063
   },
   {
     "partId": 43389,
@@ -910,7 +1074,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 83,
-    "partName": "TENVSA - 1"
+    "partName": "TENVSA - 1",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43600,
@@ -921,7 +1087,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 84,
-    "partName": "TENVSA - 2"
+    "partName": "TENVSA - 2",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43391,
@@ -932,7 +1100,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 85,
-    "partName": "JARANDI"
+    "partName": "JARANDI",
+    "lat": 20.0358599,
+    "lon": 81.6798006
   },
   {
     "partId": 43393,
@@ -943,7 +1113,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 86,
-    "partName": "ADENGA"
+    "partName": "ADENGA",
+    "lat": 20.0440235,
+    "lon": 81.6341098
   },
   {
     "partId": 43394,
@@ -954,7 +1126,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 87,
-    "partName": "PRADHANCHERRA"
+    "partName": "PRADHANCHERRA",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43502,
@@ -965,7 +1139,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 88,
-    "partName": "ETEKONADI"
+    "partName": "ETEKONADI",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43396,
@@ -976,7 +1152,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 89,
-    "partName": "DOHLAPARA"
+    "partName": "DOHLAPARA",
+    "lat": 20.0242336,
+    "lon": 81.6477007
   },
   {
     "partId": 43569,
@@ -987,7 +1165,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 90,
-    "partName": "BANDAPARA"
+    "partName": "BANDAPARA",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43503,
@@ -998,7 +1178,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 91,
-    "partName": "BAYALPUR"
+    "partName": "BAYALPUR",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43353,
@@ -1009,7 +1191,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 92,
-    "partName": "BANDHAPARA"
+    "partName": "BANDHAPARA",
+    "lat": 19.9977216,
+    "lon": 81.7068052
   },
   {
     "partId": 43354,
@@ -1020,7 +1204,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 93,
-    "partName": "SINGANPUR"
+    "partName": "SINGANPUR",
+    "lat": 20.0191779,
+    "lon": 81.5879409
   },
   {
     "partId": 43355,
@@ -1031,7 +1217,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 94,
-    "partName": "GARKA"
+    "partName": "GARKA",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43504,
@@ -1042,7 +1230,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 95,
-    "partName": "TATIRAS"
+    "partName": "TATIRAS",
+    "lat": 20.018577722545455,
+    "lon": 81.60517916072727
   },
   {
     "partId": 43608,
@@ -1053,7 +1243,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 96,
-    "partName": "GULBAPARA"
+    "partName": "GULBAPARA",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43352,
@@ -1064,7 +1256,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 97,
-    "partName": "AANVRI  - 1"
+    "partName": "AANVRI  - 1",
+    "lat": 20.018577722545455,
+    "lon": 81.60517916072727
   },
   {
     "partId": 43594,
@@ -1075,7 +1269,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 98,
-    "partName": "AANVRI - 2"
+    "partName": "AANVRI - 2",
+    "lat": 20.018577722545455,
+    "lon": 81.60517916072727
   },
   {
     "partId": 43349,
@@ -1086,7 +1282,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 99,
-    "partName": "KORKOTI"
+    "partName": "KORKOTI",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43505,
@@ -1097,7 +1295,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 100,
-    "partName": "BADWAR"
+    "partName": "BADWAR",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43347,
@@ -1108,7 +1308,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 101,
-    "partName": "DHANORA - 1"
+    "partName": "DHANORA - 1",
+    "lat": 19.9883937,
+    "lon": 81.4623944
   },
   {
     "partId": 43585,
@@ -1119,7 +1321,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 102,
-    "partName": "DHANORA - 2"
+    "partName": "DHANORA - 2",
+    "lat": 19.9883937,
+    "lon": 81.4623944
   },
   {
     "partId": 43348,
@@ -1130,7 +1334,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 103,
-    "partName": "DHANORA - 3"
+    "partName": "DHANORA - 3",
+    "lat": 19.9883937,
+    "lon": 81.4623944
   },
   {
     "partId": 43470,
@@ -1141,7 +1347,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 104,
-    "partName": "BADEKHAULI"
+    "partName": "BADEKHAULI",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43506,
@@ -1152,7 +1360,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 105,
-    "partName": "TIMADI"
+    "partName": "TIMADI",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43507,
@@ -1163,7 +1373,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 106,
-    "partName": "KARMARI"
+    "partName": "KARMARI",
+    "lat": 20.0059224,
+    "lon": 81.4328833
   },
   {
     "partId": 43337,
@@ -1174,7 +1386,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 107,
-    "partName": "TODASI - 1"
+    "partName": "TODASI - 1",
+    "lat": 20.0196109,
+    "lon": 81.3778494
   },
   {
     "partId": 43601,
@@ -1185,7 +1399,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 108,
-    "partName": "TODASI - 2"
+    "partName": "TODASI - 2",
+    "lat": 20.0196109,
+    "lon": 81.3778494
   },
   {
     "partId": 43508,
@@ -1196,7 +1412,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 109,
-    "partName": "PADDE"
+    "partName": "PADDE",
+    "lat": 20.0319146,
+    "lon": 81.395551
   },
   {
     "partId": 43338,
@@ -1207,7 +1425,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 110,
-    "partName": "IRAGAON"
+    "partName": "IRAGAON",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43339,
@@ -1218,7 +1438,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 111,
-    "partName": "KAVAGAON"
+    "partName": "KAVAGAON",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43340,
@@ -1229,7 +1451,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 112,
-    "partName": "BUIKI JUGANAR"
+    "partName": "BUIKI JUGANAR",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43509,
@@ -1240,7 +1464,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 113,
-    "partName": "DUNDABEDMA"
+    "partName": "DUNDABEDMA",
+    "lat": 19.9949102,
+    "lon": 81.3429292
   },
   {
     "partId": 43342,
@@ -1251,7 +1477,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 114,
-    "partName": "BINJHE"
+    "partName": "BINJHE",
+    "lat": 19.9702211,
+    "lon": 81.3824774
   },
   {
     "partId": 43341,
@@ -1262,7 +1490,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 115,
-    "partName": "KANAGAON"
+    "partName": "KANAGAON",
+    "lat": 20.018577722545455,
+    "lon": 81.60517916072727
   },
   {
     "partId": 43343,
@@ -1273,7 +1503,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 116,
-    "partName": "HATCHAPAI"
+    "partName": "HATCHAPAI",
+    "lat": 19.9059186,
+    "lon": 81.3935585
   },
   {
     "partId": 43510,
@@ -1284,7 +1516,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 117,
-    "partName": "TURKI"
+    "partName": "TURKI",
+    "lat": 19.926404,
+    "lon": 81.3845299
   },
   {
     "partId": 43602,
@@ -1295,7 +1529,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 118,
-    "partName": "KONDAPAKHNA"
+    "partName": "KONDAPAKHNA",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43511,
@@ -1306,7 +1542,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 119,
-    "partName": "BADEODAGAON"
+    "partName": "BADEODAGAON",
+    "lat": 19.9409938,
+    "lon": 81.4087904
   },
   {
     "partId": 43512,
@@ -1317,7 +1555,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 120,
-    "partName": "BADAGAON"
+    "partName": "BADAGAON",
+    "lat": 19.9409024,
+    "lon": 81.3839171
   },
   {
     "partId": 43405,
@@ -1328,7 +1568,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 121,
-    "partName": "BARDA"
+    "partName": "BARDA",
+    "lat": 20.018577722545455,
+    "lon": 81.60517916072727
   },
   {
     "partId": 43404,
@@ -1339,7 +1581,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 122,
-    "partName": "KONGUD - 1"
+    "partName": "KONGUD - 1",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43513,
@@ -1350,7 +1594,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 123,
-    "partName": "KONGUD - 2"
+    "partName": "KONGUD - 2",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43345,
@@ -1361,7 +1607,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 124,
-    "partName": "CHANIYAGAON"
+    "partName": "CHANIYAGAON",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43514,
@@ -1372,7 +1620,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 125,
-    "partName": "BOKRABEDA"
+    "partName": "BOKRABEDA",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43603,
@@ -1383,7 +1633,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 126,
-    "partName": "GAWADI"
+    "partName": "GAWADI",
+    "lat": 19.9262423,
+    "lon": 81.4685976
   },
   {
     "partId": 43344,
@@ -1394,7 +1646,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 127,
-    "partName": "FUNDER"
+    "partName": "FUNDER",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43515,
@@ -1405,7 +1659,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 128,
-    "partName": "BELGAON"
+    "partName": "BELGAON",
+    "lat": 19.9963762,
+    "lon": 81.4429166
   },
   {
     "partId": 43346,
@@ -1416,7 +1672,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 129,
-    "partName": "KARARMETA"
+    "partName": "KARARMETA",
+    "lat": 19.9598541,
+    "lon": 81.4628745
   },
   {
     "partId": 43350,
@@ -1427,7 +1685,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 130,
-    "partName": "BANIYAGAON"
+    "partName": "BANIYAGAON",
+    "lat": 19.979247,
+    "lon": 81.4917296
   },
   {
     "partId": 43516,
@@ -1438,7 +1698,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 131,
-    "partName": "SAWALA"
+    "partName": "SAWALA",
+    "lat": 20.018577722545455,
+    "lon": 81.60517916072727
   },
   {
     "partId": 43351,
@@ -1449,7 +1711,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 132,
-    "partName": "SILATI"
+    "partName": "SILATI",
+    "lat": 19.96197,
+    "lon": 81.5083981
   },
   {
     "partId": 43517,
@@ -1460,7 +1724,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 133,
-    "partName": "BHATGAON"
+    "partName": "BHATGAON",
+    "lat": 19.9659705,
+    "lon": 81.4719904
   },
   {
     "partId": 43402,
@@ -1471,7 +1737,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 134,
-    "partName": "DEVGAON"
+    "partName": "DEVGAON",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43518,
@@ -1482,7 +1750,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 135,
-    "partName": "JAMGAON"
+    "partName": "JAMGAON",
+    "lat": 20.0701347,
+    "lon": 81.6054871
   },
   {
     "partId": 43407,
@@ -1493,7 +1763,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 136,
-    "partName": "NAVAGARH"
+    "partName": "NAVAGARH",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43519,
@@ -1504,7 +1776,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 137,
-    "partName": "NAYANAR"
+    "partName": "NAYANAR",
+    "lat": 19.913484,
+    "lon": 81.5703578
   },
   {
     "partId": 43408,
@@ -1515,7 +1789,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 138,
-    "partName": "KHETARPAL"
+    "partName": "KHETARPAL",
+    "lat": 19.9533138,
+    "lon": 81.5477254
   },
   {
     "partId": 43570,
@@ -1526,7 +1802,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 139,
-    "partName": "HARWAKODO"
+    "partName": "HARWAKODO",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43399,
@@ -1537,7 +1815,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 140,
-    "partName": "DUMARPADAR"
+    "partName": "DUMARPADAR",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43571,
@@ -1548,7 +1828,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 141,
-    "partName": "BAKANBHATA"
+    "partName": "BAKANBHATA",
+    "lat": 19.9869015,
+    "lon": 81.5588327
   },
   {
     "partId": 43400,
@@ -1559,7 +1841,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 142,
-    "partName": "ARANDI"
+    "partName": "ARANDI",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43398,
@@ -1570,7 +1854,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 143,
-    "partName": "BEDMA"
+    "partName": "BEDMA",
+    "lat": 19.983488,
+    "lon": 81.6097136
   },
   {
     "partId": 43572,
@@ -1581,7 +1867,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 144,
-    "partName": "AADANBEDA"
+    "partName": "AADANBEDA",
+    "lat": 20.018577722545455,
+    "lon": 81.60517916072727
   },
   {
     "partId": 43395,
@@ -1592,7 +1880,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 145,
-    "partName": "TOSKAPAL - 1"
+    "partName": "TOSKAPAL - 1",
+    "lat": 19.9960916,
+    "lon": 81.6406084
   },
   {
     "partId": 43604,
@@ -1603,7 +1893,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 146,
-    "partName": "TOSKAPAL - 2 TARAIBEDAPARA"
+    "partName": "TOSKAPAL - 2 TARAIBEDAPARA",
+    "lat": 20.018577722545455,
+    "lon": 81.60517916072727
   },
   {
     "partId": 43392,
@@ -1614,7 +1906,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 147,
-    "partName": "GARAVANDI - 1"
+    "partName": "GARAVANDI - 1",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43616,
@@ -1625,7 +1919,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 148,
-    "partName": "GARAVANDI - 2"
+    "partName": "GARAVANDI - 2",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43520,
@@ -1636,7 +1932,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 149,
-    "partName": "HALIYA"
+    "partName": "HALIYA",
+    "lat": 20.018577722545455,
+    "lon": 81.60517916072727
   },
   {
     "partId": 43397,
@@ -1647,7 +1945,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 150,
-    "partName": "SIKAGAON"
+    "partName": "SIKAGAON",
+    "lat": 19.9781748,
+    "lon": 81.6539337
   },
   {
     "partId": 43521,
@@ -1658,7 +1958,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 151,
-    "partName": "SALEBHAT"
+    "partName": "SALEBHAT",
+    "lat": 19.9917328,
+    "lon": 81.6619176
   },
   {
     "partId": 43416,
@@ -1669,7 +1971,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 152,
-    "partName": "CHHOTERAJPUR - 1"
+    "partName": "CHHOTERAJPUR - 1",
+    "lat": 19.9491302,
+    "lon": 81.7012456
   },
   {
     "partId": 43586,
@@ -1680,7 +1984,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 153,
-    "partName": "CHHOTERAJPUR - 2"
+    "partName": "CHHOTERAJPUR - 2",
+    "lat": 19.9491302,
+    "lon": 81.7012456
   },
   {
     "partId": 43522,
@@ -1691,7 +1997,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 154,
-    "partName": "PADOKI"
+    "partName": "PADOKI",
+    "lat": 20.018577722545455,
+    "lon": 81.60517916072727
   },
   {
     "partId": 43387,
@@ -1702,7 +2010,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 155,
-    "partName": "BADERAJPUR - 1"
+    "partName": "BADERAJPUR - 1",
+    "lat": 19.961712,
+    "lon": 81.7251277
   },
   {
     "partId": 43523,
@@ -1713,7 +2023,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 156,
-    "partName": "BADERAJPUR - 2"
+    "partName": "BADERAJPUR - 2",
+    "lat": 19.961712,
+    "lon": 81.7251277
   },
   {
     "partId": 43587,
@@ -1724,7 +2036,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 157,
-    "partName": "BADERAJPUR  - 3"
+    "partName": "BADERAJPUR  - 3",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43388,
@@ -1735,7 +2049,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 158,
-    "partName": "BADERAJPUR - 4"
+    "partName": "BADERAJPUR - 4",
+    "lat": 19.961712,
+    "lon": 81.7251277
   },
   {
     "partId": 43417,
@@ -1746,7 +2062,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 159,
-    "partName": "AMGAON"
+    "partName": "AMGAON",
+    "lat": 19.832274,
+    "lon": 81.4581466
   },
   {
     "partId": 43385,
@@ -1757,7 +2075,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 160,
-    "partName": "LIHAGAON - 1"
+    "partName": "LIHAGAON - 1",
+    "lat": 20.0139146,
+    "lon": 81.802858
   },
   {
     "partId": 43524,
@@ -1768,7 +2088,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 161,
-    "partName": "LIHAGAON - 2"
+    "partName": "LIHAGAON - 2",
+    "lat": 20.0139146,
+    "lon": 81.802858
   },
   {
     "partId": 43384,
@@ -1779,7 +2101,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 162,
-    "partName": "MARANGPURI - 1"
+    "partName": "MARANGPURI - 1",
+    "lat": 20.011705,
+    "lon": 81.8577672
   },
   {
     "partId": 43525,
@@ -1790,7 +2114,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 163,
-    "partName": "MARANGPURI - 2"
+    "partName": "MARANGPURI - 2",
+    "lat": 20.011705,
+    "lon": 81.8577672
   },
   {
     "partId": 43420,
@@ -1801,7 +2127,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 164,
-    "partName": "BANSKOT - 1"
+    "partName": "BANSKOT - 1",
+    "lat": 20.018577722545455,
+    "lon": 81.60517916072727
   },
   {
     "partId": 43421,
@@ -1812,7 +2140,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 165,
-    "partName": "BANSKOT - 2"
+    "partName": "BANSKOT - 2",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43422,
@@ -1823,7 +2153,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 166,
-    "partName": "BANSKOT - 3"
+    "partName": "BANSKOT - 3",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43423,
@@ -1834,7 +2166,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 167,
-    "partName": "TITIRVAND - 1"
+    "partName": "TITIRVAND - 1",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43526,
@@ -1845,7 +2179,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 168,
-    "partName": "TITIRVAND - 2"
+    "partName": "TITIRVAND - 2",
+    "lat": 20.018577722545455,
+    "lon": 81.60517916072727
   },
   {
     "partId": 43527,
@@ -1856,7 +2192,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 169,
-    "partName": "HALDA"
+    "partName": "HALDA",
+    "lat": 19.9366716,
+    "lon": 81.8520846
   },
   {
     "partId": 43453,
@@ -1867,7 +2205,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 170,
-    "partName": "KULDADIHI"
+    "partName": "KULDADIHI",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43424,
@@ -1878,7 +2218,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 171,
-    "partName": "GAMHRI - 1"
+    "partName": "GAMHRI - 1",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43425,
@@ -1889,7 +2231,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 172,
-    "partName": "KARAMRI"
+    "partName": "KARAMRI",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43528,
@@ -1900,7 +2244,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 173,
-    "partName": "JODEKERA"
+    "partName": "JODEKERA",
+    "lat": 19.8940416,
+    "lon": 81.7976026
   },
   {
     "partId": 43529,
@@ -1911,7 +2257,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 174,
-    "partName": "GAMHARI - 2"
+    "partName": "GAMHARI - 2",
+    "lat": 19.8925197,
+    "lon": 81.8559174
   },
   {
     "partId": 43452,
@@ -1922,7 +2270,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 175,
-    "partName": "BADBATTAR - 1"
+    "partName": "BADBATTAR - 1",
+    "lat": 19.9002573,
+    "lon": 81.792973
   },
   {
     "partId": 43530,
@@ -1933,7 +2283,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 176,
-    "partName": "BADBATTAR - 2"
+    "partName": "BADBATTAR - 2",
+    "lat": 19.9002573,
+    "lon": 81.792973
   },
   {
     "partId": 43531,
@@ -1944,7 +2296,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 177,
-    "partName": "PIDHAPAL"
+    "partName": "PIDHAPAL",
+    "lat": 19.9173532,
+    "lon": 81.790825
   },
   {
     "partId": 43322,
@@ -1955,7 +2309,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 178,
-    "partName": "DHODHRA"
+    "partName": "DHODHRA",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43426,
@@ -1966,7 +2322,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 179,
-    "partName": "HARBEL/TARAIBEDA - 1"
+    "partName": "HARBEL/TARAIBEDA - 1",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43532,
@@ -1977,7 +2335,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 180,
-    "partName": "HARBEL/TARAIBEDA - 2"
+    "partName": "HARBEL/TARAIBEDA - 2",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43573,
@@ -1988,7 +2348,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 181,
-    "partName": "KIWADA"
+    "partName": "KIWADA",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43418,
@@ -1999,7 +2361,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 182,
-    "partName": "BALENGA - 1"
+    "partName": "BALENGA - 1",
+    "lat": 19.985023,
+    "lon": 81.795647
   },
   {
     "partId": 43419,
@@ -2010,7 +2374,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 183,
-    "partName": "BALENGA - 2"
+    "partName": "BALENGA - 2",
+    "lat": 19.985023,
+    "lon": 81.795647
   },
   {
     "partId": 43427,
@@ -2021,7 +2387,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 184,
-    "partName": "CHHINDLI - 1"
+    "partName": "CHHINDLI - 1",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43533,
@@ -2032,7 +2400,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 185,
-    "partName": "CHHINDLI - 2"
+    "partName": "CHHINDLI - 2",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43428,
@@ -2043,7 +2413,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 186,
-    "partName": "DHAMANPURI"
+    "partName": "DHAMANPURI",
+    "lat": 19.9686696,
+    "lon": 81.7588942
   },
   {
     "partId": 43429,
@@ -2054,7 +2426,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 187,
-    "partName": "KOPRA - 1"
+    "partName": "KOPRA - 1",
+    "lat": 20.018577722545455,
+    "lon": 81.60517916072727
   },
   {
     "partId": 43534,
@@ -2065,7 +2439,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 188,
-    "partName": "KOPRA - 2"
+    "partName": "KOPRA - 2",
+    "lat": 19.9211893,
+    "lon": 81.7174865
   },
   {
     "partId": 43430,
@@ -2076,7 +2452,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 189,
-    "partName": "MADOKI KHARGAON - 1"
+    "partName": "MADOKI KHARGAON - 1",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43535,
@@ -2087,7 +2465,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 190,
-    "partName": "MADOKI KHARGAON - 2"
+    "partName": "MADOKI KHARGAON - 2",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43536,
@@ -2098,7 +2478,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 191,
-    "partName": "NAUKABEDA"
+    "partName": "NAUKABEDA",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43409,
@@ -2109,7 +2491,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 192,
-    "partName": "BAHIGAON - 1"
+    "partName": "BAHIGAON - 1",
+    "lat": 19.9556523,
+    "lon": 81.6091474
   },
   {
     "partId": 43575,
@@ -2120,7 +2504,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 193,
-    "partName": "BAHIGAON - 2"
+    "partName": "BAHIGAON - 2",
+    "lat": 19.9556523,
+    "lon": 81.6091474
   },
   {
     "partId": 43411,
@@ -2131,7 +2517,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 194,
-    "partName": "PIPRA CHERBEDA"
+    "partName": "PIPRA CHERBEDA",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43412,
@@ -2142,7 +2530,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 195,
-    "partName": "BADETHEMLI"
+    "partName": "BADETHEMLI",
+    "lat": 19.9037986,
+    "lon": 81.5951252
   },
   {
     "partId": 43537,
@@ -2153,7 +2543,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 196,
-    "partName": "PIPRA RAVBEDA"
+    "partName": "PIPRA RAVBEDA",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43413,
@@ -2164,7 +2556,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 197,
-    "partName": "KHUTPADAR"
+    "partName": "KHUTPADAR",
+    "lat": 19.9577075,
+    "lon": 81.668622
   },
   {
     "partId": 43538,
@@ -2175,7 +2569,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 198,
-    "partName": "PIPRA AMODA"
+    "partName": "PIPRA AMODA",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43414,
@@ -2186,7 +2582,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 199,
-    "partName": "AAWRABHATA"
+    "partName": "AAWRABHATA",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43539,
@@ -2197,7 +2595,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 200,
-    "partName": "PIPRA DHODGAPARA"
+    "partName": "PIPRA DHODGAPARA",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43415,
@@ -2208,7 +2608,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 201,
-    "partName": "PIPRA KHASPARA"
+    "partName": "PIPRA KHASPARA",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43574,
@@ -2219,7 +2621,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 202,
-    "partName": "PIPRA PAWARAS"
+    "partName": "PIPRA PAWARAS",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43609,
@@ -2230,7 +2634,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 203,
-    "partName": "PIPRA CHHOTETHEMLI"
+    "partName": "PIPRA CHHOTETHEMLI",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43610,
@@ -2241,7 +2647,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 204,
-    "partName": "PIPRA TARAIBEDA"
+    "partName": "PIPRA TARAIBEDA",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43401,
@@ -2252,7 +2660,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 205,
-    "partName": "TENDUBHATA"
+    "partName": "TENDUBHATA",
+    "lat": 19.9837759,
+    "lon": 81.577885
   },
   {
     "partId": 43475,
@@ -2263,7 +2673,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 206,
-    "partName": "CHARBHATA"
+    "partName": "CHARBHATA",
+    "lat": 19.9698921,
+    "lon": 81.5774758
   },
   {
     "partId": 43540,
@@ -2274,7 +2686,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 207,
-    "partName": "PALORA"
+    "partName": "PALORA",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43410,
@@ -2285,7 +2699,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 208,
-    "partName": "MASSUKOKODA"
+    "partName": "MASSUKOKODA",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43431,
@@ -2296,7 +2712,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 209,
-    "partName": "MAANJHIAATHGAON - 1"
+    "partName": "MAANJHIAATHGAON - 1",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43588,
@@ -2307,7 +2725,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 210,
-    "partName": "MAANJHIAATHGAON - 2"
+    "partName": "MAANJHIAATHGAON - 2",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43432,
@@ -2318,7 +2738,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 211,
-    "partName": "CHICHADI - 1"
+    "partName": "CHICHADI - 1",
+    "lat": 19.8905807,
+    "lon": 81.640812
   },
   {
     "partId": 43589,
@@ -2329,7 +2751,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 212,
-    "partName": "CHICHADI - 2"
+    "partName": "CHICHADI - 2",
+    "lat": 19.8905807,
+    "lon": 81.640812
   },
   {
     "partId": 43451,
@@ -2340,7 +2764,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 213,
-    "partName": "BANGAON  - 1"
+    "partName": "BANGAON  - 1",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43576,
@@ -2351,7 +2777,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 214,
-    "partName": "BANGAON - 2"
+    "partName": "BANGAON - 2",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43450,
@@ -2362,7 +2790,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 215,
-    "partName": "PASANGI"
+    "partName": "PASANGI",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43448,
@@ -2373,7 +2803,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 216,
-    "partName": "PHARASGAON - 1"
+    "partName": "PHARASGAON - 1",
+    "lat": 19.8600905,
+    "lon": 81.6378593
   },
   {
     "partId": 43541,
@@ -2384,7 +2816,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 217,
-    "partName": "PHARASGAON - 2"
+    "partName": "PHARASGAON - 2",
+    "lat": 19.8600905,
+    "lon": 81.6378593
   },
   {
     "partId": 43449,
@@ -2395,7 +2829,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 218,
-    "partName": "PHARASGAON -  3"
+    "partName": "PHARASGAON -  3",
+    "lat": 20.018577722545455,
+    "lon": 81.60517916072727
   },
   {
     "partId": 43590,
@@ -2406,7 +2842,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 219,
-    "partName": "PHARASGAON - 4"
+    "partName": "PHARASGAON - 4",
+    "lat": 19.8600905,
+    "lon": 81.6378593
   },
   {
     "partId": 43447,
@@ -2417,7 +2855,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 220,
-    "partName": "GATTIPALNA"
+    "partName": "GATTIPALNA",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43591,
@@ -2428,7 +2868,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 221,
-    "partName": "KORRABADGAON"
+    "partName": "KORRABADGAON",
+    "lat": 20.018577722545455,
+    "lon": 81.60517916072727
   },
   {
     "partId": 43446,
@@ -2439,7 +2881,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 222,
-    "partName": "PANDE ATHGAON"
+    "partName": "PANDE ATHGAON",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43323,
@@ -2450,7 +2894,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 223,
-    "partName": "CHARKAI"
+    "partName": "CHARKAI",
+    "lat": 19.7833181,
+    "lon": 81.7061504
   },
   {
     "partId": 43542,
@@ -2461,7 +2907,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 224,
-    "partName": "CHANDAGAON"
+    "partName": "CHANDAGAON",
+    "lat": 19.8037245,
+    "lon": 81.6854411
   },
   {
     "partId": 43445,
@@ -2472,7 +2920,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 225,
-    "partName": "PURVI BORGAON"
+    "partName": "PURVI BORGAON",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43543,
@@ -2483,7 +2933,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 226,
-    "partName": "PASCHIM  BORGAON"
+    "partName": "PASCHIM  BORGAON",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43438,
@@ -2494,7 +2946,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 227,
-    "partName": "SINGARPURI"
+    "partName": "SINGARPURI",
+    "lat": 19.8017172,
+    "lon": 81.6207661
   },
   {
     "partId": 43544,
@@ -2505,7 +2959,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 228,
-    "partName": "CHUREGAON"
+    "partName": "CHUREGAON",
+    "lat": 19.7870456,
+    "lon": 81.622976
   },
   {
     "partId": 43545,
@@ -2516,7 +2972,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 229,
-    "partName": "HIRRI"
+    "partName": "HIRRI",
+    "lat": 19.7990715,
+    "lon": 81.6010036
   },
   {
     "partId": 43436,
@@ -2527,7 +2985,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 230,
-    "partName": "FUPGAON - 1"
+    "partName": "FUPGAON - 1",
+    "lat": 19.8149216,
+    "lon": 81.5937763
   },
   {
     "partId": 43617,
@@ -2538,7 +2998,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 231,
-    "partName": "FUPGAON - 2"
+    "partName": "FUPGAON - 2",
+    "lat": 19.8149216,
+    "lon": 81.5937763
   },
   {
     "partId": 43437,
@@ -2549,7 +3011,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 232,
-    "partName": "PAISRA"
+    "partName": "PAISRA",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43546,
@@ -2560,7 +3024,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 233,
-    "partName": "BHUMKA"
+    "partName": "BHUMKA",
+    "lat": 20.018577722545455,
+    "lon": 81.60517916072727
   },
   {
     "partId": 43434,
@@ -2571,7 +3037,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 234,
-    "partName": "AALOR - 1"
+    "partName": "AALOR - 1",
+    "lat": 20.018577722545455,
+    "lon": 81.60517916072727
   },
   {
     "partId": 43547,
@@ -2582,7 +3050,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 235,
-    "partName": "AALOR - 2"
+    "partName": "AALOR - 2",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43435,
@@ -2593,7 +3063,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 236,
-    "partName": "AALOR - 3"
+    "partName": "AALOR - 3",
+    "lat": 20.018577722545455,
+    "lon": 81.60517916072727
   },
   {
     "partId": 43618,
@@ -2604,7 +3076,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 237,
-    "partName": "JHATIBAN"
+    "partName": "JHATIBAN",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43433,
@@ -2615,7 +3089,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 238,
-    "partName": "BHANDARVANDI"
+    "partName": "BHANDARVANDI",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43548,
@@ -2626,7 +3102,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 239,
-    "partName": "PATODA"
+    "partName": "PATODA",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43549,
@@ -2637,7 +3115,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 240,
-    "partName": "BAIL"
+    "partName": "BAIL",
+    "lat": 19.8559986,
+    "lon": 81.5845701
   },
   {
     "partId": 43472,
@@ -2648,7 +3128,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 241,
-    "partName": "BANJODA"
+    "partName": "BANJODA",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43550,
@@ -2659,7 +3141,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 242,
-    "partName": "CHINDLIBEDA"
+    "partName": "CHINDLIBEDA",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43403,
@@ -2670,7 +3154,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 243,
-    "partName": "KOKODAJUGANAR"
+    "partName": "KOKODAJUGANAR",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43619,
@@ -2681,7 +3167,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 244,
-    "partName": "PAROUDA"
+    "partName": "PAROUDA",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43551,
@@ -2692,7 +3180,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 245,
-    "partName": "MODE"
+    "partName": "MODE",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43605,
@@ -2703,7 +3193,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 246,
-    "partName": "KANHARGAON"
+    "partName": "KANHARGAON",
+    "lat": 19.87626,
+    "lon": 81.4716904
   },
   {
     "partId": 43473,
@@ -2714,7 +3206,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 247,
-    "partName": "AAMGAON"
+    "partName": "AAMGAON",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43620,
@@ -2725,7 +3219,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 248,
-    "partName": "KULANAR"
+    "partName": "KULANAR",
+    "lat": 19.8307256,
+    "lon": 81.4444903
   },
   {
     "partId": 43474,
@@ -2736,7 +3232,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 249,
-    "partName": "URANDABEDA"
+    "partName": "URANDABEDA",
+    "lat": 19.8523539,
+    "lon": 81.4634168
   },
   {
     "partId": 43552,
@@ -2747,7 +3245,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 250,
-    "partName": "KOTPAD"
+    "partName": "KOTPAD",
+    "lat": 19.8112043,
+    "lon": 81.4848127
   },
   {
     "partId": 43553,
@@ -2758,7 +3258,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 251,
-    "partName": "MADAGAON"
+    "partName": "MADAGAON",
+    "lat": 19.8249714,
+    "lon": 81.4940221
   },
   {
     "partId": 43406,
@@ -2769,7 +3271,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 252,
-    "partName": "BHONGAPAL"
+    "partName": "BHONGAPAL",
+    "lat": 19.8056521,
+    "lon": 81.3959171
   },
   {
     "partId": 43592,
@@ -2780,7 +3284,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 253,
-    "partName": "BADGAI"
+    "partName": "BADGAI",
+    "lat": 19.849015,
+    "lon": 81.4032967
   },
   {
     "partId": 43554,
@@ -2791,7 +3297,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 254,
-    "partName": "KHANDSARA"
+    "partName": "KHANDSARA",
+    "lat": 19.7941418,
+    "lon": 81.4654027
   },
   {
     "partId": 43459,
@@ -2802,7 +3310,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 255,
-    "partName": "PAVDA"
+    "partName": "PAVDA",
+    "lat": 20.018577722545455,
+    "lon": 81.60517916072727
   },
   {
     "partId": 43555,
@@ -2813,7 +3323,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 256,
-    "partName": "PALNA"
+    "partName": "PALNA",
+    "lat": 20.0332229,
+    "lon": 81.8539535
   },
   {
     "partId": 43454,
@@ -2824,7 +3336,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 257,
-    "partName": "FARASAGAON KASAI"
+    "partName": "FARASAGAON KASAI",
+    "lat": 20.018577722545455,
+    "lon": 81.60517916072727
   },
   {
     "partId": 43556,
@@ -2835,7 +3349,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 258,
-    "partName": "JHAKRI"
+    "partName": "JHAKRI",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43455,
@@ -2846,7 +3362,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 259,
-    "partName": "CHINGNAR"
+    "partName": "CHINGNAR",
+    "lat": 19.7561878,
+    "lon": 81.4185968
   },
   {
     "partId": 43581,
@@ -2857,7 +3375,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 260,
-    "partName": "FUTANCHANDAGAON"
+    "partName": "FUTANCHANDAGAON",
+    "lat": 19.7349002,
+    "lon": 81.4097472
   },
   {
     "partId": 43557,
@@ -2868,7 +3388,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 261,
-    "partName": "MAINPUR"
+    "partName": "MAINPUR",
+    "lat": 19.7359776,
+    "lon": 81.3849825
   },
   {
     "partId": 43457,
@@ -2879,7 +3401,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 262,
-    "partName": "MODEGA"
+    "partName": "MODEGA",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43621,
@@ -2890,7 +3414,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 263,
-    "partName": "CHIYANAR"
+    "partName": "CHIYANAR",
+    "lat": 19.7050365,
+    "lon": 81.4893714
   },
   {
     "partId": 43456,
@@ -2901,7 +3427,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 264,
-    "partName": "BANGOLI - 1"
+    "partName": "BANGOLI - 1",
+    "lat": 19.7419077,
+    "lon": 81.5236172
   },
   {
     "partId": 43622,
@@ -2912,7 +3440,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 265,
-    "partName": "BANGOLI - 2"
+    "partName": "BANGOLI - 2",
+    "lat": 19.7419077,
+    "lon": 81.5236172
   },
   {
     "partId": 43558,
@@ -2923,7 +3453,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 266,
-    "partName": "BANCHAPAI"
+    "partName": "BANCHAPAI",
+    "lat": 20.018577722545455,
+    "lon": 81.60517916072727
   },
   {
     "partId": 43458,
@@ -2934,7 +3466,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 267,
-    "partName": "CHADABEDA"
+    "partName": "CHADABEDA",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43623,
@@ -2945,7 +3479,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 268,
-    "partName": "KORAI"
+    "partName": "KORAI",
+    "lat": 20.018577722545455,
+    "lon": 81.60517916072727
   },
   {
     "partId": 43460,
@@ -2956,7 +3492,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 269,
-    "partName": "TORAND"
+    "partName": "TORAND",
+    "lat": 19.8123643,
+    "lon": 81.4968722
   },
   {
     "partId": 43559,
@@ -2967,7 +3505,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 270,
-    "partName": "GODMA"
+    "partName": "GODMA",
+    "lat": 19.8364205,
+    "lon": 81.610103
   },
   {
     "partId": 43461,
@@ -2978,7 +3518,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 271,
-    "partName": "BADEDONGAR - 1"
+    "partName": "BADEDONGAR - 1",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43560,
@@ -2989,7 +3531,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 272,
-    "partName": "BADEDONGAR - 2"
+    "partName": "BADEDONGAR - 2",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43462,
@@ -3000,7 +3544,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 273,
-    "partName": "BADEDONGAR - 3"
+    "partName": "BADEDONGAR - 3",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43561,
@@ -3011,7 +3557,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 274,
-    "partName": "BADEDONGAR - 4"
+    "partName": "BADEDONGAR - 4",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43611,
@@ -3022,7 +3570,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 275,
-    "partName": "CHHINDALI"
+    "partName": "CHHINDALI",
+    "lat": 19.7363746,
+    "lon": 81.4884068
   },
   {
     "partId": 43471,
@@ -3033,7 +3583,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 276,
-    "partName": "MOHFAL"
+    "partName": "MOHFAL",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43562,
@@ -3044,7 +3596,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 277,
-    "partName": "DIGANAR"
+    "partName": "DIGANAR",
+    "lat": 19.780964,
+    "lon": 81.5734138
   },
   {
     "partId": 43595,
@@ -3055,7 +3609,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 278,
-    "partName": "SADADI"
+    "partName": "SADADI",
+    "lat": 20.018577722545455,
+    "lon": 81.60517916072727
   },
   {
     "partId": 43464,
@@ -3066,7 +3622,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 279,
-    "partName": "SIRSIKLAR - 1"
+    "partName": "SIRSIKLAR - 1",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43624,
@@ -3077,7 +3635,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 280,
-    "partName": "SIRSIKALAR - 2"
+    "partName": "SIRSIKALAR - 2",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43563,
@@ -3088,7 +3648,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 281,
-    "partName": "SODMA"
+    "partName": "SODMA",
+    "lat": 20.018577722545455,
+    "lon": 81.60517916072727
   },
   {
     "partId": 43466,
@@ -3099,7 +3661,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 282,
-    "partName": "KABONGA - 1"
+    "partName": "KABONGA - 1",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43564,
@@ -3110,7 +3674,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 283,
-    "partName": "KOSAGAON"
+    "partName": "KOSAGAON",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43596,
@@ -3121,7 +3687,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 284,
-    "partName": "KABONGA - 2"
+    "partName": "KABONGA - 2",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43463,
@@ -3132,7 +3700,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 285,
-    "partName": "KUMHARBADGAON"
+    "partName": "KUMHARBADGAON",
+    "lat": 19.714203,
+    "lon": 81.6302221
   },
   {
     "partId": 43606,
@@ -3143,7 +3713,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 286,
-    "partName": "KARAGAON"
+    "partName": "KARAGAON",
+    "lat": 19.7289505,
+    "lon": 81.602894
   },
   {
     "partId": 43441,
@@ -3154,7 +3726,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 287,
-    "partName": "SIRPUR"
+    "partName": "SIRPUR",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43607,
@@ -3165,7 +3739,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 288,
-    "partName": "AALIBEDA"
+    "partName": "AALIBEDA",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43439,
@@ -3176,7 +3752,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 289,
-    "partName": "BHANPURI - 1"
+    "partName": "BHANPURI - 1",
+    "lat": 20.018577722545455,
+    "lon": 81.60517916072727
   },
   {
     "partId": 43582,
@@ -3187,7 +3765,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 290,
-    "partName": "BHANPURI - 2"
+    "partName": "BHANPURI - 2",
+    "lat": 19.7686327,
+    "lon": 81.6215483
   },
   {
     "partId": 43440,
@@ -3198,7 +3778,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 291,
-    "partName": "JUGANIKALAR - 1"
+    "partName": "JUGANIKALAR - 1",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43625,
@@ -3209,7 +3791,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 292,
-    "partName": "JUGANIKALAR -2"
+    "partName": "JUGANIKALAR -2",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43444,
@@ -3220,7 +3804,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 293,
-    "partName": "KULHADGAON - 1"
+    "partName": "KULHADGAON - 1",
+    "lat": 19.7782757,
+    "lon": 81.6579382
   },
   {
     "partId": 43597,
@@ -3231,7 +3817,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 294,
-    "partName": "KULHADGAON - 2"
+    "partName": "KULHADGAON - 2",
+    "lat": 20.018577722545455,
+    "lon": 81.60517916072727
   },
   {
     "partId": 43565,
@@ -3242,7 +3830,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 295,
-    "partName": "MOHLAI"
+    "partName": "MOHLAI",
+    "lat": 20.018577722545455,
+    "lon": 81.60517916072727
   },
   {
     "partId": 43442,
@@ -3253,7 +3843,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 296,
-    "partName": "BHANDARSIVNI - 1"
+    "partName": "BHANDARSIVNI - 1",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43443,
@@ -3264,7 +3856,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 297,
-    "partName": "BHANDARSIVNI - 2"
+    "partName": "BHANDARSIVNI - 2",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43467,
@@ -3275,7 +3869,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 298,
-    "partName": "LANJODA - 1"
+    "partName": "LANJODA - 1",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43566,
@@ -3286,7 +3882,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 299,
-    "partName": "LANJODA - 2"
+    "partName": "LANJODA - 2",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43468,
@@ -3297,7 +3895,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 300,
-    "partName": "LANJODA - 3"
+    "partName": "LANJODA - 3",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43567,
@@ -3308,7 +3908,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 301,
-    "partName": "LANJODA - 4"
+    "partName": "LANJODA - 4",
+    "lat": 20.018577722545455,
+    "lon": 81.60517916072727
   },
   {
     "partId": 43465,
@@ -3319,7 +3921,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 302,
-    "partName": "JAITPURI  - 1"
+    "partName": "JAITPURI  - 1",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43583,
@@ -3330,7 +3934,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 303,
-    "partName": "JAITPURI - 2(KADHAIBEDAPARA)"
+    "partName": "JAITPURI - 2(KADHAIBEDAPARA)",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 43568,
@@ -3341,7 +3947,9 @@
     "acNumber": 82,
     "acName": "Keshkal",
     "partNumber": 304,
-    "partName": "JAITPURI - 3"
+    "partName": "JAITPURI - 3",
+    "lat": 20.083284,
+    "lon": 81.589058
   },
   {
     "partId": 41534,
@@ -3352,7 +3960,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 1,
-    "partName": "CHIMRI"
+    "partName": "CHIMRI",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41657,
@@ -3363,7 +3973,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 2,
-    "partName": "CHALKA"
+    "partName": "CHALKA",
+    "lat": 19.6209822,
+    "lon": 81.487768
   },
   {
     "partId": 41550,
@@ -3374,7 +3986,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 3,
-    "partName": "KODAGAON"
+    "partName": "KODAGAON",
+    "lat": 19.6701931,
+    "lon": 81.5683823
   },
   {
     "partId": 41751,
@@ -3385,7 +3999,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 4,
-    "partName": "PALA"
+    "partName": "PALA",
+    "lat": 19.6248821,
+    "lon": 81.5278489
   },
   {
     "partId": 41763,
@@ -3396,7 +4012,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 5,
-    "partName": "KIBAIBALENGA - 1"
+    "partName": "KIBAIBALENGA - 1",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41549,
@@ -3407,7 +4025,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 6,
-    "partName": "KIBAIBALENGA - 2"
+    "partName": "KIBAIBALENGA - 2",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41551,
@@ -3418,7 +4038,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 7,
-    "partName": "VANJUGANI"
+    "partName": "VANJUGANI",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41658,
@@ -3429,7 +4051,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 8,
-    "partName": "BANSGAON"
+    "partName": "BANSGAON",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41552,
@@ -3440,7 +4064,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 9,
-    "partName": "CHICHDOGRI"
+    "partName": "CHICHDOGRI",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41659,
@@ -3451,7 +4077,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 10,
-    "partName": "KARATHIALWAD"
+    "partName": "KARATHIALWAD",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41766,
@@ -3462,7 +4090,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 11,
-    "partName": "MATHNIBEDA"
+    "partName": "MATHNIBEDA",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41554,
@@ -3473,7 +4103,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 12,
-    "partName": "BHIRAGAON B"
+    "partName": "BHIRAGAON B",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41776,
@@ -3484,7 +4116,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 13,
-    "partName": "BHIRAGAON(B) PATELPARA"
+    "partName": "BHIRAGAON(B) PATELPARA",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41777,
@@ -3495,7 +4129,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 14,
-    "partName": "GULBHA"
+    "partName": "GULBHA",
+    "lat": 19.6082173,
+    "lon": 81.6035201
   },
   {
     "partId": 41660,
@@ -3506,7 +4142,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 15,
-    "partName": "KEVTI"
+    "partName": "KEVTI",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41553,
@@ -3517,7 +4155,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 16,
-    "partName": "BUNAGAON"
+    "partName": "BUNAGAON",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41778,
@@ -3528,7 +4168,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 17,
-    "partName": "UMARGAON(A)"
+    "partName": "UMARGAON(A)",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41547,
@@ -3539,7 +4181,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 18,
-    "partName": "MALAKOT"
+    "partName": "MALAKOT",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41661,
@@ -3550,7 +4194,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 19,
-    "partName": "BUDAKASA"
+    "partName": "BUDAKASA",
+    "lat": 19.520732521681413,
+    "lon": 81.6538189866371
   },
   {
     "partId": 41548,
@@ -3561,7 +4207,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 20,
-    "partName": "DADHIYA"
+    "partName": "DADHIYA",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41555,
@@ -3572,7 +4220,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 21,
-    "partName": "MASORA - 1"
+    "partName": "MASORA - 1",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41662,
@@ -3583,7 +4233,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 22,
-    "partName": "MASORA - 2"
+    "partName": "MASORA - 2",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41556,
@@ -3594,7 +4246,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 23,
-    "partName": "MASORA - 3"
+    "partName": "MASORA - 3",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41779,
@@ -3605,7 +4259,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 24,
-    "partName": "MASORA - 4"
+    "partName": "MASORA - 4",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41780,
@@ -3616,7 +4272,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 25,
-    "partName": "MASORA - 5"
+    "partName": "MASORA - 5",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41567,
@@ -3627,7 +4285,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 26,
-    "partName": "GIROLA - 1"
+    "partName": "GIROLA - 1",
+    "lat": 19.6811624,
+    "lon": 81.8142263
   },
   {
     "partId": 41663,
@@ -3638,7 +4298,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 27,
-    "partName": "GIROLA - 2"
+    "partName": "GIROLA - 2",
+    "lat": 19.6811624,
+    "lon": 81.8142263
   },
   {
     "partId": 41568,
@@ -3649,7 +4311,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 28,
-    "partName": "SATGAON - 1"
+    "partName": "SATGAON - 1",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41781,
@@ -3660,7 +4324,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 29,
-    "partName": "SATGAON - 2"
+    "partName": "SATGAON - 2",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41565,
@@ -3671,7 +4337,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 30,
-    "partName": "PALLI - 1"
+    "partName": "PALLI - 1",
+    "lat": 19.6920609,
+    "lon": 81.7429945
   },
   {
     "partId": 41566,
@@ -3682,7 +4350,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 31,
-    "partName": "PALLI - 2"
+    "partName": "PALLI - 2",
+    "lat": 19.6920609,
+    "lon": 81.7429945
   },
   {
     "partId": 41782,
@@ -3693,7 +4363,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 32,
-    "partName": "PALLI - 3"
+    "partName": "PALLI - 3",
+    "lat": 19.6920609,
+    "lon": 81.7429945
   },
   {
     "partId": 41562,
@@ -3704,7 +4376,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 33,
-    "partName": "SHAMPUR - 1"
+    "partName": "SHAMPUR - 1",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41743,
@@ -3715,7 +4389,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 34,
-    "partName": "SHAMPUR - 2"
+    "partName": "SHAMPUR - 2",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41563,
@@ -3726,7 +4402,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 35,
-    "partName": "SHAMPUR - 3"
+    "partName": "SHAMPUR - 3",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41664,
@@ -3737,7 +4415,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 36,
-    "partName": "MARAGAON"
+    "partName": "MARAGAON",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41665,
@@ -3748,7 +4428,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 37,
-    "partName": "BHOGADI"
+    "partName": "BHOGADI",
+    "lat": 19.520732521681413,
+    "lon": 81.6538189866371
   },
   {
     "partId": 41557,
@@ -3759,7 +4441,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 38,
-    "partName": "KERAVAHI - 1"
+    "partName": "KERAVAHI - 1",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41666,
@@ -3770,7 +4454,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 39,
-    "partName": "KERAVAHI - 2"
+    "partName": "KERAVAHI - 2",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41783,
@@ -3781,7 +4467,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 40,
-    "partName": "KERAVAHI - 3"
+    "partName": "KERAVAHI - 3",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41564,
@@ -3792,7 +4480,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 41,
-    "partName": "HUKABEDAPATHRI"
+    "partName": "HUKABEDAPATHRI",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41667,
@@ -3803,7 +4493,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 42,
-    "partName": "DANDVAN"
+    "partName": "DANDVAN",
+    "lat": 19.520732521681413,
+    "lon": 81.6538189866371
   },
   {
     "partId": 41558,
@@ -3814,7 +4506,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 43,
-    "partName": "MANJHIBORAND - 1"
+    "partName": "MANJHIBORAND - 1",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41668,
@@ -3825,7 +4519,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 44,
-    "partName": "MANJHIBORAND - 2"
+    "partName": "MANJHIBORAND - 2",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41744,
@@ -3836,7 +4532,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 45,
-    "partName": "BADRA"
+    "partName": "BADRA",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41560,
@@ -3847,7 +4545,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 46,
-    "partName": "BIBLA"
+    "partName": "BIBLA",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41559,
@@ -3858,7 +4558,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 47,
-    "partName": "BALOND - 1"
+    "partName": "BALOND - 1",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41669,
@@ -3869,7 +4571,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 48,
-    "partName": "BALOND - 2"
+    "partName": "BALOND - 2",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41653,
@@ -3880,7 +4584,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 49,
-    "partName": "GARE"
+    "partName": "GARE",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41770,
@@ -3891,7 +4597,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 50,
-    "partName": "BESHAVPARA"
+    "partName": "BESHAVPARA",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41767,
@@ -3902,7 +4610,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 51,
-    "partName": "UDENGA"
+    "partName": "UDENGA",
+    "lat": 19.8043844,
+    "lon": 81.7802196
   },
   {
     "partId": 41670,
@@ -3913,7 +4623,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 52,
-    "partName": "BHATGAON"
+    "partName": "BHATGAON",
+    "lat": 19.520732521681413,
+    "lon": 81.6538189866371
   },
   {
     "partId": 41543,
@@ -3924,7 +4636,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 53,
-    "partName": "BHIRAGAON"
+    "partName": "BHIRAGAON",
+    "lat": 19.520732521681413,
+    "lon": 81.6538189866371
   },
   {
     "partId": 41671,
@@ -3935,7 +4649,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 54,
-    "partName": "NALAJHAR"
+    "partName": "NALAJHAR",
+    "lat": 20.13408,
+    "lon": 81.6475779
   },
   {
     "partId": 41541,
@@ -3946,7 +4662,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 55,
-    "partName": "RANDHNA - 1"
+    "partName": "RANDHNA - 1",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41771,
@@ -3957,7 +4675,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 56,
-    "partName": "RANDHNA - 2"
+    "partName": "RANDHNA - 2",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41672,
@@ -3968,7 +4688,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 57,
-    "partName": "TARGAON"
+    "partName": "TARGAON",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41772,
@@ -3979,7 +4701,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 58,
-    "partName": "DEVHARDULI"
+    "partName": "DEVHARDULI",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41542,
@@ -3990,7 +4714,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 59,
-    "partName": "BARKAI - 1"
+    "partName": "BARKAI - 1",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41673,
@@ -4001,7 +4727,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 60,
-    "partName": "BARKAI - 2"
+    "partName": "BARKAI - 2",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41536,
@@ -4012,7 +4740,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 61,
-    "partName": "SONABEDA"
+    "partName": "SONABEDA",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41674,
@@ -4023,7 +4753,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 62,
-    "partName": "KOTVEL"
+    "partName": "KOTVEL",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41537,
@@ -4034,7 +4766,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 63,
-    "partName": "DEVDONGAR"
+    "partName": "DEVDONGAR",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41538,
@@ -4045,7 +4779,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 64,
-    "partName": "GUHABORAND"
+    "partName": "GUHABORAND",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41675,
@@ -4056,7 +4792,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 65,
-    "partName": "PUSAPAL"
+    "partName": "PUSAPAL",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41540,
@@ -4067,7 +4805,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 66,
-    "partName": "ULERA - 1"
+    "partName": "ULERA - 1",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41784,
@@ -4078,7 +4818,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 67,
-    "partName": "ULERA - 2"
+    "partName": "ULERA - 2",
+    "lat": 19.520732521681413,
+    "lon": 81.6538189866371
   },
   {
     "partId": 41734,
@@ -4089,7 +4831,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 68,
-    "partName": "KHUDI"
+    "partName": "KHUDI",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41544,
@@ -4100,7 +4844,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 69,
-    "partName": "THEMGAON - 1"
+    "partName": "THEMGAON - 1",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41785,
@@ -4111,7 +4857,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 70,
-    "partName": "THEMGAON - 2"
+    "partName": "THEMGAON - 2",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41545,
@@ -4122,7 +4870,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 71,
-    "partName": "KOKODI"
+    "partName": "KOKODI",
+    "lat": 19.4557863,
+    "lon": 81.7648164
   },
   {
     "partId": 41676,
@@ -4133,7 +4883,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 72,
-    "partName": "ONDARI"
+    "partName": "ONDARI",
+    "lat": 19.520732521681413,
+    "lon": 81.6538189866371
   },
   {
     "partId": 41546,
@@ -4144,7 +4896,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 73,
-    "partName": "LUBHA"
+    "partName": "LUBHA",
+    "lat": 19.8111989,
+    "lon": 81.8303728
   },
   {
     "partId": 41735,
@@ -4155,7 +4909,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 74,
-    "partName": "SANDASA"
+    "partName": "SANDASA",
+    "lat": 19.520732521681413,
+    "lon": 81.6538189866371
   },
   {
     "partId": 41677,
@@ -4166,7 +4922,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 75,
-    "partName": "SOD SOVANI"
+    "partName": "SOD SOVANI",
+    "lat": 19.520732521681413,
+    "lon": 81.6538189866371
   },
   {
     "partId": 41678,
@@ -4177,7 +4935,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 76,
-    "partName": "TITANA"
+    "partName": "TITANA",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41539,
@@ -4188,7 +4948,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 77,
-    "partName": "BAGBEDA - 1"
+    "partName": "BAGBEDA - 1",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41752,
@@ -4199,7 +4961,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 78,
-    "partName": "BAGBEDA - 2"
+    "partName": "BAGBEDA - 2",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41679,
@@ -4210,7 +4974,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 79,
-    "partName": "KOSAHARDULI"
+    "partName": "KOSAHARDULI",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41605,
@@ -4221,7 +4987,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 80,
-    "partName": "MAGEDA - 1"
+    "partName": "MAGEDA - 1",
+    "lat": 19.520732521681413,
+    "lon": 81.6538189866371
   },
   {
     "partId": 41680,
@@ -4232,7 +5000,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 81,
-    "partName": "MAGEDA - 2"
+    "partName": "MAGEDA - 2",
+    "lat": 19.520732521681413,
+    "lon": 81.6538189866371
   },
   {
     "partId": 41651,
@@ -4243,7 +5013,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 82,
-    "partName": "OTENDA - 1"
+    "partName": "OTENDA - 1",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41681,
@@ -4254,7 +5026,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 83,
-    "partName": "OTENDA - 2"
+    "partName": "OTENDA - 2",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41745,
@@ -4265,7 +5039,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 84,
-    "partName": "ARANGULA"
+    "partName": "ARANGULA",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41602,
@@ -4276,7 +5052,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 85,
-    "partName": "MAKDI - 1"
+    "partName": "MAKDI - 1",
+    "lat": 19.694092400000002,
+    "lon": 81.90171513624125
   },
   {
     "partId": 41753,
@@ -4287,7 +5065,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 86,
-    "partName": "MAKDI - 2"
+    "partName": "MAKDI - 2",
+    "lat": 19.694092400000002,
+    "lon": 81.90171513624125
   },
   {
     "partId": 41603,
@@ -4298,7 +5078,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 87,
-    "partName": "MAKDI - 3"
+    "partName": "MAKDI - 3",
+    "lat": 19.694092400000002,
+    "lon": 81.90171513624125
   },
   {
     "partId": 41746,
@@ -4309,7 +5091,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 88,
-    "partName": "MAKDI - 4"
+    "partName": "MAKDI - 4",
+    "lat": 19.694092400000002,
+    "lon": 81.90171513624125
   },
   {
     "partId": 41604,
@@ -4320,7 +5104,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 89,
-    "partName": "JARANDI - 1"
+    "partName": "JARANDI - 1",
+    "lat": 20.0358599,
+    "lon": 81.6798006
   },
   {
     "partId": 41754,
@@ -4331,7 +5117,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 90,
-    "partName": "JARANDI - 2"
+    "partName": "JARANDI - 2",
+    "lat": 20.0358599,
+    "lon": 81.6798006
   },
   {
     "partId": 41606,
@@ -4342,7 +5130,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 91,
-    "partName": "DHARLI"
+    "partName": "DHARLI",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41682,
@@ -4353,7 +5143,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 92,
-    "partName": "INGRA"
+    "partName": "INGRA",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41609,
@@ -4364,7 +5156,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 93,
-    "partName": "HIRAPUR - 1"
+    "partName": "HIRAPUR - 1",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41755,
@@ -4375,7 +5169,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 94,
-    "partName": "HIRAPUR - 2"
+    "partName": "HIRAPUR - 2",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41683,
@@ -4386,7 +5182,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 95,
-    "partName": "KURLUBAHAR"
+    "partName": "KURLUBAHAR",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41652,
@@ -4397,7 +5195,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 96,
-    "partName": "MIRMINDA"
+    "partName": "MIRMINDA",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41684,
@@ -4408,7 +5208,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 97,
-    "partName": "HIRAWANDI"
+    "partName": "HIRAWANDI",
+    "lat": 19.520732521681413,
+    "lon": 81.6538189866371
   },
   {
     "partId": 41608,
@@ -4419,7 +5221,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 98,
-    "partName": "PIDHAPAL"
+    "partName": "PIDHAPAL",
+    "lat": 19.9173532,
+    "lon": 81.790825
   },
   {
     "partId": 41685,
@@ -4430,7 +5234,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 99,
-    "partName": "UDIDGAON"
+    "partName": "UDIDGAON",
+    "lat": 20.0431812,
+    "lon": 81.8331803
   },
   {
     "partId": 41773,
@@ -4441,7 +5247,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 100,
-    "partName": "JONDHRA"
+    "partName": "JONDHRA",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41607,
@@ -4452,7 +5260,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 101,
-    "partName": "SODMA"
+    "partName": "SODMA",
+    "lat": 19.7390039,
+    "lon": 81.9935071
   },
   {
     "partId": 41624,
@@ -4463,7 +5273,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 102,
-    "partName": "BELONDI"
+    "partName": "BELONDI",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41786,
@@ -4474,7 +5286,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 103,
-    "partName": "SIVNI"
+    "partName": "SIVNI",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41686,
@@ -4485,7 +5299,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 104,
-    "partName": "TORENGA"
+    "partName": "TORENGA",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41610,
@@ -4496,7 +5312,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 105,
-    "partName": "TORANDI - 1"
+    "partName": "TORANDI - 1",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41756,
@@ -4507,7 +5325,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 106,
-    "partName": "TORANDI - 2"
+    "partName": "TORANDI - 2",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41687,
@@ -4518,7 +5338,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 107,
-    "partName": "SOHANGA"
+    "partName": "SOHANGA",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41600,
@@ -4529,7 +5351,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 108,
-    "partName": "UMARGAON"
+    "partName": "UMARGAON",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41688,
@@ -4540,7 +5364,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 109,
-    "partName": "BELGAON"
+    "partName": "BELGAON",
+    "lat": 19.9963762,
+    "lon": 81.4429166
   },
   {
     "partId": 41689,
@@ -4551,7 +5377,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 110,
-    "partName": "KAWRA"
+    "partName": "KAWRA",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41599,
@@ -4562,7 +5390,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 111,
-    "partName": "KARMARI"
+    "partName": "KARMARI",
+    "lat": 20.0059224,
+    "lon": 81.4328833
   },
   {
     "partId": 41601,
@@ -4573,7 +5403,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 112,
-    "partName": "BADGAON"
+    "partName": "BADGAON",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41690,
@@ -4584,7 +5416,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 113,
-    "partName": "HADIGAON - 1"
+    "partName": "HADIGAON - 1",
+    "lat": 19.520732521681413,
+    "lon": 81.6538189866371
   },
   {
     "partId": 41787,
@@ -4595,7 +5429,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 114,
-    "partName": "HADIGAON - 2"
+    "partName": "HADIGAON - 2",
+    "lat": 19.520732521681413,
+    "lon": 81.6538189866371
   },
   {
     "partId": 41561,
@@ -4606,7 +5442,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 115,
-    "partName": "JADKOGA"
+    "partName": "JADKOGA",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41691,
@@ -4617,7 +5455,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 116,
-    "partName": "KATAGAON - 1"
+    "partName": "KATAGAON - 1",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41757,
@@ -4628,7 +5468,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 117,
-    "partName": "KATAGAON - 2"
+    "partName": "KATAGAON - 2",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41654,
@@ -4639,7 +5481,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 118,
-    "partName": "LABHA"
+    "partName": "LABHA",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41692,
@@ -4650,7 +5494,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 119,
-    "partName": "BUDRA"
+    "partName": "BUDRA",
+    "lat": 19.7679152,
+    "lon": 81.8126964
   },
   {
     "partId": 41693,
@@ -4661,7 +5507,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 120,
-    "partName": "TEDMUNDA"
+    "partName": "TEDMUNDA",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41598,
@@ -4672,7 +5520,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 121,
-    "partName": "BABAI"
+    "partName": "BABAI",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41694,
@@ -4683,7 +5533,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 122,
-    "partName": "CHHOTESALNA"
+    "partName": "CHHOTESALNA",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41597,
@@ -4694,7 +5546,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 123,
-    "partName": "FUKAGIROLA"
+    "partName": "FUKAGIROLA",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41695,
@@ -4705,7 +5559,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 124,
-    "partName": "DONGARSILATI"
+    "partName": "DONGARSILATI",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41570,
@@ -4716,7 +5572,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 125,
-    "partName": "NEVTA"
+    "partName": "NEVTA",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41569,
@@ -4727,7 +5585,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 126,
-    "partName": "CHILPUTI - 1"
+    "partName": "CHILPUTI - 1",
+    "lat": 19.6474503,
+    "lon": 81.7043438
   },
   {
     "partId": 41758,
@@ -4738,7 +5598,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 127,
-    "partName": "CHILPUTI - 2"
+    "partName": "CHILPUTI - 2",
+    "lat": 19.6474503,
+    "lon": 81.7043438
   },
   {
     "partId": 41696,
@@ -4749,7 +5611,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 128,
-    "partName": "SITLI"
+    "partName": "SITLI",
+    "lat": 19.6185552,
+    "lon": 81.6892324
   },
   {
     "partId": 41571,
@@ -4760,7 +5624,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 129,
-    "partName": "DONGRIGUDA - 1"
+    "partName": "DONGRIGUDA - 1",
+    "lat": 19.6090518,
+    "lon": 81.7039459
   },
   {
     "partId": 41697,
@@ -4771,7 +5637,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 130,
-    "partName": "DONGRIGUDA - 2"
+    "partName": "DONGRIGUDA - 2",
+    "lat": 19.6090518,
+    "lon": 81.7039459
   },
   {
     "partId": 41572,
@@ -4782,7 +5650,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 131,
-    "partName": "PALARI - 1"
+    "partName": "PALARI - 1",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41759,
@@ -4793,7 +5663,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 132,
-    "partName": "PALARI - 2"
+    "partName": "PALARI - 2",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41655,
@@ -4804,7 +5676,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 133,
-    "partName": "KUMHARPARA - 1"
+    "partName": "KUMHARPARA - 1",
+    "lat": 19.8150684,
+    "lon": 81.6285551
   },
   {
     "partId": 41698,
@@ -4815,7 +5689,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 134,
-    "partName": "KUMHARPARA - 2"
+    "partName": "KUMHARPARA - 2",
+    "lat": 19.8150684,
+    "lon": 81.6285551
   },
   {
     "partId": 41573,
@@ -4826,7 +5702,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 135,
-    "partName": "KONDAGAON - 1"
+    "partName": "KONDAGAON - 1",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41737,
@@ -4837,7 +5715,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 136,
-    "partName": "KONDAGAON - 2"
+    "partName": "KONDAGAON - 2",
+    "lat": 19.520732521681413,
+    "lon": 81.6538189866371
   },
   {
     "partId": 41574,
@@ -4848,7 +5728,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 137,
-    "partName": "KONDAGAON - 3"
+    "partName": "KONDAGAON - 3",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41775,
@@ -4859,7 +5741,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 138,
-    "partName": "KONDAGAON - 4"
+    "partName": "KONDAGAON - 4",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41575,
@@ -4870,7 +5754,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 139,
-    "partName": "KONDAGAON - 5"
+    "partName": "KONDAGAON - 5",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41576,
@@ -4881,7 +5767,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 140,
-    "partName": "KONDAGAON - 6"
+    "partName": "KONDAGAON - 6",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41577,
@@ -4892,7 +5780,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 141,
-    "partName": "KONDAGAON - 7"
+    "partName": "KONDAGAON - 7",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41736,
@@ -4903,7 +5793,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 142,
-    "partName": "KONDAGAON - 8"
+    "partName": "KONDAGAON - 8",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41578,
@@ -4914,7 +5806,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 143,
-    "partName": "KONDAGAON - 9"
+    "partName": "KONDAGAON - 9",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41788,
@@ -4925,7 +5819,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 144,
-    "partName": "KONDAGAON - 10"
+    "partName": "KONDAGAON - 10",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41579,
@@ -4936,7 +5832,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 145,
-    "partName": "KONDAGAON - 11"
+    "partName": "KONDAGAON - 11",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41738,
@@ -4947,7 +5845,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 146,
-    "partName": "KONDAGAON - 12"
+    "partName": "KONDAGAON - 12",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41580,
@@ -4958,7 +5858,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 147,
-    "partName": "KONDAGAON - 13"
+    "partName": "KONDAGAON - 13",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41750,
@@ -4969,7 +5871,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 148,
-    "partName": "KONDAGAON - 14"
+    "partName": "KONDAGAON - 14",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41581,
@@ -4980,7 +5884,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 149,
-    "partName": "KONDAGAON - 15"
+    "partName": "KONDAGAON - 15",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41739,
@@ -4991,7 +5897,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 150,
-    "partName": "KONDAGAON - 16"
+    "partName": "KONDAGAON - 16",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41699,
@@ -5002,7 +5910,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 151,
-    "partName": "KONDAGAON - 17"
+    "partName": "KONDAGAON - 17",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41582,
@@ -5013,7 +5923,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 152,
-    "partName": "KONDAGAON - 18"
+    "partName": "KONDAGAON - 18",
+    "lat": 19.520732521681413,
+    "lon": 81.6538189866371
   },
   {
     "partId": 41740,
@@ -5024,7 +5936,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 153,
-    "partName": "KONDAGAON - 19"
+    "partName": "KONDAGAON - 19",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41700,
@@ -5035,7 +5949,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 154,
-    "partName": "KONDAGAON - 20"
+    "partName": "KONDAGAON - 20",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41583,
@@ -5046,7 +5962,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 155,
-    "partName": "KONDAGAON - 21"
+    "partName": "KONDAGAON - 21",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41701,
@@ -5057,7 +5975,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 156,
-    "partName": "KONDAGAON - 22"
+    "partName": "KONDAGAON - 22",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41584,
@@ -5068,7 +5988,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 157,
-    "partName": "KONDAGAON - 23"
+    "partName": "KONDAGAON - 23",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41702,
@@ -5079,7 +6001,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 158,
-    "partName": "KONDAGAON - 24"
+    "partName": "KONDAGAON - 24",
+    "lat": 19.520732521681413,
+    "lon": 81.6538189866371
   },
   {
     "partId": 41585,
@@ -5090,7 +6014,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 159,
-    "partName": "KONDAGAON - 25"
+    "partName": "KONDAGAON - 25",
+    "lat": 19.520732521681413,
+    "lon": 81.6538189866371
   },
   {
     "partId": 41774,
@@ -5101,7 +6027,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 160,
-    "partName": "KONDAGAON - 26"
+    "partName": "KONDAGAON - 26",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41586,
@@ -5112,7 +6040,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 161,
-    "partName": "KONDAGAON - 27"
+    "partName": "KONDAGAON - 27",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41703,
@@ -5123,7 +6053,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 162,
-    "partName": "KONDAGAON - 28"
+    "partName": "KONDAGAON - 28",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41587,
@@ -5134,7 +6066,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 163,
-    "partName": "KONDAGAON - 29"
+    "partName": "KONDAGAON - 29",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41588,
@@ -5145,7 +6079,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 164,
-    "partName": "KONDAGAON - 30"
+    "partName": "KONDAGAON - 30",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41589,
@@ -5156,7 +6092,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 165,
-    "partName": "CHIKHALPUTI"
+    "partName": "CHIKHALPUTI",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41632,
@@ -5167,7 +6105,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 166,
-    "partName": "SAMBALPUR - 1"
+    "partName": "SAMBALPUR - 1",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41704,
@@ -5178,7 +6118,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 167,
-    "partName": "SAMBALPUR - 2"
+    "partName": "SAMBALPUR - 2",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41789,
@@ -5189,7 +6131,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 168,
-    "partName": "SAMBALPUR - 3"
+    "partName": "SAMBALPUR - 3",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41630,
@@ -5200,7 +6144,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 169,
-    "partName": "BAMHANI - 1"
+    "partName": "BAMHANI - 1",
+    "lat": 19.520732521681413,
+    "lon": 81.6538189866371
   },
   {
     "partId": 41741,
@@ -5211,7 +6157,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 170,
-    "partName": "BAMHANI - 2"
+    "partName": "BAMHANI - 2",
+    "lat": 19.520732521681413,
+    "lon": 81.6538189866371
   },
   {
     "partId": 41535,
@@ -5222,7 +6170,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 171,
-    "partName": "BAMHANI - 3"
+    "partName": "BAMHANI - 3",
+    "lat": 19.520732521681413,
+    "lon": 81.6538189866371
   },
   {
     "partId": 41631,
@@ -5233,7 +6183,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 172,
-    "partName": "KARSING (VANGRAM)"
+    "partName": "KARSING (VANGRAM)",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41705,
@@ -5244,7 +6196,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 173,
-    "partName": "ISALNAR"
+    "partName": "ISALNAR",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41633,
@@ -5255,7 +6209,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 174,
-    "partName": "KUSMA - 1"
+    "partName": "KUSMA - 1",
+    "lat": 19.5249642,
+    "lon": 81.6649629
   },
   {
     "partId": 41747,
@@ -5266,7 +6222,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 175,
-    "partName": "KUSMA - 2"
+    "partName": "KUSMA - 2",
+    "lat": 19.5249642,
+    "lon": 81.6649629
   },
   {
     "partId": 41634,
@@ -5277,7 +6235,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 176,
-    "partName": "BANIYAGAON - 1"
+    "partName": "BANIYAGAON - 1",
+    "lat": 19.979247,
+    "lon": 81.4917296
   },
   {
     "partId": 41706,
@@ -5288,7 +6248,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 177,
-    "partName": "BANIYAGAON - 2"
+    "partName": "BANIYAGAON - 2",
+    "lat": 19.979247,
+    "lon": 81.4917296
   },
   {
     "partId": 41635,
@@ -5299,7 +6261,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 178,
-    "partName": "BANIYAGAON - 3"
+    "partName": "BANIYAGAON - 3",
+    "lat": 19.979247,
+    "lon": 81.4917296
   },
   {
     "partId": 41707,
@@ -5310,7 +6274,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 179,
-    "partName": "BANIYAGAON - 4"
+    "partName": "BANIYAGAON - 4",
+    "lat": 19.979247,
+    "lon": 81.4917296
   },
   {
     "partId": 41641,
@@ -5321,7 +6287,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 180,
-    "partName": "RAJAGAON"
+    "partName": "RAJAGAON",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41638,
@@ -5332,7 +6300,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 181,
-    "partName": "DAHIKONGA - 1"
+    "partName": "DAHIKONGA - 1",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41639,
@@ -5343,7 +6313,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 182,
-    "partName": "DAHIKONGA - 2"
+    "partName": "DAHIKONGA - 2",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41708,
@@ -5354,7 +6326,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 183,
-    "partName": "SUKURPAL"
+    "partName": "SUKURPAL",
+    "lat": 19.4655645,
+    "lon": 81.7485221
   },
   {
     "partId": 41636,
@@ -5365,7 +6339,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 184,
-    "partName": "BADEBANJODA"
+    "partName": "BADEBANJODA",
+    "lat": 19.520732521681413,
+    "lon": 81.6538189866371
   },
   {
     "partId": 41637,
@@ -5376,7 +6352,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 185,
-    "partName": "PUSAVAND"
+    "partName": "PUSAVAND",
+    "lat": 19.520732521681413,
+    "lon": 81.6538189866371
   },
   {
     "partId": 41790,
@@ -5387,7 +6365,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 186,
-    "partName": "KAKADGAON"
+    "partName": "KAKADGAON",
+    "lat": 19.520732521681413,
+    "lon": 81.6538189866371
   },
   {
     "partId": 41649,
@@ -5398,7 +6378,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 187,
-    "partName": "MUNGAPADAR"
+    "partName": "MUNGAPADAR",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41742,
@@ -5409,7 +6391,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 188,
-    "partName": "BALASAR"
+    "partName": "BALASAR",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41768,
@@ -5420,7 +6404,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 189,
-    "partName": "MENDPAL"
+    "partName": "MENDPAL",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41650,
@@ -5431,7 +6417,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 190,
-    "partName": "KARANPUR"
+    "partName": "KARANPUR",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41709,
@@ -5442,7 +6430,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 191,
-    "partName": "HIRAMANDLA"
+    "partName": "HIRAMANDLA",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41648,
@@ -5453,7 +6443,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 192,
-    "partName": "MOHLAI"
+    "partName": "MOHLAI",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41647,
@@ -5464,7 +6456,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 193,
-    "partName": "MAKDI - 1"
+    "partName": "MAKDI - 1",
+    "lat": 19.520732521681413,
+    "lon": 81.6538189866371
   },
   {
     "partId": 41791,
@@ -5475,7 +6469,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 194,
-    "partName": "MAKDI - 2"
+    "partName": "MAKDI - 2",
+    "lat": 19.694092400000002,
+    "lon": 81.90171513624125
   },
   {
     "partId": 41710,
@@ -5486,7 +6482,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 195,
-    "partName": "BANUSRI"
+    "partName": "BANUSRI",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41646,
@@ -5497,7 +6495,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 196,
-    "partName": "GHODAGAON - 1"
+    "partName": "GHODAGAON - 1",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41711,
@@ -5508,7 +6508,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 197,
-    "partName": "GHODAGAON - 2"
+    "partName": "GHODAGAON - 2",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41645,
@@ -5519,7 +6521,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 198,
-    "partName": "JOBA - 1"
+    "partName": "JOBA - 1",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41712,
@@ -5530,7 +6534,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 199,
-    "partName": "JOBA - 2"
+    "partName": "JOBA - 2",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41640,
@@ -5541,7 +6547,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 200,
-    "partName": "KUKADGARKAPAL"
+    "partName": "KUKADGARKAPAL",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41713,
@@ -5552,7 +6560,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 201,
-    "partName": "BAKHRA"
+    "partName": "BAKHRA",
+    "lat": 19.520732521681413,
+    "lon": 81.6538189866371
   },
   {
     "partId": 41644,
@@ -5563,7 +6573,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 202,
-    "partName": "KAMELA"
+    "partName": "KAMELA",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41642,
@@ -5574,7 +6586,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 203,
-    "partName": "BADEKANERA - 1"
+    "partName": "BADEKANERA - 1",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41714,
@@ -5585,7 +6599,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 204,
-    "partName": "BADEKANERA - 2"
+    "partName": "BADEKANERA - 2",
+    "lat": 19.520732521681413,
+    "lon": 81.6538189866371
   },
   {
     "partId": 41643,
@@ -5596,7 +6612,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 205,
-    "partName": "BADEKANERA - 3"
+    "partName": "BADEKANERA - 3",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41715,
@@ -5607,7 +6625,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 206,
-    "partName": "BADEKANERA - 4"
+    "partName": "BADEKANERA - 4",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41792,
@@ -5618,7 +6638,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 207,
-    "partName": "BADEKANERA - 5"
+    "partName": "BADEKANERA - 5",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41617,
@@ -5629,7 +6651,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 208,
-    "partName": "BADEBENDRI - 1"
+    "partName": "BADEBENDRI - 1",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41716,
@@ -5640,7 +6664,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 209,
-    "partName": "BADEBENDRI - 2"
+    "partName": "BADEBENDRI - 2",
+    "lat": 19.520732521681413,
+    "lon": 81.6538189866371
   },
   {
     "partId": 41591,
@@ -5651,7 +6677,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 210,
-    "partName": "KARANJI"
+    "partName": "KARANJI",
+    "lat": 19.6052088,
+    "lon": 81.668924
   },
   {
     "partId": 41590,
@@ -5662,7 +6690,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 211,
-    "partName": "KOKODI - 1"
+    "partName": "KOKODI - 1",
+    "lat": 19.4557863,
+    "lon": 81.7648164
   },
   {
     "partId": 41717,
@@ -5673,7 +6703,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 212,
-    "partName": "KOKODI - 2"
+    "partName": "KOKODI - 2",
+    "lat": 19.4557863,
+    "lon": 81.7648164
   },
   {
     "partId": 41618,
@@ -5684,7 +6716,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 213,
-    "partName": "BOLBOLA"
+    "partName": "BOLBOLA",
+    "lat": 19.520732521681413,
+    "lon": 81.6538189866371
   },
   {
     "partId": 41764,
@@ -5695,7 +6729,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 214,
-    "partName": "CHOTEBHIRAVAND"
+    "partName": "CHOTEBHIRAVAND",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41593,
@@ -5706,7 +6742,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 215,
-    "partName": "BADEBHIRAWAND"
+    "partName": "BADEBHIRAWAND",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41718,
@@ -5717,7 +6755,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 216,
-    "partName": "CHOTEBANJODA"
+    "partName": "CHOTEBANJODA",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41592,
@@ -5728,7 +6768,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 217,
-    "partName": "BAFNA - 1"
+    "partName": "BAFNA - 1",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41719,
@@ -5739,7 +6781,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 218,
-    "partName": "BAFNA - 2"
+    "partName": "BAFNA - 2",
+    "lat": 19.520732521681413,
+    "lon": 81.6538189866371
   },
   {
     "partId": 41765,
@@ -5750,7 +6794,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 219,
-    "partName": "BHAGDEVA -1"
+    "partName": "BHAGDEVA -1",
+    "lat": 19.520732521681413,
+    "lon": 81.6538189866371
   },
   {
     "partId": 41616,
@@ -5761,7 +6807,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 220,
-    "partName": "BHAGDEVA -2"
+    "partName": "BHAGDEVA -2",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41615,
@@ -5772,7 +6820,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 221,
-    "partName": "UMARGAON"
+    "partName": "UMARGAON",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41760,
@@ -5783,7 +6833,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 222,
-    "partName": "KULJHAR"
+    "partName": "KULJHAR",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41613,
@@ -5794,7 +6846,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 223,
-    "partName": "CHIPAVAND"
+    "partName": "CHIPAVAND",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41720,
@@ -5805,7 +6859,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 224,
-    "partName": "KAKADBEDA"
+    "partName": "KAKADBEDA",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41594,
@@ -5816,7 +6872,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 225,
-    "partName": "MULMULA - 1"
+    "partName": "MULMULA - 1",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41721,
@@ -5827,7 +6885,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 226,
-    "partName": "MULMULA - 2"
+    "partName": "MULMULA - 2",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41595,
@@ -5838,7 +6898,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 227,
-    "partName": "MULMULA - 3"
+    "partName": "MULMULA - 3",
+    "lat": 19.520732521681413,
+    "lon": 81.6538189866371
   },
   {
     "partId": 41596,
@@ -5849,7 +6911,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 228,
-    "partName": "LEMDI"
+    "partName": "LEMDI",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41761,
@@ -5860,7 +6924,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 229,
-    "partName": "KHADKA"
+    "partName": "KHADKA",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41614,
@@ -5871,7 +6937,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 230,
-    "partName": "SINGHANPUR"
+    "partName": "SINGHANPUR",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41769,
@@ -5882,7 +6950,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 231,
-    "partName": "BADESILATI"
+    "partName": "BADESILATI",
+    "lat": 19.520732521681413,
+    "lon": 81.6538189866371
   },
   {
     "partId": 41656,
@@ -5893,7 +6963,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 232,
-    "partName": "NEELJI"
+    "partName": "NEELJI",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41611,
@@ -5904,7 +6976,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 233,
-    "partName": "MALGAON - 1"
+    "partName": "MALGAON - 1",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41722,
@@ -5915,7 +6989,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 234,
-    "partName": "MALGAON - 2"
+    "partName": "MALGAON - 2",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41612,
@@ -5926,7 +7002,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 235,
-    "partName": "BHIRAGAON"
+    "partName": "BHIRAGAON",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41623,
@@ -5937,7 +7015,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 236,
-    "partName": "KARANDI - 1"
+    "partName": "KARANDI - 1",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41762,
@@ -5948,7 +7028,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 237,
-    "partName": "KARANDI - 2"
+    "partName": "KARANDI - 2",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41723,
@@ -5959,7 +7041,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 238,
-    "partName": "TAMRAWAND (VANGRAM)"
+    "partName": "TAMRAWAND (VANGRAM)",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41793,
@@ -5970,7 +7054,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 239,
-    "partName": "KHUTBEDA"
+    "partName": "KHUTBEDA",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41724,
@@ -5981,7 +7067,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 240,
-    "partName": "RAKASBEDA (VANGRAM)"
+    "partName": "RAKASBEDA (VANGRAM)",
+    "lat": 19.520732521681413,
+    "lon": 81.6538189866371
   },
   {
     "partId": 41622,
@@ -5992,7 +7080,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 241,
-    "partName": "ERLA"
+    "partName": "ERLA",
+    "lat": 19.520732521681413,
+    "lon": 81.6538189866371
   },
   {
     "partId": 41748,
@@ -6003,7 +7093,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 242,
-    "partName": "GAGDA"
+    "partName": "GAGDA",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41725,
@@ -6014,7 +7106,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 243,
-    "partName": "GUMDI"
+    "partName": "GUMDI",
+    "lat": 19.6575577,
+    "lon": 81.9885739
   },
   {
     "partId": 41621,
@@ -6025,7 +7119,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 244,
-    "partName": "ANANTPUR - 1"
+    "partName": "ANANTPUR - 1",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41749,
@@ -6036,7 +7132,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 245,
-    "partName": "ANANTPUR - 2"
+    "partName": "ANANTPUR - 2",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41619,
@@ -6047,7 +7145,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 246,
-    "partName": "BIJAPUR"
+    "partName": "BIJAPUR",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41726,
@@ -6058,7 +7158,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 247,
-    "partName": "HIRLABHAT"
+    "partName": "HIRLABHAT",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41620,
@@ -6069,7 +7171,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 248,
-    "partName": "BADE AMARAVATI"
+    "partName": "BADE AMARAVATI",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41727,
@@ -6080,7 +7184,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 249,
-    "partName": "DEVGAON  (VANGRAM)"
+    "partName": "DEVGAON  (VANGRAM)",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41728,
@@ -6091,7 +7197,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 250,
-    "partName": "DEURBAL (VANGRAM)"
+    "partName": "DEURBAL (VANGRAM)",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41625,
@@ -6102,7 +7210,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 251,
-    "partName": "BADE SOHANGA"
+    "partName": "BADE SOHANGA",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41626,
@@ -6113,7 +7223,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 252,
-    "partName": "CHINARI"
+    "partName": "CHINARI",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41729,
@@ -6124,7 +7236,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 253,
-    "partName": "BEDAGAON"
+    "partName": "BEDAGAON",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41730,
@@ -6135,7 +7249,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 254,
-    "partName": "BADEGHODSODA"
+    "partName": "BADEGHODSODA",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41627,
@@ -6146,7 +7262,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 255,
-    "partName": "BIJOLI"
+    "partName": "BIJOLI",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41628,
@@ -6157,7 +7275,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 256,
-    "partName": "BELGAON"
+    "partName": "BELGAON",
+    "lat": 19.9963762,
+    "lon": 81.4429166
   },
   {
     "partId": 41731,
@@ -6168,7 +7288,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 257,
-    "partName": "ONDARGAON"
+    "partName": "ONDARGAON",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41732,
@@ -6179,7 +7301,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 258,
-    "partName": "TARAIBEDA"
+    "partName": "TARAIBEDA",
+    "lat": 19.9395954,
+    "lon": 81.8011574
   },
   {
     "partId": 41794,
@@ -6190,7 +7314,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 259,
-    "partName": "TURREBEDA"
+    "partName": "TURREBEDA",
+    "lat": 19.5633805,
+    "lon": 81.9306598
   },
   {
     "partId": 41629,
@@ -6201,7 +7327,9 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 260,
-    "partName": "CHHATTAUDI"
+    "partName": "CHHATTAUDI",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   },
   {
     "partId": 41733,
@@ -6212,6 +7340,8 @@
     "acNumber": 83,
     "acName": "Kondagaon",
     "partNumber": 261,
-    "partName": "NEVRA"
+    "partName": "NEVRA",
+    "lat": 19.461662099999998,
+    "lon": 81.6388313435686
   }
 ]
