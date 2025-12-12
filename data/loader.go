@@ -31,7 +31,8 @@ type statesFile struct {
 		Source        string `json:"source"`
 		TotalEntities int    `json:"totalEntities"`
 	} `json:"metadata"`
-	States []State `json:"states"`
+	States           []State `json:"states"`
+	UnionTerritories []State `json:"unionTerritories"`
 }
 
 // districtsFile is the JSON structure for districts.json
@@ -81,7 +82,7 @@ type geoJSONFeature struct {
 	} `json:"geometry"`
 }
 
-// LoadStates loads all states from states.json
+// LoadStates loads all states and union territories from states.json
 func LoadStates(dataDir string) ([]State, error) {
 	filePath := filepath.Join(dataDir, StatesFile)
 
@@ -98,7 +99,12 @@ func LoadStates(dataDir string) ([]State, error) {
 		return nil, fmt.Errorf("%w: %v", ErrInvalidJSON, err)
 	}
 
-	return file.States, nil
+	// Combine states and union territories
+	all := make([]State, 0, len(file.States)+len(file.UnionTerritories))
+	all = append(all, file.States...)
+	all = append(all, file.UnionTerritories...)
+
+	return all, nil
 }
 
 // LoadDistricts loads all districts from districts.json
