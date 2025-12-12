@@ -86,15 +86,17 @@ type StateConstituencies struct {
 
 // PollingBooth represents a polling station/booth
 type PollingBooth struct {
-	PartID       int    `json:"partId"`
-	StateCode    string `json:"stateCode"`    // "S10"
-	StateName    string `json:"stateName"`    // "Karnataka"
-	DistrictCode string `json:"districtCode"` // "S1022"
-	DistrictName string `json:"districtName"` // "BANGALORE RURAL"
-	ACNumber     int    `json:"acNumber"`     // 179
-	ACName       string `json:"acName"`       // "Devanahalli"
-	PartNumber   int    `json:"partNumber"`   // 1
-	PartName     string `json:"partName"`     // "Govt Higher Primary School, Gunjuru"
+	PartID       int      `json:"partId"`
+	StateCode    string   `json:"stateCode"`    // "S10"
+	StateName    string   `json:"stateName"`    // "Karnataka"
+	DistrictCode string   `json:"districtCode"` // "S1022"
+	DistrictName string   `json:"districtName"` // "BANGALORE RURAL"
+	ACNumber     int      `json:"acNumber"`     // 179
+	ACName       string   `json:"acName"`       // "Devanahalli"
+	PartNumber   int      `json:"partNumber"`   // 1
+	PartName     string   `json:"partName"`     // "Govt Higher Primary School, Gunjuru"
+	Lat          *float64 `json:"lat,omitempty"`
+	Lon          *float64 `json:"lon,omitempty"`
 }
 
 // FullName returns the full booth name including part number
