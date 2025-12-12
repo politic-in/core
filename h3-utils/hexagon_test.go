@@ -956,7 +956,7 @@ func TestResolutionConstants(t *testing.T) {
 // ResolutionAreas map test
 func TestResolutionAreas(t *testing.T) {
 	// Areas should decrease as resolution increases
-	var prevArea float64 = math.MaxFloat64
+	prevArea := math.MaxFloat64
 
 	for res := 0; res <= 15; res++ {
 		area, ok := ResolutionAreas[res]

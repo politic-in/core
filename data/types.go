@@ -248,9 +248,9 @@ func FromSlug(slug string) string {
 // boothDirToStateSlug maps booth directory names to proper state slugs
 // This handles cases where directory names don't match ToSlug(stateName)
 var boothDirToStateSlug = map[string]string{
-	"nct_of_delhi":                         "delhi",
-	"andaman__nicobar_islands":             "andaman_and_nicobar_islands",
-	"dadra__nagar_haveli_and_daman__diu":   "dadra_and_nagar_haveli_and_daman_and_diu",
+	"nct_of_delhi":                       "delhi",
+	"andaman__nicobar_islands":           "andaman_and_nicobar_islands",
+	"dadra__nagar_haveli_and_daman__diu": "dadra_and_nagar_haveli_and_daman_and_diu",
 }
 
 // NormalizeBoothDirToStateSlug converts a booth directory name to a proper state slug
